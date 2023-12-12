@@ -16,7 +16,7 @@ Translation: Nowadays, however, the State is getting smaller, and the bells are 
 
 # Unit 3
 
-Text:昔堯之饗舜也，飯於土塯，欼於土鉶，而撫有天下，此不貧於美 II 而富於德歟？昔周室有戒言曰：「願而正功，不願而或興或康， 以凶保彊必勝，可以有治邦。」
+Text: 昔堯之饗舜也，飯於土塯，欼於土鉶，而撫有天下，此不貧於美 II 而富於德歟？昔周室有戒言曰：「願而正功，不願而或興或康， 以凶保彊必勝，可以有治邦。」
 
 Gloss: *[s]Ak *[ŋ]ˤew *tə *qʰaŋʔ *[s.t]u[n]-s *lAjʔ，*bo[n]ʔ *[ʔ]ˤa *tʰˤaʔ *p(r)uʔ，*s.tʰrə *[ʔ]ˤa *tʰˤaʔ *gˤeŋ，*nə *[pʰ](r)aʔ *[ɢ]ʷəʔ *l̥ˤi[n] *m-gˤraʔ-s，*[tsʰ]e(j)ʔ *pə *[b]rə[n] *[ʔ]ˤa *[m]rəjʔ *nə *pək-s *[ʔ]ˤa *tˤək *ɢ(r)a(ʔ)(-s)？*[s]Ak *tiw *s.ti[t]*[ɢ]ʷəʔ *kˤrək-s *ŋa[n] *[ɢ]ʷat：*[ŋ]o[n]-s *nə *teŋ-s *kˤoŋ，*pə *[ŋ]o[n]-s *nə *[ɢ]ʷrək *qʰ(r)əŋ，*[ɢ]ʷrək *k-r̥ˤaŋ, *ləʔ *qʰ(r)oŋ *pˤuʔ *kaŋ *pi[t] *l̥əŋ，*[k]ʰˤa[j]ʔ *ləʔ *[ɢ]ʷəʔ *C.lrə *pˤroŋ。
 
