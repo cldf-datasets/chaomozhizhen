@@ -24,13 +24,13 @@ ID	Slip_ID	Phrase_ID	Raw_Word	Word	Gloss	MC	OC	Phrase Marker	Comments	Underlying
 23	1	6	西	西	west	sej	*s-nˤər			N Ə R	C I T
 24	1	6	七	七	seven	tshit	*[tsʰ]i[t]			C I T	P R A K
 25	1	6	百	百	hundred	paek	*pˤrak	，		P R A K	N Ə M
-26	1	6	南	南	south	nom	*nˤ[ə]m			N Ə M	P Ə K
-27	1	6	北	北	north	pok	*pˤək			P Ə K	X . N A K // A
-28	1	6	五	五	five	nguX	*C.ŋˤaʔ			X . N A K // A	P A J K
-29	1	6	百	百	hundred	paek	*pˤrak	，		P R A K	N R A R
-30	1	7	非	彼	that	pjeX	*pajʔ			P A J K	L R A K
+26	1	6b	南	南	south	nom	*nˤ[ə]m			N Ə M	P Ə K
+27	1	6b	北	北	north	pok	*pˤək			P Ə K	X . N A K // A
+28	1	6b	五	五	five	nguX	*C.ŋˤaʔ			X . N A K // A	P A J K
+29	1	6b	百	百	hundred	paek	*pˤrak	，		P R A K	N R A R
+30	1	7	非	非	that	pjeX	*pajʔ			P A J K	L R A K
 31	1	7	山	山	mountain	srean	*s-ŋrar			N R A R	M A // M O // M A
-32	1	7	非	彼	that	pjeX	*pajʔ			P A J K	K w ƏK // Ə
+32	1	7	非	非	that	pjeX	*pajʔ			P A J K	K w ƏK // Ə
 33	1	7	澤	澤	marsh	draek	*lˤrak	，		L R A K	P Ə
 34	1	8	⿱屮亡	無	not have	mju (mu)	*ma // *mo // *ma			M A // M O // M A	M I N
 35	1	8	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	K R Ə M
@@ -93,14 +93,14 @@ ID	Slip_ID	Phrase_ID	Raw_Word	Word	Gloss	MC	OC	Phrase Marker	Comments	Underlying
 92	3	18	而	而	conjunction	nyi	*nə			N Ə	M A N
 93	3	18	或	域	territory	hwik	*[ɢ]ʷrək			K w R Ə K	K A N // K A N
 94	3	18	興	興	flourish	xing	*qʰ(r)əŋ	，		K Ə N	K Ə . L U K // U
-95	3	19	或	域	territory	hwik	*[ɢ]ʷrək		I do not exclude the hypothesis that this huo should be read ad litteram	K w R Ə K	K A K // K A K
-96	3	19	康	康	tranquil	khang	! *k-r̥ˤaŋ // *[kʰ]ˤaŋ			R A N // K A N	C O K // O
+95	3	18	或	域	territory	hwik	*[ɢ]ʷrək		I do not exclude the hypothesis that this huo should be read ad litteram	K w R Ə K	K A K // K A K
+96	3	18	康	康	tranquil	khang	! *k-r̥ˤaŋ // *[kʰ]ˤaŋ			R A N // K A N	C O K // O
 97	3	19	以	以	preposition	yiX	*ləʔ		scribal error	L ƏK // Ə	L A J // P A K
 98	3	19	兇	凶	misfortune	xjowng	*qʰ(r)oŋ	，		K O N	N A K // A
-99	3	20	保	保	guard	pawX	*pˤuʔ			P U K // U	X . K w R A K // A // N I N
-100	3	20	⿰弓⿱口二	疆	strong	kjang	*kaŋ		lectio mea	K A N	L I T
-101	3	20	必	必	must	pjit	*pi[t]			P I T	L I N
-102	3	20	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ	，		L Ə N	R I N
+99	3	19	保	保	guard	pawX	*pˤuʔ			P U K // U	X . K w R A K // A // N I N
+100	3	19	⿰弓⿱口二	疆	strong	kjang	*kaŋ		lectio mea	K A N	L I T
+101	3	19	必	必	must	pjit	*pi[t]			P I T	L I N
+102	3	19	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ	，		L Ə N	R I N
 103	3	21	可以	可以	can	khaX yiX	*[k]ʰˤa[j]ʔ // *ləʔ			K A J K // L ƏK // Ə	K Ə K
 104	3	21	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	P U T // P U T // P U T
 105	3	21	⿲糸台⿹𠃌一	治	govern	dri	*C.lrə			X . L R Ə	C I N

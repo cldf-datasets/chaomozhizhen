@@ -18,7 +18,7 @@ Translation: Nowadays, however, the State is getting smaller, and the bells are 
 
 Text: 昔堯之饗舜也，飯於土塯，欼於土鉶，而撫有天下，此不貧於美 II 而富於德歟？昔周室有戒言曰：「願而正功，不願而或興或康， 以凶保彊必勝，可以有治邦。」
 
-Gloss: *[s]Ak *[ŋ]ˤew *tə *qʰaŋʔ *[s.t]u[n]-s *lAjʔ，*bo[n]ʔ *[ʔ]ˤa *tʰˤaʔ *p(r)uʔ，*s.tʰrə *[ʔ]ˤa *tʰˤaʔ *gˤeŋ，*nə *[pʰ](r)aʔ *[ɢ]ʷəʔ *l̥ˤi[n] *m-gˤraʔ-s，*[tsʰ]e(j)ʔ *pə *[b]rə[n] *[ʔ]ˤa *[m]rəjʔ *nə *pək-s *[ʔ]ˤa *tˤək *ɢ(r)a(ʔ)(-s)？*[s]Ak *tiw *s.ti[t]*[ɢ]ʷəʔ *kˤrək-s *ŋa[n] *[ɢ]ʷat：*[ŋ]o[n]-s *nə *teŋ-s *kˤoŋ，*pə *[ŋ]o[n]-s *nə *[ɢ]ʷrək *qʰ(r)əŋ，*[ɢ]ʷrək *k-r̥ˤaŋ, *ləʔ *qʰ(r)oŋ *pˤuʔ *kaŋ *pi[t] *l̥əŋ，*[k]ʰˤa[j]ʔ *ləʔ *[ɢ]ʷəʔ *C.lrə *pˤroŋ。
+Gloss: *[s]Ak *[ŋ]ˤew *tə *qʰaŋʔ *[s.t]u[n]-s *lAjʔ，bo[n]ʔ *[ʔ]ˤa *tʰˤaʔ *p(r)uʔ，*s.tʰrə *[ʔ]ˤa *tʰˤaʔ *gˤeŋ，*nə *[pʰ](r)aʔ *[ɢ]ʷəʔ *l̥ˤi[n] *m-gˤraʔ-s，*[tsʰ]e(j)ʔ *pə *[b]rə[n] *[ʔ]ˤa *[m]rəjʔ *nə *pək-s *[ʔ]ˤa *tˤək *ɢ(r)a(ʔ)(-s)？*[s]Ak *tiw *s.ti[t] *[ɢ]ʷəʔ *kˤrək-s *ŋa[n] *[ɢ]ʷat：*[ŋ]o[n]-s *nə *teŋ-s *kˤoŋ，*pə *[ŋ]o[n]-s *nə *[ɢ]ʷrək *qʰ(r)əŋ *[ɢ]ʷrək *k-r̥ˤaŋ，*ləʔ *qʰ(r)oŋ *pˤuʔ *kaŋ *pi[t] *l̥əŋ，*[k]ʰˤa[j]ʔ *ləʔ *[ɢ]ʷəʔ *C.lrə *pˤroŋ。
 
 Translation: In the past, when Yao hosted a banquet in honor of Shun, they ate and drank from terracotta cups and goblets, yet he had the entire world pacified.  Isn't this being frugal in material aspects and rich in virtue?  There was a cautionary saying from Zhou that went: ‘may you want to rightly apportion merits,  and may you not want some to be raised and others to be dismissed.  Resort to the inauspicious [instruments] to protect the borders and you shall be victorious,  able to govern the State.”
 
@@ -34,7 +34,7 @@ Translation: This [saying] is preserved in the Annotations of Zhou.”
 
 Text: 莊公曰：「今天下之君子既可知已，孰能併兼人哉？」
 
-Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat：*[k]r[ə]m *l̥ˤi[n] *m-gˤraʔ-s *tə *C.qur *[ts]əʔ *[k]ə[t]-s *[k]ʰˤa[j]ʔ *tre *ɢ(r)əʔ，*[d]uk *nˤə *[b]ˤ(r)eŋʔ(-s) *[k]ˤem *ni[ŋ]*[ts]ˤə？
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat：*[k]r[ə]m *l̥ˤi[n] *m-gˤraʔ-s *tə *C.qur *[ts]əʔ *[k]ə[t]-s *[k]ʰˤa[j]ʔ *tre *ɢ(r)əʔ，*[d]uk *nˤə *[b]ˤ(r)eŋʔ(-s) *[k]ˤem *ni[ŋ] *[ts]ˤə？
 
 Translation: Duke Zhuang, therefore, replied: “The rulers of our days are well known. Who could ever unify the people under his rule? ”
 

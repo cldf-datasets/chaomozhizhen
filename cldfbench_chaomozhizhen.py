@@ -8,6 +8,28 @@ from collections import defaultdict
 
 from cldfbench import CLDFSpec, Dataset as BaseDataset
 
+# Linse segment function
+def segment(word, segments):
+    """
+    Use
+    """
+    if len(word) == 0:
+        return [word]
+    queue = [[[], word, ""]]
+    while queue:
+        segmented, current, rest = queue.pop(0)
+        if current in segments and not rest:
+            return segmented + [current]
+        elif len(current) == 1 and current not in segments:
+            if rest:
+                queue += [[segmented + [current], rest, ""]]
+            else:
+                return segmented + [current]
+        elif current not in segments:
+            queue += [[segmented, current[: len(current) - 1], current[-1] + rest]]
+        else:
+            queue += [[segmented + [current], rest, ""]]
+
 
 # function is also in sinopy, for convenience reused here
 def is_chinese(name):
@@ -27,6 +49,155 @@ def is_chinese(name):
                 and not (0xf900 <= ordch <= ordch) and not (0x2f800 <= ordch <= 0x2fa1f): 
                 return False
     return True
+
+
+def old_chinese(form):
+    # take first variant only
+    forms = []
+    for f in form.split(" // "):
+        if f.startswith("! "):
+            f = f[2:]
+        if " / " in f:
+            f = f.split(" / ")[0]
+        for r in "[]":
+            f = f.replace(r, "")
+        for seg in ["*N", "*m", "*k", "*t", "*s", "*C."]:
+            f = f.replace(seg + "-", "")
+            f = f.replace(seg + "ə-", "")
+        f = f.replace("*", "")
+        forms += [f]
+    return " ".join(forms)
+
+
+def parse_chinese_text(text):
+    stop_symbols = "？，。："
+    post_stop = "」】"
+    pre_stop = "【「"
+    out = []
+    stop = False
+    merge = False
+    for char in text:
+        if char in stop_symbols + post_stop:
+            out[-1] += char
+        elif char in pre_stop:
+            out += [char]
+            merge = True
+        else:
+            if merge:
+                out[-1] += char
+                merge = False
+            else:
+                out += [char]
+    return out
+
+
+def split_chinese_text(text):
+    out = [""]
+    stop_symbols = "？，。："
+    non_stop_symbols = "【「」】"
+    stop = False
+    for char in text:
+        if char in stop_symbols:
+            out[-1] += char
+            stop = True
+        elif char in non_stop_symbols and stop:
+            out[-1] += char
+        elif char in non_stop_symbols:
+            out[-1] += char
+        else:
+            if stop:
+                out += [char]
+                stop = False
+            else:
+                out[-1] += char
+    return out
+
+       
+
+
+
+def parse_text(text, chars, args):
+
+    stop_symbols = "？【」，。：】「"
+
+    lines = defaultdict(
+            lambda : {
+                "Unit": "",
+                "Translation": "",
+                "Text": "",
+                "Gloss": "",
+                })
+    for row in text.readlines():
+        if row[0] == "#":
+            unit = row.split(" ")[2].strip()
+            lines[unit]["Unit"] = unit
+            print(unit)
+        if not row.strip():
+            pass
+        if row.startswith("Text: "):
+            lines[unit]["Text"] = row[row.index(":")+ 2 :].strip()
+        if row.startswith("Gloss: "):
+            lines[unit]["Gloss"] = row[row.index(":")+ 2 :].strip()
+        if row.startswith("Translation: "):
+            lines[unit]["Translation"] = row[row.index(":") + 2:].strip()
+    
+    full_text = defaultdict(
+            lambda : {
+                "Unit": "",
+                "Translation": "",
+                "Text": "",
+                "Full_Text": "",
+                "Full_Gloss": "",
+                "Gloss": "",
+                "Phrase": "",
+                "Phrase_Number": 0,
+                "Number": 0
+                })
+            
+    full_count = 1
+    for key, line in sorted(lines.items(), key=lambda x: int(x[0])):
+        new_texts = split_chinese_text(line["Text"])
+        new_glosses = [t for t in re.split("？|，|。|：", line["Gloss"]) if t]
+        if not len(new_texts) == len(new_glosses):
+            print(len(new_texts), new_texts)
+            print(len(new_glosses), new_glosses)
+            input()
+        elif len(new_texts) == len(new_glosses):
+            for i, (new_text, new_gloss) in enumerate(zip(new_texts, new_glosses)):             
+                segmented = segment(new_text, chars)
+                new_segmented = []
+                merge = False
+                for char in segmented:
+                    if char in stop_symbols or not is_chinese(char):
+                        try:
+                            new_segmented[-1] += char
+                        except IndexError:
+                            new_segmented += [char]
+                            merge = True
+                    else:
+                        if merge:
+                            merge = False
+                            new_segmented[-1] += char
+                        else:
+                            new_segmented += [char]
+                if len(new_segmented) != len(new_gloss.split()):
+                    args.log.info("Problem in {0} / {1}".format(
+                        line["Unit"],
+                        i+1))
+                    print(new_segmented)
+                    print(new_gloss.split())
+                full_text[full_count]["Translation"] = line["Translation"]
+                full_text[full_count]["Phrase"] = i + 1
+                full_text[full_count]["Phrase_Number"] = i + 1
+                full_text[full_count]["Gloss"] = new_gloss
+                full_text[full_count]["Full_Text"] = line["Text"]
+                full_text[full_count]["Full_Gloss"] = line["Gloss"]
+                full_text[full_count]["Unit"] = line["Unit"]
+                full_text[full_count]["Text"] = new_segmented
+                full_text[full_count]["Number"] = full_count
+                full_count += 1
+    return full_text
+            
 
 
 def parse_data(data, text):
@@ -74,30 +245,35 @@ def parse_data(data, text):
             phrase_number += 1
             phrase_idx = text + "-" + row["Slip_ID"] + "-" + row["Phrase_ID"]
             previous_phrase = row["Phrase_ID"]
+
             # fill in entries
             examples[phrase_idx]["ID"] = phrase_idx
             examples[phrase_idx]["Slip_ID"] = slip_idx
             examples[phrase_idx]["Number"] = phrase_number
             examples[phrase_idx]["Slip_Number"] = slip_number
 
-
-        if row["Word"] not in word2id:
-            word2id[row["Word"]] = "word-{0}".format(word_count)
+        
+        # get the word_idx
+        new_word_idx = row["Word"] + "-" + old_chinese(row["OC"])
+        if new_word_idx not in word2id:
+            word2id[new_word_idx] = "word-{0}".format(word_count)
             word_count += 1
-            word_idx = word2id[row["Word"]]
+            word_idx = word2id[new_word_idx]
             
             # fill in basic entries
             entries[word_idx]["ID"] = word_idx
-            entries[word_idx]["Headword"] = row["Word"] 
+            entries[word_idx]["Headword"] = row["Word"] + " " + old_chinese(row["OC"])
             entries[word_idx]["Gloss"] = row["Gloss"]
             entries[word_idx]["Middle_Chinese"] = row["MC"]
             entries[word_idx]["Old_Chinese"] = row["OC"]
             entries[word_idx]["Character"] = row["Word"]
+        else:
+            word_idx = new_word_idx
         
         # fill word dictionary
         entries[word_idx]["Character_Variants"] += [row["Raw_Word"]]
-        entries[word_idx]["Middle_Chinese_Readings"] += row["OC"].split(" // ")
-        entries[word_idx]["Old_Chinese_Readings"] += row["MC"].split(" ")
+        entries[word_idx]["Middle_Chinese_Readings"] += row["MC"].split(" // ")
+        entries[word_idx]["Old_Chinese_Readings"] += row["OC"].split(" ")
         entries[word_idx]["Glosses"] += [row["Gloss"]]
         entries[word_idx]["Example_IDS"] += [phrase_idx]
 
@@ -206,14 +382,28 @@ class Dataset(BaseDataset):
                     'Glottocode': ''}
                 )
         
-        texts = ["ad"]
+        data = self.raw_dir.read_csv("ad.tsv", delimiter="\t", dicts=True)
+        entries, examples = parse_data(data, "ad")
+        chars = set(
+                [" I ", " II ", " III ", " IV ", " V ", " VI ", " VII ", 
+                 " VIII ", " IX ", " X "]
+                )
+        for entry in entries.values():
+            args.writer.objects["EntryTable"].append(entry)
+            chars.add(entry["Headword"])
+        for example in examples.values():
+            args.writer.objects["ExampleTable"].append(example)
 
-        for text in texts:
-            args.log.info('reading text {0}'.format(text))
-            data = self.raw_dir.read_csv(text+".tsv", delimiter="\t", dicts=True)
-            entries, examples = parse_data(data, text)
-            for entry in entries.values():
-                args.writer.objects["EntryTable"].append(entry)
-            for example in examples.values():
-                args.writer.objects["ExampleTable"].append(example)
+        with open(self.raw_dir / "ad-text.md") as f:
+            full_text = parse_text(f, chars, args)
+
+        
+        example_test = {}
+        for example in examples.values():
+            example_test[example["Number"]] = example
+        for key, example in full_text.items():
+            print(key, example["Unit"])
+            print("\t".join(example["Text"]))
+            print("\t".join(example_test[example["Number"]]["Analyzed_Word"]))
+            print("")
 
