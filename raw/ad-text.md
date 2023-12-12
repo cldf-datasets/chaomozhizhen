@@ -277,5 +277,117 @@ Gloss: *[tsʰ]e(j)ʔ *s-qʰaʔ *ləʔ *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *pˤroŋ。
 
 Translation: This is how harmony is established with the [entire] State. ”
 
+# Unit 33
+
+Text: 莊公曰: 「為和於舍如之何？」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat：*ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *[l̥]Ak-s *na *tə *[g]ˤaj？
+
+Translation: Duke Zhuang then asked: “How can one be in harmony with the encampment?”
+
+
+# Unit 34
+
+Text: 曹沫曰：「XIV三軍大出, 君自率，必有二將軍; 無將軍，必有數嬖大夫；無嬖大夫，必有數大官之師，公孫，公子。
+
+Gloss: *N-tsˤu *mˤat *[ɢ]ʷat：*s.rum *[k]ʷər *lˤa[t]-s *t-kʰut-s， *C.qur *[ts]əʔ *s-rut-s，*pi[t]*[ɢ]ʷəʔ *ni[j]-s *[ts]aŋ *[k]ʷər; *ma *[ts]aŋ *[k]ʷər，*pi[t] *[ɢ]ʷəʔ *s-rok *pˤek-s *lˤa[t]-s *p(r)a；*ma *pˤek-s *lˤa[t]-s *p(r)a，*pi[t] *[ɢ]ʷəʔ *s-rok *lˤa[t]-s *kʷˤa[n] *tə *srij，*C.qˤoŋ *[s]ˤu[n]，*C.qˤoŋ *[ts]əʔ。
+
+Translation: Cao Mo replied: “When the Three Armies are deployed, ,  the sovereign shall lead one of them and appoint two generals.  In cases where the two generals are absent, there should be numerous trusted officers. In cases where trusted officers are lacking,  there should be numerous high-ranking officials of every rank, including the duke's grandchildren and sons.
+
+
+# Unit 35
+
+Text: 凡有司率長民者，XV無祿爵, 無從軍而避罪，同都而教於邦則其合之不難，所以為和於舍。」
+
+Gloss: *bəŋ *[ɢ]ʷəʔ *s-lə *s-rut-s *Cə-[N]-traŋ *mi[ŋ] *tAʔ，*ma *[r]ˤok *[ts]ewk,*ma *[dz]oŋ *[k]ʷər *nə *[b]ek-s *[dz]ˤujʔ，*lˤoŋ *tˤa *nə *s.kˤraw-s *[ʔ]ˤa *pˤroŋ *[ts]ˤək *gə *m-kˤop *tə *pə *nˤar， *s-qʰaʔ *ləʔ *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *[l̥]Ak-s。
+
+Translation: Summon and instruct [on their duties] regarding the State all those who have the authority to lead and guide the people, those who do not have emoluments and titles, those who do not enlist [solely] to evade justice,  and you will find that uniting them [into a single body] will not be difficult. ,  These are the means to be in harmony with the encampment.”
+
+
+# Unit 36
+
+Text: 莊公又問：「為和於陳如之何？」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s：*ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *lri[n]*na *tə *[g]ˤaj？
+
+Translation: Duke Zhuang asked again: “how can one be in harmony with the military formation?”
+
+
+# Unit 37
+
+Text: 答曰：「車 XVI間容伍，伍間容兵，貴位重食，思為前行。
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*[t.qʰ](r)A *kˤre[n] *[ɢ](r)oŋ *C.ŋˤaʔ，*C.ŋˤaʔ *kˤre[n] *[ɢ](r)oŋ *praŋ，*kuj-s *[ɢ]ʷrəp-s *[m]-troŋ *mə-lək， *səʔ  *ɢʷ(r)aj *[dz]ˤen *[g]ˤaŋ。
+
+Translation: Cao Mo replied: “The space between two chariots should contain a unit of five soldiers, among whom there should also be space for weapons. Maintain the ranks, value food supplies,  and aim to march in the front lines. 
+
+
+# Unit 38
+
+Text: 三行之後，茍見短兵，十五之間，必有公孫, 公子，是謂軍紀。
+
+Gloss: *s.rum *[g]ˤaŋ *tə *[ɢ]ˤ(r)oʔ，*[k]ˤ(r)oʔ  *N-[k]ˤen-s *tˤorʔ *praŋ，*t.[g]əp *C.ŋˤaʔ *tə *kˤre[n]，*pi[t] *[ɢ]ʷəʔ *C.qˤoŋ *[s]ˤu[n]，*C.qˤoŋ *[ts]əʔ，*[d]eʔ *[ɢ]ʷə[t]-s *[k]ʷər *k(r)əʔ。
+
+Translation: After the first three rows, only soldiers armed for close combat should appear. Among the first fifteen rows, the duke’s nephews and sons should be present. This is what is known as military discipline.
+
+
+# Unit 39
+
+Text: 五人以伍，XVII一人有多，四人皆賞，所以為敦。
+
+Gloss: *C.ŋˤaʔ *ni[ŋ] *ləʔ *C.ŋˤaʔ，*ʔi[t] *ni[ŋ] *[ɢ]ʷəʔ *[t.l]ˤaj，*s.li[j]-s *ni[ŋ] *kˤrij *s-taŋʔ， *s-qʰaʔ *ləʔ *ɢʷ(r)aj *tˤur。
+
+Translation: Form groups of five people so that when one of them distinguishes themselves through merit, the other four express admiration. This is how [mutual] encouragement is created.
+
+
+# Unit 40
+
+Text: 毋尚獲而尚聞命，所以為毋退, 將車以車，率徒以徒，所以同死於民。
+
+Gloss: *mo *[d]aŋ-s *m-qʷˤrak *nə *[d]aŋ-s *mu[n] *m-riŋ-s， *s-qʰaʔ *ləʔ *ɢʷ(r) *mo *n̥ˤ[u]p-s， *[ts]aŋ *[t.qʰ](r)A *ləʔ *[t.qʰ](r)A，*s-rut-s *[d]ˤa *ləʔ *[d]ˤa， *s-qʰaʔ *ləʔ *lˤoŋ *sijʔ *[ʔ]ˤa *mi[ŋ]。
+
+Translation: Do not praise achievements, rather praise the ability to follow the commands.  This is how defections are avoided. Lead chariots with a charioteer and foot soldiers with a foot soldier.  This is how one fairly faces death for the people.”
+
+
+# Unit 41
+
+Text: 莊公曰: 「此三者足以 XVIII戰乎？」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat: *[tsʰ]e(j)ʔ *s.rum *tAʔ *[ts]ok-s *ləʔ *tar-s *ɢˤa？
+
+Translation: Duke Zhuang replied: “Are these three elements sufficient to conduct wage war?”
+
+
+# Unit 42
+
+Text: 答曰：「戒勝怠，果勝疑，親率勝使人, 不親則不敦也，不和則不輯，不義則不服。」
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*kˤrək-s *l̥əŋ *lˤəʔ，*[k]ˤo[r]ʔ *l̥əŋ *[ŋ](r)ə，*[tsʰ]i[n] *s-rut-s *l̥əŋ *s-rəʔ *ni[ŋ]， *pə *[tsʰ]i[n] *[ts]ˤək *pə *tˤur *lAjʔ，*pə *[ɢ]ˤoj *[ts]ˤək *pə *[dz][u]p，*pə *ŋ(r)aj-s *[ts]ˤək *pə *[b]ək。
+
+Translation: [Cao Mo] replied: “Diligence overcomes laziness, and determination overcomes doubts.  Leading [the troops] personally is preferable to delegating [the task] to someone. If you don't lead them yourself, you won't be able to encourage them in any way.  If you're not in harmony with them, there can be no unity. If you're not fair, there won't be submission.”
+
+# Unit 43
+
+Text: 莊公又問：「為親如何? 」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s：*ɢʷ(r)aj *[tsʰ]i[n] *na *[g]ˤaj ？
+
+Translation: The Duke Zhuang asked again: “How can one be paternal [towards the people]?” 
+
+# Unit 44
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 45
+
+Text:
+
+Gloss:
+
+Translation:
 
 
