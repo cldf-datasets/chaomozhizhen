@@ -533,7 +533,7 @@ Translation: If the rivals were to send an officer, then we would send a general
 
 Text: 人使將軍，我君身進。
 
-Gloss: *ni[ŋ] *s-rəʔ *[ts]aŋ *[k]ʷər，*ŋˤajʔ *C.qur *n̥i[ŋ]*[ts][i][n]-s。
+Gloss: *ni[ŋ] *s-rəʔ *[ts]aŋ *[k]ʷər，*ŋˤajʔ *C.qur *n̥i[ŋ] *[ts][i][n]-s。
 
 Translation: And if the rivals were to send a general, at that point, it would be our sovereign in person who would advance. 
 
