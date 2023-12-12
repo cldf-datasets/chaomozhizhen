@@ -179,7 +179,103 @@ Gloss: *tsa *[g]i[ŋ] *tə *mu[n] *tə：*[s]ewʔ *pˤroŋ *k(r)a *lˤa[t]-s *p�
 
 Translation: Your minister has heard that when a small state is situated between two larger states,  and shares traversable terrain with them, the smaller state cannot initiate hostilities first.  Since it cannot be the first to open hostilities in border territories, it is necessary to conquer them with †,  and it is with these that you maintain your border territories.  Do not show greed for goods and wealth, do not exceed in your love for children and women to the extent that it serves the interests of your advisors and concubines;  this is how you remain secure within your borders. Take care of your cities and suburbs, nurture your troops, and strengthen the army. To wage war,  you must have a warlike spirit. This is how one becomes a leader. 
 
+# Unit 22
 
+Text: 且臣之聞 XI【之：不和於邦，不可以】出舍。
+
+Gloss: *tsa *[g]i[ŋ] *tə *mu[n] [*tə：*pə *[ɢ]ˤoj *[ʔ]ˤa *pˤroŋ，*pə *[k]ʰˤa[j]ʔ *ləʔ] *t-kʰut-s *[l̥]Ak-s。
+
+Tranlsation: Besides, your minister has heard that “if one is not in harmony with their own State, they cannot even leave their own encampment.
+
+
+# Unit 23
+
+Text: 不和於舍，不可以出陳。
+
+Gloss: *pə *[ɢ]ˤoj *[ʔ]ˤa *[l̥]Ak-s，*pə *[k]ʰˤa[j]ʔ *ləʔ *t-kʰut-s *lri[n]。
+
+Translation: If one is unable to leave the encampment, then they cannot go to the front.
+
+
+# Unit 24
+
+Text: 不和於陳，不可以出戰。
+
+Gloss: *pə *[ɢ]ˤoj *[ʔ]ˤa *lri[n]，*pə *[k]ʰˤa[j]ʔ *ləʔ *t-kʰut-s *tar-s。
+
+Tranlsation: If one is unable to go to the front, then there can be no war.
+
+# Unit 25
+
+Text: 是故夫陳者，三教之末。
+
+Gloss: *[d]eʔ *kˤa(ʔ)-s *ba *lri[n] *tAʔ，*s.rum *s.kˤraw-s *tə *mˤat。
+
+Translation: Therefore, the military formation represents nothing but the pinnacle of the Three Teachings. 
+
+
+# Unit 26
+
+Text: 君必不已，則 XII由其本乎？」
+
+Gloss: *C.qur *pi[t]*pə *ɢ(r)əʔ，*[ts]ˤək *l[u]*gə *C.pˤə[n]ʔ *ɢˤa？
+
+Translation: Well, the sovereign should certainly not stop here, but rather follow them all the way to their roots!”
+
+
+
+# Unit 27
+
+Text: 莊公曰：「為和於邦如何？ 」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat：*ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *pˤroŋ *na *[g]ˤaj ？
+
+Tranlsation: Duke Zhuang asked: “How can one be in harmony with the State?” 
+
+# Unit 28
+
+Text: 曹沫答曰：「毋穫民時，毋奪民利。
+
+Gloss: *N-tsˤu *mˤat *[t]ˤ[u]p *[ɢ]ʷat：*mo *m-qʷˤak *mi[ŋ] *[d]ə，*mo *Cə.lˤot *mi[ŋ] *C.ri[t]-s。
+
+Translation: Cao Mo replied: “Do not take away time from your people and do not seize what benefits them.
+
+
+# Unit 29
+
+Text: 陳功而食，刑罰有罪，而賞【爵有德。
+
+Gloss: *lri[n]*kˤoŋ *nə *mə-lək，*[ɢ]ˤeŋ *[b][a]t *[ɢ]ʷəʔ *[dz]ˤujʔ，*nə *s-taŋʔ【*[ts]ewk *[ɢ]ʷəʔ *tˤək。
+
+Translation: Spread [examples of] merit and reward with food supplies. Punish and fine the criminals, but reward and honor the virtuous.
+
+
+# Unit 30
+
+Text: 凡畜】XIII群臣，貴賤同等, 施祿毋倍。
+
+Gloss: *bəŋ *qʰuk-s】*[g]ur *[g]i[ŋ]，*kuj-s *[dz][a][n]-s *lˤoŋ *tˤəŋʔ,*l̥aj *[r]ˤok *mo *[b]ˤəʔ。
+
+Translation: Always educate all the ministers, and do not duplicate rewards within the same rank,  nor to those in higher or lower ranks.
+
+
+# Unit 31
+
+Text: 詩乎，有之，曰: 「愷悌君子，民之父母。」
+
+Gloss: *s.tə *[ʔ]ˤa, *[ɢ]ʷəʔ *tə，*[ɢ]ʷat: *C.qʰˤəjʔ *lˤəjʔ-s *C.qur *[ts]əʔ，*mi[ŋ] *tə *p(r)aʔ *məʔ。
+
+Translation: The Odes refer to this in the verse benevolent is the ruler, both father and mother to the people. 
+
+
+
+# Unit 32
+
+Text: 此所以為和於邦。」
+
+Gloss: *[tsʰ]e(j)ʔ *s-qʰaʔ *ləʔ *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *pˤroŋ。
+
+Translation: This is how harmony is established with the [entire] State. ”
 
 
 
