@@ -1,4 +1,4 @@
-# Unit 1
+![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/f4dcc49f-90c1-42fb-afda-d5e18f6aa0fe)# Unit 1
 
 Text: 魯莊公將為大鍾，型既成矣，曹沫入見，曰：「昔周室之封魯也，東西七百，南北五百，非山非澤，無有不【民】。
 
@@ -1010,105 +1010,72 @@ Translation: Let there be harmony and concord between the higher and lower ranks
 
 # Unit 120
 
-Text:
+Text: 莊公又問曰：「吾有所聞之：一出言XLII三軍皆歡,一出言三軍皆往，有之乎？」
 
-Gloss:
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat : *ŋˤa *[ɢ]ʷəʔ *s-qʰaʔ *mu[n] *tə : *ʔi[t]*t-kʰut-s  *ŋa[n]，*s.rum *[k]ʷər *kˤrij *qʷʰˤar ,*ʔi[t]*t-kʰut-s *ŋa[n] *s.rum *[k]ʷər *kˤrij *ɢʷaŋʔ,*[ɢ]ʷəʔ *tə *ɢˤa ?
 
-Translation:
+Translation: The Duke Zhuang then said: “I have heard that just one word from me is enough to cheer up the Three Armies, and one word is enough to set them in motion. Is it really so?”
+
 
 # Unit 121
+ 
+Text: 答曰：「有。明詑於鬼神, 或非所以教民，唯君知之。此先王至道。」
 
-Text:
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat : *[ɢ]ʷəʔ。*mraŋ *qʰe *[ʔ]ˤa *k-ʔujʔ【*Cə.li[n]】，*[ɢ]ʷˤək *pəj *s-qʰaʔ *ləʔ *s.kˤraw-s *mi[ŋ]，*ɢʷij *C.qur *tre *tə。*[tsʰ]e(j)ʔ *sˤər *ɢʷaŋ-s *ti[t]-s *[kə.l]ˤuʔ。
 
-Gloss:
-
-Translation:
+Translation: [Cao Mo] replied: “Certainly. It is not, indeed, through inspirations and illusions [caused] by ghosts and spirits that one should instruct the people. Your Majesty should know this.  This is the illustrious Way of the ancient rulers. 
 
 # Unit 122
 
-Text:
+Text: 莊XLIII公曰：「沫，吾言是不如，或者小道？吾一欲聞三代之所。」
 
-Gloss:
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat: *mˤat， *ŋˤa *ŋa[n] *[d]eʔ *pə *na, *[ɢ]ʷˤək *tAʔ *[s]ewʔ *[kə.l]ˤuʔ *ŋˤa *ʔi[t] *ɢ(r)ok *mu[n]*s.rum *lˤək-s *tə *s-qʰaʔ。
 
-Translation:
+Translation: Duke Zhuang, therefore, exclaimed: “Mo, my words are by no means up to your stature!  Is it possible that my Way is inferior [to that of the ancient rulers]? I only wish to be instructed about the events of the Three Dynasties. ”
+
 
 # Unit 123
 
-Text:
+Text: 曹沫答曰：「臣聞之：昔之起於天下者，各以其世，以及其身。
 
-Gloss:
+Gloss: *N-tsˤu *mˤat *[t]ˤ[u]p *[ɢ]ʷat： *[g]i[ŋ] *mu[n] *tə： *[s]Ak *tə *C.qʰ(r)əʔ *[ʔ]ˤa *l̥ˤi[n] *m-gˤraʔ-s *tAʔ， *kˤak *ləʔ *gə *l̥ap-s， *ləʔ *[m-k-]rəp *gə *n̥i[ŋ]。XLIV
 
-Translation:
+Translation: Cao Mo then replied: “Your minister has heard that, in the past, the rise of illustrious rulers was not only tied to their personal qualities but also to the conditions of the times.
+
 
 # Unit 124
 
-Text:
+Text: 今與古亦多不同矣。臣是故不敢以古答。
 
-Gloss:
+Gloss: *[k]r[ə]m *m-q(r)aʔ *kˤaʔ *ɢ(r)Ak *[t.l]ˤaj *pə *lˤoŋ *qəʔ。*[g]i[ŋ] *[d]eʔ *kˤa(ʔ)-s *pə *[k]ˤamʔ *ləʔ *kˤaʔ *[t]ˤ[u]p。
 
-Translation:
+Translation: However, our days differ in many aspects from ancient times; therefore, your minister would not dare to answer you by referring to them. 
 
 # Unit 125
 
-Text:
+Text: 然而亦古亦有大道焉，必恭儉以得之，而驕泰以失之。
 
-Gloss:
+Gloss: *[n]a[n] *nə *ɢ(r)Ak *kˤaʔ *ɢ(r)Ak *[ɢ]ʷəʔ *lˤa[t]-s *[kə.l]ˤuʔ *[ʔ]a[n]，*pi[t] *koŋ *[g]r[a]mʔ *ləʔ *tˤək *tə， *nə *kraw *l̥ˤa[t]-s *ləʔ *l̥i[t] *tə。
 
-Translation:
+Translation: Nevertheless, even the ancients knew the illustrious Way:  it is attained by honoring frugality and lost by flaunting one's extravagance.
 
 # Unit 126
 
-Text:
+Text: 君其XLV亦唯聞夫禹、湯、桀、紂矣。敢答。
 
-Gloss:
+Gloss: *C.qur *gə *ɢ(r)Ak *ɢʷij *mu[n] *[b]a *[ɢ]ʷ(r)aʔ、*r̥ˤaŋ、*N-[k]at *[d]ruʔ *qəʔ 。*[k]ˤamʔ *[t]ˤ[u]p。
 
-Translation:
+Translation: Your Majesty may have heard about the events of Yu, Tang, Jie, and Zhou. 
+
+
 
 # Unit 127
 
-Text:
+Text: 然而亦古。」XLVI
 
-Gloss:
+Gloss: *[n]a[n]*nə *ɢ(r)Ak *kˤaʔ。
 
-Translation:
+Translation: Nevertheless, even the ancients. 
 
-# Unit 128
 
-Text:
-
-Gloss:
-
-Translation:
-
-# Unit 129
-
-Text:
-
-Gloss:
-
-Translation:
-
-# Unit 130
-
-Text:
-
-Gloss:
-
-Translation:
-
-# Unit 131
-
-Text:
-
-Gloss:
-
-Translation:
-
-# Unit 132
-
-Text:
-
-Gloss:
-
-Translation:
 
