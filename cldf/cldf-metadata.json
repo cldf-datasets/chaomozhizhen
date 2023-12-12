@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/chaomozhizhen",
             "rdf:type": "prov:Entity",
-            "dc:created": "23997db",
+            "dc:created": "6888556",
             "dc:title": "Repository"
         },
         {
@@ -111,7 +111,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 686,
+            "dc:extent": 687,
             "tableSchema": {
                 "columns": [
                     {
