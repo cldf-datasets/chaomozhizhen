@@ -385,157 +385,167 @@ Translation: [Cao Mo] replied: “Your Majesty, do not hesitate to labor yoursel
 
 # Unit 45
 
-Text:
+Text: 莊公又問：「XX【為和如何？」
 
-Gloss:
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s：[*ɢʷ(r)aj *[ɢ]ˤoj *na *[g]ˤaj？
 
-Translation:
+Translation: The Duke of Zhuang asked again: “How does one attain harmony?”
 
 # Unit 46
 
-Text:
+Text: 答曰：「毋】嬖於便嬖，毋長於兄，賞均聽中，則民和之。
 
-Gloss:
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*mo] *pˤek-s *[ʔ]ˤa *[b]e[n] *pˤek-s，*mo *Cə-[N]-traŋ *[ʔ]ˤa *m̥raŋ，*s-taŋʔ *C.qʷi[n] *l̥ˤeŋ *truŋ，*[ts]ˤək *mi[ŋ] *[ɢ]ˤoj *tə。
 
-Translation:
+Translation: In response, Cao Mo said: “Do not bestow favor upon relatives or concubines, do not show yourself superior to [your father and your] elder brothers,  cherish equality, and pursue moderation. This is what the people will consider harmonious.”
 
 # Unit 47
 
-Text:
+Text: 又問：「為義如之何？」
 
-Gloss:
+Gloss: *[ɢ]ʷəʔ-s *C.mu[n]-s：*ɢʷ(r)aj *ŋ(r)aj-s *na *tə *[g]ˤaj？
 
-Translation:
+Translation: [The duke] then questioned: “How can one be righteous?”
 
 # Unit 48
 
-Text:
+Text: 答曰：「陳功尚賢。
 
-Gloss:
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*lri[n]*kˤoŋ *[d]aŋ-s *[g]ˤi[n]。
 
-Translation:
+Translation: [Cao Mo] answered: “Spread examples of merit and praise trustworthiness. 
 
 # Unit 49
 
-Text:
+Text: 能治XXI百人，使長百人；能治三軍，使率。
 
-Gloss:
+Gloss: *nˤə *C.lrə *pˤrak *ni[ŋ]，*s-rəʔ-s *Cə-[N]-traŋ *pˤrak *ni[ŋ]；*nˤə *C.lrə *s.rum *[k]ʷər， *s-rəʔ *s-rut-s。
 
-Translation:
+Translation: Let those who can lead [a militia of] a hundred men lead [a militia of] a hundred men, and those who can lead the Three Armies be in charge.
 
 # Unit 50
 
-Text:
+Text: 授有智，予有能，則民義之。
 
-Gloss:
+Gloss: *[d]uʔ-s *[ɢ]ʷəʔ *tre-s，*laʔ *[ɢ]ʷəʔ *nˤə，*[ts]ˤək *mi[ŋ] *ŋ(r)aj *tə。
 
-Translation:
+Translation: Welcome the wise among you and entrust responsibilities to the capable, and the people will deem it right.
+
+
 
 # Unit 51
 
-Text:
+Text: 且臣聞之：卒有長，三軍有帥，邦有君，此三者，所以 XXII戰也。
 
-Gloss:
+Gloss: *tsa *[g]i[ŋ]*mu[n] *tə：*[ts]ˤut *[ɢ]ʷəʔ *Cə-[N]-traŋ，*s.rum *[k]ʷər *[ɢ]ʷəʔ *s-rut-s，*pˤroŋ *[ɢ]ʷəʔ *C.qur，*[tsʰ]e(j)ʔ *s.rum *tAʔ，*s-qʰaʔ *ləʔ *tar-s *lAjʔ。
 
-Translation:
+Translation: Also,  Your minister has heard that the superior relates to the common soldier as the commander relates to the Three Armies and as the Sovereign relates to the State. These three [hierarchies] are the means to wage war. 
 
 # Unit 52
 
-Text:
+Text: 是故長不可不慎也。
 
-Gloss:
+Gloss: *[d]eʔ *kˤa(ʔ)-s *Cə-[N]-traŋ *pə *[k]ʰˤa[j]ʔ *pə *[d]i[n]-s *lAjʔ。
 
-Translation:
+Translation: Therefore, one cannot help but pay attention to their superiors.
 
 # Unit 53
 
-Text:
+Text: 不卒則不恆，不和則不輯，不嚴威則不勝。
 
-Gloss:
+Gloss: *pə *[ts]ˤut *[ts]ˤək *pə *[g]ˤəŋ，*pə *[ɢ]ˤoj *[ts]ˤək *pə *[dz][u]p，*pə *ŋ(r)am *ʔuj *[ts]ˤək *pə *l̥əŋ。
 
-Translation:
+Translation: In the absence of a term, there can be no eternity. In the absence of harmony, there can be no concord. In the absence of strictness and authority, there can be no Victory.
 
 # Unit 55
 
-Text:
+Text: 卒欲少氣多。
 
-Gloss:
+Gloss: *[ts]ˤut *ɢ(r)ok *[s.t]ewʔ *C.qʰəp-s *[t.l]ˤaj。
 
-Translation:
+Translation: It is good for soldiers to have few desires and much energy. 
 
 # Unit 56
 
-Text:
+Text: 少則易察，氣盛則易合。
 
-Gloss:
+Gloss: *[s.t]ewʔ *[ts]ˤək *lek *[tsʰ]ˤret，*C.qʰəp-s *[d]eŋ-s *[ts]ˤək *lek-s *m-kˤop。
 
-Translation:
+Translation: When desires are few, they are easier to control. When energies are abundant, it’s easier to fight.
 
 # Unit 57
 
-Text:
+Text: XXIII是故帥不可使倦，倦則不行。
 
-Gloss:
+Gloss: *[d]eʔ *kˤa(ʔ)-s *s-rut-s *pə *[k]ʰˤa[j]ʔ *s-rəʔ *gron-s，*gron-s *[ts]ˤək *pə *Cə.[g]ˤraŋ。
 
-Translation:
+Translation: For these reasons, do not let those in command of the troops become fatigued. Fatigued, they will no longer be able to march.
 
 # Unit 58
 
-Text:
+Text: 戰有顯道，勿兵以克。」
 
-Gloss:
+Gloss: *tar-s *[ɢ]ʷəʔ *qʰˤenʔ *[kə.l]ˤuʔ，*mut *praŋ *ləʔ *kʰˤək。
 
-Translation:
+Translation: War has its own clear Way. You shall not prevail with through weapons!”
 
 # Unit 59
 
-Text:
+Text: 莊公曰：「勿兵以克奚如？」
 
-Gloss:
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat：*mut *praŋ *ləʔ *kʰˤək *[g]ˤe *na？
 
-Translation:
+Translation: Duke Zhuang then questioned: “How can one prevail without resorting to weapons?”
 
 # Unit 60
 
-Text:
+Text: 答曰：「人之兵不砥礪, 我兵必 XXIV砥礪。
 
-Gloss:
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*ni[ŋ] *tə *praŋ *pə *tijʔ *[r]at-s,*ŋˤajʔ *praŋ *pi[t] *tijʔ *[r]at-s。
 
-Translation:
+Translation: [Cao Mo] replied: “Where the weapons of our adversaries are not sharpened like inkstones,  ours should be.
 
 # Unit 61
 
-Text:
+Text: 人之甲不堅，我甲必堅。
 
-Gloss:
+Gloss: *ni[ŋ] *tə *[k]ˤr[a]p *pə *kˤi[ŋ]，*ŋˤajʔ *[k]ˤr[a]p *pi[t]*kˤi[ŋ]。
 
-Translation:
+Translation: Where the armor of our adversaries is not sufficiently sturdy, ours should be.
 
 # Unit 62
 
-Text:
+Text: 人使士，我使大夫。
 
-Gloss:
+Gloss: *ni[ŋ] *s-rəʔ *[m-s-]rəʔ，*ŋˤajʔ *s-rəʔ *lˤa[t]-s *p(r)a。
 
-Translation:
+Translation: If the rivals were to send a lower-ranking dignitary, we should send an officer.
 
 # Unit 63
 
-Text:
+Text: 人使大夫，我使將軍。
 
-Gloss:
+Gloss: *ni[ŋ] *s-rəʔ *lˤa[t]-s *p(r)a，*ŋˤajʔ *s-rəʔ *[ts]aŋ *[k]ʷər。
 
-Translation:
+Translation: If the rivals were to send an officer, then we would send a general.
 
 # Unit 64
 
-Text:
+Text: 人使將軍，我君身進。
 
-Gloss:
+Gloss: *ni[ŋ] *s-rəʔ *[ts]aŋ *[k]ʷər，*ŋˤajʔ *C.qur *n̥i[ŋ]*[ts][i][n]-s。
 
-Translation:
+Translation: And if the rivals were to send a general, at that point, it would be our sovereign in person who would advance. 
 
 # Unit 65
+
+Text: 此戰之顯道也。」 
+
+Gloss: *[tsʰ]e(j)ʔ *tar-s *tə *qʰˤenʔ *[kə.l]ˤuʔ *lAjʔ。
+
+Translation: This is the clear Way of War.
+
+# Unit 66
 
 Text:
 
