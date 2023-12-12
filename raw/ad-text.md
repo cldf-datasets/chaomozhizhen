@@ -1,4 +1,4 @@
-![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/f6bb905d-dc63-46d5-a40b-4ad84d2c6c63)# Unit 1
+# Unit 1
 
 Text: 魯莊公將為大鍾，型既成矣，曹沫入見，曰：「昔周室之封魯也，東西七百，南北五百，非山非澤，無有不【民】。
 
