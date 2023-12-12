@@ -5,7 +5,7 @@ bibtexparser==2.0.0b4
 bs4==0.0.1
 certifi==2023.11.17
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/chaomozhizhen@0a3c93790175043bb585fc3c9c77cf771c48d372#egg=cldfbench_chaomozhizhen
+-e git+https://github.com/cldf-datasets/chaomozhizhen@865cb374d10382d60524b94c2a453e95baa1f2fa#egg=cldfbench_chaomozhizhen
 cldfcatalog==1.5.1
 cldfzenodo==2.1.0
 clldutils==3.22.0
@@ -55,5 +55,6 @@ termcolor==2.4.0
 tqdm==4.66.1
 uritemplate==4.1.1
 urllib3==2.1.0
+wcwidth==0.2.12
 xlrd==2.0.1
 zenodoclient==0.5.1
