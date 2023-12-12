@@ -78,6 +78,106 @@ Gloss: *pə *[n]a[n]，*ma *ləʔ *tsʰˤoʔ *tə。
 
 Translation: Conversely, he would lack the means to win it.”
 
+# Unit 11
+
+Text: 莊公曰: 「昔施伯語寡人曰：君子得之失之，天命。
+
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat: *[s]Ak *l̥aj *pʰˤak ŋ(r)aʔ-s *[C.k]ʷˤraʔ *ni[ŋ]*[ɢ]ʷat：*C.qur *[ts]əʔ *tˤək *tə *l̥i[t] *tə，*l̥ˤi[n]*m-riŋ-s。
+
+Translation: Duke Zhuang replied: “Once, Shi Bo said to me,  your unworthy king, that it is by the will of Heaven that a ruler either gains or loses the favor of the people. 
+
+# Unit 12
+
+Text: 】今異於【爾言】。」
+
+Gloss: *[k]r[ə]m *ɢ(r)ək-s *[ʔ]ˤa *n[ə][r]ʔ *ŋa[n]。
+
+Translation: Well, this is different from what you are telling me today.”
+
+# Unit 13
+
+Text: 曹沫曰：「無以異於臣之言也，君弗盡。
+
+Gloss: *N-tsˤu *mˤat *[ɢ]ʷat：*ma *ləʔ *ɢ(r)ək-s *[ʔ]ˤa *[g]i[ŋ]*tə *ŋa[n] *lAjʔ，*C.qur *p[u]t *tsi[n]ʔ。
+
+Translation: Cao Mo retorted: “There is no difference between this and the words of your minister. Perhaps His Majesty has not fully grasped them.
+
+# Unit 14
+
+Text: 臣聞之曰：君 VI 子以賢稱而失之，天命; 以無道稱，而沒身就世，亦天命。
+
+Gloss: *[g]i[ŋ] *mu[n]*tə *[ɢ]ʷat：*C.qur *[ts]əʔ *ləʔ *[g]ˤi[n] *tʰəŋ *nə *l̥i[t] *tə，*l̥ˤi[n] *m-riŋ-s; *ləʔ *ma *[kə.l]ˤuʔ *tʰəŋ，*nə *mˤut *n̥i[ŋ]*[dz]u[k]-s *l̥ap-s， *ɢ(r)Ak *l̥ˤi[n] *m-riŋ-s。
+
+Translation: Your minister has heard that if the ruler loses the favor of the people though bearing the title of a sage, it is by the will of Heaven. Similarly, if he [peacefully] reaches the end of his days,  though being known as a man devoid of moral principles, it is always by the will of Heaven.
+
+# Unit 15
+
+Text: 不然，君子以賢稱，曷有弗得？以無道稱，曷有弗失？」
+
+Gloss: *pə *[n]a[n]，*C.qur  *[ts]əʔ *ləʔ *[g]ˤi[n] *tʰəŋ，*[g]ˤat *[ɢ]ʷəʔ *p[u]t *tˤək？*ləʔ *ma *[kə.l]ˤuʔ *tʰəŋ，*[g]ˤat *[ɢ]ʷəʔ *p[u]t *l̥i[t]？
+
+Translation: Otherwise, for what reason should the ruler who bears the title of a sage lose favor? And for what reason should a man labeled dissolute not alienate it?
+
+# Unit 15 
+
+Text: 莊公曰：「顯 VII 哉，吾聞此言。」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat：*qʰˤenʔ *[ts]ˤə，*ŋˤa *mu[n]*[tsʰ]e(j)ʔ *ŋa[n]。
+
+Transltion: Duke Zhuang replied: “I have heard these words, now it is clear!” 
+
+
+# Unit 16
+
+Text: 乃命毀鍾型而聽邦政。
+
+Gloss: *nˤəʔ *m-riŋ-s *[m̥](r)ajʔ *toŋ *gˤeŋ *nə *l̥ˤeŋ *pˤroŋ *teŋ-s。
+
+Translation: He then ordered the destruction of the bell mold and devoted himself to State affairs.
+
+
+# Unit 17
+
+Text: 不晝寢，不飲酒，不聽樂，居不襲文，食不貳羹，兼愛萬民而亡有私也。
+
+Gloss: *pə *truk-s *[tsʰ]imʔ，*pə *q(r)[u]mʔ *tsuʔ，*pə *l̥ˤeŋ *[ŋ]ˤrawk，*k(r)a *pə *s-ŋet *mə[n]，*mə-lək *pə *ni[j]-s *kˤraŋ，*[k]ˤem *[q]ˤə[p]-s *C.ma[n]-s *mi[ŋ] *nə *maŋ *[ɢ]ʷəʔ *[s]əj *lAjʔ。
+
+Translation: He stopped sleeping during the day, drinking wine, and listening to music. He ceased wearing ornate clothes and indulging in meals, and he began to love the people unconditionally, setting aside all personal interests.
+
+
+# Unit 18
+
+Text: 還年 VIII而問於曹沫曰：「吾欲與齊戰，問陳奚如？守邊城奚如？」
+
+Gloss: *[ɢ]ʷˤen *C.nˤi[ŋ] *nə *C.mu[n]-s *[ʔ]ˤa *N-tsˤu *mˤat *[ɢ]ʷat：*ŋˤa *ɢ(r)ok *m-q(r)aʔ *[dz]ˤəj *tar-s，*C.mu[n]-s *lri[n]*[g]ˤe *na？*s.tuʔ-s *pˤe[n] *[d]eŋ *[g]ˤe *na？
+
+Translation: The following year, [the duke] asked Cao Mo: “I intend to wage war against the State of Qi. How should I deploy the army? And how should I defend the border cities?”
+
+
+# Unit 19
+
+Text: 曹沫答曰：「臣【聞之：有固謀而亡固城；有克政而亡克陳。
+
+Gloss: *N-tsˤu *mˤat *[t]ˤ[u]p *[ɢ]ʷat：*[g]i[ŋ]【*mu[n] *tə：*[ɢ]ʷəʔ *[k]ˤa-s *mə *nə *maŋ *[k]ˤa-s *[d]eŋ；*[ɢ]ʷəʔ *kʰˤək *teŋ-s *nə *maŋ *kʰˤək *lri[n]。
+
+Translation: Cao Mo replied: “Your minister has heard that it is better to have a solid strategy than solid cities, a capable government rather than a capable army.”
+
+# Unit 20
+
+Text: 】IX三代之陳盡存。或以克，或以亡。
+
+Gloss: *s.rum *lˤək-s *tə *lri[n] *tsi[n]ʔ *[dz]ˤə[n]。*[ɢ]ʷˤək *ləʔ *kʰˤək，*[ɢ]ʷˤək *ləʔ *maŋ。
+
+Tranlsation: The formations of the Three Dynasties have all been preserved: with some of them, victory is achieved, with others, defeat is suffered. 
+
+# Unit 21
+
+Text: 且臣之聞之：小邦居大邦之間, 敵邦交地，不可【以先作怨，疆地毋先而必取 † 】焉，X 所以拒邊；毋愛貨資、子女，以事其便嬖， 所以拒內；城郭必修，繕甲利兵，必有戰心以戰，所以為長也。
+
+Gloss: *tsa *[g]i[ŋ] *tə *mu[n] *tə：*[s]ewʔ *pˤroŋ *k(r)a *lˤa[t]-s *pˤroŋ *tə *kˤre[n], *[d]ˤek *pˤroŋ *[k]ˤraw *[l]ˤej-s，*pə *[k]ʰˤa[j]ʔ *ləʔ *sˤər *[ts]ˤak-s *[ʔ]o[r]-s，*kaŋ *[l]ˤej-s *mo *sˤər *nə *pi[t] *tsʰˤoʔ † *[ʔ]a[n]，*s-qʰ<r>aʔ *ləʔ *g(r)aʔ *pˤe[n]；*mo *[q]ˤə[p]-s *qʷʰˤaj-s *[ts]ij、*[ts]əʔ *nraʔ，*ləʔ *[m-s-]rəʔ-s *gə *[b]e[n] *pˤek-s, *s-qʰ<r>aʔ *ləʔ *g(r)aʔ *nˤ[u]p-s; *[d]eŋ *kʷˤak *pi[t]*s-liw，*[g]e[n]ʔ-s *[k]ˤr[a]p *C.ri[t]-s *praŋ，*pi[t] *[ɢ]ʷəʔ *tar-s *səm *ləʔ *tar-s，*s-qʰ<r>aʔ *ləʔ  *ɢʷ(r)aj *Cə-[N]-traŋ *lAjʔ。
+
+Translation: Your minister has heard that when a small state is situated between two larger states,  and shares traversable terrain with them, the smaller state cannot initiate hostilities first.  Since it cannot be the first to open hostilities in border territories, it is necessary to conquer them with †,  and it is with these that you maintain your border territories.  Do not show greed for goods and wealth, do not exceed in your love for children and women to the extent that it serves the interests of your advisors and concubines;  this is how you remain secure within your borders. Take care of your cities and suburbs, nurture your troops, and strengthen the army. To wage war,  you must have a warlike spirit. This is how one becomes a leader. 
 
 
 
