@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/chaomozhizhen",
             "rdf:type": "prov:Entity",
-            "dc:created": "8166a45",
+            "dc:created": "76428c1",
             "dc:title": "Repository"
         },
         {
@@ -167,17 +167,17 @@
                     },
                     {
                         "datatype": "string",
-                        "separator": " ",
+                        "separator": " / ",
                         "name": "Middle_Chinese_Readings"
                     },
                     {
                         "datatype": "string",
-                        "separator": " ",
+                        "separator": " / ",
                         "name": "Old_Chinese_Readings"
                     },
                     {
                         "datatype": "string",
-                        "separator": " ",
+                        "separator": " / ",
                         "name": "Glosses"
                     },
                     {

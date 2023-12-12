@@ -169,9 +169,9 @@ class Dataset(BaseDataset):
             "Character",
             "Middle Chinese",
             "Old_Chinese",
-            {"name": "Middle_Chinese_Readings", "datatype": "string", "separator": " "},
-            {"name": "Old_Chinese_Readings", "datatype": "string", "separator": " "},
-            {"name": "Glosses", "datatype": "string", "separator": " "},
+            {"name": "Middle_Chinese_Readings", "datatype": "string", "separator": " / "},
+            {"name": "Old_Chinese_Readings", "datatype": "string", "separator": " / "},
+            {"name": "Glosses", "datatype": "string", "separator": " / "},
             {"name": "Example_IDS", "datatype": "string", "separator": " "},
             )
         
