@@ -1,4 +1,4 @@
-# Unit 1
+![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/06d548ee-4b5e-4615-ae51-b806b3d445d8)# Unit 1
 
 Text: 魯莊公將為大鍾，型既成矣，曹沫入見，曰：「昔周室之封魯也，東西七百，南北五百，非山非澤，無有不【民】。
 
@@ -546,6 +546,214 @@ Gloss: *[tsʰ]e(j)ʔ *tar-s *tə *qʰˤenʔ *[kə.l]ˤuʔ *lAjʔ。
 Translation: This is the clear Way of War.
 
 # Unit 66
+
+Text: 莊公曰：「既 XXV成教矣，出師有機乎?」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat：*[k]ə[t]-s *m-[d]eŋ *s.kˤraw-s *qəʔ *t-kʰut-s *srij *[ɢ]ʷəʔ *kəj *ɢˤa?
+
+Translation: The Duke said: “now that you have imparted the [Three] Teachings to me, [I ask you:] is there a crucial moment to deploy the troops?” 
+
+# Unit 67
+
+Text: 答曰：「有。
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*[ɢ]ʷəʔ。
+
+Translation: [Cao Mo] replied: “indeed. 
+
+
+# Unit 68
+
+Text: 臣聞之：三軍出，其將卑，父兄不存，由邦御之，此出師之機也。
+
+Gloss: *[g]i[ŋ] *mu[n] *tə：*s.rum *[k]ʷər *t-kʰut-s，*gə *[ts]aŋ *pe，*p(r)aʔ *m̥raŋ *pə *[dz]ˤə[n]，*l[u]*pˤroŋ *m-qʰ(r)aʔ *tə，*[tsʰ]e(j)ʔ *t-kʰut-s *srij *tə *kəj *lAjʔ。
+
+Translation: Your minister has heard that once the Three Armies are deployed, when their general is of low rank,  when he lacks a father and elder brothers [to obey],  when he is entirely governed by the State.  This is a crucial moment in deploying the troops.  
+
+
+# Unit 69
+
+Text: 莊公又問曰：「三軍 XXVI潛裹有機乎？」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat：*s.rum *[k]ʷər *[dz][o]m *s.[k]ˤo[r]ʔ *[ɢ]ʷəʔ *kəj *ɢˤa？
+
+Translation: To do!
+
+# Unit 70
+
+Text: 答曰：「有。
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*[ɢ]ʷəʔ。
+
+Translation: [Cao Mo] replied: “indeed. 
+
+# Unit 71
+
+Text: 臣聞之：三軍未成陳，未可以出舍，行阪濟障，此潛裹之機也。
+
+Gloss: *[g]i[ŋ] *mu[n] *tə：*s.rum *[k]ʷər *m[ə]t-s *m-[d]eŋ *lri[n]，*m[ə]t-s *[k]ʰˤa[j]ʔ *ləʔ *t-kʰut-s *[l̥]Ak-s, *Cə.[g]ˤraŋ *pa[n]ʔ *[ts]ˤ[i]j(ʔ)-s *tsraŋ(-s), *[tsʰ]e(j)ʔ *[dz][o]m *s.[k]ˤo[r]ʔ *tə *kəj *lAjʔ。」
+
+Translation: To do!
+
+# Unit 72
+
+Text: 莊公又問曰：「戰有機乎? 」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s：*[ɢ]ʷat *tar-s *[ɢ]ʷəʔ *kəj *ɢˤa ? 
+
+Translation: Duke Zhuang asked again: “Does War have a crucial moment?”
+
+# Unit 73
+
+Text: 答曰：「XXVII有。
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat: *[ɢ]ʷəʔ。
+
+Translation: [Cao Mo] replied: “it does.
+
+
+# Unit 74
+
+Text: 其去之不速，其就之不迫，其啟節不疾，此戰之機。
+
+Gloss: *gə *[k]ʰ(r)ap-s *tə *pə *[s]ˤok， *gə *[dz]u[k]-s *tə *pə *Cə.pˤrak ，*gə *kʰˤeʔ / *kʰˤijʔ *tsˤik *pə *[dz]i[t]，*[tsʰ]e(j)ʔ *tar-s *tə *kəj 。
+
+Translation: The army should not hasten to leave the battlefield nor be eager to reach it; it should not be impatient to begin [the combat]. This is the critical moment in War.
+
+# Unit 75
+
+Text: 是故疑陳敗，疑戰死。」
+
+Gloss: *[d]eʔ *kˤa(ʔ)-s *[ŋ](r)ə *lri[n] *N-pˤra[t]-s， *[ŋ](r)ə *tar-s *sijʔ。
+
+Translation: Therefore, doubting the formation leads to defeat. Doubting in War leads to massacre.
+
+
+# Unit 76
+
+Text: 莊公又問曰：「既戰有機乎? 」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat： *[k]ə[t]-s *tar-s *[ɢ]ʷəʔ *kəj *ɢˤa?
+
+Translation: The duke then asked: “Is there a crucial moment once the battle is over?”
+
+
+
+# Unit 77
+
+Text: XXVIII答曰：「有。
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*[ɢ]ʷəʔ。
+
+Translation: [Cao Mo] replied: “there is.
+
+
+# Unit 78
+
+Text: 其賞輕且不信，其誅重且不中。
+
+Gloss: *gə *s-taŋʔ *[kʰ]eŋ *tsa *pə *s-ni[ŋ]-s ，*gə *tro *[m]-troŋ *tsa *pə *truŋ。
+
+Translation: If [the sovereign] lavishes praise superficially, it will not be deemed trustworthy. If it proves severe in meting out punishments, it will not be considered moderate. 
+
+
+# Unit 79
+
+Text: 死者弗收，傷者弗問，既戰而有怠心，此既戰之機。
+
+Gloss: *sijʔ *tAʔ *put *s-kiw， *l̥aŋ *tAʔ  *put *C.mu[n]-s， *[k]ə[t]-s *tar-s *nə *[ɢ]ʷəʔ *lˤəʔ *səm， *[tsʰ]e(j)ʔ *[k]ə[t]-s *tar-s *tə *kəj。
+
+Translation: If, after the battle, the bodies of the fallen are not recovered, and there is no accountability for the wounded, but rather a negligent attitude is demonstrated, then that will be a critical moment after the combat. 
+
+
+# Unit 80
+
+Text: 莊公又問曰：「復 XXIX敗戰有道乎? 」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat：*[N]-pruk-s *N-pˤra[t]-s *tar-s *[ɢ]ʷəʔ *[kə.l]ˤuʔ *ɢˤa?
+
+Translation: The Duke, therefore, asked: “Is there a proper way to return after a defeat?”
+
+
+# Unit 81
+
+Text: 答曰：「有。
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*[ɢ]ʷəʔ。
+
+Translation: [Cao Mo] replied: “there is.
+
+
+# Unit 82
+
+Text: 三軍大敗，毋誅而賞，毋罪百姓而改其將。
+
+Gloss: *s.rum *[k]ʷər *lˤa[t]-s *N-pˤra[t]-s， *mo *tro *nə *s-taŋʔ ，*mo *[dz]ˤujʔ *pˤrak *seŋ-s *nə *C.qˤəʔ *gə *[ts]aŋ。
+
+Translation: If the Three Armies were to suffer a heavy defeat, do not mete out punishments, but rather offer praise. Do not blame the people; simply replace the generals.
+
+
+# Unit 83
+
+Text: 君如親率，乃自過以悅於萬民，弗杜跪地，XXX毋火食。
+
+Gloss: *C.qur *na *[tsʰ]i[n] *s-rut-s, *nˤəʔ *s.[b]i[t]-s *kʷˤaj-s *ləʔ *lrot *[ʔ]ˤa *C.ma[n]-s *mi[ŋ]，*put dˤaʔ *[g](r)ojʔ *[l]ˤej-s， *mo *[qʷʰ]ˤəjʔ *mə-lək。
+
+Translation: If the sovereign personally led the troops, let him take responsibility in order to gain the people’s acquiescence. Do not refuse to kneel on the ground or abstain from cooked foods [as a sign of penance]. 
+
+
+# Unit 84
+
+Text: 死者收之，傷者問之，善於死者為生者。
+
+Gloss: *sijʔ *tAʔ *s-kiw *tə， *l̥aŋ *tAʔ *C.mu[n]-s *tə ，*[g]e[n]ʔ *[ʔ]ˤa *sijʔ *tAʔ *ɢʷ(r)aj *sreŋ *tAʔ。」
+
+Translation: Recover [the bodies of] the fallen and inquire about the wounded. It is the living who should show goodness to the deceased. 
+
+
+# Unit 85
+
+Text: 君必聚群有司而見之，曰：二三子勉之。
+
+Gloss: *C.qur *pi[t] *m-tsʰoʔ-s *[g]ur *[ɢ]ʷəʔ *s-lə *nə *[k]ˤen-s *tə，*[ɢ]ʷat ：*ni[j]-s *s.rum *[ts]əʔ *mr[o][r]ʔ *tə。
+
+Translation: The sovereign shall assemble all the appointed individuals and meet them, saying: “You two or you three have been forced to. 
+
+# Unit 86
+
+Text: 過不在子, 在寡人，吾戰 XXXI敵不順於天命。
+
+Gloss: *kʷˤaj-s *pə *[dz]ˤəʔ *[ts]əʔ *[dz]ˤəʔ *[C.k]ʷˤraʔ *ni[ŋ]，*ŋˤa *tar-s *[d]ˤek *pə *Cə.lu[n]-s *[ʔ]ˤa *l̥ˤi[n] *m-riŋ-s。
+
+Translation: The fault is not yours but that of your humble sovereign. I have waged a war not in accordance with the decree of Heaven.”
+
+
+# Unit 87
+
+Text: 返師，將復戰，必召邦之貴人及邦之奇士, 從卒撚兵，毋復先常之。
+
+Gloss: *Cə.panʔ *srij， *[ts]aŋ *[N]-pruk-s *tar-s， *pi[t] *[d]raw-s *pˤroŋ *tə *kuj-s *ni[ŋ] *[m-k-]rəp *pˤroŋ *tə *[k](r)aj *[m-s-]rəʔ, *[dz]oŋ *[ts]ˤut *nˤənʔ *praŋ， *mo *[N]-pruk-s *sˤər *[d]aŋ *tə。
+
+Translation: When you will call the troops to assemble again and return to war, you must summon all the nobles and dignitaries of the state to ensure they follow the soldiers and wield weapons,  and you shall not repeat the old customs. 
+
+
+# Unit 88
+
+Text: 凡貴人使【處前位一行。】
+
+Gloss: *bəŋ *kuj-s *ni[ŋ] *s-rəʔ [*t.qʰaʔ *[dz]ˤen *[ɢ]ʷrəp-s *ʔi[t] *[g]ˤaŋ。]
+
+Translation: All the nobles will be sent to occupy the front rows.
+
+# Unit 89
+
+Text: XXXII退則見亡，進則祿爵有賞，機莫之當。」
+
+Gloss: *n̥ˤ[u]p-s *[ts]ˤək *[k]ˤen-s *maŋ， *[ts][i][n]-s *[ts]ˤək *[r]ˤok *[ts]ewk *[ɢ]ʷəʔ *s-taŋʔ， *kəj *mˤak *tə *tˤaŋ-s 。
+
+Translation: The retreat will be followed by slaughter, and the advance will be followed by rewards, honors, and admiration.  No moment will be more crucial than this.”
+
+# Unit 90
 
 Text:
 
