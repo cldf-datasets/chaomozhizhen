@@ -376,11 +376,12 @@ Translation: The Duke Zhuang asked again: “How can one be paternal [towards th
 
 # Unit 44
 
-Text:
+Text: 答曰：「XIX君毋憚自勞，以觀上下之情偽；匹夫寡婦之獄訟, 君必身聽之。又知不足，無所不中，則民親之。」
 
-Gloss:
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat：*C.qur *mo *dˤar-s *s.[b]i[t]-s *[r]ˤaw，*ləʔ *C.qʷˤar *daŋʔ-s *m-gˤraʔ-s *tə *[dz]eŋ *N-ɢʷ(r)aj-s；*pʰi[t] *p(r)a *[C.k]ʷˤraʔ *mə.bəʔ *tə *[ŋ]rok *s.[ɢ]oŋ-s， *C.qur *pi[t] *n̥i[ŋ] *l̥ˤeŋ *tə。*[ɢ]ʷəʔ-s *tre *pə *[ts]ok-s，*ma *s-qʰaʔ *pə *truŋ，*[ts]ˤək *mi[ŋ] *[tsʰ]i[n] *tə。
 
-Translation:
+Translation: [Cao Mo] replied: “Your Majesty, do not hesitate to labor yourself in order to ascertain the sincerity of the sentiments of both the high and low classes.  During legal proceedings involving humble men or destitute widows, personally lend an ear. Furthermore, be able to recognize insufficiency and never lack moderation in anything. In this way, the people will regard you as a father.”
+
 
 # Unit 45
 
@@ -390,4 +391,154 @@ Gloss:
 
 Translation:
 
+# Unit 46
 
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 47
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 48
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 49
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 50
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 51
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 52
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 53
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 55
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 56
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 57
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 58
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 59
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 60
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 61
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 62
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 63
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 64
+
+Text:
+
+Gloss:
+
+Translation:
+
+# Unit 65
+
+Text:
+
+Gloss:
+
+Translation:
