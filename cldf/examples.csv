@@ -1,403 +1,406 @@
-ID,Language_ID,Primary_Text,Analyzed_Word,Gloss,Translated_Text,Meta_Language_ID,Comment,Number,Slip_ID,Slip_Number,Text_ID,Word_IDS
-ad-1,OldChinese,魯 ⿵戕口 公 𨟻 為 大 鍾,魯	莊公	將	為	大	鍾,Lu_(place_name)	duke_Zhuang_(personal_name)	aspect_marker	do	big	bell,,,,1,1,1,ad,word-ad-1 word-ad-2 word-ad-3 word-ad-4 word-ad-5 word-ad-6
-ad-2,OldChinese,型 既 成 矣,型	既	成	矣,shape	aspect_marker	finish	modal_particle,,,,2,1,1,ad,word-ad-7 word-ad-8 word-ad-9 word-ad-10
-ad-3,OldChinese,⿱艸⿰告攴 ⿳艸罒木⿰攴 內 見,曹沫	入	見,Cao_Mo_(personal_name)	enter	see,,,,3,1,1,ad,word-ad-11 word-ad-12 word-ad-13
-ad-4,OldChinese,曰,曰,say,,,,4,1,1,ad,word-ad-14
-ad-5,OldChinese,昔 周 室 之 ⿰土丰 𲅭 也,昔	周	室	之	封	魯	也,past	Zhou_(clan_name)	house	nominalization_marker	enfeoff	Lu_(place_name)	modal_particle,,,,5,1,1,ad,word-ad-15 word-ad-16 word-ad-17 word-ad-18 word-ad-19 word-ad-20 word-ad-21
-ad-6,OldChinese,東 西 七 百 南 北 五 百,東	西	七	百	南	北	五	百,east	west	seven	hundred	south	north	five	hundred,,,,6,1,1,ad,word-ad-22 word-ad-23 word-ad-24 word-ad-25 word-ad-26 word-ad-27 word-ad-28 word-ad-29
-ad-7,OldChinese,非 山 非 澤,彼	山	彼	澤,that	mountain	that	marsh,,,,7,1,1,ad,word-ad-30 word-ad-31 word-ad-32 word-ad-33
-ad-8,OldChinese,⿱屮亡 又 不 民,無	有	不	民,not_have	have	not_	people,,,,8,1,1,ad,word-ad-34 word-ad-35 word-ad-36 word-ad-37
-ad-9,OldChinese,含 ⿰土丰 ⿱爾心 少 而 鍾 ⿳亼八月⿱心 大,今	封	彌	小	而	鍾	愈	大,today	fief	more	small	conjunction	bell	more	big,,,,9,2,2,ad,word-ad-38 word-ad-39 word-ad-40 word-ad-41 word-ad-42 word-ad-43 word-ad-44 word-ad-45
-ad-10,OldChinese,君 亓 ⿱者心 之 也,君	其	圖	之	也,her_majesty	modal_particle	intend	anaphoric_substitute_of_the_object	modal_particle,,,,10,2,2,ad,word-ad-46 word-ad-47 word-ad-48 word-ad-49 word-ad-50
-ad-11,OldChinese,昔 堯 之 卿 ⿳允火土 也,昔	堯	之	饗	舜	也,past	Yao_(personal_name)	conjunction	banquet	Shun_(personal_name)	modal_particle,,,,11,2,2,ad,word-ad-51 word-ad-52 word-ad-53 word-ad-54 word-ad-55 word-ad-56
-ad-12,OldChinese,飯 於 於 ⿰車缶,飯	於	土	塯,eat	preposition	terracotta	vessel,,,,12,2,2,ad,word-ad-57 word-ad-58 word-ad-59 word-ad-60
-ad-13,OldChinese,⿱叕心⿰欠 於 土 型,欼	於	土	鉶,drink	preposition	terracotta	cup,,,,13,2,2,ad,word-ad-61 word-ad-62 word-ad-63 word-ad-64
-ad-14,OldChinese,而 ⿱宀亡 又 天下,而	撫	有	天下,conjunction	appease	have	world,,,,14,2,2,ad,word-ad-65 word-ad-66 word-ad-67 word-ad-68
-ad-15,OldChinese,此 不 貧 於 㪜 而 ⿱畐貝 於 惪 與,此	不	貧	於	美	而	富	於	德	歟,this	negative_adverb	poor	preposition	beauty	conjunction	rich	preposition	virtue	modal_particle,,,,15,2,2,ad,word-ad-69 word-ad-70 word-ad-71 word-ad-72 word-ad-73 word-ad-74 word-ad-75 word-ad-76 word-ad-77 word-ad-78
-ad-16,OldChinese,昔 周 室 又 戒 言 曰,昔	周	室	有	戒	言	曰,past	Zhou_(clan_name)	house	have	warn	word	say,,,,16,3,3,ad,word-ad-79 word-ad-80 word-ad-81 word-ad-82 word-ad-83 word-ad-84 word-ad-85
-ad-17,OldChinese,牪 尔 正 ⿰示工,願	而	正	功,desire	conjunction	contend	merit,,,,17,3,3,ad,word-ad-86 word-ad-87 word-ad-88 word-ad-89
-ad-18,OldChinese,不 牪 而 或 興,不	願	而	域	興,negative_adverb	desire	conjunction	territory	flourish,,,,18,3,3,ad,word-ad-90 word-ad-91 word-ad-92 word-ad-93 word-ad-94
-ad-19,OldChinese,或 康 以 兇,域	康	以	凶,territory	tranquil	preposition	misfortune,,,,19,3,3,ad,word-ad-95 word-ad-96 word-ad-97 word-ad-98
-ad-20,OldChinese,保 ⿰弓⿱口二 必 ⿱亠舛⿳几力,保	疆	必	勝,guard	strong	must	win_,,,,20,3,3,ad,word-ad-99 word-ad-100 word-ad-101 word-ad-102
-ad-21,OldChinese,可以 又 ⿲糸台⿹𠃌一 邦,可以	有	治	邦,can	have	govern	state,,,,21,3,3,ad,word-ad-103 word-ad-104 word-ad-105 word-ad-106
-ad-22,OldChinese,周 ⿱艸⿰口寺 是 廌,周志	是	存,Zhou_zhi_(Documents)	this	be_present,,,,22,3,3,ad,word-ad-107 word-ad-108 word-ad-109
-ad-23,OldChinese,⿵戕口 公 曰,莊公	曰,duke_Zhuang_(personal_name)	say,,,,23,4,4,ad,word-ad-110 word-ad-111
-ad-24,OldChinese,今 天下 之 君子 既 可 智 已,今	天下	之	君子	既	可	知	已,today	world	conjunction	the_noble_man	aspect_marker	can	know	modal_particle,,,,24,4,4,ad,word-ad-112 word-ad-113 word-ad-114 word-ad-115 word-ad-116 word-ad-117 word-ad-118 word-ad-119
-ad-25,OldChinese,⿱艸亯 能 并 兼 人 才,孰	能	併	兼	人	哉,who	can	unite	together	person	modal_particle,,,,25,4,4,ad,word-ad-120 word-ad-121 word-ad-122 word-ad-123 word-ad-124 word-ad-125
-ad-26,OldChinese,⿱艸⿰告攴 ⿳艸罒戍 曰,曹沫	曰,Cao_Mo_(personal_name)	say,,,,26,4,4,ad,word-ad-126 word-ad-127
-ad-27,OldChinese,君 亓 毋 員,君	其	毋	云,her_majesty	modal_particle	negative_adverb	say,,,,27,4,4,ad,word-ad-128 word-ad-129 word-ad-130 word-ad-131
-ad-28,OldChinese,臣 䎽 之 曰,臣	聞	之	曰,minister	hear	cataphoric_substitute_of_the_object	say,,,,28,4,4,ad,word-ad-132 word-ad-133 word-ad-134 word-ad-135
-ad-29,OldChinese,⿳厸文心 邦 之 君 明,鄰	邦	之	君	明,neighbor	state	conjunction	sovereign	enlighten,,,,29,4,4,ad,word-ad-136 word-ad-137 word-ad-138 word-ad-139 word-ad-140
-ad-30,OldChinese,則 不 可以 不 攸 政 而 善 於 民,則	不	可以	不	修	政	而	善	於	民,conjunction	negative_adverb	can	negative_adverb	improve	government	conjunction	good	preposition	people,,,,30,4,4,ad,word-ad-141 word-ad-142 word-ad-143 word-ad-144 word-ad-145 word-ad-146 word-ad-147 word-ad-148 word-ad-149 word-ad-150
-ad-31,OldChinese,不 肰,不	然,negative_adverb	like_that,,,,31,6,6,ad,word-ad-151 word-ad-152
-ad-32,OldChinese,⿱工心 亡 𱙁,恐	亡	焉,fear	perish	in_it,,,,32,6,6,ad,word-ad-153 word-ad-154 word-ad-155
-ad-33,OldChinese,⿱厸文 邦 之 君 亡 道,鄰	邦	之	君	亡	道,neighbor	state	conjunction	sovereign	not_have	way,,,,33,6,6,ad,word-ad-156 word-ad-157 word-ad-158 word-ad-159 word-ad-160 word-ad-161
-ad-34,OldChinese,則 亦 不 可以 不 攸 政 而 善 於 民,則	亦	不	可以	不	修	政	而	善	於	民,conjunction	aso	negative_adverb	can	negative_adverb	improve	government	conjunction	good	preposition	people,,,,34,6,6,ad,word-ad-162 word-ad-163 word-ad-164 word-ad-165 word-ad-166 word-ad-167 word-ad-168 word-ad-169 word-ad-170 word-ad-171 word-ad-172
-ad-35,OldChinese,不 肰,不	然,negative_adverb	like_that,,,,35,6,6,ad,word-ad-173 word-ad-174
-ad-36,OldChinese,亡 以 取 之,亡	以	取	之,not_have	preposition	take	anaphoric_substitute_of_the_object,,,,36,6,6,ad,word-ad-175 word-ad-176 word-ad-177 word-ad-178
-ad-37,OldChinese,莊公 曰,莊公	曰,duke_Zhuang_(personal_name)	say,,,,37,6,6,ad,word-ad-179 word-ad-180
-ad-38,OldChinese,昔 沱胉 語 寡人 曰,昔	施伯	語	寡人	曰,past	Shi_Bo_(personal_name)	tell	I_miserable	say,,,,38,6,6,ad,word-ad-181 word-ad-182 word-ad-183 word-ad-184 word-ad-185
-ad-39,OldChinese,君子 𠭁 之 ⿺辶⿱止羍 之,君子	得	之	失	之,the_noble_man	obtain	this	loose	this,,,,39,6,6,ad,word-ad-186 word-ad-187 word-ad-188 word-ad-189 word-ad-190
-ad-40,OldChinese,天 命,天	命,heave	mandate,,,,40,6,6,ad,word-ad-191 word-ad-192
-ad-41,OldChinese,含 異 於 尔 言,今	異	於	爾	言,today	different	preposition	you	word,,,,41,6,6,ad,word-ad-193 word-ad-194 word-ad-195 word-ad-196 word-ad-197
-ad-42,OldChinese,⿱艸⿰告攴 ⿳艸罒勿⿰攴 曰,曹沫	曰,Cao_Mo_(personal_name)	say,,,,42,6,6,ad,word-ad-198 word-ad-199
-ad-43,OldChinese,無 以 異 於 臣 之 言 也,無	以	異	於	臣	之	言	也,not_have	preposition	different	preposition	minister	conjunction	word	modal_particle,,,,43,6,6,ad,word-ad-200 word-ad-201 word-ad-202 word-ad-203 word-ad-204 word-ad-205 word-ad-206 word-ad-207
-ad-44,OldChinese,君 弗 𦘔,君	弗	盡,her_majesty	negative_adverb	fully_understand,,,,44,6,6,ad,word-ad-208 word-ad-209 word-ad-210
-ad-45,OldChinese,臣 䎽 之 曰,臣	聞	之	曰,minister	hear	cataphoric_substitute_of_the_object	say,,,,45,6,6,ad,word-ad-211 word-ad-212 word-ad-213 word-ad-214
-ad-46,OldChinese,君子 以 ⿰臣⿱口又 ⿱爯又 而 ⿺辶⿱止羍 之,君子	以	賢	稱	而	失	之,the_noble_man	preposition	sage	denomination	conjunction	loose	anaphoric_substitute_of_the_object,,,,46,7,7,ad,word-ad-215 word-ad-216 word-ad-217 word-ad-218 word-ad-219 word-ad-220 word-ad-221
-ad-47,OldChinese,天 命,天	命,heaven	mandate,,,,47,7,7,ad,word-ad-222 word-ad-223
-ad-48,OldChinese,以 無 道 ⿱爯又 而 ⿱回又 身 ⿺辶⿱亯京 殜,以	無	道	稱	而	沒	身	就	世,preposition	not_have	way	denomination	conjunction	extinguish	body	go	era,,,,48,7,7,ad,word-ad-224 word-ad-225 word-ad-226 word-ad-227 word-ad-228 word-ad-229 word-ad-230 word-ad-231 word-ad-232
-ad-50,OldChinese,不 肰,不	然,negative_adverb	like_that,,,,50,7,7,ad,word-ad-236 word-ad-237
-ad-51,OldChinese,君子 以 ⿰臣⿱口又 ⿱爯又,君子	以	賢	稱,the_noble_man	preposition	sage	denomination,,,,51,7,7,ad,word-ad-238 word-ad-239 word-ad-240 word-ad-241
-ad-52,OldChinese,害 又 弗 𠭁,曷	有	弗	得,how	have	negative_adverb	obtain,,,,52,7,7,ad,word-ad-242 word-ad-243 word-ad-244 word-ad-245
-ad-53,OldChinese,以 無 道 ⿱爯又,以	無	道	稱,preposition	not_have	way	denomination,,,,53,7,7,ad,word-ad-246 word-ad-247 word-ad-248 word-ad-249
-ad-54,OldChinese,害 又 弗 ⿺辶⿱止羍,曷	有	弗	失,how	have	negative_adverb	loose,,,,54,7,7,ad,word-ad-250 word-ad-251 word-ad-252 word-ad-253
-ad-55,OldChinese,⿵戕口 公 曰,莊公	曰,duke_Zhuang_(personal_name)	say,,,,55,7,7,ad,word-ad-254 word-ad-255
-ad-56,OldChinese,㬎 才,顯	哉,apparent	modal_particle,,,,56,7,7,ad,word-ad-256 word-ad-257
-ad-57,OldChinese,𫊟 䎽 此 言,吾	聞	此	言,I	hear	this	word,,,,57,8,8,ad,word-ad-258 word-ad-259 word-ad-260 word-ad-261
-ad-58,OldChinese,乃 命 毀 鍾 型 而 聖 邦 正,乃	命	毀	鍾	型	而	聽	邦	政,conjunction	order	destroy	bell	shape	conjunction	listen	state	government,,,,58,8,8,ad,word-ad-262 word-ad-263 word-ad-264 word-ad-265 word-ad-266 word-ad-267 word-ad-268 word-ad-269 word-ad-270
-ad-59,OldChinese,不 晝 ⿱宀𱟜,不	晝	寢,negative_adverb	day	sleep,,,,59,8,8,ad,word-ad-271 word-ad-272 word-ad-273
-ad-60,OldChinese,不 酓 ,不	飲,negative_adverb	drink_wine,,,,60,8,8,ad,word-ad-274 word-ad-275
-ad-,OldChinese,,酒,,,,,61,,,ad,word-ad-276
-ad-61,OldChinese,不 聖 樂,不	聽	樂,negative_adverb	listen	music,,,,62,8,8,ad,word-ad-277 word-ad-278 word-ad-279
-ad-62,OldChinese,居 不 𧜼 ⿳民且又,居	不	褻	文,stay	negative_adverb	dress	adorn,,,,63,8,8,ad,word-ad-280 word-ad-281 word-ad-282 word-ad-283
-ad-63,OldChinese,飤 不 ⿹弍月 ⿲弓采弓⿱皿,食	不	貳	羹,eat	negative_adverb	duplicate	soup,,,,64,8,8,ad,word-ad-284 word-ad-285 word-ad-286 word-ad-287
-ad-64,OldChinese,兼㤅 萬民,兼愛	萬民,universal_love	thousand_people,,,,65,8,8,ad,word-ad-288 word-ad-289
-ad-65,OldChinese,而 亡 又 厶 也,而	亡	有	私	也,conjunction	negative_adverb	have	private_interest	modal_particle,,,,66,8,8,ad,word-ad-290 word-ad-291 word-ad-292 word-ad-293 word-ad-294
-ad-66,OldChinese,還 年 而 ⿱宀䎽 於 ⿱艸⿰告攴 ⿳艸罒⿹戈禾 曰,還	年	而	問	於	曹沫	曰,following	year	conjunction	ask	preposition	Cao_Mo_(personal_name)	say,,,,67,8,8,ad,word-ad-295 word-ad-296 word-ad-297 word-ad-298 word-ad-299 word-ad-300 word-ad-301
-ad-67,OldChinese,𫊟 欲 與 齊 𡃣,吾	欲	與	齊	戰,I	desire	preposition	Qi_(place_name)	war,,,,68,9,9,ad,word-ad-302 word-ad-303 word-ad-304 word-ad-305 word-ad-306
-ad-68,OldChinese,䎽 ⿰申戈 ⿳爫人系 女,問	陳	奚	如,ask	battle_array	how	how,,,,69,9,9,ad,word-ad-307 word-ad-308 word-ad-309 word-ad-310
-ad-69,OldChinese,𰡧 𬪟 城 ⿳爫人系 女,守	邊	城	奚	如,preserve	frontier_	town	how	how,,,,70,9,9,ad,word-ad-311 word-ad-312 word-ad-313 word-ad-314 word-ad-315
-ad-70,OldChinese,⿱艸⿰告攴 ⿳艸罒人⿰攴 𣌭 曰,曹沫	答	曰,Cao_Mo_(personal_name)	reply	say,,,,71,9,9,ad,word-ad-316 word-ad-317 word-ad-318
-ad-71,OldChinese,臣 䎽 之,臣	聞	之,minister	hear	this,,,,72,9,9,ad,word-ad-319 word-ad-320 word-ad-321
-ad-72,OldChinese,又 固 ⿱母心 而 亡 固 城,有	固	謀	而	亡	固	城,have	solid	plan	conjunction	not_have	solid	town,,,,73,9,9,ad,word-ad-322 word-ad-323 word-ad-324 word-ad-325 word-ad-326 word-ad-327 word-ad-328
-ad-73,OldChinese,又 克 正 而 亡 克 ⿰申戈,有	克	正	而	亡	克	陳,have	capable	government	conjunction	not_have	capable	battle_array,,,,74,9,9,ad,word-ad-329 word-ad-330 word-ad-331 word-ad-332 word-ad-333 word-ad-334 word-ad-335
-ad-74,OldChinese,三 弋 之 ⿰申戈 𦘔 廌,三	代	之	陳	盡	存,three_	dynasty	conjunction	battle_array	all	be_present,,,,75,10,10,ad,word-ad-336 word-ad-337 word-ad-338 word-ad-339 word-ad-340 word-ad-341
-ad-75,OldChinese,或 以 克,或	以	克,some	preposition	defeat_,,,,76,10,10,ad,word-ad-342 word-ad-343 word-ad-344
-ad-76,OldChinese,或 以 亡,或	以	亡,some	preposition	flee,,,,77,10,10,ad,word-ad-345 word-ad-346 word-ad-347
-ad-77,OldChinese,𠭯 臣 之 䎽 之,且	臣	之	聞	之,conjunction	minister	conjunction	hear	this,,,,78,10,10,ad,word-ad-348 word-ad-349 word-ad-350 word-ad-351 word-ad-352
-ad-78,OldChinese,少 邦 之 大 邦 之 ⿵門⿰夕刀,小	邦	居	大	邦	之間,small	state	stay	big	state	between,,,,79,10,10,ad,word-ad-353 word-ad-354 word-ad-355 word-ad-356 word-ad-357 word-ad-358
-ad-79,OldChinese,啻 邦 立 陀,敵	邦	交	地,enemy	state	exchange	land,,,,80,10,10,ad,word-ad-359 word-ad-360 word-ad-361 word-ad-362
-ad-80,OldChinese,不 可以 先 𰆺 悁,不	可以	先	作	怨,negative_adverb	can	before	do	complain,,,,81,10,10,ad,word-ad-363 word-ad-364 word-ad-365 word-ad-366 word-ad-367
-ad-81,OldChinese,疆 ⿱陀土 毋 先,疆	地	毋	先,border	land	negative_adverb	before,,,,82,10,10,ad,word-ad-368 word-ad-369 word-ad-370 word-ad-371
-ad-82,OldChinese,而 必 取 𱙁,而	必	取	焉,conjunction	must	take	in_it,,,,83,10,10,ad,word-ad-372 word-ad-373 word-ad-374 word-ad-375
-ad-83,OldChinese,所 以 佢 𬪟,所	以	拒	邊,nominalization_marker	preposition	resist	frontier_,,,,84,11,11,ad,word-ad-376 word-ad-377 word-ad-378 word-ad-379
-ad-84,OldChinese,毋 㤅 貨 ⿰月次⿱貝 子 女,毋	愛	貨	資	子	女,negative_adverb	love	commodities	goods	son	woman,,,,85,11,11,ad,word-ad-380 word-ad-381 word-ad-382 word-ad-383 word-ad-384 word-ad-385
-ad-85,OldChinese,以 事 亓 ⿰亻𰆴 ⿺辶卑,以	事	其	便嬖,conjunction	serve	possessive_pronoun	advisors_and_favourites,,,,86,11,11,ad,word-ad-386 word-ad-387 word-ad-388 word-ad-389
-ad-86,OldChinese,所 以 佢 內,所	以	拒	內,nominalization_marker	preposition	resist	inside,,,,87,11,11,ad,word-ad-390 word-ad-391 word-ad-392 word-ad-393
-ad-87,OldChinese,成 𩫏 必 攸,城	郭	必	修,town	outskirts	must	improve,,,,88,11,11,ad,word-ad-394 word-ad-395 word-ad-396 word-ad-397
-ad-88,OldChinese,纏 ⿸虍羍 利 兵,繕	甲	利	兵,fortify	weapon	benefit	armour,,,,89,11,11,ad,word-ad-398 word-ad-399 word-ad-400 word-ad-401
-ad-89,OldChinese,必 又 𡃣 心,必	有	戰	心,must	have	war	heart,,,,90,11,11,ad,word-ad-402 word-ad-403 word-ad-404 word-ad-405
-ad-90,OldChinese,以 𡃣 所 以 為 倀 也,以	戰	所	以	為	長	也,conjunction	war	nominalization_marker	preposition	be	head	modal_particle,,,,91,11,11,ad,word-ad-406 word-ad-407 word-ad-408 word-ad-409 word-ad-410 word-ad-411 word-ad-412
-ad-91,OldChinese,⿰虘又 臣 之 䎽 之,且	臣	之	聞	之,conjunction	minister	nominalization_marker	hear	cataphoric_substitute_of_the_object,,,,92,11,11,ad,word-ad-413 word-ad-414 word-ad-415 word-ad-416 word-ad-417
-ad-92,OldChinese,不 和 於 邦,不	和	於	邦,negative_adverb	harmony	preposition	state,,,,93,12,12,ad,word-ad-418 word-ad-419 word-ad-420 word-ad-421
-ad-93,OldChinese,不 可以 出 ⿰谷象⿱土,不	可以	出	舍,negative_adverb	can	exit	barracks,,,,94,12,12,ad,word-ad-422 word-ad-423 word-ad-424 word-ad-425
-ad-49,OldChinese,亦 天 命 於,亦	天	命	於,also	heaven	mandate	preposition,,,,96,12,12,ad,word-ad-233 word-ad-234 word-ad-235 word-ad-428
-ad-94,OldChinese,不 和 ⿰谷象⿱土,不	和	舍,negative_adverb	harmony	barracks,,,,97,12,12,ad,word-ad-426 word-ad-427 word-ad-429
-ad-95,OldChinese,不 可以 出 ⿰申戈,不	可以	出	陳,negative_adverb	can	exit	battle_array,,,,98,12,12,ad,word-ad-430 word-ad-431 word-ad-432 word-ad-433
-ad-96,OldChinese,不 和 於 ⿰申戈,不	和	於	陳,negative_adverb	harmony	preposition	battle_array,,,,99,12,12,ad,word-ad-434 word-ad-435 word-ad-436 word-ad-437
-ad-97,OldChinese,不 可以 出 𡃣,不	可以	出	戰,negative_adverb	can	exit	war,,,,100,12,12,ad,word-ad-438 word-ad-439 word-ad-440 word-ad-441
-ad-98,OldChinese,是古 夫 ⿰申戈 者,是故	夫	陳	者,conjunction	modal_particle	battle_array	nominalization_marker,,,,101,12,12,ad,word-ad-442 word-ad-443 word-ad-444 word-ad-445
-ad-99,OldChinese,三 ⿱爻言 之 末,三	教	之	末,three_	teaching	conjunction	peak,,,,102,12,12,ad,word-ad-446 word-ad-447 word-ad-448 word-ad-449
-ad-100,OldChinese,君 必 不 已,君	必	不	已,her_majesty	must	negative_adverb	give_up,,,,103,12,12,ad,word-ad-450 word-ad-451 word-ad-452 word-ad-453
-ad-101,OldChinese,則 䌛 亓 ⿱臼木 𰲛,則	由	其	本	乎,conjunction	follow	possessive_pronoun	root	modal_particle,,,,104,12,12,ad,word-ad-454 word-ad-455 word-ad-456 word-ad-457 word-ad-458
-ad-102,OldChinese,⿵戕口 公 曰,莊公	曰,duke_Zhuang_(personal_name)	say,,,,105,13,13,ad,word-ad-459 word-ad-460
-ad-103,OldChinese,為 和 於 邦 女可,為	和	於	邦	如何,be	harmony	preposition	state	how,,,,106,13,13,ad,word-ad-461 word-ad-462 word-ad-463 word-ad-464 word-ad-465
-ad-104,OldChinese,⿱艸⿰告攴 ⿳艸罒勿⿰攴 𣌭 曰,曹沫	答	曰,Cao_Mo_(personal_name)	reply	say,,,,107,13,13,ad,word-ad-466 word-ad-467 word-ad-468
-ad-105,OldChinese,毋 ⿰禾隻 民 旹,毋	穫	民	時,negative_adverb	cut	people	time,,,,108,13,13,ad,word-ad-469 word-ad-470 word-ad-471 word-ad-472
-ad-107,OldChinese,⿰糹畕 ⿰示工 而 飤,陳	功	而	食,explain	merit	conjunction	reward_with_food,,,,110,13,13,ad,word-ad-477 word-ad-478 word-ad-479 word-ad-480
-ad-108,OldChinese,型 罰 又 辠,刑	罰	有	罪,punish	execute	have	crime,,,,111,13,13,ad,word-ad-481 word-ad-482 word-ad-483 word-ad-484
-ad-109,OldChinese,而 賞 𰪖 又 惪,而	賞	爵	有	德,conjunction	reward_	honour	have	virtue,,,,112,13,13,ad,word-ad-485 word-ad-486 word-ad-487 word-ad-488 word-ad-489
-ad-110,OldChinese,凡 畜 群 臣,凡	畜	群	臣,all	cattle	group	minister,,,,113,13,13,ad,word-ad-490 word-ad-491 word-ad-492 word-ad-493
-ad-111,OldChinese,貴 俴 同 𣥕 ,貴	賤	同	等,noble	vulgar	same	rang,,,,114,14,14,ad,word-ad-494 word-ad-495 word-ad-496 word-ad-497
-ad-112,OldChinese,髢 ⿱夕录 毋 ⿱伓貝,施	祿	毋	倍,give	emolument	negative_adverb	double,,,,115,14,14,ad,word-ad-498 word-ad-499 word-ad-500 word-ad-501
-ad-113,OldChinese,詩 於 又 之,詩	於	有	之,Odes	preposition	have	cataphoric_substitute_of_the_object,,,,116,14,14,ad,word-ad-502 word-ad-503 word-ad-504 word-ad-505
-ad-114,OldChinese,曰,曰,say,,,,117,14,14,ad,word-ad-506
-ad-115,OldChinese,幾 俤 君子,愷	悌	君子,serene	happy	the_noble_man,,,,118,14,14,ad,word-ad-507 word-ad-508 word-ad-509
-ad-116,OldChinese,民 之 父 母,民	之	父	母,people	conjunction	father	mother,,,,119,14,14,ad,word-ad-510 word-ad-511 word-ad-512 word-ad-513
-ad-117,OldChinese,此 所 以,此	所	以,this	nominalization_marker	preposition,,,,120,14,14,ad,word-ad-514 word-ad-515 word-ad-516
-ad-118,OldChinese,為 和 於 邦,為	和	於	邦,be	harmony	preposition	state,,,,121,14,14,ad,word-ad-517 word-ad-518 word-ad-519 word-ad-520
-ad-119,OldChinese,⿵戕口 公 曰,莊公	曰,duke_Zhuang_(personal_name)	say,,,,122,14,14,ad,word-ad-521 word-ad-522
-ad-120,OldChinese,為 和 於 ⿰谷象⿱土 女之可,為	和	於	舍	如之何,be	harmony	preposition	barracks	how,,,,123,14,14,ad,word-ad-523 word-ad-524 word-ad-525 word-ad-526 word-ad-527
-ad-121,OldChinese,⿱艸⿰告攴 ⿳艸罒勿⿰攴 曰,曹沫	曰,Cao_Mo_(personal_name)	say,,,,124,14,14,ad,word-ad-528 word-ad-529
-ad-122,OldChinese,三 軍 大 出,三	軍	大	出,three_	army	big	exit,,,,125,15,15,ad,word-ad-530 word-ad-531 word-ad-532 word-ad-533
-ad-123,OldChinese,君 自 𰳭,君	自	率,the_noble_man	self	lead,,,,126,15,15,ad,word-ad-534 word-ad-correggi!!!!!!!!!!535 word-ad-535
-ad-124,OldChinese,必 又 二 𨟻 軍,必	有	二	將軍,must	have	two	general,,,,127,15,15,ad,word-ad-536 word-ad-537 word-ad-538 word-ad-539
-ad-125,OldChinese,毋 𨟻 軍,無	將軍,not_have	general,,,,128,15,15,ad,word-ad-540 word-ad-541
-ad-126,OldChinese,必 又 𬣏 ⿺辶卑 大夫,必	有	數	嬖	大夫,must	have	number	favourite	grandees,,,,129,15,15,ad,word-ad-542 word-ad-543 word-ad-544 word-ad-545 word-ad-546
-ad-127,OldChinese,毋 ⿺辶卑 大夫,無	嬖	大夫,not_have	favourite	grandees,,,,130,15,15,ad,word-ad-547 word-ad-548 word-ad-549
-ad-128,OldChinese,必 又 𬣏 大 官 之 帀 公孫 公子,必	有	數	大	官	之	師	公孫	公子,must	have	number	great	official	conjunction	multitude?	nephew_of_a_duke	son_of_a_duke,,,,131,15,15,ad,word-ad-550 word-ad-551 word-ad-552 word-ad-553 word-ad-554 word-ad-555 word-ad-556 word-ad-557 word-ad-558
-ad-129,OldChinese,凡 又 司 𰳭 倀 民 者,凡	有	司	率	長	民	者,all	have	administer	lead	conduct	people	nominalization_marker,,,,132,15,15,ad,word-ad-559 word-ad-560 word-ad-561 word-ad-562 word-ad-563 word-ad-564 word-ad-565
-ad-130,OldChinese,毋 角 ⿱竹隹,無	祿	爵,negative_adverb	emolument	honour,,,,133,16,16,ad,word-ad-566 word-ad-567 word-ad-568
-ad-131,OldChinese,毋 从 軍 而 辟 辠,無	從	軍	而	避	罪,negative_adverb	follow	army	conjunction	avoid	crime,,,,134,16,16,ad,word-ad-569 word-ad-570 word-ad-571 word-ad-572 word-ad-573 word-ad-574
-ad-132,OldChinese,同,同,unite,,,,135,16,16,ad,word-ad-575
-ad-133,OldChinese,都 而 ⿱爻言 於 邦,都	而	教	於	邦,assembly	conjunction	teaching	preposition	state,,,,136,16,16,ad,word-ad-576 word-ad-577 word-ad-578 word-ad-579 word-ad-580
-ad-134,OldChinese,則 亓 𣌭 之 不 難,則	其	合	之	不	難,conjunction	modal_particle	unite	anaphoric_substitute_of_the_object	negative_adverb	difficult,,,,137,16,16,ad,word-ad-581 word-ad-582 word-ad-583 word-ad-584 word-ad-585 word-ad-586
-ad-135,OldChinese,所 以 為 和 於 ⿰谷象⿱土,所	以	為	和	於	舍,nominalization_marker	preposition	be	harmony	preposition	barracks,,,,138,16,16,ad,word-ad-587 word-ad-588 word-ad-589 word-ad-590 word-ad-591 word-ad-592
-ad-136,OldChinese,⿵戕口 公 或 䎽,莊公	又	問,duke_Zhuang_(personal_name)	conjunction	ask,,,,139,16,16,ad,word-ad-593 word-ad-594 word-ad-595
-ad-137,OldChinese,為 和 於 ⿰申戈 女之可,為	和	於	陳	如之何,be	harmony	preposition	battle_array	how,,,,140,16,16,ad,word-ad-596 word-ad-597 word-ad-598 word-ad-599 word-ad-600
-ad-138,OldChinese,𣌭 曰,答	曰,reply	say,,,,141,16,16,ad,word-ad-601 word-ad-602
-ad-139,OldChinese,車 ⿵門⿰夕刀 容 伍,車	間	容	伍,chariot	between_	contain	group_of_five,,,,142,16,16,ad,word-ad-603 word-ad-604 word-ad-605 word-ad-606
-ad-140,OldChinese,伍 ⿵門⿰夕刀 容 兵,伍	間	容	兵,group_of_five	between_	contain	weapon,,,,143,17,17,ad,word-ad-607 word-ad-608 word-ad-609 word-ad-610
-ad-141,OldChinese,貴 位 砫 飤,貴	位	重	食,noble	place	give_weight_to	eat,,,,144,17,17,ad,word-ad-611 word-ad-612 word-ad-613 word-ad-614
-ad-142,OldChinese,思 為 歬 行,使	為	前	行,let	be	front	march,,,,145,17,17,ad,word-ad-615 word-ad-616 word-ad-617 word-ad-618
-ad-143,OldChinese,厽 行 之 𨒥,三	行	之	後,three_	line	conjunction	after,,,,146,17,17,ad,word-ad-619 word-ad-620 word-ad-621 word-ad-622
-ad-145,OldChinese,句 見 耑 兵,茍	見	短	兵,must	see	short	weapon,,,,147,17,17,ad,word-ad-623 word-ad-624 word-ad-625 word-ad-626
-ad-146,OldChinese,⿰十攴 五 之 ⿵門⿰夕刀,十	五	之間,ten	five	between_,,,,148,17,17,ad,word-ad-627 word-ad-628 word-ad-629
-ad-147,OldChinese,必 又 公孫 公子,必	有	公孫	公子,must	have	nephew_of_a_duke	son_of_a_duke,,,,149,17,17,ad,word-ad-630 word-ad-631 word-ad-632 word-ad-633
-ad-148,OldChinese,是 胃 軍 紀,是	謂	軍	紀,this	call	military	discipline,,,,150,17,17,ad,word-ad-634 word-ad-635 word-ad-636 word-ad-637
-ad-149,OldChinese,五 人 以 ⿰五攴,五	人	以	伍,five	person	preposition	make_a_group_of_five,,,,151,17,17,ad,word-ad-638 word-ad-639 word-ad-640 word-ad-641
-ad-150,OldChinese,一 人 又 多,一	人	有	多,one	person	have	merit,,,,152,18,18,ad,word-ad-642 word-ad-643 word-ad-644 word-ad-645
-ad-151,OldChinese,四 人 皆 賞,四	人	皆	賞,four	person	all	admire,,,,153,18,18,ad,word-ad-646 word-ad-647 word-ad-648 word-ad-649
-ad-152,OldChinese,所 以 為 ⿰叀刀,所	以	為	敦,nominalization_marker	preposition	be	encourage,,,,154,18,18,ad,word-ad-650 word-ad-651 word-ad-652 word-ad-653
-ad-153,OldChinese,毋 𬅸 ⿰丹隻 而 𬅸 䎽 命,毋	尚	獲	而	尚	聞	命,negative_adverb	admire	gain	conjunction	admire	hear	order,,,,155,18,18,ad,word-ad-654 word-ad-655 word-ad-656 word-ad-657 word-ad-658 word-ad-659 word-ad-660
-ad-154,OldChinese,所 以 為 毋 退,所	以	為	毋	退,nominalization_marker	preposition	be	not_have	retire,,,,156,18,18,ad,word-ad-661 word-ad-662 word-ad-663 word-ad-664 word-ad-665
-ad-155,OldChinese,⿺辶⿷匚羊 車 以 車,將	車	以	車,conduct	chariot	preposition	chariot,,,,157,18,18,ad,word-ad-666 word-ad-667 word-ad-668 word-ad-669
-ad-156,OldChinese,𰳭 徒 以 徒,率	徒	以	徒,lead	infantry	preposition	infantry,,,,158,18,18,ad,word-ad-670 word-ad-671 word-ad-672 word-ad-673
-ad-157,OldChinese,所 以 同 死 於 民,所	以	同	死	於	民,nominalization_marker	preposition	together	die	preposition	people,,,,159,18,18,ad,word-ad-674 word-ad-675 word-ad-676 word-ad-677 word-ad-678 word-ad-679
-ad-158,OldChinese,⿵戕口 公 曰,莊公	曰,duke_Zhuang_(personal_name)	say,,,,160,18,18,ad,word-ad-680 word-ad-681
-ad-159,OldChinese,此 三 者 足以 𡃣 𰲛,此	三	者	足以	戰	乎,this	three_	nominalization_marker	sufficient	war	modal_particle,,,,161,18,18,ad,word-ad-682 word-ad-683 word-ad-684 word-ad-685 word-ad-686 word-ad-687
-ad-160,OldChinese,𣌭 曰,答	曰,reply	say,,,,162,19,19,ad,word-ad-688 word-ad-689
-ad-161,OldChinese,戒 ⿱亠舛⿳几力 ⿺怠⿹𠃌一,戒	勝	怠,warn	win_	laziness,,,,163,19,19,ad,word-ad-690 word-ad-691 word-ad-692
-ad-162,OldChinese,果 ⿱亠舛⿳几力 ⿱矣心,果	勝	疑,solve	win_	doubt,,,,164,19,19,ad,word-ad-693 word-ad-694 word-ad-695
-ad-163,OldChinese,⿰見辛 𰳭 ⿱亠舛⿳几力 ⿳⺊日又,親	率	勝	使,personally	lead	win_	envoy,,,,165,19,19,ad,word-ad-696 word-ad-697 word-ad-698 word-ad-699
-ad-164,OldChinese,不 ⿰見辛 則 不 ⿰叀刀 也,不	親	則	不	敦	也,negative_adverb	personally	conjunction	negative_adverb	encourage	modal_particle,,,,166,19,19,ad,word-ad-700 word-ad-701 word-ad-702 word-ad-703 word-ad-704 word-ad-705
-ad-165,OldChinese,不 和 則 不 咠,不	和	則	不	輯,negative_adverb	harmony	conjunction	negative_adverb	concord,,,,167,19,19,ad,word-ad-706 word-ad-707 word-ad-708 word-ad-709 word-ad-710
-ad-166,OldChinese,不 義 則 不 備,不	義	則	不	服,negative_adverb	righteous	negative_adverb	negative_adverb	obey,,,,168,19,19,ad,word-ad-711 word-ad-712 word-ad-713 word-ad-714 word-ad-715
-ad-167,OldChinese,⿵戕口 公 或 䎽,莊公	又	問,duke_Zhuang_(personal_name)	conjunction	ask,,,,169,19,19,ad,word-ad-716 word-ad-717 word-ad-718
-ad-168,OldChinese,為 女可,為	如何,be	how,,,,172,19,19,ad,word-ad-719 word-ad-721
-ad-169,OldChinese,⿱木辛⿰斤⿱心 𣌭 曰,親	答	曰,parent	reply	say,,,,173,19,19,ad,word-ad-720 word-ad-722 word-ad-723
-ad-170,OldChinese,君 毋 嘼 自 𬡤,君	毋	憚	自	勞,her_majesty	negative_adverb	fear	reflexive_pronoun	work,,,,174,20,20,ad,word-ad-724 word-ad-725 word-ad-726 word-ad-727 word-ad-728
-ad-171,OldChinese,以 ⿳亼吅隹⿰見⿰阝 𬅸 下 之 情 為,以	觀	上	下	之	情	偽,conjunction	see	superior	inferior	conjunction	emotion	false_,,,,175,20,20,ad,word-ad-729 word-ad-730 word-ad-731 word-ad-732 word-ad-733 word-ad-734 word-ad-735
-ad-172,OldChinese,佖夫 寡婦 之 獄訟 君 必 身 聖 之,匹夫	寡婦	之	獄訟	君	必	身	聽	之,common_man	widow	conjunction	process	her_majesty	must	personally	listen	anaphoric_substitute_of_the_object,,,,176,20,20,ad,word-ad-736 word-ad-737 word-ad-738 word-ad-739 word-ad-740 word-ad-741 word-ad-742 word-ad-743 word-ad-744
-ad-173,OldChinese,又 智 不 足,又	知	不	足,conjunction	know	negative_adverb	sufficient,,,,177,20,20,ad,word-ad-745 word-ad-746 word-ad-747 word-ad-748
-ad-174,OldChinese,亡 所 不 中,無	所	不	中,not_have	nominalization_marker	negative_adverb	moderation,,,,178,20,20,ad,word-ad-749 word-ad-750 word-ad-751 word-ad-752
-ad-175,OldChinese,則 民 ⿱木辛⿰斤⿱心 之,則	民	親	之,conjunction	people	parent	anaphoric_substitute_of_the_object,,,,179,20,20,ad,word-ad-753 word-ad-754 word-ad-755 word-ad-756
-ad-176,OldChinese,⿵戕口 公 或 䎽,莊公	又	問,duke_Zhuang_(personal_name)	conjunction	ask,,,,180,20,20,ad,word-ad-757 word-ad-758 word-ad-759
-ad-177,OldChinese,為 和 女可,為	和	如何,be	harmony	how,,,,181,21,21,ad,word-ad-760 word-ad-761 word-ad-762
-ad-178,OldChinese,𣌭 曰,答	曰,reply	say,,,,182,21,21,ad,word-ad-763 word-ad-764
-ad-179,OldChinese,毋 辟 於 ⿺辶𰆴 ⿺辶卑,毋	嬖	於	便	嬖,negative_adverb	favour	preposition	relatives	favourite,,,,183,21,21,ad,word-ad-765 word-ad-766 word-ad-767 word-ad-768 word-ad-769
-ad-180,OldChinese,毋 倘 於 ⿰兄㞷,毋	長	於	兄,negative_adverb	conduct	preposition	elder_brother,,,,184,21,21,ad,word-ad-770 word-ad-771 word-ad-772 word-ad-773
-ad-181,OldChinese,賞 ⿱昀土 聖 中,賞	均	聽	中,admire	even	listen	moderation,,,,185,21,21,ad,word-ad-774 word-ad-775 word-ad-776 word-ad-777
-ad-182,OldChinese,則 民 和 之,則	民	和	之,conjunction	people	harmony	anaphoric_substitute_of_the_object,,,,186,21,21,ad,word-ad-778 word-ad-779 word-ad-780 word-ad-781
-ad-183,OldChinese,或 䎽,又	問,conjunction	ask,,,,187,21,21,ad,word-ad-782 word-ad-783
-ad-184,OldChinese,為 義 女之可,為	義	如之何,be	righteous	how,,,,188,21,21,ad,word-ad-784 word-ad-785 word-ad-786
-ad-185,OldChinese,𣌭 曰,答	曰,reply	say,,,,189,21,21,ad,word-ad-787 word-ad-788
-ad-186,OldChinese,⿰糹⿱屮畕 ⿰示工 上 ⿰臣⿱口又,陳	功	尚	賢,explain	merit	admire	sage,,,,190,21,21,ad,word-ad-789 word-ad-790 word-ad-791 word-ad-792
-ad-187,OldChinese,能 ⿲糸台⿹𠃌一 百 人,能	治	百	人,can	govern	thousand	person,,,,191,21,21,ad,word-ad-793 word-ad-794 word-ad-795 word-ad-796
-ad-188,OldChinese,囟 倀 百 人,使	長	百	人,let	conduct	thousand	person,,,,192,22,22,ad,word-ad-797 word-ad-798 word-ad-799 word-ad-800
-ad-189,OldChinese,能 ⿲糸台⿹𠃌一 三 軍,能	治	三	軍,can	govern	three_	army,,,,193,22,22,ad,word-ad-801 word-ad-802 word-ad-803 word-ad-804
-ad-190,OldChinese,囟 𰳭,使	率,let	lead,,,,194,22,22,ad,word-ad-805 word-ad-806
-ad-191,OldChinese,受,授,teach,,,,195,22,22,ad,word-ad-807
-ad-192,OldChinese,又 智,有	智,have	knowledge,,,,196,22,22,ad,word-ad-808 word-ad-809
-ad-193,OldChinese,𱒱 又 能,予	有	能,grant_to	have	ability,,,,197,22,22,ad,word-ad-810 word-ad-811 word-ad-812
-ad-194,OldChinese,則 民 宜 之,則	民	義	之,conjunction	people	righteous	anaphoric_substitute_of_the_object,,,,198,22,22,ad,word-ad-813 word-ad-814 word-ad-815 word-ad-816
-ad-106,OldChinese,毋 敚 民 利 臣,毋	奪	民	利	臣,negative_adverb	take_by_force	people	benefit	minister,,,,200,22,22,ad,word-ad-473 word-ad-474 word-ad-475 word-ad-476 word-ad-818
-ad-195,OldChinese,⿰虘又 䎽 之,且	聞	之,conjunction	hear	cataphoric_substitute_of_the_object,,,,201,22,22,ad,word-ad-817 word-ad-819 word-ad-820
-ad-196,OldChinese,⿰力𰠄 又 倀,卒	有	長,servant	have	superior,,,,202,22,22,ad,word-ad-821 word-ad-822 word-ad-823
-ad-197,OldChinese,三 軍 又 𰳭,三	軍	有	帥,three_	army	have	leader,,,,203,22,22,ad,word-ad-824 word-ad-825 word-ad-826 word-ad-827
-ad-198,OldChinese,邦 又 君,邦	有	君,state	have	sovereign,,,,204,22,22,ad,word-ad-828 word-ad-829 word-ad-830
-ad-199,OldChinese,此 三 者 所 以 𡃣 也,此	三	者	所	以	戰	也,this	three_	nominalization_marker	nominalization_marker	preposition	war	modal_particle,,,,205,22,22,ad,word-ad-831 word-ad-832 word-ad-833 word-ad-834 word-ad-835 word-ad-836 word-ad-837
-ad-200,OldChinese,是古 長 不 可 不 ⿱十言⿰斤 也,是故	長	不	可	不	慎	也,conjunction	superior	negative_adverb	can	negative_adverb	be_careful	modal_particle,,,,206,23,23,ad,word-ad-838 word-ad-839 word-ad-840 word-ad-841 word-ad-842 word-ad-843 word-ad-844
-ad-201,OldChinese,不 ⿰力𰠄 則 不 ⿺辶𠄨,不	卒	則	不	恆,negative_adverb	end	conjunction	negative_adverb	eternal,,,,207,23,23,ad,word-ad-845 word-ad-846 word-ad-847 word-ad-848 word-ad-849
-ad-202,OldChinese,不 和 則 不 咠,不	和	則	不	輯,negative_adverb	harmony	conjunction	negative_adverb	concord,,,,208,23,23,ad,word-ad-850 word-ad-851 word-ad-852 word-ad-853 word-ad-854
-ad-203,OldChinese,不 兼 畏 則 不 ⿱亠舛⿳几力,不	嚴	威	則	不	勝,negative_adverb	imposing	authoritative	conjunction	negative_adverb	win_,,,,209,23,23,ad,word-ad-855 word-ad-856 word-ad-857 word-ad-858 word-ad-859 word-ad-860
-ad-204,OldChinese,𰠄 欲 少 以 多,卒	欲	少	氣	多,soldier	desire	few	energy	a_lot,,,,210,23,23,ad,word-ad-861 word-ad-862 word-ad-863 word-ad-864 word-ad-865
-ad-205,OldChinese,少 則 惕 ⿰言⿱山乂,少	則	易	察,few	conjunction	easy	control,,,,211,23,23,ad,word-ad-866 word-ad-867 word-ad-868 word-ad-869
-ad-206,OldChinese,𡉛 成 則 惕 𣌭,氣	盛	則	易	合,energy	abundant	conjunction	easy	unite,,,,212,23,23,ad,word-ad-870 word-ad-871 word-ad-872 word-ad-873 word-ad-874
-ad-207,OldChinese,是古 𰳭 不 可 囟 牪,是故	帥	不	可	使	倦,conjunction	leader	negative_adverb	can	let	tired,,,,213,24,24,ad,word-ad-875 word-ad-876 word-ad-877 word-ad-878 word-ad-879 word-ad-880
-ad-208,OldChinese,牪 則 不 行,倦	則	不	行,tired	conjunction	negative_adverb	march,,,,214,24,24,ad,word-ad-881 word-ad-882 word-ad-883 word-ad-884
-ad-209,OldChinese,𡃣 又 㬎 道,戰	有	顯	道,war	have	apparent	way,,,,215,24,24,ad,word-ad-885 word-ad-886 word-ad-887 word-ad-888
-ad-210,OldChinese,勿 兵 以 克,勿	兵	以	克,negative_adverb	weapon	preposition	conquest,,,,216,24,24,ad,word-ad-889 word-ad-890 word-ad-891 word-ad-892
-ad-211,OldChinese,⿵戕口 公 曰,莊公	曰,duke_Zhuang_(personal_name)	say,,,,217,24,24,ad,word-ad-893 word-ad-894
-ad-212,OldChinese,勿 兵 以 克 ⿳爫人系 女 𣌭,勿	兵	以	克	奚如	答,negative_adverb	weapon	preposition	conquest	how	reply,,,,218,24,24,ad,word-ad-895 word-ad-896 word-ad-897 word-ad-898 word-ad-899 word-ad-900
-ad-213,OldChinese,曰,曰,say,,,,219,24,24,ad,word-ad-901
-ad-214,OldChinese,人 之 兵 不 砥萬,人	之	兵	不	砥礪,other	conjunction	weapon	negative_adverb	whetstone,,,,220,24,24,ad,word-ad-902 word-ad-903 word-ad-904 word-ad-905 word-ad-906
-ad-215,OldChinese,我 兵 必 砥萬,我	兵	必	砥礪,I	weapon	must	whetstone,,,,221,24,24,ad,word-ad-907 word-ad-908 word-ad-909 word-ad-910
-ad-216,OldChinese,人 之 ⿸虍羍 不 ⿰臣⿱口又,人	之	甲	不	堅,other	conjunction	weapon	negative_adverb	hard,,,,222,25,25,ad,word-ad-911 word-ad-912 word-ad-913 word-ad-914 word-ad-915
-ad-217,OldChinese,我 ⿸虍羍 必 ⿰臣⿱口又,我	甲	必	堅,I	weapon	must	hard,,,,223,25,25,ad,word-ad-916 word-ad-917 word-ad-918 word-ad-919
-ad-218,OldChinese,人 𠧫 士,人	使	士,other	send	dignitary,,,,224,25,25,ad,word-ad-920 word-ad-921 word-ad-922
-ad-220,OldChinese,人 事 大夫,人	使	大夫,other	send	grandee,,,,226,25,25,ad,word-ad-926 word-ad-927 word-ad-928
-ad-221,OldChinese,我 事 𨟻 軍,我	使	將軍,I	send	general,,,,227,25,25,ad,word-ad-929 word-ad-930 word-ad-931
-ad-222,OldChinese,人 事 𨟻 軍,人	使	將軍,other	send	general,,,,228,25,25,ad,word-ad-932 word-ad-933 word-ad-934
-ad-223,OldChinese,我 君 身 進,我	君	身	進,I	sovereign	personally	advance,,,,229,25,25,ad,word-ad-935 word-ad-936 word-ad-937 word-ad-938
-ad-224,OldChinese,此 𡃣 之 㬎 道 也,此	戰	之	顯	道	也,this	war	conjunction	apparent	way	modal_particle,,,,230,25,25,ad,word-ad-939 word-ad-940 word-ad-941 word-ad-942 word-ad-943 word-ad-944
-ad-225,OldChinese,⿵戕口 公 曰,莊公	曰,duke_Zhuang_(personal_name)	say,,,,231,25,25,ad,word-ad-945 word-ad-946
-ad-226,OldChinese,既 成 ⿱爻言 矣,既	成	教	矣,already	complete	teaching	modal_particle,,,,232,25,25,ad,word-ad-947 word-ad-948 word-ad-949 word-ad-950
-ad-227,OldChinese,出 帀 又 幾 𰲛,出	師	有	機	乎,exit	troop	have	crucial_moment	modal_particle,,,,233,26,26,ad,word-ad-951 word-ad-952 word-ad-953 word-ad-954 word-ad-955
-ad-228,OldChinese,𣌭 曰,答	曰,reply	say,,,,234,26,26,ad,word-ad-956 word-ad-957
-ad-229,OldChinese,又,有,have,,,,235,26,26,ad,word-ad-958
-ad-230,OldChinese,臣 䎽 之,臣	聞	之,minister	hear	cataphoric_substitute_of_the_object,,,,236,26,26,ad,word-ad-959 word-ad-960 word-ad-961
-ad-231,OldChinese,三 軍 出,三	軍	出,three	army	exit,,,,237,26,26,ad,word-ad-962 word-ad-963 word-ad-964
-ad-232,OldChinese,亓 ⿺辶⿷匚羊 ⿺辶卑,其	將	卑,possessive_pronoun	conduct	low_rang,,,,238,26,26,ad,word-ad-965 word-ad-966 word-ad-967
-ad-233,OldChinese,父 ⿰兄㞷 不 廌,父	兄	不	存,father	elder_brother	negative_adverb	be_present,,,,239,26,26,ad,word-ad-968 word-ad-969 word-ad-970 word-ad-971
-ad-234,OldChinese,䌛 邦 ⿺馭午 之,由	邦	御	之,preposition	state	conduct	anaphoric_subtitute_of_the_object,,,,240,26,26,ad,word-ad-972 word-ad-973 word-ad-974 word-ad-975
-ad-235,OldChinese,此 出 帀 幾 也,此	出	師	機	也,this	exit	troop	crucial_moment	modal_particle,,,,243,26,26,ad,word-ad-976 word-ad-977 word-ad-978 word-ad-980 word-ad-981
-ad-236,OldChinese,之 ⿵戕口 公 或 䎽,之	莊公	又	問,conjunction	duke_Zhuang_(personal_name)	conjunction	ask,,,,244,26,26,ad,word-ad-979 word-ad-982 word-ad-983 word-ad-984
-ad-237,OldChinese,曰 三 軍 漸 果 又 幾 𰲛,曰	三	軍	潛	裹	有	機	乎,say	three	army	secretely	encircle	have	crucial_moment	modal_particle,,,,245,26,26,ad,word-ad-985 word-ad-986 word-ad-987 word-ad-988 word-ad-989 word-ad-990 word-ad-991 word-ad-992
-ad-238,OldChinese,𣌭 曰,答	曰,reply	say,,,,246,27,27,ad,word-ad-993 word-ad-994
-ad-239,OldChinese,又,有,have,,,,247,27,27,ad,word-ad-995
-ad-240,OldChinese,臣 䎽 之,臣	聞	之,minister	hear	cataphoric_substitute_of_the_object,,,,248,27,27,ad,word-ad-996 word-ad-997 word-ad-998
-ad-241,OldChinese,三 軍 未 成 ⿰申戈,三	軍	未	成	陳,three	army	negative_adverb	complete	battle_array,,,,249,27,27,ad,word-ad-999 word-ad-1000 word-ad-1001 word-ad-1002 word-ad-1003
-ad-242,OldChinese,未 可以 出 ⿰谷象⿱土,未	可以	出	舍,negative_adverb	can	exit	barracks,,,,250,27,27,ad,word-ad-1004 word-ad-1005 word-ad-1006 word-ad-1007
-ad-243,OldChinese,行 ⿱反土 淒 ⿰章欠⿱土,行	阪	濟	障,go_up	slope	cross	obstacle,,,,251,27,27,ad,word-ad-1008 word-ad-1009 word-ad-1010 word-ad-1011
-ad-244,OldChinese,此 漸 果 之 幾 也,此	潛	裹	之	機	也,this	secretely	encircle	conjunction	crucial_moment	modal_particle,,,,252,27,27,ad,word-ad-1012 word-ad-1013 word-ad-1014 word-ad-1015 word-ad-1016 word-ad-1017
-ad-245,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke_Zhuang_(personal_name)	conjunction	ask	say,,,,253,27,27,ad,word-ad-1018 word-ad-1019 word-ad-1020 word-ad-1021
-ad-246,OldChinese,𡃣 又 幾 𰲛,戰	有	機	乎,war	have	crucial_moment	modal_particle,,,,254,27,27,ad,word-ad-1022 word-ad-1023 word-ad-1024 word-ad-1025
-ad-247,OldChinese,𣌭 曰,答	曰,reply	say,,,,255,27,27,ad,word-ad-1026 word-ad-1027
-ad-248,OldChinese,又,有,have,,,,256,28,28,ad,word-ad-1028
-ad-219,OldChinese,我 事 大夫 不,我	使	大夫	不,I	send	grandee	negative_adverb,,,,258,28,28,ad,word-ad-923 word-ad-924 word-ad-925 word-ad-1032
-ad-249,OldChinese,亓 迲 之 ⿺辶⿰朱朱,其	去	之	速,nominalization_marker	depart	anaphoric_subtitute_of_the_object	speed,,,,259,28,28,ad,word-ad-1029 word-ad-1030 word-ad-1031 word-ad-1033
-ad-250,OldChinese,亓 ⿺辶⿱亯京 之 不 尃,其	就	之	不	迫,nominalization_marker	go	anaphoric_subtitute_of_the_object	negative_adverb	urge,,,,260,28,28,ad,word-ad-1034 word-ad-1035 word-ad-1036 word-ad-1037 word-ad-1038
-ad-251,OldChinese,亓 啟節 不 疾,其	啟節	不	疾,nominalization_marker	get_started_	negative_adverb	urgent,,,,261,28,28,ad,word-ad-1039 word-ad-1040 word-ad-1041 word-ad-1042
-ad-252,OldChinese,此 𡃣 之 幾,此	戰	之	機,tihis	war	conjunction	crucial_moment,,,,262,28,28,ad,word-ad-1043 word-ad-1044 word-ad-1045 word-ad-1046
-ad-253,OldChinese,是古,是故,conjunction,,,,263,28,28,ad,word-ad-1047
-ad-254,OldChinese,⿱矣心 ⿰申戈 ⿱目貝⿰攴 ⿱矣又 𡃣 死,疑	陳	敗	疑	戰	死,doubt	battle_array	defeat	doubt	war	die,,,,264,28,28,ad,word-ad-1048 word-ad-1049 word-ad-1050 word-ad-1051 word-ad-1052 word-ad-1053
-ad-255,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke_Zhuang_(personal_name)	conjunction	ask	say,,,,265,28,28,ad,word-ad-1054 word-ad-1055 word-ad-1056 word-ad-1057
-ad-256,OldChinese,既 𡃣 又 幾 𰲛,既	戰	有	機	乎,finish	war	have	crucial_moment	modal_particle,,,,266,28,28,ad,word-ad-1058 word-ad-1059 word-ad-1060 word-ad-1061 word-ad-1062
-ad-257,OldChinese,𣌭 曰,答	曰,reply	say,,,,267,29,29,ad,word-ad-1063 word-ad-1064
-ad-258,OldChinese,又,有,have,,,,268,29,29,ad,word-ad-1065
-ad-259,OldChinese,亓 賞 誙 ⿰虘又 不 信,其	賞	輕	且	不	信,nominalization_marker	admire	light	conjunction	negative_adverb	trust,,,,269,29,29,ad,word-ad-1066 word-ad-1067 word-ad-1068 word-ad-1069 word-ad-1070 word-ad-1071
-ad-260,OldChinese,亓 ⿰貝豆 䝬 ⿰虘又 不 中,其	誅	重	且	不	中,nominalization_marker	condemn	heavy	conjunction	negative_adverb	moderation,,,,270,29,29,ad,word-ad-1072 word-ad-1073 word-ad-1074 word-ad-1075 word-ad-1076 word-ad-1077
-ad-261,OldChinese,死 者 弗 丩,死	者	弗	收,die	nominalization_marker	negative_adverb	receive,,,,271,29,29,ad,word-ad-1078 word-ad-1079 word-ad-1080 word-ad-1081
-ad-262,OldChinese,㦹 者 弗 䎽,傷	者	弗	問,injure	nominalization_marker	negative_adverb	ask,,,,272,29,29,ad,word-ad-1082 word-ad-1083 word-ad-1084 word-ad-1085
-ad-263,OldChinese,既 𡃣 而 又 ⿺怠⿹𠃌一 心,既	戰	而	有	怠	心,finish	war	conjunction	have	laziness	heart,,,,273,29,29,ad,word-ad-1086 word-ad-1087 word-ad-1088 word-ad-1089 word-ad-1090 word-ad-1091
-ad-264,OldChinese,此 既 𡃣 之 幾,此	既	戰	之	機,this	finish	war	conjunction	crucial_moment,,,,274,29,29,ad,word-ad-1092 word-ad-1093 word-ad-1094 word-ad-1095 word-ad-1096
-ad-265,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke_Zhuang_(personal_name)	conjunction	ask	say,,,,275,29,29,ad,word-ad-1097 word-ad-1098 word-ad-1099 word-ad-1100
-ad-266,OldChinese,𰻇 ⿱目貝⿰攴 𡃣 又 道 𰲛,復	敗	戰	有	道	乎,return	defeat	war	have	way	modal_particle,,,,276,29,29,ad,word-ad-1101 word-ad-1102 word-ad-1103 word-ad-1104 word-ad-1105 word-ad-1106
-ad-267,OldChinese,𣌭 曰,答	曰,reply	say,,,,277,30,30,ad,word-ad-1107 word-ad-1108
-ad-268,OldChinese,又,有,have,,,,278,30,30,ad,word-ad-1109
-ad-269,OldChinese,三 軍 大 ⿱目貝⿰攴,三	軍	大	敗,three	army	great	defeat,,,,279,30,30,ad,word-ad-1110 word-ad-1111 word-ad-1112 word-ad-1113
-ad-270,OldChinese,毋 ⿰貝豆 而 賞,毋	誅	而	賞,negative_adverb	condemn	conjunction	admire,,,,280,30,30,ad,word-ad-1114 word-ad-1115 word-ad-1116 word-ad-1117
-ad-271,OldChinese,毋 辠 百眚 而 改 亓 ⿺辶⿷匚羊,毋	罪	百姓	而	改	其	將,negative_adverb	crime	people	conjunction	change	possessive_pronoun	general,,,,281,30,30,ad,word-ad-1118 word-ad-1119 word-ad-1120 word-ad-1121 word-ad-1122 word-ad-1123 word-ad-1124
-ad-272,OldChinese,君 女 ⿰見辛 𰳭,君	如	親	率,sovereign	if	personally	lead,,,,282,30,30,ad,word-ad-1125 word-ad-1126 word-ad-1127 word-ad-1128
-ad-273,OldChinese,乃 自 𱞃 以 敚 於 萬 民,乃	自	過	以	悅	於	萬	民,conjunction	reflexive_pronoun	blame	conjunction	acquiesce	preposition	ten_thousand	people,,,,283,30,30,ad,word-ad-1129 word-ad-1130 word-ad-1131 word-ad-1132 word-ad-1133 word-ad-1134 word-ad-1135 word-ad-1136
-ad-274,OldChinese,弗 ⿳衣土 ⿱危土 ⿱陀土,弗	杜	跪	地,negative_adverb	deny	bow	land,,,,284,30,30,ad,word-ad-1137 word-ad-1138 word-ad-1139 word-ad-1140
-ad-275,OldChinese,毋 火 飤,毋	火	食,negative_adverb	fire	eat,,,,285,31,31,ad,word-ad-1141 word-ad-1142 word-ad-1143
-ad-276,OldChinese,死 者 收 之,死	者	收	之,die	nominalization_marker	receive	anaphoric_subtitute_of_the_object,,,,286,31,31,ad,word-ad-1144 word-ad-1145 word-ad-1146 word-ad-1147
-ad-277,OldChinese,㦹 者 䎽 之,傷	者	問	之,injure	nominalization_marker	ask	anaphoric_subtitute_of_the_object,,,,287,31,31,ad,word-ad-1148 word-ad-1149 word-ad-1150 word-ad-1151
-ad-278,OldChinese,善 於 死 者 為 生 者,善	於	死	者	為	生	者,good	preposition	die	nominalization_marker	be_	live	nominalization_marker,,,,288,31,31,ad,word-ad-1152 word-ad-1153 word-ad-1154 word-ad-1155 word-ad-1156 word-ad-1157 word-ad-1158
-ad-279,OldChinese,君 必 聚 群 又 司 而 見 之,君	必	聚	群	有	司	而	見	之,sovereign	must	gather	all	have	administer	conjunction	see	anaphoric_subtitute_of_the_object,,,,289,31,31,ad,word-ad-1159 word-ad-1160 word-ad-1161 word-ad-1162 word-ad-1163 word-ad-1164 word-ad-1165 word-ad-1166 word-ad-1167
-ad-280,OldChinese,曰,曰,say,,,,290,31,31,ad,word-ad-1168
-ad-281,OldChinese,二 厽 子 ⿱亓子 之,二	三	子	勉	之,two	three	you	force	anaphoric_subtitute_of_the_object,,,,291,31,31,ad,word-ad-1169 word-ad-1170 word-ad-1171 word-ad-1172 word-ad-1173
-ad-282,OldChinese,𥛔 不 才 子 才 寡人,過	不	在	子	在	寡人,fault	negative_adverb	be_present	you	be_present	I_miserable,,,,292,31,31,ad,word-ad-1174 word-ad-1175 word-ad-1176 word-ad-1177 word-ad-1178 word-ad-1179
-ad-283,OldChinese,𫊟 𡃣 啻 不 訓 於 天 命,吾	戰	敵	不	順	於	天	命,I	war	enemy	negative_adverb	obey	preposition	heaven	mandate,,,,293,31,31,ad,word-ad-1180 word-ad-1181 word-ad-1182 word-ad-1183 word-ad-1184 word-ad-1185 word-ad-1186 word-ad-1187
-ad-284,OldChinese,反 帀,返	師,return	troop,,,,294,32,32,ad,word-ad-1188 word-ad-1189
-ad-285,OldChinese,𨟻 𰻇 𡃣,將	復	戰,aspectual_marker	return	war,,,,295,32,32,ad,word-ad-1190 word-ad-1191 word-ad-1192
-ad-286,OldChinese,必 訋 邦 之 貴人 及 邦 之 可士,必	詔	邦	之	貴人	及	邦	之	奇士,must	summon_?_exhort_?	state	conjunction	noble	conjunction	state	conjunction	extraordinary_man,,,,296,32,32,ad,word-ad-1193 word-ad-1194 word-ad-1195 word-ad-1196 word-ad-1197 word-ad-1198 word-ad-1199 word-ad-1200 word-ad-1201
-ad-287,OldChinese,从 ⿰力𰠄 ⿱肰目 兵,從	卒	撚 	兵,follow	soldier	examine	weapon,,,,297,32,32,ad,word-ad-1202 word-ad-1203 word-ad-1204 word-ad-1205
-ad-288,OldChinese,毋 𰻇 先 常 之,毋	復	先	常	之,negative_adverb	return	previous	norm	anaphoric_subtitute_of_the_object,,,,298,32,32,ad,word-ad-1206 word-ad-1207 word-ad-1208 word-ad-1209 word-ad-1210
-ad-289,OldChinese,凡 貴人 囟 凥 歬 立 一 行,凡	貴人	使	處	前	位	一	行,all	noble	send	stay	front	position	one	line,,,,299,32,32,ad,word-ad-1211 word-ad-1212 word-ad-1213 word-ad-1214 word-ad-1215 word-ad-1216 word-ad-1217 word-ad-1218
-ad-290,OldChinese,退 則 見 亡,退	則	見	亡,retire	conjunction	see	death,,,,300,33,33,ad,word-ad-1219 word-ad-1220 word-ad-1221 word-ad-1222
-ad-291,OldChinese,進 則 ⿱夕录 ⿱竹隹,進	則	祿	爵,advance	conjunction	emolument	honour,,,,301,33,33,ad,word-ad-1223 word-ad-1224 word-ad-1225 word-ad-1226
-ad-292,OldChinese,又 常,有	賞,have	norm,,,,302,33,33,ad,word-ad-1227 word-ad-1228
-ad-293,OldChinese,幾 莫 之 ⿱尚立,機	莫	之	當,crucial_moment	none	anaphoric_subtitute_of_the_object	appropriate,,,,303,33,33,ad,word-ad-1229 word-ad-1230 word-ad-1231 word-ad-1232
-ad-294,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke_Zhuang_(personal_name)	conjunction	ask	say,,,,304,33,33,ad,word-ad-1233 word-ad-1234 word-ad-1235 word-ad-1236
-ad-295,OldChinese,𰻇 ⿰䏌又⿱皿 𡃣 又 道 𰲛,復	班	戰	有	道	乎,return	rang	war	have	way	modal_particle,,,,305,33,33,ad,word-ad-1237 word-ad-1238 word-ad-1239 word-ad-1240 word-ad-1241 word-ad-1242
-ad-296,OldChinese,𣌭 曰,答	曰,reply	say,,,,306,33,33,ad,word-ad-1243 word-ad-1244
-ad-297,OldChinese,又,有,have,,,,307,33,33,ad,word-ad-1245
-ad-298,OldChinese,既 𡃣 𰻇 ⿰谷象,既	戰	復	舍,already	war	return	camp,,,,308,33,33,ad,word-ad-1246 word-ad-1247 word-ad-1248 word-ad-1249
-ad-299,OldChinese,虎 命 於 軍 中,號	令	於	軍	中,issue	order_	preposition	troop	middle,,,,309,33,33,ad,word-ad-1250 word-ad-1251 word-ad-1252 word-ad-1253 word-ad-1254
-ad-300,OldChinese,曰,曰,say,,,,310,34,34,ad,word-ad-1255
-ad-301,OldChinese,纏 ⿸虍羍 利 兵,繕	甲	利	兵,repair	armour	benefit	weapon,,,,311,34,34,ad,word-ad-1256 word-ad-1257 word-ad-1258 word-ad-1259
-ad-302,OldChinese,⿱明示 日 𨟻 𡃣,明日	將	戰,tomorrow	aspectual_marker	war,,,,312,34,34,ad,word-ad-1260 word-ad-1261 word-ad-1262
-ad-303,OldChinese,測 ⿱臼亓⿰戈 厇 則,測	毀	度	傷,measure	destruction	estimate	injury,,,,313,34,34,ad,word-ad-1263 word-ad-1264 word-ad-1265 word-ad-1266
-ad-304,OldChinese,以 ⿰䏌又⿱皿 ⿺辶⿱亯京 行,以	班	就	行,conjunction	rang	go	march,,,,314,34,34,ad,word-ad-1267 word-ad-1268 word-ad-1269 word-ad-1270
-ad-305,OldChinese,凡 𲅭 車 ⿸虍羍,凡	失	車	甲,all	loose	chariot	armour,,,,315,34,34,ad,word-ad-1271 word-ad-1272 word-ad-1273 word-ad-1274
-ad-306,OldChinese,命 之 毋 行,命	之	無	行,order_	anaphoric_subtitute_of_the_object	negative_adverb	march,,,,316,34,34,ad,word-ad-1275 word-ad-1276 word-ad-1277 word-ad-1278
-ad-307,OldChinese,盟日 𨟻 𡃣,明日	將	戰,tomorrow	aspectual_marker	war,,,,317,34,34,ad,word-ad-1279 word-ad-1280 word-ad-1281
-ad-308,OldChinese,囟 為 歬 行,使	為	前	行,send	be	front	line,,,,318,34,34,ad,word-ad-1282 word-ad-1283 word-ad-1284 word-ad-1285
-ad-309,OldChinese,𫌣 人 𰙬 告,諜	人	來	告,spy	person	come	tell,,,,319,34,34,ad,word-ad-1286 word-ad-1287 word-ad-1288 word-ad-1289
-ad-310,OldChinese,曰,曰,say,,,,320,34,34,ad,word-ad-1290
-ad-311,OldChinese,亓 ⿺辶⿷匚羊 𰳭 既 飤,其	將	帥	既	食,possessive_pronoun	conduct	lead	already	eat,,,,321,34,34,ad,word-ad-1291 word-ad-1292 word-ad-1293 word-ad-1294 word-ad-1295
-ad-312,OldChinese,軙 連 皆 載,車	輦	皆	災,chariot	vehicule	all	damage,,,,322,35,35,ad,word-ad-1296 word-ad-1297 word-ad-1298 word-ad-1299
-ad-313,OldChinese,曰 𨟻 𱢦 行,曰	將	早	行,say	aspectual_marker	early	march,,,,323,35,35,ad,word-ad-1300 word-ad-1301 word-ad-1302 word-ad-1303
-ad-314,OldChinese,乃 命 白徒 𱢦 飤 𪭍 兵,乃	命	白徒	早	食	供	兵,conjunction	order	complementary_conscripts	early	eat	provide	weapon,,,,324,35,35,ad,word-ad-1304 word-ad-1305 word-ad-1306 word-ad-1307 word-ad-1308 word-ad-1309 word-ad-1310
-ad-315,OldChinese,各 載 尔 贓,各	載	爾	贓,each	carry	your	spoils,,,,325,35,35,ad,word-ad-1311 word-ad-1312 word-ad-1313 word-ad-1314
-ad-316,OldChinese,既 𡃣 𨟻 㙛,既	戰	將	敷,already	war	aspectual_marker	distribute,,,,326,35,35,ad,word-ad-1315 word-ad-1316 word-ad-1317 word-ad-1318
-ad-317,OldChinese,為 之 毋 ⿺怠⿹𠃌一,為	之	毋	怠,do	anaphoric_subtitute_of_the_object	negative_adverb	laziness,,,,327,35,35,ad,word-ad-1319 word-ad-1320 word-ad-1321 word-ad-1322
-ad-318,OldChinese,毋 囟 民 ⿱矣心 及,毋	使	民	疑	及,negative_adverb	let	people	doubt	conjunction,,,,328,35,35,ad,word-ad-1323 word-ad-1324 word-ad-1325 word-ad-1326 word-ad-1327
-ad-319,OldChinese,尔 龜 噬 皆 ⿱亠舛⿳几力 之,爾	龜	筮	皆	勝	之,your	turtle	achillea_stalks	all	win_	anaphoric_subtitute_of_the_object,,,,329,36,36,ad,word-ad-1328 word-ad-1329 word-ad-1330 word-ad-1331 word-ad-1332 word-ad-1333
-ad-320,OldChinese,改 𩕯 尔 鼔,改	調	爾	鼓,change	tone_	your	drum,,,,330,36,36,ad,word-ad-1334 word-ad-1335 word-ad-1336 word-ad-1337
-ad-321,OldChinese,乃 ⿺辶⿸㫃并 亓 ⿰力膚,乃	屏	其	虜,conjunction	get_rid_	possessive_pronoun	captive,,,,331,36,36,ad,word-ad-1338 word-ad-1339 word-ad-1340 word-ad-1341
-ad-322,OldChinese,盟日 𰻇 ⿰申戈 必 𱞃 亓 所,明日	復	陳	必	過	其	所,tomorrow	return	battle_array	must	pass	possessive_pronoun	place,,,,332,36,36,ad,word-ad-1342 word-ad-1343 word-ad-1344 word-ad-1345 word-ad-1346 word-ad-1347 word-ad-1348
-ad-323,OldChinese,此 𰻇 ⿰䏌又⿱皿 𡃣 之 道,此	復	班	戰	之	道,this	return	rang	war	conjunction	way,,,,333,36,36,ad,word-ad-1349 word-ad-1350 word-ad-1351 word-ad-1352 word-ad-1353 word-ad-1354
-ad-324,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke_Zhuang_(personal_name)	conjunction	ask	say,,,,334,36,36,ad,word-ad-1355 word-ad-1356 word-ad-1357 word-ad-1358
-ad-325,OldChinese,𰻇 甘 𡃣 又 道 𰲛,復	甘	戰	有	道	乎,return	easy	war	have	way	modal_particle,,,,335,36,36,ad,word-ad-1359 word-ad-1360 word-ad-1361 word-ad-1362 word-ad-1363 word-ad-1364
-ad-326,OldChinese,𣌭 曰,答	曰,reply	say,,,,336,37,37,ad,word-ad-1365 word-ad-1366
-ad-327,OldChinese,又,有,have,,,,337,37,37,ad,word-ad-1367
-ad-328,OldChinese,必 𰕡 以 戒,必	慎	以	戒,must	be_careful	preposition	warn,,,,338,37,37,ad,word-ad-1368 word-ad-1369 word-ad-1370 word-ad-1371
-ad-329,OldChinese,若 𨟻 弗 克,若	將	弗	克,modal_particle	aspectual_marker	negative_adverb	conquest,,,,339,37,37,ad,word-ad-1372 word-ad-1373 word-ad-1374 word-ad-1375
-ad-330,OldChinese,毋 目 以 ⿺辶售,毋	冒	以	進,negative_adverb	reckless	conjunction	advance,,,,340,37,37,ad,word-ad-1376 word-ad-1377 word-ad-1378 word-ad-1379
-ad-331,OldChinese,必 𱞃 歬 ⿰示工,必	過	前	功,must	pass	front	merit,,,,341,37,37,ad,word-ad-1380 word-ad-1381 word-ad-1382 word-ad-1383
-ad-332,OldChinese,賞 ⿰丹隻 詣 ⿰土𪪋,賞	獲	指	葸,admire	gain	point_	fear,,,,342,37,37,ad,word-ad-1384 word-ad-1385 word-ad-1386 word-ad-1387
-ad-333,OldChinese,以 ⿳亼吅隹⿰見⿱心 亓 志,以	勸	其	志,conjunction	exhort	possessive_pronoun	intention,,,,343,37,37,ad,word-ad-1388 word-ad-1389 word-ad-1390 word-ad-1391
-ad-334,OldChinese,㦷 者 憙 之,甬	者	喜	之,courageous	nominalization_marker	joy	anaphoric_subtitute_of_the_object,,,,344,37,37,ad,word-ad-1392 word-ad-1393 word-ad-1394 word-ad-1395
-ad-335,OldChinese,巟 者 ⿱毋心 之,慌	者	悔	之,anxious	nominalization_marker	blame	anaphoric_subtitute_of_the_object,,,,345,38,38,ad,word-ad-1396 word-ad-1397 word-ad-1398 word-ad-1399
-ad-336,OldChinese,萬 民 ⿰章欠⿱色 首 皆 ⿱八呂⿰欠 或 之,萬	民	黔	首	皆	欲	有	之,ten_thousand	people	black	head	all	want	have	anaphoric_subtitute_of_the_object,,,,346,38,38,ad,word-ad-1400 word-ad-1401 word-ad-1402 word-ad-1403 word-ad-1404 word-ad-1405 word-ad-1406 word-ad-1407
-ad-337,OldChinese,此 𰻇 甘 𡃣 之 道,此	復	甘	戰	之	道,this	return	fierce	war	conjunction	way,,,,347,38,38,ad,word-ad-1408 word-ad-1409 word-ad-1410 word-ad-1411 word-ad-1412 word-ad-1413
-ad-338,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke_Zhuang_(personal_name)	conjunction	ask	say,,,,348,38,38,ad,word-ad-1414 word-ad-1415 word-ad-1416 word-ad-1417
-ad-339,OldChinese,𰻇 ⿰古欠 𡃣 又 道 𰲛,復	苦	戰	有	道	乎,return	hard	war	have	way	modal_particle,,,,349,38,38,ad,word-ad-1418 word-ad-1419 word-ad-1420 word-ad-1421 word-ad-1422 word-ad-1423
-ad-340,OldChinese,𣌭 曰,答	曰,reply	say,,,,350,38,38,ad,word-ad-1424 word-ad-1425
-ad-341,OldChinese,又,有,have,,,,351,38,38,ad,word-ad-1426
-ad-342,OldChinese,收 而 聚 之 ⿱罒𣗥 而 厚 之,收	而	聚	之	束	而	厚	之,receive	conjunction	gather	anaphoric_subtitute_of_the_object	tie	conjunction	thick	anaphoric_subtitute_of_the_object,,,,352,38,38,ad,word-ad-1427 word-ad-1428 word-ad-1429 word-ad-1430 word-ad-1431 word-ad-1432 word-ad-1433 word-ad-1434
-ad-343,OldChinese,砫 賞 泊 型,重	賞	薄	刑,heavy	admire	thin	punish,,,,353,39,39,ad,word-ad-1435 word-ad-1436 word-ad-1437 word-ad-1438
-ad-344,OldChinese,囟 忘 亓 死 而 見 亓 生,使	忘	其	死	而	見	其	生,let	forget	possessive_pronoun	death	conjunction	see	conjunction	life,,,,354,39,39,ad,word-ad-1439 word-ad-1440 word-ad-1441 word-ad-1442 word-ad-1443 word-ad-1444 word-ad-1445 word-ad-1446
-ad-345,OldChinese,思 良 車 良 士 ⿺辶㞷 取 亓 餌,使	良	車	良	士	往	取	其	耳,let	good	chariot	good	dignitary	go	take	possessive_pronoun	ear,,,,355,39,39,ad,word-ad-1447 word-ad-1448 word-ad-1449 word-ad-1450 word-ad-1451 word-ad-1452 word-ad-1453 word-ad-1454 word-ad-1455
-ad-346,OldChinese,思 亓 志 ⿺辶己,使	其	志	起,let	possessive_pronoun	intention	raise,,,,356,39,39,ad,word-ad-1456 word-ad-1457 word-ad-1458 word-ad-1459
-ad-347,OldChinese,㦷 者 囟 憙,勇	者	使	喜,courageous	nominalization_marker	let	joy,,,,357,39,39,ad,word-ad-1460 word-ad-1461 word-ad-1462 word-ad-1463
-ad-348,OldChinese,⿰土𪪋 者 囟 ⿱毋心,葸	者	使	悔,fear	nominalization_marker	let	blame,,,,358,39,39,ad,word-ad-1464 word-ad-1465 word-ad-1466 word-ad-1467
-ad-349,OldChinese,肰句 改 ⿺怠⿹𠃌一,然後	改	怠,conjunction	change	laziness,,,,359,40,40,ad,word-ad-1468 word-ad-1469 word-ad-1470
-ad-350,OldChinese,此 𰻇 ⿰古欠 𡃣 之 道,此	復	苦	戰	之	道,this	return	hard	war	conjunction	way,,,,360,40,40,ad,word-ad-1471 word-ad-1472 word-ad-1473 word-ad-1474 word-ad-1475 word-ad-1476
-ad-351,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke_Zhuang_(personal_name)	conjunction	ask	say,,,,361,40,40,ad,word-ad-1477 word-ad-1478 word-ad-1479 word-ad-1480
-ad-352,OldChinese,攻 ⿳爫人系 女,攻	奚	如,assault	how	how,,,,362,40,40,ad,word-ad-1481 word-ad-1482 word-ad-1483
-ad-353,OldChinese,𣌭 曰,答	曰,reply	say,,,,363,40,40,ad,word-ad-1484 word-ad-1485
-ad-354,OldChinese,民 又 ⿱宀貨,民	有	寶,people	have	good,,,,364,40,40,ad,word-ad-1486 word-ad-1487 word-ad-1488
-ad-355,OldChinese,曰 城,曰	城,say	wall,,,,365,40,40,ad,word-ad-1489 word-ad-1490
-ad-356,OldChinese,曰 ⿷匸古,曰	固,say	fortress,,,,366,40,40,ad,word-ad-1491 word-ad-1492
-ad-357,OldChinese,曰 ⿱艸𠭯,曰	阻,say	strategic_pass,,,,367,40,40,ad,word-ad-1493 word-ad-1494
-ad-358,OldChinese,三 者 𦘔 甬,三	者	盡	用,three	nominalization_marker	all	use,,,,368,40,40,ad,word-ad-1495 word-ad-1496 word-ad-1497 word-ad-1498
-ad-359,OldChinese,不 皆,不	諧,negative_adverb	harmonize,,,,369,40,40,ad,word-ad-1499 word-ad-1500
-ad-360,OldChinese,邦 𪺏 以 忧,邦	家	以	忧,state	home	use	grief,,,,370,40,40,ad,word-ad-1501 word-ad-1502 word-ad-1503 word-ad-1504
-ad-361,OldChinese,善 攻 者 以 亓 所 又,善	攻	者	以	其	所	有,good	assault	nominalization_marker	use	nominalization_marker	nominalization_marker	have,,,,371,41,41,ad,word-ad-1505 word-ad-1506 word-ad-1507 word-ad-1508 word-ad-1509 word-ad-1510 word-ad-1511
-ad-362,OldChinese,以 攻 人 之 所 亡 又,以	攻	人	之	所	無	有,conjunction	assault	person	nominalization_marker	nominalization_marker	negative_adverb	have,,,,372,41,41,ad,word-ad-1512 word-ad-1513 word-ad-1514 word-ad-1515 word-ad-1516 word-ad-1517 word-ad-1518
-ad-363,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke_Zhuang_(personal_name)	conjunction	ask	say,,,,373,41,41,ad,word-ad-1519 word-ad-1520 word-ad-1521 word-ad-1522
-ad-364,OldChinese,善 獸 者 ⿳爫人系 女,善	守	者	奚	如,good	keep	nominalization_marker	how	how,,,,374,41,41,ad,word-ad-1523 word-ad-1524 word-ad-1525 word-ad-1526 word-ad-1527
-ad-365,OldChinese,𣌭 曰,答	曰,reply	say,,,,375,41,41,ad,word-ad-1528 word-ad-1529
-ad-366,OldChinese,亓 飤 必 足以 食 之,其	食	必	足以	食	之,possessive_pronoun	eat	must	be_sufficient	eat	anaphoric_subtitute_of_the_object,,,,376,41,41,ad,word-ad-1530 word-ad-1531 word-ad-1532 word-ad-1533 word-ad-1534 word-ad-1535
-ad-367,OldChinese,其 兵 足以 利 之,其	兵	足以	利	之,possessive_pronoun	weapon	be_sufficient	benefit	anaphoric_subtitute_of_the_object,,,,377,41,41,ad,word-ad-1536 word-ad-1537 word-ad-1538 word-ad-1539 word-ad-1540
-ad-368,OldChinese,亓 城 ⿷匸古 足以 ⿰干戈 之,其	城	固	足以	捍	之,possessive_pronoun	wall	fortress	be_sufficient	shield	anaphoric_subtitute_of_the_object,,,,378,42,42,ad,word-ad-1541 word-ad-1542 word-ad-1543 word-ad-1544 word-ad-1545 word-ad-1546
-ad-369,OldChinese,上 下 和 𠭯 咠,上	下	和	且	輯,superior	inferior	harmony	conjunction	concord,,,,379,42,42,ad,word-ad-1547 word-ad-1548 word-ad-1549 word-ad-1550 word-ad-1551
-ad-370,OldChinese,解 紀 於 大 ⿷匸或⿰阝,絓	紀	於	大	國,entangle	thread	preposition	big_	state,,,,380,42,42,ad,word-ad-1552 word-ad-1553 word-ad-1554 word-ad-1555 word-ad-1556
-ad-371,OldChinese,大 ⿷匸或⿰阝 ⿱木辛⿰斤⿱心 之,大	國	親	之,big_	state	parent	anaphoric_substitute_of_the_object,,,,381,42,42,ad,word-ad-1557 word-ad-1558 word-ad-1559 word-ad-1560
-ad-372,OldChinese,天下 ⿺辶己 之心 者侯 寡 ⿱矣心,天下	起	志	諸侯	寡	疑,world	raise	intention	noble	few	doubt,,,,382,42,42,ad,word-ad-1561 word-ad-1562 word-ad-1563 word-ad-1564 word-ad-1565 word-ad-1566
-ad-373,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke_Zhuang_(personal_name)	conjunction	ask	say,,,,383,42,42,ad,word-ad-1567 word-ad-1568 word-ad-1569 word-ad-1570
-ad-374,OldChinese,𫊟 又 所 䎽 之,吾	有	所	聞	之,I	have	nominalization_marker	hear	cataphoric_substitute_of_the_object,,,,384,42,42,ad,word-ad-1571 word-ad-1572 word-ad-1573 word-ad-1574 word-ad-1575
-ad-375,OldChinese,一 出 言,一	出	言,one_	exit	word,,,,385,42,42,ad,word-ad-1576 word-ad-1577 word-ad-1578
-ad-376,OldChinese,三 軍 皆 ⿳亼吅隹⿱心,三	軍	皆	歡,three	army	all	delight,,,,386,43,43,ad,word-ad-1579 word-ad-1580 word-ad-1581 word-ad-1582
-ad-377,OldChinese,一 出 言,一	出	言,one_	exit	word,,,,387,43,43,ad,word-ad-1583 word-ad-1584 word-ad-1585
-ad-378,OldChinese,三 軍 皆 ⿺辶寺,三	軍	皆	往,three	army	all	go,,,,388,43,43,ad,word-ad-1586 word-ad-1587 word-ad-1588 word-ad-1589
-ad-379,OldChinese,又 之 𰲛,有	之	乎,have	anaphoric_substitute_of_the_object	modal_particle,,,,389,43,43,ad,word-ad-1590 word-ad-1591 word-ad-1592
-ad-380,OldChinese,𣌭 曰,答	曰,reply	say,,,,390,43,43,ad,word-ad-1593 word-ad-1594
-ad-381,OldChinese,又 明 詑 於 𲌧 神,有	明	詑	於	鬼	神,have	bright	mislead	preposition	ghost	god,,,,391,43,43,ad,word-ad-1595 word-ad-1596 word-ad-1597 word-ad-1598 word-ad-1599 word-ad-1600
-ad-382,OldChinese,神 或,神	或,god	modal_particle,,,,392,43,43,ad,word-ad-1601 word-ad-1602
-ad-383,OldChinese,非 所 以 教 民,非	所	以	教	民,be_not	nominalization_marker	preposition	teach	people,,,,393,43,43,ad,word-ad-1603 word-ad-1604 word-ad-1605 word-ad-1606 word-ad-1607
-ad-384,OldChinese,唯 君 智 之,唯	君	知	之,modal_particle	her_majesty	know	anaphoric_substitute_of_the_object,,,,394,43,43,ad,word-ad-1608 word-ad-1609 word-ad-1610 word-ad-1611
-ad-385,OldChinese,此 先 王 至 道,此	先	王	至	道,this	previous	king	excellent	way,,,,395,43,43,ad,word-ad-1612 word-ad-1613 word-ad-1614 word-ad-1615 word-ad-1616
-ad-386,OldChinese,⿵戕口 公 曰,莊公	曰,duke_Zhuang_(personal_name)	say,,,,396,43,43,ad,word-ad-1617 word-ad-1618
-ad-387,OldChinese,⿳艸罒勿⿰攴 𫊟 言 氏 不 女,沫	吾	言	是	不	如,Mo_(personal_Name)	I	word	really	negative_adverb	compare,,,,397,44,44,ad,word-ad-1619 word-ad-1620 word-ad-1621 word-ad-1622 word-ad-1623 word-ad-1624
-ad-388,OldChinese,或者 少 道,或者	小	道,maybe	little	way,,,,398,44,44,ad,word-ad-1625 word-ad-1626 word-ad-1627
-ad-389,OldChinese,𫊟 一 欲 䎽 厽 弋 之 所,吾	一	欲	聞	三	代	之	所,I	one_	desire	hear	three_	dynasty	conjunction	nominalization_marker,,,,399,44,44,ad,word-ad-1628 word-ad-1629 word-ad-1630 word-ad-1631 word-ad-1632 word-ad-1633 word-ad-1634 word-ad-1635
-ad-390,OldChinese,⿱艸⿰告攴 ⿳艸罒勿⿰攴 𣌭 曰,曹沫	答	曰,Cao_Mo_(personal_name)	reply	say,,,,400,44,44,ad,word-ad-1636 word-ad-1637 word-ad-1638
-ad-391,OldChinese,臣 䎽 之,臣	聞	之,minister	hear	anaphoric_substitute_of_the_object,,,,401,44,44,ad,word-ad-1639 word-ad-1640 word-ad-1641
-ad-392,OldChinese,昔 之 ⿺辶己 於 天下 者,昔	之	起	於	天下	者,past	nominalization_marker	raise	preposition	world	nominalization_marker,,,,402,44,44,ad,word-ad-1642 word-ad-1643 word-ad-1644 word-ad-1645 word-ad-1646 word-ad-1647
-ad-393,OldChinese,各 以 亓 殜,各	以	其	世,each	use	possessive_pronoun	era,,,,403,44,44,ad,word-ad-1648 word-ad-1649 word-ad-1650 word-ad-1651
-ad-394,OldChinese,以 ⿱回又 亓 身,以	沒	其	身,conjunction	die	possessive_pronoun	body,,,,404,44,44,ad,word-ad-1652 word-ad-1653 word-ad-1654 word-ad-1655
-ad-395,OldChinese,含 與 古 亦 多 不 同 矣,今	與	古	亦	多	不	同	矣,today	conjunction	ancient	conjunction	much	negative_adverb	same	modal_particle,,,,405,45,45,ad,word-ad-1656 word-ad-1657 word-ad-1658 word-ad-1659 word-ad-1660 word-ad-1661 word-ad-1662 word-ad-1663
-ad-396,OldChinese,臣 是古 不 敢 以 古 𣌭,臣	是故	不	敢	以	古	答,minister	conjunction	negative_adverb	dare	preposition	ancient	reply,,,,406,45,45,ad,word-ad-1664 word-ad-1665 word-ad-1666 word-ad-1667 word-ad-1668 word-ad-1669 word-ad-1670
-ad-397,OldChinese,肰 而 亦 古 亦 又 大 道 𱙁,然	而	亦	古	亦	有	大	道	焉,like_this	conjunction	conjunction	ancient	conjunction	have	big	way	in_it,,,,407,45,45,ad,word-ad-1671 word-ad-1672 word-ad-1673 word-ad-1674 word-ad-1675 word-ad-1676 word-ad-1677 word-ad-1678 word-ad-1679
-ad-398,OldChinese,必 龏 ⿱僉曰 以 𠭁 之,必	恭	儉	以	得	之,must	cherish	frugality	conjunction	obtain	anaphoric_substitute_of_the_object,,,,408,45,45,ad,word-ad-1680 word-ad-1681 word-ad-1682 word-ad-1683 word-ad-1684 word-ad-1685
-ad-399,OldChinese,而 ⿱九高 大 以 ⿺辶⿱止羍 之,而	驕	泰	以	失	之,conjunction	take_pride	pomp	conjunction	loose	anaphoric_substitute_of_the_object,,,,409,45,45,ad,word-ad-1686 word-ad-1687 word-ad-1688 word-ad-1689 word-ad-1690 word-ad-1691
-ad-400,OldChinese,君 亓 亦 唯 䎽 夫 㙑 湯 ⿰力桀 受 矣,君	其	亦	唯	聞	夫	禹	湯	桀	紂	矣,her_majesty	modal_particle	conjunction	modal_particle	hear	modal_particle	Yu_(person_name)	Tang_(person_name)	Jie_(person_name)	Zhou_(person_name)	modal_particle,,,,410,45,45,ad,word-ad-1692 word-ad-1693 word-ad-1694 word-ad-1695 word-ad-1696 word-ad-1697 word-ad-1698 word-ad-1699 word-ad-1700 word-ad-1701 word-ad-1702
-ad-401,OldChinese,敢 𣌭,敢	答,dare	reply,,,,411,46,46,ad,word-ad-1703 word-ad-1704
-ad-402,OldChinese,肰 而 亦 古,然	而	亦	古,like_this	conjunction	conjunction	ancient,,,,412,46,46,ad,word-ad-1705 word-ad-1706 word-ad-1707 word-ad-1708
+ID,Language_ID,Primary_Text,Analyzed_Word,Gloss,Translated_Text,Meta_Language_ID,Comment,Number,Slip_ID,Slip_Number,Text_ID,Word_IDS,Middle_Chinese_Reading,Old_Chinese_Reading,Cognacy
+ad-1-1,OldChinese,魯 ⿵戕口 公 𨟻 為 大 鍾,魯	莊公	將	為	大	鍾,Lu.(place.name)	duke.Zhuang.(personal.name)	aspect.marker	do	big	bell,,,,1,ad-1,1,ad,word-1 word-2 word-3 word-4 word-5 word-6,luX tsrjang tsjang hjwe dajH tsyowng,! *r.ŋˤaʔ *[ts]raŋ *[ts]aŋ ! *ɢʷ(r)aj *lˤa[t]-s *toŋ,
+ad-1-2,OldChinese,型 既 成 矣,型	既	成	矣,shape	aspect.marker	finish	modal.particle,,,,2,ad-1,1,ad,word-7 word-8 word-9 word-10,heng kj+jH dzyeng hiX,*gˤeŋ *[k]ə[t]-s *m-[d]eŋ *qəʔ,
+ad-1-3,OldChinese,⿱艸⿰告攴 ⿳艸罒木⿰攴 內 見,曹沫	入	見,Cao.Mo.(personal.name)	enter	see,,,,3,ad-1,1,ad,word-11 word-12 word-13,dzaw nyip henH,*N-tsˤu *n[u]p ! *N-[k]ˤen-s,
+ad-1-4,OldChinese,曰,曰,say,,,,4,ad-1,1,ad,word-14,hjwot,*[ɢ]ʷat,
+ad-1-5,OldChinese,昔 周 室 之 ⿰土丰 𲅭 也,昔	周	室	之	封	魯	也,past	Zhou.(clan.name)	house	nominalization.marker	enfeoff	Lu.(place.name)	modal.particle,,,,5,ad-1,1,ad,word-15 word-16 word-17 word-18 word-19 word-19 word-20,sjek tsyuw syit tsyi pjowng luX yaeX,*[s]Ak *tiw *s.ti[t] *tə *p(r)oŋ ! *r.ŋˤaʔ *lAjʔ,
+ad-1-6,OldChinese,東 西 七 百 南 北 五 百,東	西	七	百	南	北	五	百,east	west	seven	hundred	south	north	five	hundred,,,,6,ad-1,1,ad,word-21 word-22 word-23 word-24 word-25 word-26 word-27 word-27,tuwng sej tshit paek nom pok nguX paek,*tˤoŋ *s-nˤər *[tsʰ]i[t] *pˤrak *nˤ[ə]m *pˤək *C.ŋˤaʔ *pˤrak,
+ad-1-7,OldChinese,非 山 非 澤,彼	山	彼	澤,that	mountain	that	marsh,,,,7,ad-1,1,ad,word-28 word-29 word-29 word-30,pjeX srean pjeX draek,*pajʔ *s-ŋrar *pajʔ *lˤrak,
+ad-1-8,OldChinese,⿱屮亡 又 不 民,無	有	不	民,not.have	have	not	people,,,,8,ad-1,1,ad,word-31 word-32 word-33 word-34,mju hjuwX pjuw mjin,*ma *[ɢ]ʷəʔ *pə *mi[ŋ],
+ad-2-9,OldChinese,含 ⿰土丰 ⿱爾心 少 而 鍾 ⿳亼八月⿱心 大,今	封	彌	小	而	鍾	愈	大,today	fief	more	small	conjunction	bell	more	big,,,,9,ad-2,2,ad,word-35 word-35 word-36 word-37 word-38 word-38 word-39 word-39,kim pjowng mjie sjewX nyi tsyowng yuX dajH,*[k]r[ə]m *p(r)oŋ *m-nə[r] *[s]ewʔ *nə *toŋ *loʔ *lˤa[t]-s,
+ad-2-10,OldChinese,君 亓 ⿱者心 之 也,君	其	圖	之	也,her.majesty	modal.particle	intend	anaphoric.substitute.of.the.object	modal.particle,,,,10,ad-2,2,ad,word-40 word-41 word-42 word-42 word-42,kjun gi du tsyi yaeX,*C.qur *gə *[d]ˤa *tə *lAjʔ,
+ad-2-11,OldChinese,昔 堯 之 卿 ⿳允火土 也,昔	堯	之	饗	舜	也,past	Yao.(personal.name)	conjunction	banquet	Shun.(personal.name)	modal.particle,,,,11,ad-2,2,ad,word-42 word-43 word-43 word-44 word-45 word-45,sjek ngew tsyi xjangX sywinH yaeX,*[s]Ak *[ŋ]ˤew *tə *qʰaŋʔ *[s.t]u[n]-s *lAjʔ,
+ad-2-12,OldChinese,飯 於 於 ⿰車缶,飯	於	土	塯,eat	preposition	terracotta	vessel,,,,12,ad-2,2,ad,word-46 word-47 word-48 word-49,bjonX u thuX pjuwX,*bo[n]ʔ *[ʔ]ˤa *tʰˤaʔ *p(r)uʔ,
+ad-2-13,OldChinese,⿱叕心⿰欠 於 土 型,欼	於	土	鉶,drink	preposition	terracotta	cup,,,,13,ad-2,2,ad,word-50 word-50 word-50 word-51,tsrhiX u thuX heng,*s.tʰrə *[ʔ]ˤa *tʰˤaʔ *gˤeŋ,
+ad-2-14,OldChinese,而 ⿱宀亡 又 天下,而	撫	有	天下,conjunction	appease	have	world,,,,14,ad-2,2,ad,word-51 word-52 word-52 word-53,nyi phjuX hjuwX then,*nə *[pʰ](r)aʔ *[ɢ]ʷəʔ *l̥ˤi[n],
+ad-2-15,OldChinese,此 不 貧 於 㪜 而 ⿱畐貝 於 惪 與,此	不	貧	於	美	而	富	於	德	歟,this	negative.adverb	poor	preposition	beauty	conjunction	rich	preposition	virtue	modal.particle,,,,15,ad-2,2,ad,word-54 word-54 word-55 word-55 word-56 word-56 word-57 word-57 word-58 word-59,tshjeX pjuw bin u mijX nyi pjuwH u tok yo,*[tsʰ]e(j)ʔ *pə *[b]rə[n] *[ʔ]ˤa *[m]rəjʔ *nə *pək-s *[ʔ]ˤa *tˤək *ɢ(r)a(ʔ)(-s),
+ad-3-16,OldChinese,昔 周 室 又 戒 言 曰,昔	周	室	有	戒	言	曰,past	Zhou.(clan.name)	house	have	warn	word	say,,,,16,ad-3,3,ad,word-59 word-59 word-59 word-59 word-60 word-61 word-61,sjek tsyuw syit hjuwX keajH ngjon hjwot,*[s]Ak *tiw *s.ti[t] *[ɢ]ʷəʔ *kˤrək-s ! *ŋa[n] *[ɢ]ʷat,
+ad-3-17,OldChinese,牪 尔 正 ⿰示工,願	而	正	功,desire	conjunction	contend	merit,,,,17,ad-3,3,ad,word-62 word-62 word-63 word-64,ngjwonH nyi tsyengH kuwng,*[ŋ]o[n]-s *nə *teŋ-s *kˤoŋ,
+ad-3-18,OldChinese,不 牪 而 或 興,不	願	而	域	興,negative.adverb	desire	conjunction	territory	flourish,,,,18,ad-3,3,ad,word-64 word-64 word-64 word-65 word-66,pjuw ngjwonH nyi hwik xing,*pə *[ŋ]o[n]-s *nə *[ɢ]ʷrək *qʰ(r)əŋ,
+ad-3-19,OldChinese,或 康 以 兇,域	康	以	凶,territory	tranquil	preposition	misfortune,,,,19,ad-3,3,ad,word-66 word-67 word-68 word-69,hwik khang yiX xjowng,*[ɢ]ʷrək ! *k-r̥ˤaŋ *ləʔ *qʰ(r)oŋ,
+ad-3-20,OldChinese,保 ⿰弓⿱口二 必 ⿱亠舛⿳几力,保	疆	必	勝,guard	strong	must	win,,,,20,ad-3,3,ad,word-70 word-71 word-72 word-73,pawX kjang pjit sying,*pˤuʔ *kaŋ *pi[t] *l̥əŋ,
+ad-3-21,OldChinese,可以 又 ⿲糸台⿹𠃌一 邦,可以	有	治	邦,can	have	govern	state,,,,21,ad-3,3,ad,word-74 word-74 word-75 word-76,khaX hjuwX dri paewng,*[k]ʰˤa[j]ʔ *[ɢ]ʷəʔ *C.lrə *pˤroŋ,
+ad-3-22,OldChinese,周 ⿱艸⿰口寺 是 廌,周志	是	存,Zhou.zhi.(Documents)	this	be.present,,,,22,ad-3,3,ad,word-77 word-78 word-79,tsyuw dzyeX dzwon,*tiw *[d]eʔ *[dz]ˤə[n],
+ad-4-23,OldChinese,⿵戕口 公 曰,莊公	曰,duke.Zhuang.(personal.name)	say,,,,23,ad-4,4,ad,word-79 word-79,tsrjang hjwot,*[ts]raŋ *[ɢ]ʷat,
+ad-4-24,OldChinese,今 天下 之 君子 既 可 智 已,今	天下	之	君子	既	可	知	已,today	world	conjunction	the.noble.man	aspect.marker	can	know	modal.particle,,,,24,ad-4,4,ad,word-79 word-79 word-79 word-80 word-80 word-81 word-82 word-83,kim then tsyi kjun kj+jH khaX trje yiX,*[k]r[ə]m *l̥ˤi[n] *tə *C.qur ! *[k]ə[t]-s *[k]ʰˤa[j]ʔ *tre *ɢ(r)əʔ,
+ad-4-25,OldChinese,⿱艸亯 能 并 兼 人 才,孰	能	併	兼	人	哉,who	can	unite	together	person	modal.particle,,,,25,ad-4,4,ad,word-84 word-85 word-86 word-87 word-88 word-89,dzyuwk noj beangX kem nyin tsoj,*[d]uk *nˤə *bˤreŋʔ / *bˤreŋ-s / *bˤeŋʔ / *peŋʔ / *peŋ-s  *[k]ˤem *ni[ŋ] *[ts]ˤə,
+ad-4-26,OldChinese,⿱艸⿰告攴 ⿳艸罒戍 曰,曹沫	曰,Cao.Mo.(personal.name)	say,,,,26,ad-4,4,ad,word-89 word-89,dzaw hjwot,*N-tsˤu *[ɢ]ʷat,
+ad-4-27,OldChinese,君 亓 毋 員,君	其	毋	云,her.majesty	modal.particle	negative.adverb	say,,,,27,ad-4,4,ad,word-89 word-89 word-90 word-91,kjun gi mju hjun,*C.qur *gə *mo *[ɢ]ʷə[n],
+ad-4-28,OldChinese,臣 䎽 之 曰,臣	聞	之	曰,minister	hear	cataphoric.substitute.of.the.object	say,,,,28,ad-4,4,ad,word-92 word-93 word-93 word-93,dzyin mjun tsyi hjwot,*[g]i[ŋ] *mu[n] *tə *[ɢ]ʷat,
+ad-4-29,OldChinese,⿳厸文心 邦 之 君 明,鄰	邦	之	君	明,neighbor	state	conjunction	sovereign	enlighten,,,,29,ad-4,4,ad,word-94 word-94 word-94 word-94 word-95,lin paewng tsyi kjun mjaeng,*(mə.)rə[n] *pˤroŋ *tə *C.qur *mraŋ,
+ad-4-30,OldChinese,則 不 可以 不 攸 政 而 善 於 民,則	不	可以	不	修	政	而	善	於	民,conjunction	negative.adverb	can	negative.adverb	improve	government	conjunction	good	preposition	people,,,,30,ad-4,4,ad,word-96 word-96 word-96 word-96 word-97 word-98 word-98 word-99 word-99 word-99,tsok pjuw khaX pjuw sjuw tsyengH nyi dzyenX u mjin,*[ts]ˤək *pə *[k]ʰˤa[j]ʔ *pə *s-liw *teŋ-s *nə *[d]a[n]ʔ *[ʔ]ˤa *mi[ŋ],
+ad-6-31,OldChinese,不 肰,不	然,negative.adverb	like.that,,,,31,ad-6,6,ad,word-99 word-100,pjuw nyen,*pə *[n]a[n],
+ad-6-32,OldChinese,⿱工心 亡 𱙁,恐	亡	焉,fear	perish	in.it,,,,32,ad-6,6,ad,word-101 word-102 word-103,khjowngX mjang jen,*kʰ(r)oŋʔ *maŋ *[ʔ]a[n],
+ad-6-33,OldChinese,⿱厸文 邦 之 君 亡 道,鄰	邦	之	君	亡	道,neighbor	state	conjunction	sovereign	not.have	way,,,,33,ad-6,6,ad,word-103 word-103 word-103 word-103 word-103 word-104,lin paewng tsyi kjun mjang dawX,*(mə.)rə[n] *pˤroŋ *tə *C.qur *maŋ *[kə.l]ˤuʔ,
+ad-6-34,OldChinese,則 亦 不 可以 不 攸 政 而 善 於 民,則	亦	不	可以	不	修	政	而	善	於	民,conjunction	aso	negative.adverb	can	negative.adverb	improve	government	conjunction	good	preposition	people,,,,34,ad-6,6,ad,word-104 word-105 word-105 word-105 word-105 word-105 word-105 word-105 word-105 word-105 word-105,tsok yek pjuw khaX pjuw sjuw tsyengH nyi dzyenX u mjin,*[ts]ˤək ! *ɢ(r)Ak *pə *[k]ʰˤa[j]ʔ *pə *s-liw *teŋ-s *nə *[d]a[n]ʔ *[ʔ]ˤa *mi[ŋ],
+ad-6-35,OldChinese,不 肰,不	然,negative.adverb	like.that,,,,35,ad-6,6,ad,word-105 word-105,pjuw nyen,*pə *[n]a[n],
+ad-6-36,OldChinese,亡 以 取 之,亡	以	取	之,not.have	preposition	take	anaphoric.substitute.of.the.object,,,,36,ad-6,6,ad,word-105 word-105 word-106 word-106,mjang yiX tshuwX tsyi,*maŋ *ləʔ *tsʰˤoʔ *tə,
+ad-6-37,OldChinese,莊公 曰,莊公	曰,duke.Zhuang.(personal.name)	say,,,,37,ad-6,6,ad,word-106 word-106,tsrjang hjwot,*[ts]raŋ *[ɢ]ʷat,
+ad-6-38,OldChinese,昔 沱胉 語 寡人 曰,昔	施伯	語	寡人	曰,past	Shi.Bo.(personal.name)	tell	I.miserable	say,,,,38,ad-6,6,ad,word-106 word-107 word-108 word-109 word-109,sjek da ngjoH kwaeX hjwot,*[s]Ak *l̥aj ŋ(r)aʔ-s *[C.k]ʷˤraʔ *[ɢ]ʷat,
+ad-6-39,OldChinese,君子 𠭁 之 ⿺辶⿱止羍 之,君子	得	之	失	之,the.noble.man	obtain	this	loose	this,,,,39,ad-6,6,ad,word-109 word-110 word-110 word-111 word-111,kjun tsiX tsyi syit tsyi,*C.qur ! *tˤək *tə *l̥i[t] *tə,
+ad-6-40,OldChinese,天 命,天	命,heave	mandate,,,,40,ad-6,6,ad,word-112 word-113,then mjaengH,*l̥ˤi[n] *m-riŋ-s,
+ad-6-41,OldChinese,含 異 於 尔 言,今	異	於	爾	言,today	different	preposition	you	word,,,,41,ad-6,6,ad,word-113 word-114 word-114 word-115 word-115,kim yiH u nyeX ngjon,*[k]r[ə]m *ɢ(r)ək-s *[ʔ]ˤa *n[ə][r]ʔ ! *ŋa[n],
+ad-6-42,OldChinese,⿱艸⿰告攴 ⿳艸罒勿⿰攴 曰,曹沫	曰,Cao.Mo.(personal.name)	say,,,,42,ad-6,6,ad,word-115 word-115,dzaw hjwot,*N-tsˤu *[ɢ]ʷat,
+ad-6-43,OldChinese,無 以 異 於 臣 之 言 也,無	以	異	於	臣	之	言	也,not.have	preposition	different	preposition	minister	conjunction	word	modal.particle,,,,43,ad-6,6,ad,word-115 word-115 word-115 word-115 word-115 word-115 word-115 word-115,mju yiX yiH u dzyin tsyi ngjon yaeX,*ma *ləʔ *ɢ(r)ək-s *[ʔ]ˤa *[g]i[ŋ] *tə ! *ŋa[n] *lAjʔ,
+ad-6-44,OldChinese,君 弗 𦘔,君	弗	盡,her.majesty	negative.adverb	fully.understand,,,,44,ad-6,6,ad,word-115 word-116 word-117,kjun pjut tsinX,*C.qur ! *put *tsi[n]ʔ,
+ad-6-45,OldChinese,臣 䎽 之 曰,臣	聞	之	曰,minister	hear	cataphoric.substitute.of.the.object	say,,,,45,ad-6,6,ad,word-117 word-117 word-117 word-117,dzyin mjun tsyi hjwot,*[g]i[ŋ] *mu[n] *tə *[ɢ]ʷat,
+ad-7-46,OldChinese,君子 以 ⿰臣⿱口又 ⿱爯又 而 ⿺辶⿱止羍 之,君子	以	賢	稱	而	失	之,the.noble.man	preposition	sage	denomination	conjunction	loose	anaphoric.substitute.of.the.object,,,,46,ad-7,7,ad,word-117 word-117 word-118 word-119 word-119 word-119 word-119,kjun yiX hen tsyhing nyi syit tsyi,*C.qur *ləʔ *[g]ˤi[n] *tʰəŋ *nə *l̥i[t] *tə,
+ad-7-47,OldChinese,天 命,天	命,heaven	mandate,,,,47,ad-7,7,ad,word-119 word-119,then mjaengH,*l̥ˤi[n] *m-riŋ-s,
+ad-7-48,OldChinese,以 無 道 ⿱爯又 而 ⿱回又 身 ⿺辶⿱亯京 殜,以	無	道	稱	而	沒	身	就	世,preposition	not.have	way	denomination	conjunction	extinguish	body	go	era,,,,48,ad-7,7,ad,word-119 word-119 word-119 word-119 word-119 word-120 word-121 word-122 word-123,yiX mju dawX tsyhing nyi mwot syin dzjuwH syejH,*ləʔ *ma *[kə.l]ˤuʔ *tʰəŋ *nə *mˤut *n̥i[ŋ] *[dz]u[k]-s *l̥ap-s,
+ad-7-49,OldChinese,亦 天 命,亦	天	命,also	heaven	mandate,,,,49,ad-7,7,ad,word-123 word-123 word-123,yek then mjaengH,! *ɢ(r)Ak *l̥ˤi[n] *m-riŋ-s,
+ad-7-50,OldChinese,不 肰,不	然,negative.adverb	like.that,,,,50,ad-7,7,ad,word-123 word-123,pjuw nyen,*pə *[n]a[n],
+ad-7-51,OldChinese,君子 以 ⿰臣⿱口又 ⿱爯又,君子	以	賢	稱,the.noble.man	preposition	sage	denomination,,,,51,ad-7,7,ad,word-123 word-123 word-123 word-123,kjun yiX hen tsyhing,*C.qur *ləʔ *[g]ˤi[n] *tʰəŋ,
+ad-7-52,OldChinese,害 又 弗 𠭁,曷	有	弗	得,how	have	negative.adverb	obtain,,,,52,ad-7,7,ad,word-124 word-124 word-124 word-124,hat hjuwX pjut tok,*[g]ˤat *[ɢ]ʷəʔ ! *put *tˤək,
+ad-7-53,OldChinese,以 無 道 ⿱爯又,以	無	道	稱,preposition	not.have	way	denomination,,,,53,ad-7,7,ad,word-124 word-124 word-124 word-124,yiX mju dawX tsyhing,*ləʔ *ma *[kə.l]ˤuʔ *tʰəŋ,
+ad-7-54,OldChinese,害 又 弗 ⿺辶⿱止羍,曷	有	弗	失,how	have	negative.adverb	loose,,,,54,ad-7,7,ad,word-124 word-124 word-124 word-124,hat hjuwX pjut syit,*[g]ˤat *[ɢ]ʷəʔ ! *put *l̥i[t],
+ad-7-55,OldChinese,⿵戕口 公 曰,莊公	曰,duke.Zhuang.(personal.name)	say,,,,55,ad-7,7,ad,word-124 word-124,tsrjang hjwot,*[ts]raŋ *[ɢ]ʷat,
+ad-7-56,OldChinese,㬎 才,顯	哉,apparent	modal.particle,,,,56,ad-7,7,ad,word-125 word-125,xenX tsoj,*qʰˤenʔ *[ts]ˤə,
+ad-8-57,OldChinese,𫊟 䎽 此 言,吾	聞	此	言,I	hear	this	word,,,,57,ad-8,8,ad,word-126 word-126 word-126 word-126,ngu mjun tshjeX ngjon,*ŋˤa *mu[n] *[tsʰ]e(j)ʔ ! *ŋa[n],
+ad-8-58,OldChinese,乃 命 毀 鍾 型 而 聖 邦 正,乃	命	毀	鍾	型	而	聽	邦	政,conjunction	order	destroy	bell	shape	conjunction	listen	state	government,,,,58,ad-8,8,ad,word-127 word-127 word-128 word-128 word-128 word-128 word-129 word-129 word-129,nojX mjaengH xjweX tsyowng heng nyi theng paewng tsyengH,! *nˤə(ŋ)ʔ *m-riŋ-s *[m̥](r)ajʔ *toŋ *gˤeŋ *nə *l̥ˤeŋ *pˤroŋ *teŋ-s,
+ad-8-59,OldChinese,不 晝 ⿱宀𱟜,不	晝	寢,negative.adverb	day	sleep,,,,59,ad-8,8,ad,word-129 word-130 word-131,pjuw trjuwH tshimX,*pə *truk-s *[tsʰ]imʔ,
+ad-8-60,OldChinese,不 酓 ,不	飲,negative.adverb	drink.wine,,,,60,ad-8,8,ad,word-131 word-132,pjuw imX,*pə *q(r)[u]mʔ,
+ad--,OldChinese,,酒,,,,,61,ad-,9,ad,word-133,tsjuwX,*tsuʔ,
+ad-8-61,OldChinese,不 聖 樂,不	聽	樂,negative.adverb	listen	music,,,,62,ad-8,10,ad,word-133 word-133 word-134,pjuw theng ngaewk,*pə *l̥ˤeŋ *[ŋ]ˤrawk,
+ad-8-62,OldChinese,居 不 𧜼 ⿳民且又,居	不	褻	文,stay	negative.adverb	dress	adorn,,,,63,ad-8,10,ad,word-135 word-135 word-136 word-137,kjo pjuw sjet mjun,*k(r)a *pə *s-ŋet *mə[n],
+ad-8-63,OldChinese,飤 不 ⿹弍月 ⿲弓采弓⿱皿,食	不	貳	羹,eat	negative.adverb	duplicate	soup,,,,64,ad-8,10,ad,word-138 word-138 word-139 word-140,zyik pjuw nyijH kaeng,*mə-lək *pə *ni[j]-s *kˤraŋ,
+ad-8-64,OldChinese,兼㤅 萬民,兼愛	萬民,universal.love	thousand.people,,,,65,ad-8,10,ad,word-141 word-142,kem mjonH,*[k]ˤem *C.ma[n]-s,
+ad-8-65,OldChinese,而 亡 又 厶 也,而	亡	有	私	也,conjunction	negative.adverb	have	private.interest	modal.particle,,,,66,ad-8,10,ad,word-142 word-142 word-142 word-143 word-143,nyi mjang hjuwX sij yaeX,*nə *maŋ *[ɢ]ʷəʔ *[s]əj *lAjʔ,
+ad-8-66,OldChinese,還 年 而 ⿱宀䎽 於 ⿱艸⿰告攴 ⿳艸罒⿹戈禾 曰,還	年	而	問	於	曹沫	曰,following	year	conjunction	ask	preposition	Cao.Mo.(personal.name)	say,,,,67,ad-8,10,ad,word-144 word-145 word-145 word-146 word-146 word-146 word-146,hwaen nen nyi mjunH u dzaw hjwot,*[ɢ]ʷˤen *C.nˤi[ŋ] *nə *C.mu[n]-s *[ʔ]ˤa *N-tsˤu *[ɢ]ʷat,
+ad-9-67,OldChinese,𫊟 欲 與 齊 𡃣,吾	欲	與	齊	戰,I	desire	preposition	Qi.(place.name)	war,,,,68,ad-9,11,ad,word-146 word-147 word-148 word-149 word-150,ngu yowk yoX dzej tsyenH,*ŋˤa *ɢ(r)ok *m-q(r)aʔ *[dz]ˤəj *tar-s,
+ad-9-68,OldChinese,䎽 ⿰申戈 ⿳爫人系 女,問	陳	奚	如,ask	battle.array	how	how,,,,69,ad-9,11,ad,word-150 word-151 word-152 word-153,mjunH drin hej nyo,*C.mu[n]-s *lri[n] *[g]ˤe *na,
+ad-9-69,OldChinese,𰡧 𬪟 城 ⿳爫人系 女,守	邊	城	奚	如,preserve	frontier	town	how	how,,,,70,ad-9,11,ad,word-154 word-155 word-156 word-156 word-156,syuwH pen dzyeng hej nyo,*s.tuʔ-s *pˤe[n] *[d]eŋ *[g]ˤe *na,
+ad-9-70,OldChinese,⿱艸⿰告攴 ⿳艸罒人⿰攴 𣌭 曰,曹沫	答	曰,Cao.Mo.(personal.name)	reply	say,,,,71,ad-9,11,ad,word-156 word-157 word-157,dzaw top hjwot,*N-tsˤu *[t]ˤ[u]p *[ɢ]ʷat,
+ad-9-71,OldChinese,臣 䎽 之,臣	聞	之,minister	hear	this,,,,72,ad-9,11,ad,word-157 word-157 word-157,dzyin mjun tsyi,*[g]i[ŋ] *mu[n] *tə,
+ad-9-72,OldChinese,又 固 ⿱母心 而 亡 固 城,有	固	謀	而	亡	固	城,have	solid	plan	conjunction	not.have	solid	town,,,,73,ad-9,11,ad,word-157 word-158 word-159 word-159 word-159 word-159 word-159,hjuwX kuH mjuw nyi mjang kuH dzyeng,*[ɢ]ʷəʔ *[k]ˤa-s *mə *nə *maŋ *[k]ˤa-s *[d]eŋ,
+ad-9-73,OldChinese,又 克 正 而 亡 克 ⿰申戈,有	克	正	而	亡	克	陳,have	capable	government	conjunction	not.have	capable	battle.array,,,,74,ad-9,11,ad,word-159 word-160 word-160 word-160 word-160 word-160 word-160,hjuwX khok tsyengH nyi mjang khok drin,*[ɢ]ʷəʔ *kʰˤək *teŋ-s *nə *maŋ *kʰˤək *lri[n],
+ad-10-74,OldChinese,三 弋 之 ⿰申戈 𦘔 廌,三	代	之	陳	盡	存,three	dynasty	conjunction	battle.array	all	be.present,,,,75,ad-10,12,ad,word-161 word-162 word-162 word-162 word-162 word-162,sam dojH tsyi drin tsinX dzwon,*s.rum *lˤək-s *tə *lri[n] *tsi[n]ʔ *[dz]ˤə[n],
+ad-10-75,OldChinese,或 以 克,或	以	克,some	preposition	defeat,,,,76,ad-10,12,ad,word-163 word-163 word-163,hwok yiX khok,*[ɢ]ʷˤək *ləʔ *kʰˤək,
+ad-10-76,OldChinese,或 以 亡,或	以	亡,some	preposition	flee,,,,77,ad-10,12,ad,word-163 word-163 word-163,hwok yiX mjang,*[ɢ]ʷˤək *ləʔ *maŋ,
+ad-10-77,OldChinese,𠭯 臣 之 䎽 之,且	臣	之	聞	之,conjunction	minister	conjunction	hear	this,,,,78,ad-10,12,ad,word-164 word-164 word-164 word-164 word-164,tsjo dzyin tsyi mjun tsyi,*tsa *[g]i[ŋ] *tə *mu[n] *tə,
+ad-10-78,OldChinese,少 邦 之 大 邦 之 ⿵門⿰夕刀,小	邦	居	大	邦	之間,small	state	stay	big	state	between,,,,79,ad-10,12,ad,word-164 word-164 word-164 word-164 word-164 word-165,sjewX paewng kjo dajH paewng tsyi,*[s]ewʔ *pˤroŋ *k(r)a *lˤa[t]-s *pˤroŋ *tə,
+ad-10-79,OldChinese,啻 邦 立 陀,敵	邦	交	地,enemy	state	exchange	land,,,,80,ad-10,12,ad,word-166 word-166 word-167 word-168,dek paewng kaew dijH,*[d]ˤek *pˤroŋ *[k]ˤraw *[l]ˤej-s,
+ad-10-80,OldChinese,不 可以 先 𰆺 悁,不	可以	先	作	怨,negative.adverb	can	before	do	complain,,,,81,ad-10,12,ad,word-168 word-168 word-169 word-170 word-171,pjuw khaX sen tsuH jwonH,*pə *[k]ʰˤa[j]ʔ *sˤər *[ts]ˤak-s *[ʔ]o[r]-s,
+ad-10-81,OldChinese,疆 ⿱陀土 毋 先,疆	地	毋	先,border	land	negative.adverb	before,,,,82,ad-10,12,ad,word-171 word-171 word-171 word-171,kjang dijH mju sen,*kaŋ *[l]ˤej-s *mo *sˤər,
+ad-10-82,OldChinese,而 必 取 𱙁,而	必	取	焉,conjunction	must	take	in.it,,,,83,ad-10,12,ad,word-171 word-171 word-171 word-171,nyi pjit tshuwX jen,*nə *pi[t] *tsʰˤoʔ *[ʔ]a[n],
+ad-11-83,OldChinese,所 以 佢 𬪟,所	以	拒	邊,nominalization.marker	preposition	resist	frontier,,,,84,ad-11,13,ad,word-172 word-172 word-173 word-173,srjoX yiX gjoX pen,! *s-qʰaʔ *ləʔ *g(r)aʔ *pˤe[n],
+ad-11-84,OldChinese,毋 㤅 貨 ⿰月次⿱貝 子 女,毋	愛	貨	資	子	女,negative.adverb	love	commodities	goods	son	woman,,,,85,ad-11,13,ad,word-173 word-174 word-175 word-176 word-177 word-178,mju ojH xwaH tsij tsiX nrjoX,*mo *[q]ˤə[p]-s *qʷʰˤaj-s *[ts]ij ! *[ts]əʔ *nraʔ,
+ad-11-85,OldChinese,以 事 亓 ⿰亻𰆴 ⿺辶卑,以	事	其	便嬖,conjunction	serve	possessive.pronoun	advisors.and.favourites,,,,86,ad-11,13,ad,word-178 word-179 word-179 word-180,yiX dzriH gi bjien,*ləʔ *[m-s-]rəʔ-s *gə *[b]e[n],
+ad-11-86,OldChinese,所 以 佢 內,所	以	拒	內,nominalization.marker	preposition	resist	inside,,,,87,ad-11,13,ad,word-180 word-180 word-180 word-181,srjoX yiX gjoX nop,! *s-qʰaʔ *ləʔ *g(r)aʔ ! *nˤ[u]p,
+ad-11-87,OldChinese,成 𩫏 必 攸,城	郭	必	修,town	outskirts	must	improve,,,,88,ad-11,13,ad,word-181 word-182 word-182 word-182,dzyeng kwak pjit sjuw,*[d]eŋ *kʷˤak *pi[t] *s-liw,
+ad-11-88,OldChinese,纏 ⿸虍羍 利 兵,繕	甲	利	兵,fortify	weapon	benefit	armour,,,,89,ad-11,13,ad,word-183 word-184 word-185 word-186,dzyenH kaep lijH pjaeng,*[d]a[n]ʔ-s *[k]ˤr[a]p *C.ri[t]-s *praŋ,
+ad-11-89,OldChinese,必 又 𡃣 心,必	有	戰	心,must	have	war	heart,,,,90,ad-11,13,ad,word-186 word-186 word-186 word-187,pjit hjuwX tsyenH sim,*pi[t] *[ɢ]ʷəʔ *tar-s *səm,
+ad-11-90,OldChinese,以 𡃣 所 以 為 倀 也,以	戰	所	以	為	長	也,conjunction	war	nominalization.marker	preposition	be	head	modal.particle,,,,91,ad-11,13,ad,word-187 word-187 word-187 word-187 word-187 word-188 word-188,yiX tsyenH srjoX yiX hjwe drjang yaeX,*ləʔ *tar-s ! *s-qʰaʔ *ləʔ ! *ɢʷ(r)aj *Cə-[N]-traŋ *lAjʔ,
+ad-11-91,OldChinese,⿰虘又 臣 之 䎽 之,且	臣	之	聞	之,conjunction	minister	nominalization.marker	hear	cataphoric.substitute.of.the.object,,,,92,ad-11,13,ad,word-188 word-188 word-188 word-188 word-188,tsjo dzyin tsyi mjun tsyi,*tsa *[g]i[ŋ] *tə *mu[n] *tə,
+ad-12-92,OldChinese,不 和 於 邦,不	和	於	邦,negative.adverb	harmony	preposition	state,,,,93,ad-12,14,ad,word-188 word-189 word-189 word-189,pjuw hwa u paewng,*pə *[ɢ]ˤoj *[ʔ]ˤa *pˤroŋ,
+ad-12-93,OldChinese,不 可以 出 ⿰谷象⿱土,不	可以	出	舍,negative.adverb	can	exit	barracks,,,,94,ad-12,14,ad,word-189 word-189 word-190 word-191,pjuw khaX tsyhwijH syaeH,*pə *[k]ʰˤa[j]ʔ *t-kʰut-s ! *[l̥]Ak-s,
+ad-12-94,OldChinese,不 和 ⿰谷象⿱土,不	和	舍,negative.adverb	harmony	barracks,,,,97,ad-12,14,ad,word-191 word-191 word-191,pjuw hwa syaeH,*pə *[ɢ]ˤoj ! *[l̥]Ak-s,
+ad-12-49,OldChinese,於,於,preposition,,,,96,ad-12,14,ad,word-191,u,*[ʔ]ˤa,
+ad-12-95,OldChinese,不 可以 出 ⿰申戈,不	可以	出	陳,negative.adverb	can	exit	battle.array,,,,98,ad-12,14,ad,word-191 word-191 word-191 word-191,pjuw khaX tsyhwijH drin,*pə *[k]ʰˤa[j]ʔ *t-kʰut-s *lri[n],
+ad-12-96,OldChinese,不 和 於 ⿰申戈,不	和	於	陳,negative.adverb	harmony	preposition	battle.array,,,,99,ad-12,14,ad,word-191 word-191 word-191 word-191,pjuw hwa u drin,*pə *[ɢ]ˤoj *[ʔ]ˤa *lri[n],
+ad-12-97,OldChinese,不 可以 出 𡃣,不	可以	出	戰,negative.adverb	can	exit	war,,,,100,ad-12,14,ad,word-191 word-191 word-191 word-191,pjuw khaX tsyhwijH tsyenH,*pə *[k]ʰˤa[j]ʔ *t-kʰut-s *tar-s,
+ad-12-98,OldChinese,是古 夫 ⿰申戈 者,是故	夫	陳	者,conjunction	modal.particle	battle.array	nominalization.marker,,,,101,ad-12,14,ad,word-192 word-193 word-193 word-194,dzyeX bju drin tsyaeX,*[d]eʔ ! *ba *lri[n] *tAʔ,
+ad-12-99,OldChinese,三 ⿱爻言 之 末,三	教	之	末,three	teaching	conjunction	peak,,,,102,ad-12,14,ad,word-194 word-195 word-195 word-196,sam kaewH tsyi mat,*s.rum *s.kˤraw-s *tə *mˤat,
+ad-12-100,OldChinese,君 必 不 已,君	必	不	已,her.majesty	must	negative.adverb	give.up,,,,103,ad-12,14,ad,word-196 word-196 word-196 word-196,kjun pjit pjuw yiX,*C.qur *pi[t] *pə *ɢ(r)əʔ,
+ad-12-101,OldChinese,則 䌛 亓 ⿱臼木 𰲛,則	由	其	本	乎,conjunction	follow	possessive.pronoun	root	modal.particle,,,,104,ad-12,14,ad,word-196 word-197 word-197 word-198 word-199,tsok yuw gi pwonX hu,*[ts]ˤək *l[u] *gə *C.pˤə[n]ʔ *ɢˤa,
+ad-13-102,OldChinese,⿵戕口 公 曰,莊公	曰,duke.Zhuang.(personal.name)	say,,,,105,ad-13,15,ad,word-199 word-199,tsrjang hjwot,*[ts]raŋ *[ɢ]ʷat,
+ad-13-103,OldChinese,為 和 於 邦 女可,為	和	於	邦	如何,be	harmony	preposition	state	how,,,,106,ad-13,15,ad,word-199 word-199 word-199 word-199 word-200,hjwe hwa u paewng nyo,! *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *pˤroŋ *na,
+ad-13-104,OldChinese,⿱艸⿰告攴 ⿳艸罒勿⿰攴 𣌭 曰,曹沫	答	曰,Cao.Mo.(personal.name)	reply	say,,,,107,ad-13,15,ad,word-200 word-200 word-200,dzaw top hjwot,*N-tsˤu *[t]ˤ[u]p *[ɢ]ʷat,
+ad-13-105,OldChinese,毋 ⿰禾隻 民 旹,毋	穫	民	時,negative.adverb	cut	people	time,,,,108,ad-13,15,ad,word-200 word-201 word-201 word-202,mju hwak mjin dzyi,*mo *m-qʷˤak *mi[ŋ] *[d]ə,
+ad-13-106,OldChinese,毋 敚 民 利,毋	奪	民	利,negative.adverb	take.by.force	people	benefit,,,,109,ad-13,15,ad,word-202 word-203 word-203 word-203,mju dwat mjin lijH,*mo *Cə.lˤot *mi[ŋ] *C.ri[t]-s,
+ad-13-107,OldChinese,⿰糹畕 ⿰示工 而 飤,陳	功	而	食,explain	merit	conjunction	reward.with.food,,,,110,ad-13,15,ad,word-203 word-203 word-203 word-203,drin kuwng nyi zyik,*lri[n] *kˤoŋ *nə *mə-lək,
+ad-13-108,OldChinese,型 罰 又 辠,刑	罰	有	罪,punish	execute	have	crime,,,,111,ad-13,15,ad,word-204 word-205 word-205 word-206,heng bjot hjuwX dzwojX,*[ɢ]ˤeŋ *[b][a]t *[ɢ]ʷəʔ *[dz]ˤujʔ,
+ad-13-109,OldChinese,而 賞 𰪖 又 惪,而	賞	爵	有	德,conjunction	reward	honour	have	virtue,,,,112,ad-13,15,ad,word-206 word-207 word-208 word-208 word-208,nyi syangX tsjak hjuwX tok,*nə *s-taŋʔ *[ts]ewk *[ɢ]ʷəʔ *tˤək,
+ad-13-110,OldChinese,凡 畜 群 臣,凡	畜	群	臣,all	cattle	group	minister,,,,113,ad-13,15,ad,word-209 word-210 word-211 word-211,bjuwng trhjuwH gjun dzyin,*bəŋ *qʰuk-s *[g]ur *[g]i[ŋ],
+ad-14-111,OldChinese,貴 俴 同 𣥕 ,貴	賤	同	等,noble	vulgar	same	rang,,,,114,ad-14,16,ad,word-212 word-213 word-214 word-215,kjw+jH dzjenH duwng tongX,*kuj-s *[dz][a][n]-s *lˤoŋ *tˤəŋʔ,
+ad-14-112,OldChinese,髢 ⿱夕录 毋 ⿱伓貝,施	祿	毋	倍,give	emolument	negative.adverb	double,,,,115,ad-14,16,ad,word-216 word-217 word-217 word-218,sye luwk mju bwojX,*l̥aj *[r]ˤok *mo *[b]ˤəʔ,
+ad-14-113,OldChinese,詩 於 又 之,詩	於	有	之,Odes	preposition	have	cataphoric.substitute.of.the.object,,,,116,ad-14,16,ad,word-219 word-219 word-219 word-219,syi u hjuwX tsyi,*s.tə *[ʔ]ˤa *[ɢ]ʷəʔ *tə,
+ad-14-114,OldChinese,曰,曰,say,,,,117,ad-14,16,ad,word-219,hjwot,*[ɢ]ʷat,
+ad-14-115,OldChinese,幾 俤 君子,愷	悌	君子,serene	happy	the.noble.man,,,,118,ad-14,16,ad,word-220 word-221 word-221,khojX dejH kjun,*C.qʰˤəjʔ *lˤəjʔ-s *C.qur,
+ad-14-116,OldChinese,民 之 父 母,民	之	父	母,people	conjunction	father	mother,,,,119,ad-14,16,ad,word-221 word-221 word-222 word-223,mjin tsyi pjuX muwX,*mi[ŋ] *tə *p(r)aʔ *məʔ,
+ad-14-117,OldChinese,此 所 以,此	所	以,this	nominalization.marker	preposition,,,,120,ad-14,16,ad,word-223 word-223 word-223,tshjeX srjoX yiX,*[tsʰ]e(j)ʔ ! *s-qʰaʔ *ləʔ,
+ad-14-118,OldChinese,為 和 於 邦,為	和	於	邦,be	harmony	preposition	state,,,,121,ad-14,16,ad,word-223 word-223 word-223 word-223,hjwe hwa u paewng,! *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *pˤroŋ,
+ad-14-119,OldChinese,⿵戕口 公 曰,莊公	曰,duke.Zhuang.(personal.name)	say,,,,122,ad-14,16,ad,word-223 word-223,tsrjang hjwot,*[ts]raŋ *[ɢ]ʷat,
+ad-14-120,OldChinese,為 和 於 ⿰谷象⿱土 女之可,為	和	於	舍	如之何,be	harmony	preposition	barracks	how,,,,123,ad-14,16,ad,word-223 word-223 word-223 word-223 word-224,hjwe hwa u syaeH nyo,! *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa ! *[l̥]Ak-s *na,
+ad-14-121,OldChinese,⿱艸⿰告攴 ⿳艸罒勿⿰攴 曰,曹沫	曰,Cao.Mo.(personal.name)	say,,,,124,ad-14,16,ad,word-224 word-224,dzaw hjwot,*N-tsˤu *[ɢ]ʷat,
+ad-15-122,OldChinese,三 軍 大 出,三	軍	大	出,three	army	big	exit,,,,125,ad-15,17,ad,word-224 word-225 word-225 word-225,sam kjun dajH tsyhwijH,*s.rum *[k]ʷər *lˤa[t]-s *t-kʰut-s,
+ad-15-123,OldChinese,君 自 𰳭,君	自	率,the.noble.man	self	lead,,,,126,ad-15,17,ad,word-225 word-226 word-227,kjun dzijH lwit,*C.qur *s.[b]i[t]-s  ! *[r]ut,
+ad-15-124,OldChinese,必 又 二 𨟻 軍,必	有	二	將軍,must	have	two	general,,,,127,ad-15,17,ad,word-227 word-227 word-228 word-229,pjit hjuwX nyijH tsjang,*pi[t] *[ɢ]ʷəʔ *ni[j]-s *[ts]aŋ,
+ad-15-125,OldChinese,毋 𨟻 軍,無	將軍,not.have	general,,,,128,ad-15,17,ad,word-229 word-229,mju tsjang,*ma *[ts]aŋ,
+ad-15-126,OldChinese,必 又 𬣏 ⿺辶卑 大夫,必	有	數	嬖	大夫,must	have	number	favourite	grandees,,,,129,ad-15,17,ad,word-229 word-229 word-230 word-231 word-232,pjit hjuwX sraewk pejH dajH,*pi[t] *[ɢ]ʷəʔ *s-rok *pˤek-s *lˤa[t]-s,
+ad-15-127,OldChinese,毋 ⿺辶卑 大夫,無	嬖	大夫,not.have	favourite	grandees,,,,130,ad-15,17,ad,word-232 word-232 word-232,mju pejH dajH,*ma *pˤek-s *lˤa[t]-s,
+ad-15-128,OldChinese,必 又 𬣏 大 官 之 帀 公孫 公子,必	有	數	大	官	之	師	公孫	公子,must	have	number	great	official	conjunction	multitude?	nephew.of.a.duke	son.of.a.duke,,,,131,ad-15,17,ad,word-232 word-232 word-232 word-232 word-233 word-233 word-234 word-235 word-236,pjit hjuwX sraewk dajH kwan tsyi srij kuwng kuwng,*pi[t] *[ɢ]ʷəʔ *s-rok *lˤa[t]-s *kʷˤa[n] *tə *srij *C.qˤoŋ *C.qˤoŋ,
+ad-15-129,OldChinese,凡 又 司 𰳭 倀 民 者,凡	有	司	率	長	民	者,all	have	administer	lead	conduct	people	nominalization.marker,,,,132,ad-15,17,ad,word-236 word-236 word-237 word-237 word-237 word-237 word-237,bjuwng hjuwX si lwit drjang mjin tsyaeX,*bəŋ *[ɢ]ʷəʔ *s-lə ! *[r]ut *Cə-[N]-traŋ *mi[ŋ] *tAʔ,
+ad-16-130,OldChinese,毋 角 ⿱竹隹,無	祿	爵,negative.adverb	emolument	honour,,,,133,ad-16,18,ad,word-237 word-237 word-237,mju luwk tsjak,*ma *[r]ˤok *[ts]ewk,
+ad-16-131,OldChinese,毋 从 軍 而 辟 辠,無	從	軍	而	避	罪,negative.adverb	follow	army	conjunction	avoid	crime,,,,134,ad-16,18,ad,word-237 word-238 word-238 word-238 word-239 word-239,mju dzjowng kjun nyi bjieH dzwojX,*ma *tsoŋ *[k]ʷər *nə *[b]ek-s *[dz]ˤujʔ,
+ad-16-132,OldChinese,同,同,unite,,,,135,ad-16,18,ad,word-239,duwng,*lˤoŋ,
+ad-16-133,OldChinese,都 而 ⿱爻言 於 邦,都	而	教	於	邦,assembly	conjunction	teaching	preposition	state,,,,136,ad-16,18,ad,word-240 word-240 word-240 word-240 word-240,tu nyi kaewH u paewng,*tˤa *nə *s.kˤraw-s *[ʔ]ˤa *pˤroŋ,
+ad-16-134,OldChinese,則 亓 𣌭 之 不 難,則	其	合	之	不	難,conjunction	modal.particle	unite	anaphoric.substitute.of.the.object	negative.adverb	difficult,,,,137,ad-16,18,ad,word-240 word-240 word-241 word-241 word-241 word-242,tsok gi hop tsyi pjuw nan,*[ts]ˤək *gə *m-kˤop *tə *pə *nˤar,
+ad-16-135,OldChinese,所 以 為 和 於 ⿰谷象⿱土,所	以	為	和	於	舍,nominalization.marker	preposition	be	harmony	preposition	barracks,,,,138,ad-16,18,ad,word-242 word-242 word-242 word-242 word-242 word-242,srjoX yiX hjwe hwa u syaeH,! *s-qʰaʔ *ləʔ ! *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa ! *[l̥]Ak-s,
+ad-16-136,OldChinese,⿵戕口 公 或 䎽,莊公	又	問,duke.Zhuang.(personal.name)	conjunction	ask,,,,139,ad-16,18,ad,word-242 word-243 word-243,tsrjang hjuwH mjunH,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s,
+ad-16-137,OldChinese,為 和 於 ⿰申戈 女之可,為	和	於	陳	如之何,be	harmony	preposition	battle.array	how,,,,140,ad-16,18,ad,word-243 word-243 word-243 word-243 word-243,hjwe hwa u drin nyo,! *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *lri[n] *na,
+ad-16-138,OldChinese,𣌭 曰,答	曰,reply	say,,,,141,ad-16,18,ad,word-243 word-243,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-16-139,OldChinese,車 ⿵門⿰夕刀 容 伍,車	間	容	伍,chariot	between	contain	group.of.five,,,,142,ad-16,18,ad,word-244 word-245 word-246 word-247,tsyhae hean yowng nguX,*[t.qʰ](r)A ! *N-kˤre[n] *[ɢ](r)oŋ *C.ŋˤaʔ,
+ad-17-140,OldChinese,伍 ⿵門⿰夕刀 容 兵,伍	間	容	兵,group.of.five	between	contain	weapon,,,,143,ad-17,19,ad,word-247 word-247 word-247 word-247,nguX hean yowng pjaeng,*C.ŋˤaʔ ! *N-kˤre[n] *[ɢ](r)oŋ *praŋ,
+ad-17-141,OldChinese,貴 位 砫 飤,貴	位	重	食,noble	place	give.weight.to	eat,,,,144,ad-17,19,ad,word-247 word-248 word-249 word-249,kjw+jH hwijH drjowng zyik,*kuj-s *[ɢ]ʷrəp-s *[m]-troŋ *mə-lək,
+ad-17-142,OldChinese,思 為 歬 行,使	為	前	行,let	be	front	march,,,,145,ad-17,19,ad,word-250 word-250 word-251 word-252,sriH hjwe dzen haeng,! *s-rəʔ-s ! *ɢʷ(r)aj *[dz]ˤen *[g]ˤaŋ,
+ad-17-143,OldChinese,厽 行 之 𨒥,三	行	之	後,three	line	conjunction	after,,,,146,ad-17,19,ad,word-252 word-252 word-252 word-253,sam haeng tsyi huwX,*s.rum *[g]ˤaŋ *tə *[ɢ]ˤ(r)oʔ,
+ad-17-145,OldChinese,句 見 耑 兵,茍	見	短	兵,must	see	short	weapon,,,,147,ad-17,19,ad,word-254 word-254 word-255 word-255,kik henH twanX pjaeng,*[k]ˤ(r)oʔ ! *N-[k]ˤen-s *tˤorʔ *praŋ,
+ad-17-146,OldChinese,⿰十攴 五 之 ⿵門⿰夕刀,十	五	之間,ten	five	between,,,,148,ad-17,19,ad,word-256 word-256 word-256,dzyip nguX tsyi,*t.[g]əp *C.ŋˤaʔ *tə,
+ad-17-147,OldChinese,必 又 公孫 公子,必	有	公孫	公子,must	have	nephew.of.a.duke	son.of.a.duke,,,,149,ad-17,19,ad,word-256 word-256 word-256 word-256,pjit hjuwX kuwng kuwng,*pi[t] *[ɢ]ʷəʔ *C.qˤoŋ *C.qˤoŋ,
+ad-17-148,OldChinese,是 胃 軍 紀,是	謂	軍	紀,this	call	military	discipline,,,,150,ad-17,19,ad,word-256 word-257 word-257 word-258,dzyeX hjw+jH kjun kiX,*[d]eʔ *[ɢ]ʷə[t]-s *[k]ʷər *k(r)əʔ,
+ad-17-149,OldChinese,五 人 以 ⿰五攴,五	人	以	伍,five	person	preposition	make.a.group.of.five,,,,151,ad-17,19,ad,word-258 word-258 word-258 word-258,nguX nyin yiX nguX,*C.ŋˤaʔ *ni[ŋ] *ləʔ *C.ŋˤaʔ,
+ad-18-150,OldChinese,一 人 又 多,一	人	有	多,one	person	have	merit,,,,152,ad-18,20,ad,word-259 word-259 word-259 word-260,jit nyin hjuwX ta,*ʔi[t] *ni[ŋ] *[ɢ]ʷəʔ *[t.l]ˤaj,
+ad-18-151,OldChinese,四 人 皆 賞,四	人	皆	賞,four	person	all	admire,,,,153,ad-18,20,ad,word-261 word-261 word-262 word-262,sijH nyin keaj syangX,*s.li[j]-s *ni[ŋ] *kˤrij *s-taŋʔ,
+ad-18-152,OldChinese,所 以 為 ⿰叀刀,所	以	為	敦,nominalization.marker	preposition	be	encourage,,,,154,ad-18,20,ad,word-262 word-262 word-262 word-263,srjoX yiX hjwe twoj,! *s-qʰaʔ *ləʔ ! *ɢʷ(r)aj *tˤur,
+ad-18-153,OldChinese,毋 𬅸 ⿰丹隻 而 𬅸 䎽 命,毋	尚	獲	而	尚	聞	命,negative.adverb	admire	gain	conjunction	admire	hear	order,,,,155,ad-18,20,ad,word-263 word-264 word-265 word-265 word-265 word-265 word-265,mju dzyangH hweak nyi dzyangH mjun mjaengH,*mo *[d]aŋ-s *m-qʷˤrak *nə *[d]aŋ-s *mu[n] *m-riŋ-s,
+ad-18-154,OldChinese,所 以 為 毋 退,所	以	為	毋	退,nominalization.marker	preposition	be	not.have	retire,,,,156,ad-18,20,ad,word-265 word-265 word-265 word-265 word-266,srjoX yiX hjwe mju thwojH,! *s-qʰaʔ *ləʔ ! *ɢʷ(r)aj *mo *n̥ˤ[u]p-s,
+ad-18-155,OldChinese,⿺辶⿷匚羊 車 以 車,將	車	以	車,conduct	chariot	preposition	chariot,,,,157,ad-18,20,ad,word-266 word-266 word-266 word-266,tsjang tsyhae yiX tsyhae,*[ts]aŋ *[t.qʰ](r)A *ləʔ *[t.qʰ](r)A,
+ad-18-156,OldChinese,𰳭 徒 以 徒,率	徒	以	徒,lead	infantry	preposition	infantry,,,,158,ad-18,20,ad,word-266 word-267 word-267 word-267,lwit du yiX du,! *[r]ut *[d]ˤa *ləʔ *[d]ˤa,
+ad-18-157,OldChinese,所 以 同 死 於 民,所	以	同	死	於	民,nominalization.marker	preposition	together	die	preposition	people,,,,159,ad-18,20,ad,word-267 word-267 word-267 word-268 word-268 word-268,srjoX yiX duwng sijX u mjin,! *s-qʰaʔ *ləʔ *lˤoŋ *sijʔ *[ʔ]ˤa *mi[ŋ],
+ad-18-158,OldChinese,⿵戕口 公 曰,莊公	曰,duke.Zhuang.(personal.name)	say,,,,160,ad-18,20,ad,word-268 word-268,tsrjang hjwot,*[ts]raŋ *[ɢ]ʷat,
+ad-18-159,OldChinese,此 三 者 足以 𡃣 𰲛,此	三	者	足以	戰	乎,this	three	nominalization.marker	sufficient	war	modal.particle,,,,161,ad-18,20,ad,word-268 word-268 word-268 word-269 word-269 word-269,tshjeX sam tsyaeX tsjuH tsyenH hu,*[tsʰ]e(j)ʔ *s.rum *tAʔ *[ts]ok-s *tar-s *ɢˤa,
+ad-19-160,OldChinese,𣌭 曰,答	曰,reply	say,,,,162,ad-19,21,ad,word-269 word-269,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-19-161,OldChinese,戒 ⿱亠舛⿳几力 ⿺怠⿹𠃌一,戒	勝	怠,warn	win	laziness,,,,163,ad-19,21,ad,word-269 word-269 word-270,keajH sying dojX,*kˤrək-s *l̥əŋ *lˤəʔ,
+ad-19-162,OldChinese,果 ⿱亠舛⿳几力 ⿱矣心,果	勝	疑,solve	win	doubt,,,,164,ad-19,21,ad,word-271 word-271 word-272,kwaX sying ngi,*[k]ˤo[r]ʔ *l̥əŋ *[ŋ](r)ə,
+ad-19-163,OldChinese,⿰見辛 𰳭 ⿱亠舛⿳几力 ⿳⺊日又,親	率	勝	使,personally	lead	win	envoy,,,,165,ad-19,21,ad,word-273 word-273 word-273 word-273,tshin lwit sying sriH,*[tsʰ]i[n] ! *[r]ut *l̥əŋ ! *s-rəʔ-s,
+ad-19-164,OldChinese,不 ⿰見辛 則 不 ⿰叀刀 也,不	親	則	不	敦	也,negative.adverb	personally	conjunction	negative.adverb	encourage	modal.particle,,,,166,ad-19,21,ad,word-273 word-273 word-273 word-273 word-273 word-273,pjuw tshin tsok pjuw twoj yaeX,*pə *[tsʰ]i[n] *[ts]ˤək *pə *tˤur *lAjʔ,
+ad-19-165,OldChinese,不 和 則 不 咠,不	和	則	不	輯,negative.adverb	harmony	conjunction	negative.adverb	concord,,,,167,ad-19,21,ad,word-273 word-273 word-273 word-273 word-274,pjuw hwa tsok pjuw dzip,*pə *[ɢ]ˤoj *[ts]ˤək *pə *[dz][u]p,
+ad-19-166,OldChinese,不 義 則 不 備,不	義	則	不	服,negative.adverb	righteous	negative.adverb	negative.adverb	obey,,,,168,ad-19,21,ad,word-274 word-275 word-275 word-275 word-276,pjuw ngjeH tsok pjuw bjuwk,*pə *ŋ(r)aj-s *[ts]ˤək *pə *[b]ək,
+ad-19-167,OldChinese,⿵戕口 公 或 䎽,莊公	又	問,duke.Zhuang.(personal.name)	conjunction	ask,,,,169,ad-19,21,ad,word-276 word-276 word-276,tsrjang hjuwH mjunH,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s,
+ad-19-168,OldChinese,為 女可,為	如何,be	how,,,,172,ad-19,21,ad,word-276 word-276,hjwe nyo,! *ɢʷ(r)aj *na,
+ad-19-169,OldChinese,⿱木辛⿰斤⿱心 𣌭 曰,親	答	曰,parent	reply	say,,,,173,ad-19,21,ad,word-276 word-276 word-276,tshin top hjwot,*[tsʰ]i[n] *[t]ˤ[u]p *[ɢ]ʷat,
+ad-20-170,OldChinese,君 毋 嘼 自 𬡤,君	毋	憚	自	勞,her.majesty	negative.adverb	fear	reflexive.pronoun	work,,,,174,ad-20,22,ad,word-276 word-276 word-277 word-277 word-278,kjun mju danH dzijH law,*C.qur *mo *dˤar-s  *s.[b]i[t]-s *[r]ˤaw,
+ad-20-171,OldChinese,以 ⿳亼吅隹⿰見⿰阝 𬅸 下 之 情 為,以	觀	上	下	之	情	偽,conjunction	see	superior	inferior	conjunction	emotion	false,,,,175,ad-20,22,ad,word-278 word-279 word-280 word-281 word-281 word-282 word-283,yiX kwan dzyangH haeH tsyi dzjeng ngjweH,*ləʔ *C.qʷˤar *daŋʔ-s *m-gˤraʔ-s *tə *[dz]eŋ ! *N-ɢʷ(r)aj-s,
+ad-20-172,OldChinese,佖夫 寡婦 之 獄訟 君 必 身 聖 之,匹夫	寡婦	之	獄訟	君	必	身	聽	之,common.man	widow	conjunction	process	her.majesty	must	personally	listen	anaphoric.substitute.of.the.object,,,,176,ad-20,22,ad,word-284 word-285 word-285 word-286 word-286 word-286 word-286 word-286 word-286,phjit kwaeX tsyi ngjowk kjun pjit syin theng tsyi,*pʰi[t] *[C.k]ʷˤraʔ *tə *[ŋ]rok *C.qur *pi[t] *n̥i[ŋ] *l̥ˤeŋ *tə,
+ad-20-173,OldChinese,又 智 不 足,又	知	不	足,conjunction	know	negative.adverb	sufficient,,,,177,ad-20,22,ad,word-286 word-286 word-286 word-287,hjuwH trje pjuw tsjuH,*[ɢ]ʷəʔ-s *tre *pə *[ts]ok-s,
+ad-20-174,OldChinese,亡 所 不 中,無	所	不	中,not.have	nominalization.marker	negative.adverb	moderation,,,,178,ad-20,22,ad,word-287 word-287 word-287 word-288,mju srjoX pjuw trjuwng,*ma ! *s-qʰaʔ *pə *truŋ,
+ad-20-175,OldChinese,則 民 ⿱木辛⿰斤⿱心 之,則	民	親	之,conjunction	people	parent	anaphoric.substitute.of.the.object,,,,179,ad-20,22,ad,word-288 word-288 word-288 word-288,tsok mjin tshin tsyi,*[ts]ˤək *mi[ŋ] *[tsʰ]i[n] *tə,
+ad-20-176,OldChinese,⿵戕口 公 或 䎽,莊公	又	問,duke.Zhuang.(personal.name)	conjunction	ask,,,,180,ad-20,22,ad,word-288 word-288 word-288,tsrjang hjuwH mjunH,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s,
+ad-21-177,OldChinese,為 和 女可,為	和	如何,be	harmony	how,,,,181,ad-21,23,ad,word-288 word-288 word-288,hjwe hwa nyo,! *ɢʷ(r)aj *[ɢ]ˤoj *na,
+ad-21-178,OldChinese,𣌭 曰,答	曰,reply	say,,,,182,ad-21,23,ad,word-288 word-288,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-21-179,OldChinese,毋 辟 於 ⿺辶𰆴 ⿺辶卑,毋	嬖	於	便	嬖,negative.adverb	favour	preposition	relatives	favourite,,,,183,ad-21,23,ad,word-288 word-288 word-288 word-289 word-289,mju pejH u bjien pejH,*mo *pˤek-s *[ʔ]ˤa *[b]e[n] *pˤek-s,
+ad-21-180,OldChinese,毋 倘 於 ⿰兄㞷,毋	長	於	兄,negative.adverb	conduct	preposition	elder.brother,,,,184,ad-21,23,ad,word-289 word-289 word-289 word-290,mju drjang u xjwaeng,*mo *Cə-[N]-traŋ *[ʔ]ˤa *m̥raŋ,
+ad-21-181,OldChinese,賞 ⿱昀土 聖 中,賞	均	聽	中,admire	even	listen	moderation,,,,185,ad-21,23,ad,word-290 word-291 word-291 word-291,syangX kjwin theng trjuwng,*s-taŋʔ *C.qʷi[n] *l̥ˤeŋ *truŋ,
+ad-21-182,OldChinese,則 民 和 之,則	民	和	之,conjunction	people	harmony	anaphoric.substitute.of.the.object,,,,186,ad-21,23,ad,word-291 word-291 word-291 word-291,tsok mjin hwa tsyi,*[ts]ˤək *mi[ŋ] *[ɢ]ˤoj *tə,
+ad-21-183,OldChinese,或 䎽,又	問,conjunction	ask,,,,187,ad-21,23,ad,word-291 word-291,hjuwH mjunH,*[ɢ]ʷəʔ-s *C.mu[n]-s,
+ad-21-184,OldChinese,為 義 女之可,為	義	如之何,be	righteous	how,,,,188,ad-21,23,ad,word-291 word-291 word-291,hjwe ngjeH nyo,! *ɢʷ(r)aj *ŋ(r)aj-s *na,
+ad-21-185,OldChinese,𣌭 曰,答	曰,reply	say,,,,189,ad-21,23,ad,word-291 word-291,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-21-186,OldChinese,⿰糹⿱屮畕 ⿰示工 上 ⿰臣⿱口又,陳	功	尚	賢,explain	merit	admire	sage,,,,190,ad-21,23,ad,word-291 word-291 word-291 word-291,drin kuwng dzyangH hen,*lri[n] *kˤoŋ *[d]aŋ-s *[g]ˤi[n],
+ad-21-187,OldChinese,能 ⿲糸台⿹𠃌一 百 人,能	治	百	人,can	govern	thousand	person,,,,191,ad-21,23,ad,word-291 word-291 word-291 word-291,noj dri paek nyin,*nˤə *C.lrə *pˤrak *ni[ŋ],
+ad-22-188,OldChinese,囟 倀 百 人,使	長	百	人,let	conduct	thousand	person,,,,192,ad-22,24,ad,word-291 word-291 word-291 word-291,sriH drjang paek nyin,! *s-rəʔ-s *Cə-[N]-traŋ *pˤrak *ni[ŋ],
+ad-22-189,OldChinese,能 ⿲糸台⿹𠃌一 三 軍,能	治	三	軍,can	govern	three	army,,,,193,ad-22,24,ad,word-291 word-291 word-291 word-291,noj dri sam kjun,*nˤə *C.lrə *s.rum *[k]ʷər,
+ad-22-190,OldChinese,囟 𰳭,使	率,let	lead,,,,194,ad-22,24,ad,word-291 word-291,sriH lwit,! *s-rəʔ-s ! *[r]ut,
+ad-22-191,OldChinese,受,授,teach,,,,195,ad-22,24,ad,word-292,dzyuwH,*[d]uʔ-s,
+ad-22-192,OldChinese,又 智,有	智,have	knowledge,,,,196,ad-22,24,ad,word-292 word-293,hjuwX trjeH,*[ɢ]ʷəʔ *tre-s,
+ad-22-193,OldChinese,𱒱 又 能,予	有	能,grant.to	have	ability,,,,197,ad-22,24,ad,word-294 word-294 word-294,yo hjuwX noj,*laʔ *[ɢ]ʷəʔ *nˤə,
+ad-22-194,OldChinese,則 民 宜 之,則	民	義	之,conjunction	people	righteous	anaphoric.substitute.of.the.object,,,,198,ad-22,24,ad,word-294 word-294 word-294 word-294,tsok mjin ngjeH tsyi,*[ts]ˤək *mi[ŋ] *ŋ(r)aj-s *tə,
+ad-22-195,OldChinese,⿰虘又 䎽 之,且	聞	之,conjunction	hear	cataphoric.substitute.of.the.object,,,,201,ad-22,24,ad,word-294 word-294 word-294,tsjo mjun tsyi,*tsa *mu[n] *tə,
+ad-22-106,OldChinese,臣,臣,minister,,,,200,ad-22,24,ad,word-294,dzyin,*[g]i[ŋ],
+ad-22-196,OldChinese,⿰力𰠄 又 倀,卒	有	長,servant	have	superior,,,,202,ad-22,24,ad,word-295 word-295 word-295,tswit hjuwX drjang,*[ts]ˤut *[ɢ]ʷəʔ *Cə-[N]-traŋ,
+ad-22-197,OldChinese,三 軍 又 𰳭,三	軍	有	帥,three	army	have	leader,,,,203,ad-22,24,ad,word-295 word-295 word-295 word-296,sam kjun hjuwX srwijH,*s.rum *[k]ʷər *[ɢ]ʷəʔ *s-rut-s,
+ad-22-198,OldChinese,邦 又 君,邦	有	君,state	have	sovereign,,,,204,ad-22,24,ad,word-296 word-296 word-296,paewng hjuwX kjun,*pˤroŋ *[ɢ]ʷəʔ *C.qur,
+ad-22-199,OldChinese,此 三 者 所 以 𡃣 也,此	三	者	所	以	戰	也,this	three	nominalization.marker	nominalization.marker	preposition	war	modal.particle,,,,205,ad-22,24,ad,word-296 word-296 word-296 word-296 word-296 word-296 word-296,tshjeX sam tsyaeX srjoX yiX tsyenH yaeX,*[tsʰ]e(j)ʔ *s.rum *tAʔ ! *s-qʰaʔ *ləʔ *tar-s *lAjʔ,
+ad-23-200,OldChinese,是古 長 不 可 不 ⿱十言⿰斤 也,是故	長	不	可	不	慎	也,conjunction	superior	negative.adverb	can	negative.adverb	be.careful	modal.particle,,,,206,ad-23,25,ad,word-296 word-296 word-296 word-296 word-296 word-297 word-297,dzyeX drjang pjuw khaX pjuw dzyinH yaeX,*[d]eʔ *Cə-[N]-traŋ *pə *[k]ʰˤa[j]ʔ *pə *[d]i[n]-s *lAjʔ,
+ad-23-201,OldChinese,不 ⿰力𰠄 則 不 ⿺辶𠄨,不	卒	則	不	恆,negative.adverb	end	conjunction	negative.adverb	eternal,,,,207,ad-23,25,ad,word-297 word-297 word-297 word-297 word-298,pjuw tswit tsok pjuw hong,*pə *[ts]ˤut *[ts]ˤək *pə *[g]ˤəŋ,
+ad-23-202,OldChinese,不 和 則 不 咠,不	和	則	不	輯,negative.adverb	harmony	conjunction	negative.adverb	concord,,,,208,ad-23,25,ad,word-298 word-298 word-298 word-298 word-298,pjuw hwa tsok pjuw dzip,*pə *[ɢ]ˤoj *[ts]ˤək *pə *[dz][u]p,
+ad-23-203,OldChinese,不 兼 畏 則 不 ⿱亠舛⿳几力,不	嚴	威	則	不	勝,negative.adverb	imposing	authoritative	conjunction	negative.adverb	win,,,,209,ad-23,25,ad,word-298 word-299 word-300 word-300 word-300 word-300,pjuw ngjaem jw+j tsok pjuw sying,*pə *ŋ(r)am *ʔuj *[ts]ˤək *pə *l̥əŋ,
+ad-23-204,OldChinese,𰠄 欲 少 以 多,卒	欲	少	氣	多,soldier	desire	few	energy	a.lot,,,,210,ad-23,25,ad,word-300 word-300 word-301 word-302 word-302,tswit yowk syewX khj+jH ta,*[ts]ˤut *ɢ(r)ok *[s.t]ewʔ *C.qʰəp-s *[t.l]ˤaj,
+ad-23-205,OldChinese,少 則 惕 ⿰言⿱山乂,少	則	易	察,few	conjunction	easy	control,,,,211,ad-23,25,ad,word-302 word-302 word-303 word-304,syewX tsok yek tsrheat,*[s.t]ewʔ *[ts]ˤək ! *lek *[tsʰ]ˤret,
+ad-23-206,OldChinese,𡉛 成 則 惕 𣌭,氣	盛	則	易	合,energy	abundant	conjunction	easy	unite,,,,212,ad-23,25,ad,word-304 word-305 word-305 word-305 word-305,khj+jH dzyengH	 tsok yek hop,*C.qʰəp-s *[d]eŋ-s *[ts]ˤək ! *lek *m-kˤop,
+ad-24-207,OldChinese,是古 𰳭 不 可 囟 牪,是故	帥	不	可	使	倦,conjunction	leader	negative.adverb	can	let	tired,,,,213,ad-24,26,ad,word-305 word-305 word-305 word-305 word-305 word-306,dzyeX srwijH pjuw khaX sriH gjwenH,*[d]eʔ *s-rut-s *pə *[k]ʰˤa[j]ʔ ! *s-rəʔ-s *gron-s,
+ad-24-208,OldChinese,牪 則 不 行,倦	則	不	行,tired	conjunction	negative.adverb	march,,,,214,ad-24,26,ad,word-306 word-306 word-306 word-306,gjwenH tsok pjuw haeng,*gron-s *[ts]ˤək *pə *[g]ˤaŋ,
+ad-24-209,OldChinese,𡃣 又 㬎 道,戰	有	顯	道,war	have	apparent	way,,,,215,ad-24,26,ad,word-306 word-306 word-306 word-306,tsyenH hjuwX xenX dawX,*tar-s *[ɢ]ʷəʔ *qʰˤenʔ *[kə.l]ˤuʔ,
+ad-24-210,OldChinese,勿 兵 以 克,勿	兵	以	克,negative.adverb	weapon	preposition	conquest,,,,216,ad-24,26,ad,word-307 word-307 word-307 word-307,mjut pjaeng yiX khok,*mut *praŋ *ləʔ *kʰˤək,
+ad-24-211,OldChinese,⿵戕口 公 曰,莊公	曰,duke.Zhuang.(personal.name)	say,,,,217,ad-24,26,ad,word-307 word-307,tsrjang hjwot,*[ts]raŋ *[ɢ]ʷat,
+ad-24-212,OldChinese,勿 兵 以 克 ⿳爫人系 女 𣌭,勿	兵	以	克	奚如	答,negative.adverb	weapon	preposition	conquest	how	reply,,,,218,ad-24,26,ad,word-307 word-307 word-307 word-307 word-308 word-308,mjut pjaeng yiX khok hej top,*mut *praŋ *ləʔ *kʰˤək *[g]ˤe *na *[t]ˤ[u]p,
+ad-24-213,OldChinese,曰,曰,say,,,,219,ad-24,26,ad,word-308,hjwot,*[ɢ]ʷat,
+ad-24-214,OldChinese,人 之 兵 不 砥萬,人	之	兵	不	砥礪,other	conjunction	weapon	negative.adverb	whetstone,,,,220,ad-24,26,ad,word-308 word-308 word-308 word-308 word-309,nyin tsyi pjaeng pjuw tsyijX,*ni[ŋ] *tə *praŋ *pə *tijʔ,
+ad-24-215,OldChinese,我 兵 必 砥萬,我	兵	必	砥礪,I	weapon	must	whetstone,,,,221,ad-24,26,ad,word-310 word-310 word-310 word-310,ngaX pjaeng pjit tsyijX,*ŋˤajʔ *praŋ *pi[t] *tijʔ,
+ad-25-216,OldChinese,人 之 ⿸虍羍 不 ⿰臣⿱口又,人	之	甲	不	堅,other	conjunction	weapon	negative.adverb	hard,,,,222,ad-25,27,ad,word-310 word-310 word-310 word-310 word-311,nyin tsyi kaep pjuw ken,*ni[ŋ] *tə *[k]ˤr[a]p *pə *kˤi[ŋ],
+ad-25-217,OldChinese,我 ⿸虍羍 必 ⿰臣⿱口又,我	甲	必	堅,I	weapon	must	hard,,,,223,ad-25,27,ad,word-311 word-311 word-311 word-311,ngaX kaep pjit ken,*ŋˤajʔ *[k]ˤr[a]p *pi[t] *kˤi[ŋ],
+ad-25-218,OldChinese,人 𠧫 士,人	使	士,other	send	dignitary,,,,224,ad-25,27,ad,word-311 word-311 word-312,nyin sriH dzriX,*ni[ŋ] ! *s-rəʔ-s *[m-s-]rəʔ,
+ad-25-219,OldChinese,我 事 大夫,我	使	大夫,I	send	grandee,,,,225,ad-25,27,ad,word-312 word-312 word-312,ngaX sriH dajH,*ŋˤajʔ ! *s-rəʔ-s *lˤa[t]-s,
+ad-25-220,OldChinese,人 事 大夫,人	使	大夫,other	send	grandee,,,,226,ad-25,27,ad,word-312 word-312 word-312,nyin sriH dajH,*ni[ŋ] ! *s-rəʔ-s *lˤa[t]-s,
+ad-25-221,OldChinese,我 事 𨟻 軍,我	使	將軍,I	send	general,,,,227,ad-25,27,ad,word-312 word-312 word-312,ngaX sriH tsjang,*ŋˤajʔ ! *s-rəʔ-s *[ts]aŋ,
+ad-25-222,OldChinese,人 事 𨟻 軍,人	使	將軍,other	send	general,,,,228,ad-25,27,ad,word-312 word-312 word-312,nyin sriH tsjang,*ni[ŋ] ! *s-rəʔ-s *[ts]aŋ,
+ad-25-223,OldChinese,我 君 身 進,我	君	身	進,I	sovereign	personally	advance,,,,229,ad-25,27,ad,word-312 word-312 word-312 word-313,ngaX kjun syin tsinH,*ŋˤajʔ *C.qur *n̥i[ŋ] *[ts][i][n]-s,
+ad-25-224,OldChinese,此 𡃣 之 㬎 道 也,此	戰	之	顯	道	也,this	war	conjunction	apparent	way	modal.particle,,,,230,ad-25,27,ad,word-313 word-313 word-313 word-313 word-313 word-313,tshjeX tsyenH tsyi xenX dawX yaeX,*[tsʰ]e(j)ʔ *tar-s *tə *qʰˤenʔ *[kə.l]ˤuʔ *lAjʔ,
+ad-25-225,OldChinese,⿵戕口 公 曰,莊公	曰,duke.Zhuang.(personal.name)	say,,,,231,ad-25,27,ad,word-313 word-313,tsrjang hjwot,*[ts]raŋ *[ɢ]ʷat,
+ad-25-226,OldChinese,既 成 ⿱爻言 矣,既	成	教	矣,already	complete	teaching	modal.particle,,,,232,ad-25,27,ad,word-313 word-313 word-313 word-313,kj+jH dzyeng kaewH hiX,*[k]ə[t]-s *m-[d]eŋ *s.kˤraw-s *qəʔ,
+ad-26-227,OldChinese,出 帀 又 幾 𰲛,出	師	有	機	乎,exit	troop	have	crucial.moment	modal.particle,,,,233,ad-26,28,ad,word-313 word-313 word-313 word-314 word-314,tsyhwijH srij hjuwX kj+j hu,*t-kʰut-s *srij *[ɢ]ʷəʔ *kəj *ɢˤa,
+ad-26-228,OldChinese,𣌭 曰,答	曰,reply	say,,,,234,ad-26,28,ad,word-314 word-314,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-26-229,OldChinese,又,有,have,,,,235,ad-26,28,ad,word-314,hjuwX,*[ɢ]ʷəʔ,
+ad-26-230,OldChinese,臣 䎽 之,臣	聞	之,minister	hear	cataphoric.substitute.of.the.object,,,,236,ad-26,28,ad,word-314 word-314 word-314,dzyin mjun tsyi,*[g]i[ŋ] *mu[n] *tə,
+ad-26-231,OldChinese,三 軍 出,三	軍	出,three	army	exit,,,,237,ad-26,28,ad,word-314 word-314 word-314,sam kjun tsyhwijH,*s.rum *[k]ʷər *t-kʰut-s,
+ad-26-232,OldChinese,亓 ⿺辶⿷匚羊 ⿺辶卑,其	將	卑,possessive.pronoun	conduct	low.rang,,,,238,ad-26,28,ad,word-314 word-314 word-315,gi tsjang pjie,*gə *[ts]aŋ *pe,
+ad-26-233,OldChinese,父 ⿰兄㞷 不 廌,父	兄	不	存,father	elder.brother	negative.adverb	be.present,,,,239,ad-26,28,ad,word-315 word-315 word-315 word-315,pjuX xjwaeng pjuw dzwon,*p(r)aʔ *m̥raŋ *pə *[dz]ˤə[n],
+ad-26-234,OldChinese,䌛 邦 ⿺馭午 之,由	邦	御	之,preposition	state	conduct	anaphoric.subtitute.of.the.object,,,,240,ad-26,28,ad,word-315 word-315 word-316 word-316,yuw paewng ngjoX tsyi,*l[u] *pˤroŋ *m-qʰ(r)aʔ *tə,
+ad-26-235,OldChinese,此 出 帀 幾 也,此	出	師	機	也,this	exit	troop	crucial.moment	modal.particle,,,,243,ad-26,28,ad,word-316 word-316 word-316 word-316 word-316,tshjeX tsyhwijH srij kj+j yaeX,*[tsʰ]e(j)ʔ *t-kʰut-s *srij *kəj *lAjʔ,
+ad-26-236,OldChinese,之 ⿵戕口 公 或 䎽,之	莊公	又	問,conjunction	duke.Zhuang.(personal.name)	conjunction	ask,,,,244,ad-26,28,ad,word-316 word-316 word-316 word-316,tsyi tsrjang hjuwH mjunH,*tə *[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s,
+ad-26-237,OldChinese,曰 三 軍 漸 果 又 幾 𰲛,曰	三	軍	潛	裹	有	機	乎,say	three	army	secretely	encircle	have	crucial.moment	modal.particle,,,,245,ad-26,28,ad,word-316 word-316 word-316 word-317 word-318 word-318 word-318 word-318,hjwot sam kjun dzjem kwaX hjuwX kj+j hu,*[ɢ]ʷat *s.rum *[k]ʷər *[dz][a]m  *s.[k]ˤo[r]ʔ *[ɢ]ʷəʔ *kəj *ɢˤa,
+ad-27-238,OldChinese,𣌭 曰,答	曰,reply	say,,,,246,ad-27,29,ad,word-318 word-318,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-27-239,OldChinese,又,有,have,,,,247,ad-27,29,ad,word-318,hjuwX,*[ɢ]ʷəʔ,
+ad-27-240,OldChinese,臣 䎽 之,臣	聞	之,minister	hear	cataphoric.substitute.of.the.object,,,,248,ad-27,29,ad,word-318 word-318 word-318,dzyin mjun tsyi,*[g]i[ŋ] *mu[n] *tə,
+ad-27-241,OldChinese,三 軍 未 成 ⿰申戈,三	軍	未	成	陳,three	army	negative.adverb	complete	battle.array,,,,249,ad-27,29,ad,word-318 word-318 word-319 word-319 word-319,sam kjun mj+jH dzyeng drin,*s.rum *[k]ʷər *m[ə]t-s *m-[d]eŋ *lri[n],
+ad-27-242,OldChinese,未 可以 出 ⿰谷象⿱土,未	可以	出	舍,negative.adverb	can	exit	barracks,,,,250,ad-27,29,ad,word-319 word-319 word-319 word-319,mj+jH khaX tsyhwijH syaeH,*m[ə]t-s *[k]ʰˤa[j]ʔ *t-kʰut-s !  *[l̥]Ak-s,
+ad-27-243,OldChinese,行 ⿱反土 淒 ⿰章欠⿱土,行	阪	濟	障,go.up	slope	cross	obstacle,,,,251,ad-27,29,ad,word-319 word-320 word-321 word-322,haeng pjonX tsejH tsyang,*[g]ˤaŋ *pa[n]ʔ *[ts]ˤ[e]j(ʔ)-s *taŋ(-s),
+ad-27-244,OldChinese,此 漸 果 之 幾 也,此	潛	裹	之	機	也,this	secretely	encircle	conjunction	crucial.moment	modal.particle,,,,252,ad-27,29,ad,word-322 word-322 word-322 word-322 word-322 word-322,tshjeX dzjem kwaX tsyi kj+j yaeX,*[tsʰ]e(j)ʔ *[dz][a]m  *s.[k]ˤo[r]ʔ *tə *kəj *lAjʔ,
+ad-27-245,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke.Zhuang.(personal.name)	conjunction	ask	say,,,,253,ad-27,29,ad,word-322 word-322 word-322 word-322,tsrjang kuwng mjunH hjwot,*[ts]raŋ *C.qˤoŋ *C.mu[n]-s *[ɢ]ʷat,
+ad-27-246,OldChinese,𡃣 又 幾 𰲛,戰	有	機	乎,war	have	crucial.moment	modal.particle,,,,254,ad-27,29,ad,word-322 word-322 word-322 word-322,tsyenH hjuwX kj+j hu,*tar-s *[ɢ]ʷəʔ *kəj *ɢˤa,
+ad-27-247,OldChinese,𣌭 曰,答	曰,reply	say,,,,255,ad-27,29,ad,word-322 word-322,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-28-248,OldChinese,又,有,have,,,,256,ad-28,30,ad,word-322,hjuwX,*[ɢ]ʷəʔ,
+ad-28-249,OldChinese,亓 迲 之 ⿺辶⿰朱朱,其	去	之	速,nominalization.marker	depart	anaphoric.subtitute.of.the.object	speed,,,,259,ad-28,30,ad,word-322 word-323 word-323 word-324,gi khjoH tsyi suwk,*gə *[k]ʰ(r)ap-s *tə *[s]ˤok,
+ad-28-219,OldChinese,不,不,negative.adverb,,,,258,ad-28,30,ad,word-323,pjuw,*pə,
+ad-28-250,OldChinese,亓 ⿺辶⿱亯京 之 不 尃,其	就	之	不	迫,nominalization.marker	go	anaphoric.subtitute.of.the.object	negative.adverb	urge,,,,260,ad-28,30,ad,word-324 word-324 word-324 word-324 word-325,gi dzjuwH tsyi pjuw paek,*gə *[dz]u[k]-s *tə *pə *Cə.pˤrak,
+ad-28-251,OldChinese,亓 啟節 不 疾,其	啟節	不	疾,nominalization.marker	get.started	negative.adverb	urgent,,,,261,ad-28,30,ad,word-325 word-326 word-326 word-327,gi khejX pjuw dzit,*gə *kʰˤeʔ / *kʰˤijʔ *pə *[dz]i[t],
+ad-28-252,OldChinese,此 𡃣 之 幾,此	戰	之	機,tihis	war	conjunction	crucial.moment,,,,262,ad-28,30,ad,word-327 word-327 word-327 word-327,tshjeX tsyenH tsyi kj+j,*[tsʰ]e(j)ʔ *tar-s *tə *kəj,
+ad-28-253,OldChinese,是古,是故,conjunction,,,,263,ad-28,30,ad,word-327,dzyeX,*[d]eʔ,
+ad-28-254,OldChinese,⿱矣心 ⿰申戈 ⿱目貝⿰攴 ⿱矣又 𡃣 死,疑	陳	敗	疑	戰	死,doubt	battle.array	defeat	doubt	war	die,,,,264,ad-28,30,ad,word-327 word-327 word-328 word-328 word-328 word-328,ngi drin baejH ngi tsyenH sijX,*[ŋ](r)ə *lri[n] *N-pˤra[t]-s *[ŋ](r)ə *tar-s *sijʔ,
+ad-28-255,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke.Zhuang.(personal.name)	conjunction	ask	say,,,,265,ad-28,30,ad,word-328 word-328 word-328 word-328,tsrjang hjuwH mjunH hjwot,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat,
+ad-28-256,OldChinese,既 𡃣 又 幾 𰲛,既	戰	有	機	乎,finish	war	have	crucial.moment	modal.particle,,,,266,ad-28,30,ad,word-328 word-328 word-328 word-328 word-328,kj+jH tsyenH hjuwX kj+j hu,*[k]ə[t]-s *tar-s *[ɢ]ʷəʔ *kəj *ɢˤa,
+ad-29-257,OldChinese,𣌭 曰,答	曰,reply	say,,,,267,ad-29,31,ad,word-328 word-328,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-29-258,OldChinese,又,有,have,,,,268,ad-29,31,ad,word-328,hjuwX,*[ɢ]ʷəʔ,
+ad-29-259,OldChinese,亓 賞 誙 ⿰虘又 不 信,其	賞	輕	且	不	信,nominalization.marker	admire	light	conjunction	negative.adverb	trust,,,,269,ad-29,31,ad,word-328 word-328 word-329 word-329 word-329 word-330,gi syangX khjieng tsjo pjuw sinH,*gə *s-taŋʔ *[kʰ]eŋ *tsa *pə *s-ni[ŋ]-s,
+ad-29-260,OldChinese,亓 ⿰貝豆 䝬 ⿰虘又 不 中,其	誅	重	且	不	中,nominalization.marker	condemn	heavy	conjunction	negative.adverb	moderation,,,,270,ad-29,31,ad,word-330 word-331 word-331 word-331 word-331 word-331,gi trju drjowng tsjo pjuw trjuwng,*gə *tro *[m]-troŋ *tsa *pə *truŋ,
+ad-29-261,OldChinese,死 者 弗 丩,死	者	弗	收,die	nominalization.marker	negative.adverb	receive,,,,271,ad-29,31,ad,word-331 word-331 word-331 word-332,sijX tsyaeX pjut syuw,*sijʔ *tAʔ ! *put *s-kiw,
+ad-29-262,OldChinese,㦹 者 弗 䎽,傷	者	弗	問,injure	nominalization.marker	negative.adverb	ask,,,,272,ad-29,31,ad,word-333 word-333 word-333 word-333,syang tsyaeX pjut mjunH,*l̥aŋ *tAʔ ! *put *C.mu[n]-s,
+ad-29-263,OldChinese,既 𡃣 而 又 ⿺怠⿹𠃌一 心,既	戰	而	有	怠	心,finish	war	conjunction	have	laziness	heart,,,,273,ad-29,31,ad,word-333 word-333 word-333 word-333 word-333 word-333,kj+jH tsyenH nyi hjuwX dojX sim,*[k]ə[t]-s *tar-s *nə *[ɢ]ʷəʔ *lˤəʔ *səm,
+ad-29-264,OldChinese,此 既 𡃣 之 幾,此	既	戰	之	機,this	finish	war	conjunction	crucial.moment,,,,274,ad-29,31,ad,word-333 word-333 word-333 word-333 word-333,tshjeX kj+jH tsyenH tsyi kj+j,*[tsʰ]e(j)ʔ *[k]ə[t]-s *tar-s *tə *kəj,
+ad-29-265,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke.Zhuang.(personal.name)	conjunction	ask	say,,,,275,ad-29,31,ad,word-333 word-333 word-333 word-333,tsrjang hjuwH mjunH hjwot,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat,
+ad-29-266,OldChinese,𰻇 ⿱目貝⿰攴 𡃣 又 道 𰲛,復	敗	戰	有	道	乎,return	defeat	war	have	way	modal.particle,,,,276,ad-29,31,ad,word-334 word-334 word-334 word-334 word-334 word-334,bjuwH baejH tsyenH hjuwX dawX hu,*[N]-pruk-s *N-pˤra[t]-s *tar-s *[ɢ]ʷəʔ *[kə.l]ˤuʔ *ɢˤa,
+ad-30-267,OldChinese,𣌭 曰,答	曰,reply	say,,,,277,ad-30,32,ad,word-334 word-334,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-30-268,OldChinese,又,有,have,,,,278,ad-30,32,ad,word-334,hjuwX,*[ɢ]ʷəʔ,
+ad-30-269,OldChinese,三 軍 大 ⿱目貝⿰攴,三	軍	大	敗,three	army	great	defeat,,,,279,ad-30,32,ad,word-334 word-334 word-334 word-334,sam kjun dajH baejH,*s.rum *[k]ʷər *lˤa[t]-s *N-pˤra[t]-s,
+ad-30-270,OldChinese,毋 ⿰貝豆 而 賞,毋	誅	而	賞,negative.adverb	condemn	conjunction	admire,,,,280,ad-30,32,ad,word-334 word-334 word-334 word-334,mju trju nyi syangX,*mo *tro *nə *s-taŋʔ,
+ad-30-271,OldChinese,毋 辠 百眚 而 改 亓 ⿺辶⿷匚羊,毋	罪	百姓	而	改	其	將,negative.adverb	crime	people	conjunction	change	possessive.pronoun	general,,,,281,ad-30,32,ad,word-334 word-334 word-335 word-335 word-336 word-336 word-336,mju dzwojX paek nyi kojX gi tsjang,*mo *[dz]ˤujʔ *pˤrak *nə *C.qˤəʔ *gə *[ts]aŋ,
+ad-30-272,OldChinese,君 女 ⿰見辛 𰳭,君	如	親	率,sovereign	if	personally	lead,,,,282,ad-30,32,ad,word-336 word-336 word-336 word-336,kjun nyo tshin lwit,*C.qur *na *[tsʰ]i[n] ! *[r]ut,
+ad-30-273,OldChinese,乃 自 𱞃 以 敚 於 萬 民,乃	自	過	以	悅	於	萬	民,conjunction	reflexive.pronoun	blame	conjunction	acquiesce	preposition	ten.thousand	people,,,,283,ad-30,32,ad,word-336 word-336 word-337 word-337 word-338 word-338 word-339 word-339,nojX dzijH kwaH yiX ywet u mjonH mjin,! *nˤə(ŋ)ʔ *s.[b]i[t]-s *kʷˤaj-s *ləʔ *lrot *[ʔ]ˤa *C.ma[n]-s *mi[ŋ],
+ad-30-274,OldChinese,弗 ⿳衣土 ⿱危土 ⿱陀土,弗	杜	跪	地,negative.adverb	deny	bow	land,,,,284,ad-30,32,ad,word-339 word-340 word-341 word-341,pjut duX gjweX dijH,! *put dˤaʔ *[g](r)ojʔ *[l]ˤej-s,
+ad-31-275,OldChinese,毋 火 飤,毋	火	食,negative.adverb	fire	eat,,,,285,ad-31,33,ad,word-341 word-342 word-342,mju xwaX zyik,*mo *[qʷʰ]ˤəjʔ *mə-lək,
+ad-31-276,OldChinese,死 者 收 之,死	者	收	之,die	nominalization.marker	receive	anaphoric.subtitute.of.the.object,,,,286,ad-31,33,ad,word-342 word-342 word-342 word-342,sijX tsyaeX syuw tsyi,*sijʔ *tAʔ *s-kiw *tə,
+ad-31-277,OldChinese,㦹 者 䎽 之,傷	者	問	之,injure	nominalization.marker	ask	anaphoric.subtitute.of.the.object,,,,287,ad-31,33,ad,word-342 word-342 word-342 word-342,syang tsyaeX mjunH tsyi,*l̥aŋ *tAʔ *C.mu[n]-s *tə,
+ad-31-278,OldChinese,善 於 死 者 為 生 者,善	於	死	者	為	生	者,good	preposition	die	nominalization.marker	be	live	nominalization.marker,,,,288,ad-31,33,ad,word-342 word-342 word-342 word-342 word-342 word-343 word-343,dzyenX u sijX tsyaeX hjwe sraeng tsyaeX,*[d]a[n]ʔ *[ʔ]ˤa *sijʔ *tAʔ ! *ɢʷ(r)aj *sreŋ *tAʔ,
+ad-31-279,OldChinese,君 必 聚 群 又 司 而 見 之,君	必	聚	群	有	司	而	見	之,sovereign	must	gather	all	have	administer	conjunction	see	anaphoric.subtitute.of.the.object,,,,289,ad-31,33,ad,word-343 word-343 word-344 word-344 word-344 word-344 word-344 word-344 word-344,kjun pjit dzjuH gjun hjuwX si nyi henH tsyi,*C.qur *pi[t] *m-tsʰoʔ-s *[g]ur *[ɢ]ʷəʔ *s-lə *nə ! *N-[k]ˤen-s *tə,
+ad-31-280,OldChinese,曰,曰,say,,,,290,ad-31,33,ad,word-344,hjwot,*[ɢ]ʷat,
+ad-31-281,OldChinese,二 厽 子 ⿱亓子 之,二	三	子	勉	之,two	three	you	force	anaphoric.subtitute.of.the.object,,,,291,ad-31,33,ad,word-344 word-344 word-344 word-345 word-345,nyijH sam tsiX mjenX tsyi,*ni[j]-s *s.rum ! *[ts]əʔ *mr[o][r]ʔ *tə,
+ad-31-282,OldChinese,𥛔 不 才 子 才 寡人,過	不	在	子	在	寡人,fault	negative.adverb	be.present	you	be.present	I.miserable,,,,292,ad-31,33,ad,word-345 word-345 word-346 word-346 word-346 word-346,kwaH pjuw dzojX tsiX dzojX kwaeX,*kʷˤaj-s *pə *[dz]ˤəʔ ! *[ts]əʔ *[dz]ˤəʔ *[C.k]ʷˤraʔ,
+ad-31-283,OldChinese,𫊟 𡃣 啻 不 訓 於 天 命,吾	戰	敵	不	順	於	天	命,I	war	enemy	negative.adverb	obey	preposition	heaven	mandate,,,,293,ad-31,33,ad,word-346 word-346 word-346 word-346 word-347 word-347 word-347 word-347,ngu tsyenH dek pjuw zywinH u then mjaengH,*ŋˤa *tar-s *[d]ˤek *pə *Cə.lu[n]-s *[ʔ]ˤa *l̥ˤi[n] *m-riŋ-s,
+ad-32-284,OldChinese,反 帀,返	師,return	troop,,,,294,ad-32,34,ad,word-348 word-348,pjonX srij,*Cə.panʔ *srij,
+ad-32-285,OldChinese,𨟻 𰻇 𡃣,將	復	戰,aspectual.marker	return	war,,,,295,ad-32,34,ad,word-348 word-348 word-348,tsjang bjuwH tsyenH,*[ts]aŋ *[N]-pruk-s *tar-s,
+ad-32-286,OldChinese,必 訋 邦 之 貴人 及 邦 之 可士,必	詔	邦	之	貴人	及	邦	之	奇士,must	summon.?.exhort.?	state	conjunction	noble	conjunction	state	conjunction	extraordinary.man,,,,296,ad-32,34,ad,word-348 word-349 word-349 word-349 word-350 word-351 word-351 word-351 word-352,pjit tsyewX paewng tsyi kjw+jH gip paewng tsyi kje,*pi[t] *[d]ewʔ *pˤroŋ *tə *kuj-s *[m-k-]rəp *pˤroŋ *tə *[k](r)aj *[m-s-]rəʔ,
+ad-32-287,OldChinese,从 ⿰力𰠄 ⿱肰目 兵,從	卒	撚 	兵,follow	soldier	examine	weapon,,,,297,ad-32,34,ad,word-352 word-352 word-353 word-353,dzjowng tswit nenX pjaeng,*tsoŋ *[ts]ˤut *nˤənʔ *praŋ,
+ad-32-288,OldChinese,毋 𰻇 先 常 之,毋	復	先	常	之,negative.adverb	return	previous	norm	anaphoric.subtitute.of.the.object,,,,298,ad-32,34,ad,word-353 word-353 word-353 word-354 word-354,mju bjuwH sen dzyang tsyi,*mo *[N]-pruk-s *sˤər *[d]aŋ *tə,
+ad-32-289,OldChinese,凡 貴人 囟 凥 歬 立 一 行,凡	貴人	使	處	前	位	一	行,all	noble	send	stay	front	position	one	line,,,,299,ad-32,34,ad,word-354 word-354 word-354 word-355 word-355 word-355 word-355 word-355,bjuwng kjw+jH sriH tsyhoX dzen hwijH jit haeng,*bəŋ *kuj-s ! *s-rəʔ-s *t.qʰaʔ *[dz]ˤen *[ɢ]ʷrəp-s *ʔi[t] *[g]ˤaŋ,
+ad-33-290,OldChinese,退 則 見 亡,退	則	見	亡,retire	conjunction	see	death,,,,300,ad-33,35,ad,word-355 word-355 word-355 word-355,thwojH tsok henH mjang,*n̥ˤ[u]p-s *[ts]ˤək ! *N-[k]ˤen-s *maŋ,
+ad-33-291,OldChinese,進 則 ⿱夕录 ⿱竹隹,進	則	祿	爵,advance	conjunction	emolument	honour,,,,301,ad-33,35,ad,word-355 word-355 word-355 word-355,tsinH tsok luwk tsjak,*[ts][i][n]-s *[ts]ˤək *[r]ˤok *[ts]ewk,
+ad-33-292,OldChinese,又 常,有	賞,have	norm,,,,302,ad-33,35,ad,word-355 word-355,hjuwX syangX,*[ɢ]ʷəʔ *s-taŋʔ,
+ad-33-293,OldChinese,幾 莫 之 ⿱尚立,機	莫	之	當,crucial.moment	none	anaphoric.subtitute.of.the.object	appropriate,,,,303,ad-33,35,ad,word-355 word-356 word-356 word-357,kj+j mak tsyi tangH,*kəj *mˤak *tə *tˤaŋ-s,
+ad-33-294,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke.Zhuang.(personal.name)	conjunction	ask	say,,,,304,ad-33,35,ad,word-357 word-357 word-357 word-357,tsrjang hjuwH mjunH hjwot,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat,
+ad-33-295,OldChinese,𰻇 ⿰䏌又⿱皿 𡃣 又 道 𰲛,復	班	戰	有	道	乎,return	rang	war	have	way	modal.particle,,,,305,ad-33,35,ad,word-357 word-358 word-358 word-358 word-358 word-358,bjuwH paen tsyenH hjuwX dawX hu,*[N]-pruk-s *pˤan *tar-s *[ɢ]ʷəʔ *[kə.l]ˤuʔ *ɢˤa,
+ad-33-296,OldChinese,𣌭 曰,答	曰,reply	say,,,,306,ad-33,35,ad,word-358 word-358,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-33-297,OldChinese,又,有,have,,,,307,ad-33,35,ad,word-358,hjuwX,*[ɢ]ʷəʔ,
+ad-33-298,OldChinese,既 𡃣 𰻇 ⿰谷象,既	戰	復	舍,already	war	return	camp,,,,308,ad-33,35,ad,word-358 word-358 word-358 word-358,kj+jH tsyenH bjuwH syaeH,*[k]ə[t]-s *tar-s *[N]-pruk-s ! *[l̥]Ak-s,
+ad-33-299,OldChinese,虎 命 於 軍 中,號	令	於	軍	中,issue	order	preposition	troop	middle,,,,309,ad-33,35,ad,word-359 word-360 word-360 word-360 word-360,hawH leng u kjun trjuwng,*Cə.[g]ˤaw-s *riŋ *[ʔ]ˤa *[k]ʷər *truŋ,
+ad-34-300,OldChinese,曰,曰,say,,,,310,ad-34,36,ad,word-360,hjwot,*[ɢ]ʷat,
+ad-34-301,OldChinese,纏 ⿸虍羍 利 兵,繕	甲	利	兵,repair	armour	benefit	weapon,,,,311,ad-34,36,ad,word-360 word-360 word-360 word-360,dzyenH kaep lijH pjaeng,*[d]a[n]ʔ-s *[k]ˤr[a]p *C.ri[t]-s *praŋ,
+ad-34-302,OldChinese,⿱明示 日 𨟻 𡃣,明日	將	戰,tomorrow	aspectual.marker	war,,,,312,ad-34,36,ad,word-361 word-361 word-361,mjaeng tsjang tsyenH,*mraŋ *[ts]aŋ *tar-s,
+ad-34-303,OldChinese,測 ⿱臼亓⿰戈 厇 則,測	毀	度	傷,measure	destruction	estimate	injury,,,,313,ad-34,36,ad,word-362 word-362 word-363 word-363,tsrhik xjweX dak syang,*[tsʰ]rək *[m̥](r)ajʔ *[d]ˤak *l̥aŋ,
+ad-34-304,OldChinese,以 ⿰䏌又⿱皿 ⿺辶⿱亯京 行,以	班	就	行,conjunction	rang	go	march,,,,314,ad-34,36,ad,word-363 word-363 word-363 word-363,yiX paen dzjuwH haeng,*ləʔ *pˤan *[dz]u[k]-s *[g]ˤaŋ,
+ad-34-305,OldChinese,凡 𲅭 車 ⿸虍羍,凡	失	車	甲,all	loose	chariot	armour,,,,315,ad-34,36,ad,word-363 word-363 word-363 word-363,bjuwng syit tsyhae kaep,*bəŋ *l̥i[t] *[t.qʰ](r)A *[k]ˤr[a]p,
+ad-34-306,OldChinese,命 之 毋 行,命	之	無	行,order	anaphoric.subtitute.of.the.object	negative.adverb	march,,,,316,ad-34,36,ad,word-363 word-363 word-363 word-363,mjaengH tsyi mju haeng,*m-riŋ-s *tə *ma *[g]ˤaŋ,
+ad-34-307,OldChinese,盟日 𨟻 𡃣,明日	將	戰,tomorrow	aspectual.marker	war,,,,317,ad-34,36,ad,word-363 word-363 word-363,mjaeng tsjang tsyenH,*mraŋ *[ts]aŋ  *tar-s,
+ad-34-308,OldChinese,囟 為 歬 行,使	為	前	行,send	be	front	line,,,,318,ad-34,36,ad,word-363 word-363 word-363 word-363,sriH hjwe dzen haeng,! *s-rəʔ-s ! *ɢʷ(r)aj *[dz]ˤen *[g]ˤaŋ,
+ad-34-309,OldChinese,𫌣 人 𰙬 告,諜	人	來	告,spy	person	come	tell,,,,319,ad-34,36,ad,word-364 word-364 word-365 word-366,dep nyin loj kowk,*lˤep *ni[ŋ] *mə.rˤək *kˤuk,
+ad-34-310,OldChinese,曰,曰,say,,,,320,ad-34,36,ad,word-366,hjwot,*[ɢ]ʷat,
+ad-34-311,OldChinese,亓 ⿺辶⿷匚羊 𰳭 既 飤,其	將	帥	既	食,possessive.pronoun	conduct	lead	already	eat,,,,321,ad-34,36,ad,word-366 word-366 word-366 word-366 word-366,gi tsjang srwijH kj+jH zyik,*gə *[ts]aŋ *s-rut-s *[k]ə[t]-s *mə-lək,
+ad-35-312,OldChinese,軙 連 皆 載,車	輦	皆	災,chariot	vehicule	all	damage,,,,322,ad-35,37,ad,word-366 word-367 word-367 word-368,tsyhae ljenX keaj tsoj,*[t.qʰ](r)A *[r][a][n]ʔ *kˤrij *[ts]ˤə,
+ad-35-313,OldChinese,曰 𨟻 𱢦 行,曰	將	早	行,say	aspectual.marker	early	march,,,,323,ad-35,37,ad,word-368 word-368 word-369 word-369,hjwot tsjang tsawX haeng,*[ɢ]ʷat *[ts]aŋ *Nə.tsˤuʔ *[g]ˤaŋ,
+ad-35-314,OldChinese,乃 命 白徒 𱢦 飤 𪭍 兵,乃	命	白徒	早	食	供	兵,conjunction	order	complementary.conscripts	early	eat	provide	weapon,,,,324,ad-35,37,ad,word-369 word-369 word-370 word-370 word-370 word-371 word-371,nojX mjaengH baek tsawX zyik kjowng pjaeng,! *nˤə(ŋ)ʔ *m-riŋ-s *bˤrak *Nə.tsˤuʔ *mə-lək *koŋ *praŋ,
+ad-35-315,OldChinese,各 載 尔 贓,各	載	爾	贓,each	carry	your	spoils,,,,325,ad-35,37,ad,word-372 word-373 word-373 word-374,kak tsojH nyeX tsang,*kˤak ! *[ts]ˤə[ʔ]-s *n[ə][r]ʔ *[ts]ˤaŋ,
+ad-35-316,OldChinese,既 𡃣 𨟻 㙛,既	戰	將	敷,already	war	aspectual.marker	distribute,,,,326,ad-35,37,ad,word-374 word-374 word-374 word-375,kj+jH tsyenH tsjang phju,*[k]ə[t]-s *tar-s *[ts]aŋ *pʰ(r)a,
+ad-35-317,OldChinese,為 之 毋 ⿺怠⿹𠃌一,為	之	毋	怠,do	anaphoric.subtitute.of.the.object	negative.adverb	laziness,,,,327,ad-35,37,ad,word-375 word-375 word-375 word-375,hjwe tsyi mju dojX,! *ɢʷ(r)aj *tə *mo *lˤəʔ,
+ad-35-318,OldChinese,毋 囟 民 ⿱矣心 及,毋	使	民	疑	及,negative.adverb	let	people	doubt	conjunction,,,,328,ad-35,37,ad,word-375 word-375 word-375 word-375 word-375,mju sriH mjin ngi gip,*mo ! *s-rəʔ-s *mi[ŋ] *[ŋ](r)ə *[m-k-]rəp,
+ad-36-319,OldChinese,尔 龜 噬 皆 ⿱亠舛⿳几力 之,爾	龜	筮	皆	勝	之,your	turtle	achillea.stalks	all	win	anaphoric.subtitute.of.the.object,,,,329,ad-36,38,ad,word-375 word-376 word-377 word-377 word-377 word-377,nyeX kwij dzyejH keaj sying tsyi,*n[ə][r]ʔ *[k]ʷrə *[d][e][t]-s *kˤrij *l̥əŋ *tə,
+ad-36-320,OldChinese,改 𩕯 尔 鼔,改	調	爾	鼓,change	tone	your	drum,,,,330,ad-36,38,ad,word-377 word-378 word-378 word-379,kojX dew nyeX kuX,*C.qˤəʔ *[d]ˤiw *n[ə][r]ʔ *[k]ˤaʔ,
+ad-36-321,OldChinese,乃 ⿺辶⿸㫃并 亓 ⿰力膚,乃	屏	其	虜,conjunction	get.rid	possessive.pronoun	captive,,,,331,ad-36,38,ad,word-379 word-380 word-380 word-381,nojX yit gi luX,! *nˤə(ŋ)ʔ *lrit  *gə *C.rˤaʔ,
+ad-36-322,OldChinese,盟日 𰻇 ⿰申戈 必 𱞃 亓 所,明日	復	陳	必	過	其	所,tomorrow	return	battle.array	must	pass	possessive.pronoun	place,,,,332,ad-36,38,ad,word-381 word-381 word-381 word-381 word-381 word-381 word-381,mjaeng bjuwH drin pjit kwaH gi srjoX,*mraŋ *[N]-pruk-s *lri[n] *pi[t] *kʷˤaj-s *gə ! *s-qʰaʔ,
+ad-36-323,OldChinese,此 𰻇 ⿰䏌又⿱皿 𡃣 之 道,此	復	班	戰	之	道,this	return	rang	war	conjunction	way,,,,333,ad-36,38,ad,word-381 word-381 word-381 word-381 word-381 word-381,tshjeX bjuwH paen tsyenH tsyi dawX,*[tsʰ]e(j)ʔ *[N]-pruk-s *pˤan *tar-s *tə *[kə.l]ˤuʔ,
+ad-36-324,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke.Zhuang.(personal.name)	conjunction	ask	say,,,,334,ad-36,38,ad,word-381 word-381 word-381 word-381,tsrjang hjuwH mjunH hjwot,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat,
+ad-36-325,OldChinese,𰻇 甘 𡃣 又 道 𰲛,復	甘	戰	有	道	乎,return	easy	war	have	way	modal.particle,,,,335,ad-36,38,ad,word-381 word-382 word-382 word-382 word-382 word-382,bjuwH kam tsyenH hjuwX dawX hu,*[N]-pruk-s *[k]ˤ[a]m *tar-s *[ɢ]ʷəʔ *[kə.l]ˤuʔ *ɢˤa,
+ad-37-326,OldChinese,𣌭 曰,答	曰,reply	say,,,,336,ad-37,39,ad,word-382 word-382,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-37-327,OldChinese,又,有,have,,,,337,ad-37,39,ad,word-382,hjuwX,*[ɢ]ʷəʔ,
+ad-37-328,OldChinese,必 𰕡 以 戒,必	慎	以	戒,must	be.careful	preposition	warn,,,,338,ad-37,39,ad,word-382 word-382 word-382 word-382,pjit dzyinH yiX keajH,*pi[t] *[d]i[n]-s *ləʔ *kˤrək-s,
+ad-37-329,OldChinese,若 𨟻 弗 克,若	將	弗	克,modal.particle	aspectual.marker	negative.adverb	conquest,,,,339,ad-37,39,ad,word-383 word-383 word-383 word-383,nyak tsjang pjut khok,*nak *[ts]aŋ ! *put *kʰˤək,
+ad-37-330,OldChinese,毋 目 以 ⿺辶售,毋	冒	以	進,negative.adverb	reckless	conjunction	advance,,,,340,ad-37,39,ad,word-383 word-384 word-384 word-384,mju mawH yiX tsinH,*mo *mˤuk-s *ləʔ *[ts][i][n]-s,
+ad-37-331,OldChinese,必 𱞃 歬 ⿰示工,必	過	前	功,must	pass	front	merit,,,,341,ad-37,39,ad,word-384 word-384 word-384 word-384,pjit kwaH dzen kuwng,*pi[t] *kʷˤaj-s *[dz]ˤen *kˤoŋ,
+ad-37-332,OldChinese,賞 ⿰丹隻 詣 ⿰土𪪋,賞	獲	指	葸,admire	gain	point	fear,,,,342,ad-37,39,ad,word-384 word-384 word-385 word-386,syangX hweak tsyijX siX,*s-taŋʔ *m-qʷˤrak *mə.kijʔ *səʔ,
+ad-37-333,OldChinese,以 ⿳亼吅隹⿰見⿱心 亓 志,以	勸	其	志,conjunction	exhort	possessive.pronoun	intention,,,,343,ad-37,39,ad,word-386 word-387 word-387 word-388,yiX khjwonH gi tsyiH,*ləʔ *C.qʷʰar-s *gə *tək-s,
+ad-37-334,OldChinese,㦷 者 憙 之,甬	者	喜	之,courageous	nominalization.marker	joy	anaphoric.subtitute.of.the.object,,,,344,ad-37,39,ad,word-389 word-389 word-390 word-390,yowngX tsyaeX xiX tsyi,*loŋʔ *tAʔ *qʰ(r)əʔ *tə,
+ad-38-335,OldChinese,巟 者 ⿱毋心 之,慌	者	悔	之,anxious	nominalization.marker	blame	anaphoric.subtitute.of.the.object,,,,345,ad-38,40,ad,word-391 word-391 word-392 word-392,xwangX tsyaeX xwojX tsyi,*m̥ˤaŋʔ *tAʔ *m̥ˤəʔ *tə,
+ad-38-336,OldChinese,萬 民 ⿰章欠⿱色 首 皆 ⿱八呂⿰欠 或 之,萬	民	黔	首	皆	欲	有	之,ten.thousand	people	black	head	all	want	have	anaphoric.subtitute.of.the.object,,,,346,ad-38,40,ad,word-392 word-392 word-393 word-394 word-394 word-394 word-394 word-394,mjonH mjin gjem syuwH keaj yowk hjuwX tsyi,*C.ma[n]-s *mi[ŋ] *[g](r)[o]m *l̥uʔ-s *kˤrij *ɢ(r)ok *[ɢ]ʷəʔ *tə,
+ad-38-337,OldChinese,此 𰻇 甘 𡃣 之 道,此	復	甘	戰	之	道,this	return	fierce	war	conjunction	way,,,,347,ad-38,40,ad,word-394 word-394 word-394 word-394 word-394 word-394,tshjeX bjuwH kam tsyenH tsyi dawX,*[tsʰ]e(j)ʔ *[N]-pruk-s *[k]ˤ[a]m *tar-s *tə *[kə.l]ˤuʔ,
+ad-38-338,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke.Zhuang.(personal.name)	conjunction	ask	say,,,,348,ad-38,40,ad,word-394 word-394 word-394 word-394,tsrjang hjuwH mjunH hjwot,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat,
+ad-38-339,OldChinese,𰻇 ⿰古欠 𡃣 又 道 𰲛,復	苦	戰	有	道	乎,return	hard	war	have	way	modal.particle,,,,349,ad-38,40,ad,word-394 word-395 word-395 word-395 word-395 word-395,bjuwH khuX tsyenH hjuwX dawX hu,*[N]-pruk-s *kʰˤaʔ *tar-s *[ɢ]ʷəʔ *[kə.l]ˤuʔ *ɢˤa,
+ad-38-340,OldChinese,𣌭 曰,答	曰,reply	say,,,,350,ad-38,40,ad,word-395 word-395,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-38-341,OldChinese,又,有,have,,,,351,ad-38,40,ad,word-395,hjuwX,*[ɢ]ʷəʔ,
+ad-38-342,OldChinese,收 而 聚 之 ⿱罒𣗥 而 厚 之,收	而	聚	之	束	而	厚	之,receive	conjunction	gather	anaphoric.subtitute.of.the.object	tie	conjunction	thick	anaphoric.subtitute.of.the.object,,,,352,ad-38,40,ad,word-395 word-395 word-395 word-395 word-396 word-396 word-397 word-397,syuw nyi dzjuH tsyi syowk nyi huwX tsyi,*s-kiw *nə *m-tsʰoʔ-s *tə *s-tʰok *nə *Cə.[g]ˤ(r)oʔ *tə,
+ad-39-343,OldChinese,砫 賞 泊 型,重	賞	薄	刑,heavy	admire	thin	punish,,,,353,ad-39,41,ad,word-397 word-397 word-398 word-398,drjowng syangX bak heng,*[m]-troŋ *s-taŋʔ *[b]ˤak *[ɢ]ˤeŋ,
+ad-39-344,OldChinese,囟 忘 亓 死 而 見 亓 生,使	忘	其	死	而	見	其	生,let	forget	possessive.pronoun	death	conjunction	see	conjunction	life,,,,354,ad-39,41,ad,word-398 word-399 word-399 word-399 word-399 word-399 word-399 word-399,sriH mjang gi sijX nyi henH gi sraeng,! *s-rəʔ-s *maŋ *gə *sijʔ *nə ! *N-[k]ˤen-s *gə *sreŋ,
+ad-39-345,OldChinese,思 良 車 良 士 ⿺辶㞷 取 亓 餌,使	良	車	良	士	往	取	其	耳,let	good	chariot	good	dignitary	go	take	possessive.pronoun	ear,,,,355,ad-39,41,ad,word-399 word-400 word-400 word-400 word-400 word-401 word-401 word-401 word-402,sriH ljang tsyhae ljang dzriX hjwangX tshuwX gi nyiX,! *s-rəʔ-s *[r]aŋ *[t.qʰ](r)A *[r]aŋ *[m-s-]rəʔ *ɢʷaŋʔ *tsʰˤoʔ *gə ! *C.nəʔ,
+ad-39-346,OldChinese,思 亓 志 ⿺辶己,使	其	志	起,let	possessive.pronoun	intention	raise,,,,356,ad-39,41,ad,word-402 word-402 word-402 word-403,sriH gi tsyiH khiX,! *s-rəʔ-s *gə *tək-s *C.qʰ(r)əʔ,
+ad-39-347,OldChinese,㦷 者 囟 憙,勇	者	使	喜,courageous	nominalization.marker	let	joy,,,,357,ad-39,41,ad,word-404 word-404 word-404 word-404,yowngX tsyaeX sriH xiX,*loŋʔ *tAʔ ! *s-rəʔ-s *qʰ(r)əʔ,
+ad-39-348,OldChinese,⿰土𪪋 者 囟 ⿱毋心,葸	者	使	悔,fear	nominalization.marker	let	blame,,,,358,ad-39,41,ad,word-404 word-404 word-404 word-404,siX tsyaeX sriH xwojX,*səʔ *tAʔ ! *s-rəʔ-s *m̥ˤəʔ,
+ad-40-349,OldChinese,肰句 改 ⿺怠⿹𠃌一,然後	改	怠,conjunction	change	laziness,,,,359,ad-40,42,ad,word-405 word-405 word-405,nyen kojX dojX,*[n]a[n] *C.qˤəʔ *lˤəʔ,
+ad-40-350,OldChinese,此 𰻇 ⿰古欠 𡃣 之 道,此	復	苦	戰	之	道,this	return	hard	war	conjunction	way,,,,360,ad-40,42,ad,word-405 word-405 word-405 word-405 word-405 word-405,tshjeX bjuwH khuX tsyenH tsyi dawX,*[tsʰ]e(j)ʔ *[N]-pruk-s *kʰˤaʔ *tar-s *tə *[kə.l]ˤuʔ,
+ad-40-351,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke.Zhuang.(personal.name)	conjunction	ask	say,,,,361,ad-40,42,ad,word-405 word-405 word-405 word-405,tsrjang hjuwH mjunH hjwot,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat,
+ad-40-352,OldChinese,攻 ⿳爫人系 女,攻	奚	如,assault	how	how,,,,362,ad-40,42,ad,word-406 word-406 word-406,kuwng hej nyo,*kˤoŋ *[g]ˤe *na,
+ad-40-353,OldChinese,𣌭 曰,答	曰,reply	say,,,,363,ad-40,42,ad,word-406 word-406,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-40-354,OldChinese,民 又 ⿱宀貨,民	有	寶,people	have	good,,,,364,ad-40,42,ad,word-406 word-406 word-407,mjin hjuwX xwaH,*mi[ŋ] *[ɢ]ʷəʔ *pˤuʔ,
+ad-40-355,OldChinese,曰 城,曰	城,say	wall,,,,365,ad-40,42,ad,word-407 word-407,hjwot dzyeng,*[ɢ]ʷat *[d]eŋ,
+ad-40-356,OldChinese,曰 ⿷匸古,曰	固,say	fortress,,,,366,ad-40,42,ad,word-407 word-407,hjwot kuH,*[ɢ]ʷat *[k]ˤa-s,
+ad-40-357,OldChinese,曰 ⿱艸𠭯,曰	阻,say	strategic.pass,,,,367,ad-40,42,ad,word-407 word-408,hjwot tsrjoX,*[ɢ]ʷat *[ts]raʔ,
+ad-40-358,OldChinese,三 者 𦘔 甬,三	者	盡	用,three	nominalization.marker	all	use,,,,368,ad-40,42,ad,word-408 word-408 word-408 word-409,sam tsyaeX tsinX yowngH,*s.rum *tAʔ *tsi[n]ʔ *loŋ-s,
+ad-40-359,OldChinese,不 皆,不	諧,negative.adverb	harmonize,,,,369,ad-40,42,ad,word-409 word-410,pjuw keaj,*pə *kˤrij,
+ad-40-360,OldChinese,邦 𪺏 以 忧,邦	家	以	忧,state	home	use	grief,,,,370,ad-40,42,ad,word-410 word-411 word-411 word-412,paewng kae yiX juw,*pˤroŋ *kˤra *ləʔ *ʔ(r)u,
+ad-41-361,OldChinese,善 攻 者 以 亓 所 又,善	攻	者	以	其	所	有,good	assault	nominalization.marker	use	nominalization.marker	nominalization.marker	have,,,,371,ad-41,43,ad,word-412 word-412 word-412 word-412 word-412 word-412 word-412,dzyenX kuwng tsyaeX yiX gi srjoX hjuwX,*[g]e[n]ʔ *kˤoŋ *tAʔ *ləʔ *gə ! *s-qʰaʔ *[ɢ]ʷəʔ,
+ad-41-362,OldChinese,以 攻 人 之 所 亡 又,以	攻	人	之	所	無	有,conjunction	assault	person	nominalization.marker	nominalization.marker	negative.adverb	have,,,,372,ad-41,43,ad,word-412 word-412 word-412 word-412 word-412 word-412 word-412,yiX kuwng nyin tsyi srjoX mju hjuwX,*ləʔ *kˤoŋ *ni[ŋ] *tə ! *s-qʰaʔ *ma *[ɢ]ʷəʔ,
+ad-41-363,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke.Zhuang.(personal.name)	conjunction	ask	say,,,,373,ad-41,43,ad,word-412 word-412 word-412 word-412,tsrjang hjuwH mjunH hjwot,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat,
+ad-41-364,OldChinese,善 獸 者 ⿳爫人系 女,善	守	者	奚	如,good	keep	nominalization.marker	how	how,,,,374,ad-41,43,ad,word-412 word-412 word-412 word-412 word-412,dzyenX syuwH tsyaeX hej nyo,*[d]a[n]ʔ *s.tuʔ-s *tAʔ *[g]ˤe *na,
+ad-41-365,OldChinese,𣌭 曰,答	曰,reply	say,,,,375,ad-41,43,ad,word-412 word-412,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-41-366,OldChinese,亓 飤 必 足以 食 之,其	食	必	足以	食	之,possessive.pronoun	eat	must	be.sufficient	eat	anaphoric.subtitute.of.the.object,,,,376,ad-41,43,ad,word-412 word-412 word-412 word-412 word-412 word-412,gi zyik pjit tsjuH zyik tsyi,*gə *mə-lək *pi[t] *[ts]ok-s *mə-lək *tə,
+ad-41-367,OldChinese,其 兵 足以 利 之,其	兵	足以	利	之,possessive.pronoun	weapon	be.sufficient	benefit	anaphoric.subtitute.of.the.object,,,,377,ad-41,43,ad,word-412 word-412 word-412 word-412 word-412,gi pjaeng tsjuH lijH tsyi,*gə *praŋ *[ts]ok-s *C.ri[t]-s *tə,
+ad-42-368,OldChinese,亓 城 ⿷匸古 足以 ⿰干戈 之,其	城	固	足以	捍	之,possessive.pronoun	wall	fortress	be.sufficient	shield	anaphoric.subtitute.of.the.object,,,,378,ad-42,44,ad,word-412 word-412 word-412 word-412 word-413 word-413,gi dzyeng kuH tsjuH hanH tsyi,*gə *[d]eŋ *[k]ˤa-s *[ts]ok-s *m-kˤa[r]-s *tə,
+ad-42-369,OldChinese,上 下 和 𠭯 咠,上	下	和	且	輯,superior	inferior	harmony	conjunction	concord,,,,379,ad-42,44,ad,word-413 word-413 word-413 word-413 word-413,dzyangH haeH hwa tsjo dzip,*daŋʔ-s *m-gˤraʔ-s *[ɢ]ˤoj *tsa *[dz][u]p,
+ad-42-370,OldChinese,解 紀 於 大 ⿷匸或⿰阝,絓	紀	於	大	國,entangle	thread	preposition	big	state,,,,380,ad-42,44,ad,word-414 word-414 word-414 word-414 word-415,kweaH kiX u dajH kwok,*[k]ʷˤre-s *k(r)əʔ *[ʔ]ˤa *lˤa[t]-s *[C.q]ʷˤək,
+ad-42-371,OldChinese,大 ⿷匸或⿰阝 ⿱木辛⿰斤⿱心 之,大	國	親	之,big	state	parent	anaphoric.substitute.of.the.object,,,,381,ad-42,44,ad,word-415 word-415 word-415 word-415,dajH kwok tshin tsyi,*lˤa[t]-s *[C.q]ʷˤək *[tsʰ]i[n] *tə,
+ad-42-372,OldChinese,天下 ⿺辶己 之心 者侯 寡 ⿱矣心,天下	起	志	諸侯	寡	疑,world	raise	intention	noble	few	doubt,,,,382,ad-42,44,ad,word-415 word-415 word-415 word-416 word-417 word-417,then khiX tsyiH tsyo kwaeX ngi,*l̥ˤi[n] *C.qʰ(r)əʔ *tək-s *ta *[C.k]ʷˤraʔ *[ŋ](r)ə,
+ad-42-373,OldChinese,⿵戕口 公 或 䎽 曰,莊公	又	問	曰,duke.Zhuang.(personal.name)	conjunction	ask	say,,,,383,ad-42,44,ad,word-417 word-417 word-417 word-417,tsrjang hjuwH mjunH hjwot,*[ts]raŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat,
+ad-42-374,OldChinese,𫊟 又 所 䎽 之,吾	有	所	聞	之,I	have	nominalization.marker	hear	cataphoric.substitute.of.the.object,,,,384,ad-42,44,ad,word-417 word-417 word-417 word-417 word-417,ngu hjuwX srjoX mjun tsyi,*ŋˤa *[ɢ]ʷəʔ ! *s-qʰaʔ *mu[n] *tə,
+ad-42-375,OldChinese,一 出 言,一	出	言,one	exit	word,,,,385,ad-42,44,ad,word-417 word-417 word-417,jit tsyhwijH ngjon,*ʔi[t] *t-kʰut-s ! *ŋa[n],
+ad-43-376,OldChinese,三 軍 皆 ⿳亼吅隹⿱心,三	軍	皆	歡,three	army	all	delight,,,,386,ad-43,45,ad,word-417 word-417 word-417 word-418,sam kjun keaj xwan,*s.rum *[k]ʷər *kˤrij *qʷʰˤar,
+ad-43-377,OldChinese,一 出 言,一	出	言,one	exit	word,,,,387,ad-43,45,ad,word-418 word-418 word-418,jit tsyhwijH ngjon,*ʔi[t] *t-kʰut-s ! *ŋa[n],
+ad-43-378,OldChinese,三 軍 皆 ⿺辶寺,三	軍	皆	往,three	army	all	go,,,,388,ad-43,45,ad,word-418 word-418 word-418 word-418,sam kjun keaj hjwangX,*s.rum *[k]ʷər *kˤrij *ɢʷaŋʔ,
+ad-43-379,OldChinese,又 之 𰲛,有	之	乎,have	anaphoric.substitute.of.the.object	modal.particle,,,,389,ad-43,45,ad,word-418 word-418 word-418,hjuwX tsyi hu,*[ɢ]ʷəʔ *tə *ɢˤa,
+ad-43-380,OldChinese,𣌭 曰,答	曰,reply	say,,,,390,ad-43,45,ad,word-418 word-418,top hjwot,*[t]ˤ[u]p *[ɢ]ʷat,
+ad-43-381,OldChinese,又 明 詑 於 𲌧 神,有	明	詑	於	鬼	神,have	bright	mislead	preposition	ghost	god,,,,391,ad-43,45,ad,word-418 word-418 word-419 word-419 word-420 word-421,hjuwX mjaeng da u kjw+jX zyin,*[ɢ]ʷəʔ *mraŋ *l̥ˤaj *[ʔ]ˤa *k-ʔujʔ *Cə.li[n],
+ad-43-382,OldChinese,神 或,神	或,god	modal.particle,,,,392,ad-43,45,ad,word-421 word-421,zyin hwok,*Cə.li[n] *[ɢ]ʷˤək,
+ad-43-383,OldChinese,非 所 以 教 民,非	所	以	教	民,be.not	nominalization.marker	preposition	teach	people,,,,393,ad-43,45,ad,word-422 word-422 word-422 word-422 word-422,pj+j srjoX yiX kaewH mjin,*pəj ! *s-qʰaʔ *ləʔ *s.kˤraw-s *mi[ŋ],
+ad-43-384,OldChinese,唯 君 智 之,唯	君	知	之,modal.particle	her.majesty	know	anaphoric.substitute.of.the.object,,,,394,ad-43,45,ad,word-423 word-423 word-423 word-423,ywij kjun trje tsyi,*ɢʷij *C.qur *tre *tə,
+ad-43-385,OldChinese,此 先 王 至 道,此	先	王	至	道,this	previous	king	excellent	way,,,,395,ad-43,45,ad,word-423 word-423 word-424 word-425 word-425,tshjeX sen hjwangH tsyijH dawX,*[tsʰ]e(j)ʔ *sˤər *ɢʷaŋ-s *ti[t]-s *[kə.l]ˤuʔ,
+ad-43-386,OldChinese,⿵戕口 公 曰,莊公	曰,duke.Zhuang.(personal.name)	say,,,,396,ad-43,45,ad,word-425 word-425,tsrjang hjwot,*[ts]raŋ *[ɢ]ʷat,
+ad-44-387,OldChinese,⿳艸罒勿⿰攴 𫊟 言 氏 不 女,沫	吾	言	是	不	如,Mo.(personal.Name)	I	word	really	negative.adverb	compare,,,,397,ad-44,46,ad,word-426 word-426 word-426 word-426 word-426 word-426,mat ngu ngjon dzyeX pjuw nyo,*mˤat *ŋˤa ! *ŋa[n] *[d]eʔ *pə *na,
+ad-44-388,OldChinese,或者 少 道,或者	小	道,maybe	little	way,,,,398,ad-44,46,ad,word-427 word-427 word-427,hwok sjewX dawX,*[ɢ]ʷˤək *[s]ewʔ *[kə.l]ˤuʔ,
+ad-44-389,OldChinese,𫊟 一 欲 䎽 厽 弋 之 所,吾	一	欲	聞	三	代	之	所,I	one	desire	hear	three	dynasty	conjunction	nominalization.marker,,,,399,ad-44,46,ad,word-427 word-427 word-427 word-427 word-427 word-427 word-427 word-427,ngu jit yowk mjun sam dojH tsyi srjoX,*ŋˤa *ʔi[t] *ɢ(r)ok *mu[n] *s.rum *lˤək-s *tə ! *s-qʰaʔ,
+ad-44-390,OldChinese,⿱艸⿰告攴 ⿳艸罒勿⿰攴 𣌭 曰,曹沫	答	曰,Cao.Mo.(personal.name)	reply	say,,,,400,ad-44,46,ad,word-427 word-427 word-427,dzaw top hjwot,*N-tsˤu *[t]ˤ[u]p *[ɢ]ʷat,
+ad-44-391,OldChinese,臣 䎽 之,臣	聞	之,minister	hear	anaphoric.substitute.of.the.object,,,,401,ad-44,46,ad,word-427 word-427 word-427,dzyin mjun tsyi,*[g]i[ŋ] *mu[n] *tə,
+ad-44-392,OldChinese,昔 之 ⿺辶己 於 天下 者,昔	之	起	於	天下	者,past	nominalization.marker	raise	preposition	world	nominalization.marker,,,,402,ad-44,46,ad,word-427 word-427 word-427 word-427 word-427 word-427,sjek tsyi khiX u then tsyaeX,*[s]Ak *tə *C.qʰ(r)əʔ *[ʔ]ˤa *l̥ˤi[n] *tAʔ,
+ad-44-393,OldChinese,各 以 亓 殜,各	以	其	世,each	use	possessive.pronoun	era,,,,403,ad-44,46,ad,word-427 word-427 word-427 word-427,kak yiX gi syejH,*kˤak *ləʔ *gə *l̥ap-s,
+ad-44-394,OldChinese,以 ⿱回又 亓 身,以	沒	其	身,conjunction	die	possessive.pronoun	body,,,,404,ad-44,46,ad,word-427 word-427 word-427 word-427,yiX gip gi syin,*ləʔ *[m-k-]rəp *gə *n̥i[ŋ],
+ad-45-395,OldChinese,含 與 古 亦 多 不 同 矣,今	與	古	亦	多	不	同	矣,today	conjunction	ancient	conjunction	much	negative.adverb	same	modal.particle,,,,405,ad-45,47,ad,word-427 word-427 word-428 word-428 word-428 word-428 word-428 word-428,kim yoX kuX yek ta pjuw duwng hiX,*[k]r[ə]m *m-q(r)aʔ *kˤaʔ ! *ɢ(r)Ak *[t.l]ˤaj *pə *lˤoŋ *qəʔ,
+ad-45-396,OldChinese,臣 是古 不 敢 以 古 𣌭,臣	是故	不	敢	以	古	答,minister	conjunction	negative.adverb	dare	preposition	ancient	reply,,,,406,ad-45,47,ad,word-428 word-428 word-428 word-429 word-429 word-429 word-429,dzyin dzyeX pjuw kamX yiX kuX top,*[g]i[ŋ] *[d]eʔ *pə *[k]ˤamʔ *ləʔ *kˤaʔ *[t]ˤ[u]p,
+ad-45-397,OldChinese,肰 而 亦 古 亦 又 大 道 𱙁,然	而	亦	古	亦	有	大	道	焉,like.this	conjunction	conjunction	ancient	conjunction	have	big	way	in.it,,,,407,ad-45,47,ad,word-429 word-429 word-429 word-429 word-429 word-429 word-429 word-429 word-429,nyen nyi yek kuX yek hjuwX dajH dawX jen,*[n]a[n] *nə ! *ɢ(r)Ak *kˤaʔ ! *ɢ(r)Ak *[ɢ]ʷəʔ *lˤa[t]-s *[kə.l]ˤuʔ *[ʔ]a[n],
+ad-45-398,OldChinese,必 龏 ⿱僉曰 以 𠭁 之,必	恭	儉	以	得	之,must	cherish	frugality	conjunction	obtain	anaphoric.substitute.of.the.object,,,,408,ad-45,47,ad,word-429 word-430 word-431 word-431 word-431 word-431,pjit kjowng gjemX yiX tok tsyi,*pi[t] *koŋ *[g]r[a]mʔ *ləʔ *tˤək *tə,
+ad-45-399,OldChinese,而 ⿱九高 大 以 ⿺辶⿱止羍 之,而	驕	泰	以	失	之,conjunction	take.pride	pomp	conjunction	loose	anaphoric.substitute.of.the.object,,,,409,ad-45,47,ad,word-431 word-432 word-433 word-433 word-433 word-433,nyi kjew thajH yiX syit tsyi,*nə *kraw *l̥ˤa[t]-s *ləʔ *l̥i[t] *tə,
+ad-45-400,OldChinese,君 亓 亦 唯 䎽 夫 㙑 湯 ⿰力桀 受 矣,君	其	亦	唯	聞	夫	禹	湯	桀	紂	矣,her.majesty	modal.particle	conjunction	modal.particle	hear	modal.particle	Yu.(person.name)	Tang.(person.name)	Jie.(person.name)	Zhou.(person.name)	modal.particle,,,,410,ad-45,47,ad,word-433 word-433 word-433 word-433 word-433 word-433 word-434 word-435 word-436 word-437 word-437,kjun gi yek ywij mjun bju hjuX thang gjet drjuwX hiX,*C.qur *gə ! *ɢ(r)Ak *ɢʷij *mu[n] ! *ba *[ɢ]ʷ(r)aʔ ! *l̥ˤaŋ ! *m-[k]at *[d]ruʔ *qəʔ,
+ad-46-401,OldChinese,敢 𣌭,敢	答,dare	reply,,,,411,ad-46,48,ad,word-437 word-437,kamX top,*[k]ˤamʔ *[t]ˤ[u]p,
+ad-46-402,OldChinese,肰 而 亦 古,然	而	亦	古,like.this	conjunction	conjunction	ancient,,,,412,ad-46,48,ad,word-437 word-437 word-437 word-437,nyen nyi yek kuX,*[n]a[n] *nə ! *ɢ(r)Ak *kˤaʔ,
