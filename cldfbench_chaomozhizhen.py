@@ -183,7 +183,11 @@ def parse_text(text, chars, args):
                             new_segmented += [char]
                             merge = True
                         else:
-                            new_segmented[-1] += char
+                            try:
+                                new_segmented[-1] += char
+                            except IndexError:
+                                new_segmented += [char]
+                                merge = True
                     else:
                         if merge:
                             merge = False
@@ -414,20 +418,21 @@ class Dataset(BaseDataset):
 
         errors = "# Text - Table - Mismatches\n\n"
         for key, example in full_text.items():
-            errors += "## Unit {0}, phrase {1} in Text\n\n".format(
-                    example["Unit"], key)
-            header_len = max(
-                    [
-                        len(example["Text"]), 
-                        len(example_test[example["Number"]]["Analyzed_Word"])])
-            header = header_len * ["C"]
-            errors += " | ".join(header) + "\n"
-            errors += " | ".join([h.replace("C", "---") for h in header]) + "\n"
-            ex1 = example["Text"] + header_len * [""]
-            ex2 = example_test[example["Number"]]["Analyzed_Word"] + header_len * [""]
-            errors += " | ".join(ex1[:header_len]) + "\n"
-            errors += " | ".join(ex2[:header_len]) + "\n"
-            errors += "\n"
+            if 10 < key < 20:
+                errors += "## Unit {0}, phrase {1} in Text\n\n".format(
+                        example["Unit"], key)
+                header_len = max(
+                        [
+                            len(example["Text"]), 
+                            len(example_test[example["Number"]]["Analyzed_Word"])])
+                header = header_len * ["C"]
+                errors += " | ".join(header) + "\n"
+                errors += " | ".join([h.replace("C", "---") for h in header]) + "\n"
+                ex1 = example["Text"] + header_len * [""]
+                ex2 = example_test[example["Number"]]["Analyzed_Word"] + header_len * [""]
+                errors += " | ".join(ex1[:header_len]) + "\n"
+                errors += " | ".join(ex2[:header_len]) + "\n"
+                errors += "\n"
 
         with open("errors.md", "w") as f:
             f.write(errors)
