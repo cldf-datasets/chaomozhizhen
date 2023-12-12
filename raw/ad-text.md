@@ -1,4 +1,4 @@
-# Unit 1
+![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/f6bb905d-dc63-46d5-a40b-4ad84d2c6c63)# Unit 1
 
 Text: 魯莊公將為大鍾，型既成矣，曹沫入見，曰：「昔周室之封魯也，東西七百，南北五百，非山非澤，無有不【民】。
 
@@ -911,16 +911,104 @@ Gloss: *[tsʰ]e(j)ʔ *[N]-pruk-s *[k]ˤ[a]m *tar-s *tə *[kə.l]ˤuʔ。
 Translation: This is the proper way to handle an easy battle.
 
 
-
 # Unit 109
 
-Text:
+Text: 莊公又問曰：「復苦戰有道乎？」
 
-Gloss:
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat ：*[N]-pruk-s *kʰˤaʔ *tar-s *[ɢ]ʷəʔ *[kə.l]ˤuʔ *ɢˤa ？
 
-Translation:
+Translation: Duke Zhuang then asked: “Is there a proper way, instead, to deal with a strenuous battle?”
+
 
 # Unit 110
+
+Text: 答曰：「有。
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat ：*[ɢ]ʷəʔ。
+
+Translation: [Cao Mo] replied: “There is.
+
+
+# Unit 111
+
+Text: 收而聚之，XXXVIII【束而厚之。
+
+Gloss: *s-kiw *nə *m-tsʰoʔ-s *tə，[*s-tʰok *nə *Cə.[g]ˤ(r)oʔ *tə。
+
+Translation: Gather and rally [all the soldiers], unite them into a single body, and strengthen their bonds.
+
+
+# Unit 112
+
+Text: 重賞薄刑，使忘其死而見其生，使良車良士往取其耳，使其志起。
+
+Gloss: *[m]-troŋ *s-taŋʔ *[b]ˤak *[ɢ]ˤeŋ, *s-rəʔ *maŋ *gə *sijʔ *nə *[k]ˤen-s *gə *sreŋ, *s-rəʔ *[r]aŋ *[t.qʰ](r)A *[r]aŋ *[m-s-]rəʔ *ɢʷaŋʔ *tsʰˤoʔ *gə *C.nəʔ， *s-rəʔ *gə *tək-s *C.qʰ(r)əʔ。
+
+Translation: Be generous with praise and light in imposing sanctions. Ensure that they do not care about their death but instead focus on their life. Ensure that the brave charioteers go and fetch the enemy’s ear.  Stoke their determination. 
+
+
+# Unit 113
+
+Text: 勇者使喜，葸者使悔，XXXIX然後改怠。
+
+Gloss: *loŋʔ *tAʔ *s-rəʔ *qʰ(r)əʔ , *səʔ *tAʔ s-rəʔ *m̥ˤəʔ ,*[n]a[n] *[ɢ]ˤ(r)oʔ *C.qˤəʔ *lˤəʔ。
+
+Translation: Let the courageous rejoice, the fearful feel ashamed, and then address sloth.
+
+
+# Unit 114
+
+Text: 此復苦戰之道。」
+
+Gloss: *[tsʰ]e(j)ʔ *[N]-pruk-s *kʰˤaʔ *tar-s *tə *[kə.l]ˤuʔ 。
+
+Translation: This is the proper way to deal with a strenuous battle.”
+
+# Unit 115
+
+Text: 莊公又問曰：「攻奚如？」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat: *kˤoŋ *[g]ˤe *na?
+
+Translation: Duke Zhuang, then, asked:  “How can an attack be launched? ”
+
+
+# Unit 116
+
+Text: 答曰：「民有寶：曰城，曰固，曰阻。三者盡用, 不偕，邦XL家以忧。善攻者以其所有，以攻人之所無有。」
+
+Gloss:  *[t]ˤ[u]p *[ɢ]ʷat: *mi[ŋ]*[ɢ]ʷəʔ *pˤuʔ : *[ɢ]ʷat *[d]eŋ, *[ɢ]ʷat *[k]ˤa-s ,*[ɢ]ʷat *[ts]raʔ。*s.rum *tAʔ *tsi[n]ʔ *loŋ-s ,*pə *kˤrij， *pˤroŋ *kˤra *ləʔ *ʔ(r)u, *[g]e[n]ʔ *kˤoŋ *tAʔ *ləʔ *gə *s-qʰaʔ *[ɢ]ʷəʔ ,*ləʔ *kˤoŋ *ni[ŋ]*tə *s-qʰaʔ *ma *[ɢ]ʷəʔ。
+
+Translation: [Cao Mo] replied: “The people have some treasures:  these are the city walls, fortresses, and strategic passes. These three treasures should all be utilized. If they are not harmonized, they bring pain to one’s home and state.  Excelling in an attack means exploiting what you have to strike at what the enemy lacks. ”
+
+
+# Unit 117
+
+Text: 莊公又問曰：「善守者奚如？」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat :*[g]e[n]ʔ *s.tuʔ-s *tAʔ *[g]ˤe *na ?
+
+Translation: Duke Zhuang then asked again: “What is a good defense like? ”
+
+
+# Unit 118
+
+Text: 答曰：「其食必足以食【之, 其兵足以利之，】XLI其城固足以捍之。
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat : *gə *mə-lək *pi[t] *[ts]ok-s *ləʔ *mə-lək *tə, *gə *praŋ *[ts]ok-s *ləʔ *C.ri[t]-s】*tə,*gə *[d]eŋ *[k]ˤa-s *[ts]ok-s *ləʔ *m-kˤa[r]-s *tə。
+
+Translation: [Cao Mo] replied: “The food supplies must be enough to sustain him, his weapons must be used to support him, and his city walls and fortresses must be capable of protecting him. 
+
+
+# Unit 119
+
+Text: 上下和且輯，絓紀於大國, 大國親之, 天下起志，諸侯寡疑。」
+
+Gloss: *daŋʔ-s *m-gˤraʔ-s *[ɢ]ˤoj *tsa *[dz][u]p , *[k]ʷˤre-s *k(r)əʔ *[ʔ]ˤa *lˤa[t]-s *[C.q]ʷˤək， *lˤa[t]-s *[C.q]ʷˤək *[tsʰ]i[n] *tə, *l̥ˤi[n] *m-gˤraʔ-s *C.qʰ(r)əʔ *tək-s， *ta *[g]ˤ(r)o *[C.k]ʷˤraʔ *[ŋ](r)ə。
+
+Translation: Let there be harmony and concord between the higher and lower ranks.  Interknot threads with the Great States and treat them with brotherhood.  Let the whole world elevate its aspirations,  and let the nobles cast away all doubts.
+
+# Unit 120
 
 Text:
 
