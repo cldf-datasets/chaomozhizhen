@@ -126,20 +126,31 @@ def parse_text(text, chars, args):
                 "Translation": "",
                 "Text": "",
                 "Gloss": "",
+                "Text_Line": [],
+                "Gloss_Line": []
                 })
-    for row in text.readlines():
+    last_item = ""
+    for i, row in enumerate(text.readlines()):
         if row[0] == "#":
             unit = row.split(" ")[2].strip()
             lines[unit]["Unit"] = unit
-            print(unit)
+            last_item = ""
         if not row.strip():
+            last_item = ""
             pass
         if row.startswith("Text: "):
-            lines[unit]["Text"] = row[row.index(":")+ 2 :].strip()
+            lines[unit]["Text"] = [] 
+            last_item = "Text"
         if row.startswith("Gloss: "):
-            lines[unit]["Gloss"] = row[row.index(":")+ 2 :].strip()
+            lines[unit]["Gloss"] = []
+            last_item = "Gloss"
         if row.startswith("Translation: "):
-            lines[unit]["Translation"] = row[row.index(":") + 2:].strip()
+            lines[unit]["Translation"] = row[row.index(":") + 2 :].strip()
+            last_item = ""
+
+        if last_item and row.startswith("  "):
+            lines[unit][last_item] += [row[2:].strip()]
+            lines[unit][last_item + "_Line"] += [i+1]
     
     full_text = defaultdict(
             lambda : {
@@ -156,24 +167,23 @@ def parse_text(text, chars, args):
             
     full_count = 1
     for key, line in sorted(lines.items(), key=lambda x: int(x[0])):
-        new_texts = split_chinese_text(line["Text"])
-        new_glosses = [t for t in re.split("？|，|。|：", line["Gloss"]) if t]
-        if not len(new_texts) == len(new_glosses):
-            print(len(new_texts), new_texts)
-            print(len(new_glosses), new_glosses)
+        if not len(lines["Text"]) == len(lines["Gloss"]):
+            print(len(lines["Text"]), lines["Text_Lines"], new_texts)
+            print(len(lines["Gloss"]), lines["Gloss_Lines"], new_glosses)
             input()
-        elif len(new_texts) == len(new_glosses):
-            for i, (new_text, new_gloss) in enumerate(zip(new_texts, new_glosses)):             
+        elif len(lines["Text"]) == len(lines["Gloss"]):
+            for i, (new_text, new_gloss) in enumerate(
+                    zip(line["Text"], line["Gloss"])):             
                 segmented = segment(new_text, chars)
                 new_segmented = []
                 merge = False
                 for char in segmented:
                     if char in stop_symbols or not is_chinese(char):
-                        try:
-                            new_segmented[-1] += char
-                        except IndexError:
+                        if char in "【「":
                             new_segmented += [char]
                             merge = True
+                        else:
+                            new_segmented[-1] += char
                     else:
                         if merge:
                             merge = False
@@ -185,7 +195,7 @@ def parse_text(text, chars, args):
                         line["Unit"],
                         i+1))
                     print(new_segmented)
-                    print(new_gloss.split())
+                    print(new_gloss)
                 full_text[full_count]["Translation"] = line["Translation"]
                 full_text[full_count]["Phrase"] = i + 1
                 full_text[full_count]["Phrase_Number"] = i + 1
@@ -390,10 +400,10 @@ class Dataset(BaseDataset):
                 )
         for entry in entries.values():
             args.writer.objects["EntryTable"].append(entry)
-            chars.add(entry["Headword"])
+            chars.add(entry["Character"])
         for example in examples.values():
             args.writer.objects["ExampleTable"].append(example)
-
+        
         with open(self.raw_dir / "ad-text.md") as f:
             full_text = parse_text(f, chars, args)
 
@@ -401,9 +411,23 @@ class Dataset(BaseDataset):
         example_test = {}
         for example in examples.values():
             example_test[example["Number"]] = example
-        for key, example in full_text.items():
-            print(key, example["Unit"])
-            print("\t".join(example["Text"]))
-            print("\t".join(example_test[example["Number"]]["Analyzed_Word"]))
-            print("")
 
+        errors = "# Text - Table - Mismatches\n\n"
+        for key, example in full_text.items():
+            errors += "## Unit {0}, phrase {1} in Text\n\n".format(
+                    example["Unit"], key)
+            header_len = max(
+                    [
+                        len(example["Text"]), 
+                        len(example_test[example["Number"]]["Analyzed_Word"])])
+            header = header_len * ["C"]
+            errors += " | ".join(header) + "\n"
+            errors += " | ".join([h.replace("C", "---") for h in header]) + "\n"
+            ex1 = example["Text"] + header_len * [""]
+            ex2 = example_test[example["Number"]]["Analyzed_Word"] + header_len * [""]
+            errors += " | ".join(ex1[:header_len]) + "\n"
+            errors += " | ".join(ex2[:header_len]) + "\n"
+            errors += "\n"
+
+        with open("errors.md", "w") as f:
+            f.write(errors)
