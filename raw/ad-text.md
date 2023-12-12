@@ -1,4 +1,4 @@
-![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/06d548ee-4b5e-4615-ae51-b806b3d445d8)# Unit 1
+![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/39e4b840-3649-4531-9cd8-19de7731c615)![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/101c2dbf-83c9-4852-a0d5-822e0a8b3c8f)![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/d5369a0d-004c-4c4e-a7dd-9b153a4c019d)![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/cd1228c6-939e-4c4c-b4b5-c740432962b8)![image](https://github.com/cldf-datasets/chaomozhizhen/assets/125753111/06d548ee-4b5e-4615-ae51-b806b3d445d8)# Unit 1
 
 Text: 魯莊公將為大鍾，型既成矣，曹沫入見，曰：「昔周室之封魯也，東西七百，南北五百，非山非澤，無有不【民】。
 
@@ -755,8 +755,176 @@ Translation: The retreat will be followed by slaughter, and the advance will be 
 
 # Unit 90
 
+Text: 莊公又問曰：「復班戰有道乎？」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat： *[N]-pruk-s *pˤan *tar-s *[ɢ]ʷəʔ *[kə.l]ˤuʔ *ɢˤa？
+
+Translation: The Duke Zhuang then asked: “Is there an appropriate way to return the troops after the combat? ”
+
+
+# Unit 91
+
+Text: 【答曰：「有。
+
+Gloss: [*[t]ˤ[u]p *[ɢ]ʷat：*[ɢ]ʷəʔ。
+
+Translation: [Cao Mo] replied: “There is. 
+
+
+# Unit 92
+
+Text: 既戰復舍，號令於軍】XXXIII中，曰：繕甲利兵，明日將戰。
+
+Gloss: *[k]ə[t]-s *tar-s *[N]-pruk-s *[l̥]Ak-s，*Cə.[g]ˤaw-s *riŋ-s *[ʔ]ˤa] *[k]ʷər *truŋ, *[ɢ]ʷat：*[k.d][e][n]ʔ-s *[k]ˤr[a]p *C.ri[t]-s *praŋ， *mraŋ *C.nik *[ts]aŋ *tar-s。
+
+Translation: After the battle, when returning to the camp, issue orders to the army. Instruct them to maintain their armor and weapons in good condition, as a new battle will follow the next day.
+
+
+# Unit 93
+
+Text: 測毀度傷, 以班就行，凡失車甲，命之無行。
+
+Gloss: *[tsʰ]rək *[m̥](r)ajʔ *[d]ˤak *l̥aŋ, *ləʔ *pˤ<r>an *[dz]u[k]-s *[g]ˤaŋ, *bəŋ *l̥i[t] *[t.qʰ](r)A *[k]ˤr[a]p， *m-riŋ-s *tə *ma *[g]ˤaŋ。」
+
+Translation: Estimate the losses and the wounded,   and have everyone proceed to their respective rows according to their ranks.  Order those who have lost their chariots and weapons to be released from their ranks. 
+
+# Unit 94
+
+Text: 明日將戰，使為前行。
+
+Gloss: *mraŋ *C.nik *[ts]aŋ *tar-s, *s-rəʔ *ɢʷ(r)aj *[dz]ˤen *[g]ˤaŋ。
+
+Translation: The next day,  when we fight again, you will have them take the front rows.
+
+# Unit 95
+
+Text: 諜人來告曰：其 XXXIV將帥既食，車輦皆災，曰將早行。
+
+Gloss: *lˤep *ni[ŋ] *mə.rˤək *kˤuk *[ɢ]ʷat ：*gə *[ts]aŋ *s-rut-s *[k]ə[t]-s *mə-lək， *[t.qʰ](r)A *[r][a][n]ʔ *kˤrij *[ts]ˤə，*[ɢ]ʷat *[ts]aŋ *Nə.tsˤuʔ *Cə.[g]ˤraŋ。
+
+Translation: Suppose your spies come to inform you that the enemy generals and commanders have already had their meals and that their chariots are all broken,  and that we will have to march at dawn tomorrow.
+
+# Unit 96
+
+Text: 乃命白徒早食供兵，各載爾贓。
+
+Gloss: *nˤəʔ *m-riŋ-s *bˤrak *[d]ˤa *Nə.tsˤuʔ *mə-lək *koŋ *praŋ， *kˤak *[m-ts]ˤəʔ-s *n[ə][r]ʔ *[ts]ˤaŋ。
+
+Translation: At that point, order your recruits to have a meal early tomorrow morning, equip themselves with weapons, and then take charge of and transport your spoils. 
+
+# Unit 97
+
+Text: 既戰將敷，為之毋怠，毋使民疑。
+
+Gloss: *[k]ə[t]-s *tar-s *[ts]aŋ *pʰ(r)a， *ɢʷ(r)aj *tə *mo *lˤəʔ， *mo *s-rəʔ *mi[ŋ] *[ŋ](r)ə。
+
+Translation: Once the war is over, you must distribute it.  In doing so, do not appear negligent. Do not allow the people to harbor doubts.
+
+
+# Unit 98
+
+Text: 及XXXV爾龜筮, 皆勝之。
+
+Gloss: *[m-k-]rəp *n[ə][r]ʔ *[k]ʷrə *[d][e][t]-s， *kˤrij *l̥əŋ *tə。
+
+Translation: If divinations using turtle shells and yarrow stalks were to predict Victory,
+
+
+# Unit 99
+
+Text: 改調爾鼓，乃迸其虜。
+
+Gloss: *C.qˤəʔ *[d]ˤiw *n[ə][r]ʔ *[k]ˤaʔ， *nˤəʔ *pˤreŋ-s *gə *C.rˤaʔ。
+
+Translation: change the beat of your drums and get rid of the enemy prisoners. 
+
+# Unit 100
+
+Text: 明日復陳，必過其所。
+
+Gloss: *mraŋ *C.nik *[N]-pruk-s *lri[n]，*pi[t]*kʷˤaj-s *gə *s-qʰaʔ。
+
+Translation: The next day, once the military formation is reorganized, you must cross their front line.
+
+# Unit 101
+
+Text: 此復班戰之道。」
+
+Gloss: *[tsʰ]e(j)ʔ *[N]-pruk-s *pˤan *tar-s *tə *[kə.l]ˤuʔ。
+
+Translation: This is the appropriate way to return the troops after the combat.
+
+# Unit 102
+
+Text: 莊公又問曰：「復甘XXXVI戰有道乎？」
+
+Gloss: *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat ：*[N]-pruk-s *[k]ˤ[a]m *tar-s *[ɢ]ʷəʔ *[kə.l]ˤuʔ*ɢˤa ？
+
+Translation: Duke Zhuang asked once more: “Is there a proper way to handle an easy battle? ”
+
+# Unit 103
+
+Text: 答曰：「有。
+
+Gloss: *[t]ˤ[u]p *[ɢ]ʷat ：*[ɢ]ʷəʔ。
+
+Translation: [Cao Mo] replied: “There is.
+
+# Unit 104
+
+Text: 必慎以戒，若將弗克。
+
+Gloss: *pi[t] *[d]i[n]-s *ləʔ *kˤrək-s， *nak *[ts]aŋ *put *kʰˤək。
+
+Translation: It is necessary to admonish [the soldiers] to be cautious, as if they were not close to victory.
+
+# Unit 105
+
+Text: 毋冒以進，必過前功。
+
+Gloss: *mo *mˤuk-s *ləʔ *[ts][i][n]-s， *pi[t] *kʷˤaj-s *[dz]ˤen *kˤoŋ。
+
+Translation: Do not advance recklessly;  rather, focus on surpassing previous merits.
+
+# Unit 106
+
+Text: 賞獲指葸，以勸其志。
+
+Gloss: *s-taŋʔ *m-qʷˤrak *mə.kijʔ *səʔ， *ləʔ *C.qʷʰar-s *gə *tək-s。
+
+Translation: Weave praises of your achievements and banish fears to spur their will.
+
+# Unit 107
+
+Text: 甬者喜之，XXXVII【慌者】悔之，萬民黔首皆欲有之。
+
+Gloss: *loŋʔ *tAʔ *qʰ(r)əʔ *tə， *m̥ˤaŋʔ *tAʔ *m̥ˤəʔ *tə， *C.ma[n]-s *mi[ŋ] *[g](r)[o]m *l̥uʔ-s *kˤrij *ɢ(r)ok *[ɢ]ʷəʔ *tə。
+
+Translation: Rejoice in fearlessness and rebuke haste.  It is the entire people who want it to be so.
+
+# Unit 108
+
+Text: 此復甘戰之道。」
+
+Gloss: *[tsʰ]e(j)ʔ *[N]-pruk-s *[k]ˤ[a]m *tar-s *tə *[kə.l]ˤuʔ。
+
+Translation: This is the proper way to handle an easy battle.
+
+
+
+# Unit 109
+
 Text:
 
 Gloss:
 
 Translation:
+
+# Unit 110
+
+Text:
+
+Gloss:
+
+Translation:
+
