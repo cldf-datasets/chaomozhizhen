@@ -28,11 +28,11 @@ Translation: Duke Zhuang of Lu was in the process of having a massive bell cast.
 
 Text: 
   今封彌小而鍾愈大，
-  君其圖之。
+  君其圖之也。
 
 Gloss: 
   *[k]r[ə]m *p(r)oŋ *m-nə[r] *[s]ewʔ *nə *toŋ *loʔ *lˤa[t]-s，
-  *C.qur *gə *[d]ˤa *tə。
+  *C.qur *gə *[d]ˤa *tə *lAjʔ。
 
 Translation: Nowadays, however, the State is getting smaller, and the bells are getting larger. Perhaps His Majesty should consider it.
 
