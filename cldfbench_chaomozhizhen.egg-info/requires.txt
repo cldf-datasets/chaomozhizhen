@@ -1,5 +1,0 @@
-cldfbench
-pylexibank
-
-[test]
-pytest-cldf

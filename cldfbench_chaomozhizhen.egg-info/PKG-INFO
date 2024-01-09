@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: cldfbench-chaomozhizhen
-Version: 0.0.0
-License-File: LICENSE
-Requires-Dist: cldfbench
-Requires-Dist: pylexibank
-Provides-Extra: test
-Requires-Dist: pytest-cldf; extra == "test"

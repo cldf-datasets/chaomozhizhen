@@ -1,2 +1,0 @@
-[cldfbench.dataset]
-chaomozhizhen = cldfbench_chaomozhizhen:Dataset
