@@ -109,7 +109,8 @@ Text:
 
 Gloss: 
   *[g]i[ŋ] *mu[n] *tə *[ɢ]ʷat：
-  *(mə.)rə[n] *pˤroŋ *tə *C.qur *mraŋ, *[ts]ˤək *pə *[k]ʰˤa[j]ʔ *ləʔ *pə *s-liw *teŋ-s *nə *[g]e[n]ʔ *[ʔ]ˤa *mi[ŋ]。
+  *(mə.)rə[n] *pˤroŋ *tə *C.qur *mraŋ, 
+  *[ts]ˤək *pə *[k]ʰˤa[j]ʔ *ləʔ *pə *s-liw *teŋ-s *nə *[g]e[n]ʔ *[ʔ]ˤa *mi[ŋ]。
 
 Translation: Your minister has heard it said that “if the ruler of the neighboring state is enlightened, then he cannot refrain from improving his own government and doing good for the people. 
 
