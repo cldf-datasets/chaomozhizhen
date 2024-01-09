@@ -418,7 +418,7 @@ class Dataset(BaseDataset):
 
         errors = "# Text - Table - Mismatches\n\n"
         for key, example in full_text.items():
-            if 21 < key < 31:
+            if 20 < key < 40:
                 errors += "## Unit {0}, phrase {1} in Text\n\n".format(
                         example["Unit"], key)
                 header_len = max(

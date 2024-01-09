@@ -1,18 +1,20 @@
 appdirs==1.4.4
+attr==0.3.1
 attrs==23.1.0
 Babel==2.13.1
 bibtexparser==2.0.0b4
 bs4==0.0.1
 certifi==2023.11.17
+cffi==1.16.0
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/chaomozhizhen@865cb374d10382d60524b94c2a453e95baa1f2fa#egg=cldfbench_chaomozhizhen
+-e git+https://github.com/cldf-datasets/chaomozhizhen.git@c5518f497f7ea41905fa74601184e5c231187bb4#egg=cldfbench_chaomozhizhen
 cldfcatalog==1.5.1
 cldfzenodo==2.1.0
 clldutils==3.22.0
 colorama==0.4.6
 colorlog==6.8.0
 csvw==3.2.1
-exceptiongroup==1.2.0
+defusedxml==0.7.1
 gitdb==4.0.11
 greenlet==3.0.2
 idna==3.6
@@ -40,6 +42,7 @@ pylatexenc==2.10
 pylexibank==3.4.0
 pytest==7.4.3
 python-dateutil==2.8.2
+pytz==2022.7.1
 rdflib==7.0.0
 referencing==0.32.0
 regex==2023.10.3

@@ -6,8 +6,7 @@ Text:
   曹沫入見，
   曰：
   「昔周室之封魯也，
-  東西七百，
-  南北五百，
+  東西七百，南北五百，
   非山非澤，
   無有不【民】。
 
@@ -129,7 +128,7 @@ Translation: Conversely, I fear he would meet his end.
 # Unit 9
 
 Text: 
-  鄰邦之君無道，
+  鄰邦之君亡道，
   則亦不可以不修政而善於民。
 
 Gloss: 
@@ -142,7 +141,7 @@ Translation: Similarly, if the ruler of the neighboring state does not know the 
 
 Text: 
   不然，
-  無以取之。
+  亡以取之。
 
 Gloss: 
   *pə *[n]a[n]，
@@ -153,13 +152,15 @@ Translation: Conversely, he would lack the means to win it.”
 # Unit 11
 
 Text: 
-  莊公曰: 「昔施伯語寡人曰：
+  莊公曰: 
+  「昔施伯語寡人曰：
   君子得之失之，
   天命。
 
 
 Gloss: 
-  *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat: *[s]Ak *l̥aj *pʰˤak ŋ(r)aʔ-s *[C.k]ʷˤraʔ *ni[ŋ]*[ɢ]ʷat：
+  *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat: 
+  *[s]Ak *l̥aj *pʰˤak ŋ(r)aʔ-s *[C.k]ʷˤraʔ *ni[ŋ]*[ɢ]ʷat：
   *C.qur *[ts]əʔ *tˤək *tə *l̥i[t] *tə，
   *l̥ˤi[n]*m-riŋ-s。
 
@@ -194,14 +195,16 @@ Translation: Cao Mo retorted: “There is no difference between this and the wor
 Text: 
   臣聞之曰：
   君 VI 子以賢稱而失之，
-  天命; 以無道稱，
+  天命; 
+  以無道稱，
   而沒身就世，
   亦天命。
 
 Gloss: 
   *[g]i[ŋ] *mu[n]*tə *[ɢ]ʷat：
   *C.qur *[ts]əʔ *ləʔ *[g]ˤi[n] *tʰəŋ *nə *l̥i[t] *tə，
-  *l̥ˤi[n] *m-riŋ-s; *ləʔ *ma *[kə.l]ˤuʔ *tʰəŋ，
+  *l̥ˤi[n] *m-riŋ-s; 
+  *ləʔ *ma *[kə.l]ˤuʔ *tʰəŋ，
   *nə *mˤut *n̥i[ŋ]*[dz]u[k]-s *l̥ap-s，
    *ɢ(r)Ak *l̥ˤi[n] *m-riŋ-s。
 
@@ -261,7 +264,8 @@ Text:
   不聽樂，
   居不襲文，
   食不貳羹，
-  兼愛萬民而亡有私也。
+  兼愛萬民
+  而亡有私也。
 
 Gloss: 
   *pə *truk-s *[tsʰ]imʔ，
@@ -269,7 +273,8 @@ Gloss:
   *pə *l̥ˤeŋ *[ŋ]ˤrawk，
   *k(r)a *pə *s-ŋet *mə[n]，
   *mə-lək *pə *ni[j]-s *kˤraŋ，
-  *[k]ˤem *[q]ˤə[p]-s *C.ma[n]-s *mi[ŋ] *nə *maŋ *[ɢ]ʷəʔ *[s]əj *lAjʔ。
+  *[k]ˤem *[q]ˤə[p]-s *C.ma[n]-s *mi[ŋ] 
+  *nə *maŋ *[ɢ]ʷəʔ *[s]əj *lAjʔ。
 
 Translation: He stopped sleeping during the day, drinking wine, and listening to music. He ceased wearing ornate clothes and indulging in meals, and he began to love the people unconditionally, setting aside all personal interests.
 
@@ -298,23 +303,27 @@ Translation: The following year, [the duke] asked Cao Mo: “I intend to wage wa
 Text: 
   曹沫答曰：
   「臣【聞之：
-  有固謀而亡固城；有克政而亡克陳。
+  有固謀而亡固城；
+  有克政而亡克陳。
 
 Gloss: 
   *N-tsˤu *mˤat *[t]ˤ[u]p *[ɢ]ʷat：
   *[g]i[ŋ]【*mu[n] *tə：
-  *[ɢ]ʷəʔ *[k]ˤa-s *mə *nə *maŋ *[k]ˤa-s *[d]eŋ；*[ɢ]ʷəʔ *kʰˤək *teŋ-s *nə *maŋ *kʰˤək *lri[n]。
+  *[ɢ]ʷəʔ *[k]ˤa-s *mə *nə *maŋ *[k]ˤa-s *[d]eŋ；
+  *[ɢ]ʷəʔ *kʰˤək *teŋ-s *nə *maŋ *kʰˤək *lri[n]。
 
 Translation: Cao Mo replied: “Your minister has heard that it is better to have a solid strategy than solid cities, a capable government rather than a capable army.”
 
 # Unit 20
 
 Text: 
-  】IX三代之陳盡存。或以克，
+  】IX三代之陳盡存。
+  或以克，
   或以亡。
 
 Gloss: 
-  *s.rum *lˤək-s *tə *lri[n] *tsi[n]ʔ *[dz]ˤə[n]。*[ɢ]ʷˤək *ləʔ *kʰˤək，
+  *s.rum *lˤək-s *tə *lri[n] *tsi[n]ʔ *[dz]ˤə[n]。
+  *[ɢ]ʷˤək *ləʔ *kʰˤək，
   *[ɢ]ʷˤək *ləʔ *maŋ。
 
 Tranlsation: The formations of the Three Dynasties have all been preserved: with some of them, victory is achieved, with others, defeat is suffered. 
@@ -323,26 +332,35 @@ Tranlsation: The formations of the Three Dynasties have all been preserved: with
 
 Text: 
   且臣之聞之：
-  小邦居大邦之間, 敵邦交地，
+  小邦居大邦之間, 
+  敵邦交地，
   不可【以先作怨，
-  疆地毋先而必取 † 】焉，
-  X 所以拒邊；毋愛貨資、子女，
+  疆地毋先
+  而必取 † 】焉，
+  X 所以拒邊；
+  毋愛貨資、子女，
   以事其便嬖，
-   所以拒內；城郭必修，
+   所以拒內；
+   城郭必修，
   繕甲利兵，
-  必有戰心以戰，
-  所以為長也。
+  必有戰心
+  以戰，所以為長也。
 
 Gloss: 
   *tsa *[g]i[ŋ] *tə *mu[n] *tə：
-  *[s]ewʔ *pˤroŋ *k(r)a *lˤa[t]-s *pˤroŋ *tə *kˤre[n], *[d]ˤek *pˤroŋ *[k]ˤraw *[l]ˤej-s，
+  *[s]ewʔ *pˤroŋ *k(r)a *lˤa[t]-s *pˤroŋ *tə *kˤre[n], 
+  *[d]ˤek *pˤroŋ *[k]ˤraw *[l]ˤej-s，
   *pə *[k]ʰˤa[j]ʔ *ləʔ *sˤər *[ts]ˤak-s *[ʔ]o[r]-s，
-  *kaŋ *[l]ˤej-s *mo *sˤər *nə *pi[t] *tsʰˤoʔ † *[ʔ]a[n]，
-  *s-qʰ<r>aʔ *ləʔ *g(r)aʔ *pˤe[n]；*mo *[q]ˤə[p]-s *qʷʰˤaj-s *[ts]ij、*[ts]əʔ *nraʔ，
-  *ləʔ *[m-s-]rəʔ-s *gə *[b]e[n] *pˤek-s, *s-qʰ<r>aʔ *ləʔ *g(r)aʔ *nˤ[u]p-s; *[d]eŋ *kʷˤak *pi[t]*s-liw，
+  *kaŋ *[l]ˤej-s *mo *sˤər 
+  *nə *pi[t] *tsʰˤoʔ † *[ʔ]a[n]，
+  *s-qʰ<r>aʔ *ləʔ *g(r)aʔ *pˤe[n]；
+  *mo *[q]ˤə[p]-s *qʷʰˤaj-s *[ts]ij、*[ts]əʔ *nraʔ，
+  *ləʔ *[m-s-]rəʔ-s *gə *[b]e[n] *pˤek-s, 
+  *s-qʰ<r>aʔ *ləʔ *g(r)aʔ *nˤ[u]p-s; 
+  *[d]eŋ *kʷˤak *pi[t]*s-liw，
   *[g]e[n]ʔ-s *[k]ˤr[a]p *C.ri[t]-s *praŋ，
-  *pi[t] *[ɢ]ʷəʔ *tar-s *səm *ləʔ *tar-s，
-  *s-qʰ<r>aʔ *ləʔ  *ɢʷ(r)aj *Cə-[N]-traŋ *lAjʔ。
+  *pi[t] *[ɢ]ʷəʔ *tar-s *səm 
+  *ləʔ *tar-s，*s-qʰ<r>aʔ *ləʔ  *ɢʷ(r)aj *Cə-[N]-traŋ *lAjʔ。
 
 Translation: Your minister has heard that when a small state is situated between two larger states,  and shares traversable terrain with them, the smaller state cannot initiate hostilities first.  Since it cannot be the first to open hostilities in border territories, it is necessary to conquer them with †,  and it is with these that you maintain your border territories.  Do not show greed for goods and wealth, do not exceed in your love for children and women to the extent that it serves the interests of your advisors and concubines;  this is how you remain secure within your borders. Take care of your cities and suburbs, nurture your troops, and strengthen the army. To wage war,  you must have a warlike spirit. This is how one becomes a leader. 
 
@@ -461,11 +479,13 @@ Translation: Spread [examples of] merit and reward with food supplies. Punish an
 
 Text: 
   凡畜】XIII群臣，
-  貴賤同等, 施祿毋倍。
+  貴賤同等, 
+  施祿毋倍。
 
 Gloss: 
   *bəŋ *qʰuk-s】*[g]ur *[g]i[ŋ]，
-  *kuj-s *[dz][a][n]-s *lˤoŋ *tˤəŋʔ,*l̥aj *[r]ˤok *mo *[b]ˤəʔ。
+  *kuj-s *[dz][a][n]-s *lˤoŋ *tˤəŋʔ,
+  *l̥aj *[r]ˤok *mo *[b]ˤəʔ。
 
 Translation: Always educate all the ministers, and do not duplicate rewards within the same rank,  nor to those in higher or lower ranks.
 
@@ -473,14 +493,15 @@ Translation: Always educate all the ministers, and do not duplicate rewards with
 # Unit 31
 
 Text: 
-  詩乎，
-  有之，
-  曰: 「愷悌君子，
+  詩乎有之，
+  曰: 
+  「愷悌君子，
   民之父母。」
 
 Gloss: 
-  *s.tə *[ʔ]ˤa, *[ɢ]ʷəʔ *tə，
-  *[ɢ]ʷat: *C.qʰˤəjʔ *lˤəjʔ-s *C.qur *[ts]əʔ，
+  *s.tə *[ʔ]ˤa *[ɢ]ʷəʔ *tə，
+  *[ɢ]ʷat: 
+  *C.qʰˤəjʔ *lˤəjʔ-s *C.qur *[ts]əʔ，
   *mi[ŋ] *tə *p(r)aʔ *məʔ。
 
 Translation: The Odes refer to this in the verse benevolent is the ruler, both father and mother to the people. 
@@ -490,18 +511,20 @@ Translation: The Odes refer to this in the verse benevolent is the ruler, both f
 # Unit 32
 
 Text: 
-  此所以為和於邦。」
+  此所以
+  為和於邦。」
 
 Gloss: 
-  *[tsʰ]e(j)ʔ *s-qʰaʔ *ləʔ *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *pˤroŋ。
+  *[tsʰ]e(j)ʔ *s-qʰaʔ *ləʔ 
+  *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *pˤroŋ。
 
 Translation: This is how harmony is established with the [entire] State. ”
 
 # Unit 33
 
 Text: 
-  莊公曰: 「為和於舍如之何？
-  」
+  莊公曰: 
+  「為和於舍如之何？」
 
 Gloss: 
   *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat：
@@ -515,12 +538,13 @@ Translation: Duke Zhuang then asked: “How can one be in harmony with the encam
 
 Text: 
   曹沫曰：
-  「XIV三軍大出, 君自率，
-  必有二將軍; 無將軍，
-  必有數嬖大夫；無嬖大夫，
-  必有數大官之師，
-  公孫，
-  公子。
+  「XIV三軍大出, 
+  君自率，
+  必有二將軍;
+   無將軍，
+  必有數嬖大夫；
+  無嬖大夫，
+  必有數大官之師，公孫，公子。
 
 Gloss: 
   *N-tsˤu *mˤat *[ɢ]ʷat：
@@ -528,9 +552,7 @@ Gloss:
    *C.qur *[ts]əʔ *s-rut-s，
   *pi[t]*[ɢ]ʷəʔ *ni[j]-s *[ts]aŋ *[k]ʷər; *ma *[ts]aŋ *[k]ʷər，
   *pi[t] *[ɢ]ʷəʔ *s-rok *pˤek-s *lˤa[t]-s *p(r)a；*ma *pˤek-s *lˤa[t]-s *p(r)a，
-  *pi[t] *[ɢ]ʷəʔ *s-rok *lˤa[t]-s *kʷˤa[n] *tə *srij，
-  *C.qˤoŋ *[s]ˤu[n]，
-  *C.qˤoŋ *[ts]əʔ。
+  *pi[t] *[ɢ]ʷəʔ *s-rok *lˤa[t]-s *kʷˤa[n] *tə *srij，*C.qˤoŋ *[s]ˤu[n]，*C.qˤoŋ *[ts]əʔ。
 
 Translation: Cao Mo replied: “When the Three Armies are deployed, ,  the sovereign shall lead one of them and appoint two generals.  In cases where the two generals are absent, there should be numerous trusted officers. In cases where trusted officers are lacking,  there should be numerous high-ranking officials of every rank, including the duke's grandchildren and sons.
 
@@ -539,14 +561,19 @@ Translation: Cao Mo replied: “When the Three Armies are deployed, ,  the sover
 
 Text: 
   凡有司率長民者，
-  XV無祿爵, 無從軍而避罪，
-  同都而教於邦則其合之不難，
+  XV無祿爵, 
+  無從軍而避罪，
+  同
+  都而教於邦
+  則其合之不難，
   所以為和於舍。」
 
 Gloss: 
   *bəŋ *[ɢ]ʷəʔ *s-lə *s-rut-s *Cə-[N]-traŋ *mi[ŋ] *tAʔ，
-  *ma *[r]ˤok *[ts]ewk,*ma *[dz]oŋ *[k]ʷər *nə *[b]ek-s *[dz]ˤujʔ，
-  *lˤoŋ *tˤa *nə *s.kˤraw-s *[ʔ]ˤa *pˤroŋ *[ts]ˤək *gə *m-kˤop *tə *pə *nˤar，
+  *ma *[r]ˤok *[ts]ewk,
+  *ma *[dz]oŋ *[k]ʷər *nə *[b]ek-s *[dz]ˤujʔ，
+  *lˤoŋ 
+  *tˤa *nə *s.kˤraw-s *[ʔ]ˤa *pˤroŋ *[ts]ˤək *gə *m-kˤop *tə *pə *nˤar，
    *s-qʰaʔ *ləʔ *ɢʷ(r)aj *[ɢ]ˤoj *[ʔ]ˤa *[l̥]Ak-s。
 
 Translation: Summon and instruct [on their duties] regarding the State all those who have the authority to lead and guide the people, those who do not have emoluments and titles, those who do not enlist [solely] to evade justice,  and you will find that uniting them [into a single body] will not be difficult. ,  These are the means to be in harmony with the encampment.”
@@ -556,8 +583,7 @@ Translation: Summon and instruct [on their duties] regarding the State all those
 
 Text: 
   莊公又問：
-  「為和於陳如之何？
-  」
+  「為和於陳如之何？」
 
 Gloss: 
   *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s：
@@ -627,7 +653,8 @@ Translation: Form groups of five people so that when one of them distinguishes t
 
 Text: 
   毋尚獲而尚聞命，
-  所以為毋退, 將車以車，
+  所以為毋退, 
+  將車以車，
   率徒以徒，
   所以同死於民。
 
@@ -644,11 +671,12 @@ Translation: Do not praise achievements, rather praise the ability to follow the
 # Unit 41
 
 Text: 
-  莊公曰: 「此三者足以 XVIII戰乎？
-  」
+  莊公曰: 
+  「此三者足以 XVIII戰乎？」
 
 Gloss: 
-  *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat: *[tsʰ]e(j)ʔ *s.rum *tAʔ *[ts]ok-s *ləʔ *tar-s *ɢˤa？
+  *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat: 
+  *[tsʰ]e(j)ʔ *s.rum *tAʔ *[ts]ok-s *ləʔ *tar-s *ɢˤa？
   
 
 Translation: Duke Zhuang replied: “Are these three elements sufficient to conduct wage war?”
@@ -660,7 +688,8 @@ Text:
   答曰：
   「戒勝怠，
   果勝疑，
-  親率勝使人, 不親則不敦也，
+  親率勝使人, 
+  不親則不敦也，
   不和則不輯，
   不義則不服。」
 
@@ -693,7 +722,9 @@ Translation: The Duke Zhuang asked again: “How can one be paternal [towards th
 Text: 
   答曰：
   「XIX君毋憚自勞，
-  以觀上下之情偽；匹夫寡婦之獄訟, 君必身聽之。又知不足，
+  以觀上下之情偽；
+  匹夫寡婦之獄訟, 君必身聽之。
+  又知不足，
   無所不中，
   則民親之。」
 
@@ -701,7 +732,8 @@ Gloss:
   *[t]ˤ[u]p *[ɢ]ʷat：
   *C.qur *mo *dˤar-s *s.[b]i[t]-s *[r]ˤaw，
   *ləʔ *C.qʷˤar *daŋʔ-s *m-gˤraʔ-s *tə *[dz]eŋ *N-ɢʷ(r)aj-s；*pʰi[t] *p(r)a *[C.k]ʷˤraʔ *mə.bəʔ *tə *[ŋ]rok *s.[ɢ]oŋ-s，
-   *C.qur *pi[t] *n̥i[ŋ] *l̥ˤeŋ *tə。*[ɢ]ʷəʔ-s *tre *pə *[ts]ok-s，
+   *C.qur *pi[t] *n̥i[ŋ] *l̥ˤeŋ *tə。
+   *[ɢ]ʷəʔ-s *tre *pə *[ts]ok-s，
   *ma *s-qʰaʔ *pə *truŋ，
   *[ts]ˤək *mi[ŋ] *[tsʰ]i[n] *tə。
 
@@ -744,8 +776,7 @@ Translation: In response, Cao Mo said: “Do not bestow favor upon relatives or 
 
 Text: 
   又問：
-  「為義如之何？
-  」
+  「為義如之何？」
 
 Gloss: 
   *[ɢ]ʷəʔ-s *C.mu[n]-s：
@@ -770,12 +801,14 @@ Translation: [Cao Mo] answered: “Spread examples of merit and praise trustwort
 
 Text: 
   能治XXI百人，
-  使長百人；能治三軍，
+  使長百人；
+  能治三軍，
   使率。
 
 Gloss: 
   *nˤə *C.lrə *pˤrak *ni[ŋ]，
-  *s-rəʔ-s *Cə-[N]-traŋ *pˤrak *ni[ŋ]；*nˤə *C.lrə *s.rum *[k]ʷər，
+  *s-rəʔ-s *Cə-[N]-traŋ *pˤrak *ni[ŋ]；
+  *nˤə *C.lrə *s.rum *[k]ʷər，
    *s-rəʔ *s-rut-s。
 
 Translation: Let those who can lead [a militia of] a hundred men lead [a militia of] a hundred men, and those who can lead the Three Armies be in charge.
@@ -783,12 +816,14 @@ Translation: Let those who can lead [a militia of] a hundred men lead [a militia
 # Unit 50
 
 Text: 
-  授有智，
+  授
+  有智，
   予有能，
   則民義之。
 
 Gloss: 
-  *[d]uʔ-s *[ɢ]ʷəʔ *tre-s，
+  *[d]uʔ-s 
+  *[ɢ]ʷəʔ *tre-s，
   *laʔ *[ɢ]ʷəʔ *nˤə，
   *[ts]ˤək *mi[ŋ] *ŋ(r)aj *tə。
 
@@ -803,16 +838,14 @@ Text:
   卒有長，
   三軍有帥，
   邦有君，
-  此三者，
-  所以 XXII戰也。
+  此三者，所以 XXII戰也。
 
 Gloss: 
   *tsa *[g]i[ŋ]*mu[n] *tə：
   *[ts]ˤut *[ɢ]ʷəʔ *Cə-[N]-traŋ，
   *s.rum *[k]ʷər *[ɢ]ʷəʔ *s-rut-s，
   *pˤroŋ *[ɢ]ʷəʔ *C.qur，
-  *[tsʰ]e(j)ʔ *s.rum *tAʔ，
-  *s-qʰaʔ *ləʔ *tar-s *lAjʔ。
+  *[tsʰ]e(j)ʔ *s.rum *tAʔ，*s-qʰaʔ *ləʔ *tar-s *lAjʔ。
 
 Translation: Also,  Your minister has heard that the superior relates to the common soldier as the commander relates to the Three Armies and as the Sovereign relates to the State. These three [hierarchies] are the means to wage war. 
 
@@ -890,8 +923,7 @@ Translation: War has its own clear Way. You shall not prevail with through weapo
 
 Text: 
   莊公曰：
-  「勿兵以克奚如？
-  」
+  「勿兵以克奚如？」
 
 Gloss: 
   *[ts]raŋ *C.qˤoŋ *[ɢ]ʷat：
@@ -904,11 +936,13 @@ Translation: Duke Zhuang then questioned: “How can one prevail without resorti
 
 Text: 
   答曰：
-  「人之兵不砥礪, 我兵必 XXIV砥礪。
+  「人之兵不砥礪, 
+  我兵必 XXIV砥礪。
 
 Gloss: 
   *[t]ˤ[u]p *[ɢ]ʷat：
-  *ni[ŋ] *tə *praŋ *pə *tijʔ *[r]at-s,*ŋˤajʔ *praŋ *pi[t] *tijʔ *[r]at-s。
+  *ni[ŋ] *tə *praŋ *pə *tijʔ *[r]at-s,
+  *ŋˤajʔ *praŋ *pi[t] *tijʔ *[r]at-s。
 
 Translation: [Cao Mo] replied: “Where the weapons of our adversaries are not sharpened like inkstones,  ours should be.
 

@@ -1,198 +1,135 @@
 # Text - Table - Mismatches
 
-## Unit 4, phrase 22 in Text
+## Unit 4, phrase 21 in Text
 
 C | C | C
 --- | --- | ---
 周志 III  | 【是 | 存。」
 周志 | 是 | 存
 
-## Unit 5, phrase 23 in Text
+## Unit 5, phrase 22 in Text
 
 C | C
 --- | ---
 莊公 | 曰：
 莊公 | 曰
 
-## Unit 5, phrase 24 in Text
+## Unit 5, phrase 23 in Text
 
 C | C | C | C | C | C | C | C
 --- | --- | --- | --- | --- | --- | --- | ---
 「今 | 天下 | 之 | 君子 | 既 | 可 | 知 | 已，
 今 | 天下 | 之 | 君子 | 既 | 可 | 知 | 已
 
-## Unit 5, phrase 25 in Text
+## Unit 5, phrase 24 in Text
 
 C | C | C | C | C | C
 --- | --- | --- | --- | --- | ---
 孰 | 能 | 併 | 兼 | 人 | 哉？」
 孰 | 能 | 併 | 兼 | 人 | 哉
 
-## Unit 6, phrase 26 in Text
+## Unit 6, phrase 25 in Text
 
 C | C
 --- | ---
 曹沫 | 曰：
 曹沫 | 曰
 
-## Unit 6, phrase 27 in Text
+## Unit 6, phrase 26 in Text
 
 C | C | C | C
 --- | --- | --- | ---
 「君 | 其 | 毋 | 云。
 君 | 其 | 毋 | 云
 
-## Unit 7, phrase 28 in Text
+## Unit 7, phrase 27 in Text
 
 C | C | C | C
 --- | --- | --- | ---
 臣 | 聞 | 之 | 曰：
 臣 | 聞 | 之 | 曰
 
-## Unit 7, phrase 29 in Text
+## Unit 7, phrase 28 in Text
 
 C | C | C | C | C
 --- | --- | --- | --- | ---
 「鄰 | 邦 | 之 | 君 | 明，
 鄰 | 邦 | 之 | 君 | 明
 
-## Unit 8, phrase 30 in Text
+## Unit 8, phrase 29 in Text
 
 C | C | C | C | C | C | C | C | C | C
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 不 | 然， |  |  |  |  |  |  |  | 
 則 | 不 | 可以 | 不 | 修 | 政 | 而 | 善 | 於 | 民
 
-## Unit 8, phrase 31 in Text
+## Unit 8, phrase 30 in Text
 
 C | C | C
 --- | --- | ---
 恐 | 亡 | 焉。
 不 | 然 | 
 
-## Unit 9, phrase 32 in Text
+## Unit 9, phrase 31 in Text
 
 C | C | C | C | C | C
 --- | --- | --- | --- | --- | ---
-鄰 | 邦 | 之 | 君 | 無 | 道，
+鄰 | 邦 | 之 | 君 | 亡 | 道，
 恐 | 亡 | 焉 |  |  | 
 
-## Unit 9, phrase 33 in Text
+## Unit 9, phrase 32 in Text
 
 C | C | C | C | C | C | C | C | C | C | C
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 則 | 亦 | 不 | 可以 | 不 | 修 | 政 | 而 | 善 | 於 | 民。
 鄰 | 邦 | 之 | 君 | 亡 | 道 |  |  |  |  | 
 
-## Unit 10, phrase 34 in Text
+## Unit 10, phrase 33 in Text
 
 C | C | C | C | C | C | C | C | C | C | C
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 不 | 然， |  |  |  |  |  |  |  |  | 
 則 | 亦 | 不 | 可以 | 不 | 修 | 政 | 而 | 善 | 於 | 民
 
-## Unit 10, phrase 35 in Text
+## Unit 10, phrase 34 in Text
 
 C | C | C | C
 --- | --- | --- | ---
-無 | 以 | 取 | 之。
+亡 | 以 | 取 | 之。
 不 | 然 |  | 
+
+## Unit 11, phrase 35 in Text
+
+C | C | C | C
+--- | --- | --- | ---
+莊公 | 曰: |  | 
+亡 | 以 | 取 | 之
 
 ## Unit 11, phrase 36 in Text
 
-C | C | C | C | C | C | C
---- | --- | --- | --- | --- | --- | ---
-莊公 | 曰:  | 「昔 | 施伯 | 語 | 寡人 | 曰：
-亡 | 以 | 取 | 之 |  |  | 
+C | C | C | C | C
+--- | --- | --- | --- | ---
+「昔 | 施伯 | 語 | 寡人 | 曰：
+莊公 | 曰 |  |  | 
 
 ## Unit 11, phrase 37 in Text
 
 C | C | C | C | C
 --- | --- | --- | --- | ---
 君子 | 得 | 之 | 失 | 之，
-莊公 | 曰 |  |  | 
+昔 | 施伯 | 語 | 寡人 | 曰
 
 ## Unit 11, phrase 38 in Text
 
 C | C | C | C | C
 --- | --- | --- | --- | ---
 天 | 命。 |  |  | 
-昔 | 施伯 | 語 | 寡人 | 曰
+君子 | 得 | 之 | 失 | 之
 
 ## Unit 12, phrase 39 in Text
 
 C | C | C | C | C
 --- | --- | --- | --- | ---
 】今 | 異 | 於 | 【爾 | 言】。」
-君子 | 得 | 之 | 失 | 之
-
-## Unit 13, phrase 40 in Text
-
-C | C
---- | ---
-曹沫 | 曰：
-天 | 命
-
-## Unit 13, phrase 41 in Text
-
-C | C | C | C | C | C | C | C
---- | --- | --- | --- | --- | --- | --- | ---
-「無 | 以 | 異 | 於 | 臣 | 之 | 言 | 也，
-今 | 異 | 於 | 爾 | 言 |  |  | 
-
-## Unit 13, phrase 42 in Text
-
-C | C | C
---- | --- | ---
-君 | 弗 | 盡。
-曹沫 | 曰 | 
-
-## Unit 14, phrase 43 in Text
-
-C | C | C | C | C | C | C | C
---- | --- | --- | --- | --- | --- | --- | ---
-臣 | 聞 | 之 | 曰： |  |  |  | 
-無 | 以 | 異 | 於 | 臣 | 之 | 言 | 也
-
-## Unit 14, phrase 44 in Text
-
-C | C | C | C | C | C | C | C
---- | --- | --- | --- | --- | --- | --- | ---
-君 VI  | 子 | 以 | 賢 | 稱 | 而 | 失 | 之，
-君 | 弗 | 盡 |  |  |  |  | 
-
-## Unit 14, phrase 45 in Text
-
-C | C | C | C | C | C
---- | --- | --- | --- | --- | ---
-天 | 命;  | 以 | 無 | 道 | 稱，
-臣 | 聞 | 之 | 曰 |  | 
-
-## Unit 14, phrase 46 in Text
-
-C | C | C | C | C | C | C
---- | --- | --- | --- | --- | --- | ---
-而 | 沒 | 身 | 就 | 世， |  | 
-君子 | 以 | 賢 | 稱 | 而 | 失 | 之
-
-## Unit 14, phrase 47 in Text
-
-C | C | C
---- | --- | ---
-亦 | 天 | 命。
-天 | 命 | 
-
-## Unit 15, phrase 48 in Text
-
-C | C | C | C | C | C | C | C | C
---- | --- | --- | --- | --- | --- | --- | --- | ---
-莊公 | 曰： |  |  |  |  |  |  | 
-以 | 無 | 道 | 稱 | 而 | 沒 | 身 | 就 | 世
-
-## Unit 15, phrase 49 in Text
-
-C | C | C
---- | --- | ---
-「顯 VII  | 哉， | 
-亦 | 天 | 命
+天 | 命 |  |  | 
 

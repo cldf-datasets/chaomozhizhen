@@ -14,20 +14,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/chaomozhizhen",
             "rdf:type": "prov:Entity",
-            "dc:created": "865cb37",
+            "dc:created": "c5518f4",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v4.8-60-g0a014f8f59",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.16"
+            "dc:description": "3.11.4"
         },
         {
             "dc:title": "python-packages",
@@ -218,7 +218,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 405,
+            "dc:extent": 403,
             "tableSchema": {
                 "columns": [
                     {
