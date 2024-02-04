@@ -112,23 +112,19 @@ def split_chinese_text(text):
                 out[-1] += char
     return out
 
-       
-
-
 
 def parse_text(text, chars, args):
-
     stop_symbols = "？【」，。：】「"
 
     lines = defaultdict(
-            lambda : {
-                "Unit": "",
-                "Translation": "",
-                "Text": "",
-                "Gloss": "",
-                "Text_Line": [],
-                "Gloss_Line": []
-                })
+        lambda: {
+            "Unit": "",
+            "Translation": "",
+            "Text": "",
+            "Gloss": "",
+            "Text_Line": [],
+            "Gloss_Line": []
+        })
     last_item = ""
     for i, row in enumerate(text.readlines()):
         if row[0] == "#":
@@ -153,22 +149,22 @@ def parse_text(text, chars, args):
             lines[unit][last_item + "_Line"] += [i+1]
     
     full_text = defaultdict(
-            lambda : {
-                "Unit": "",
-                "Translation": "",
-                "Text": "",
-                "Full_Text": "",
-                "Full_Gloss": "",
-                "Gloss": "",
-                "Phrase": "",
-                "Phrase_Number": 0,
-                "Number": 0
-                })
-            
+        lambda: {
+            "Unit": "",
+            "Translation": "",
+            "Text": "",
+            "Full_Text": "",
+            "Full_Gloss": "",
+            "Gloss": "",
+            "Phrase": "",
+            "Phrase_Number": 0,
+            "Number": 0
+        })
+        
     full_count = 1
     for key, line in sorted(lines.items(), key=lambda x: int(x[0])):
         if not len(lines["Text"]) == len(lines["Gloss"]):
-            print(len(lines["Text"]), lines["Text_Lines"], new_texts)
+            print(len(lines["Text"]), lines["Text_Lines"], )
             print(len(lines["Gloss"]), lines["Gloss_Lines"], new_glosses)
             input()
         elif len(lines["Text"]) == len(lines["Gloss"]):
@@ -211,12 +207,11 @@ def parse_text(text, chars, args):
                 full_text[full_count]["Number"] = full_count
                 full_count += 1
     return full_text
-            
 
 
 def parse_data(data, text):
     examples = defaultdict(
-            lambda : {
+        lambda: {
             "ID": "",
             "Number": 0,
             "Slip_ID": "",
@@ -229,22 +224,24 @@ def parse_data(data, text):
             "Middle_Chinese_Reading": [],
             "Gloss": [],
             "Word_IDS": [],
-            "Cognacy": ""})
+            "Cognacy": ""
+        })
     entries = defaultdict(
-            lambda : {
-                "ID": "",
-                "Language_ID": "OldChinese",
-                "Headword": "",
-                "Character": "",
-                "Character_Variants": [],
-                "Middle_Chinese": "",
-                "Old_Chinese": "",
-                "Gloss": "",
-                "Glosses": [],
-                "Middle_Chinese_Readings": [],
-                "Old_Chinese_Readings": [],
-                "Example_IDS": []})
-    
+        lambda: {
+            "ID": "",
+            "Language_ID": "OldChinese",
+            "Headword": "",
+            "Character": "",
+            "Character_Variants": [],
+            "Middle_Chinese": "",
+            "Old_Chinese": "",
+            "Gloss": "",
+            "Glosses": [],
+            "Middle_Chinese_Readings": [],
+            "Old_Chinese_Readings": [],
+            "Example_IDS": []
+        })
+
     slip_number, phrase_number, word_number = 0, 0, 0
     slip_idx, phrase_idx, word_idx = "", "", ""
     previous_slip, previous_phrase = "", ""
@@ -266,14 +263,13 @@ def parse_data(data, text):
             examples[phrase_idx]["Number"] = phrase_number
             examples[phrase_idx]["Slip_Number"] = slip_number
 
-        
         # get the word_idx
         new_word_idx = row["Word"] + "-" + old_chinese(row["OC"])
         if new_word_idx not in word2id:
             word2id[new_word_idx] = "word-{0}".format(word_count)
             word_count += 1
             word_idx = word2id[new_word_idx]
-            
+
             # fill in basic entries
             entries[word_idx]["ID"] = word_idx
             entries[word_idx]["Headword"] = row["Word"] + " " + old_chinese(row["OC"])
@@ -283,7 +279,7 @@ def parse_data(data, text):
             entries[word_idx]["Character"] = row["Word"]
         else:
             word_idx = new_word_idx
-        
+
         # fill word dictionary
         entries[word_idx]["Character_Variants"] += [row["Raw_Word"]]
         entries[word_idx]["Middle_Chinese_Readings"] += row["MC"].split(" // ")
@@ -298,30 +294,25 @@ def parse_data(data, text):
         examples[phrase_idx]["Analyzed_Word"] += [row["Word"]]
         examples[phrase_idx]["Gloss"] += [row["Gloss"].strip().replace(" ", ".")]
         examples[phrase_idx]["Word_IDS"] += [word_idx]
-    
+
     # refine data
     for example in examples.values():
         example["Primary_Text"] = " ".join(example["Primary_Text"])
     for entry in entries.values():
         entry["Middle_Chinese_Readings"] = sorted(
-                set(entry["Middle_Chinese_Readings"]),
-                key=lambda x: entry["Middle_Chinese_Readings"].count(x),
-                reverse=True)
+            set(entry["Middle_Chinese_Readings"]),
+            key=lambda x: entry["Middle_Chinese_Readings"].count(x),
+            reverse=True)
         entry["Old_Chinese_Readings"] = sorted(
-                set(entry["Old_Chinese_Readings"]),
-                key=lambda x: entry["Old_Chinese_Readings"].count(x),
-                reverse=True)
+            set(entry["Old_Chinese_Readings"]),
+            key=lambda x: entry["Old_Chinese_Readings"].count(x),
+            reverse=True)
         entry["Glosses"] = sorted(
-                set(entry["Glosses"]),
-                key=lambda x: entry["Glosses"].count(x),
-                reverse=True)
+            set(entry["Glosses"]),
+            key=lambda x: entry["Glosses"].count(x),
+            reverse=True)
 
-
-                
-    
     return entries, examples
-
-
 
 
 class Dataset(BaseDataset):
@@ -330,11 +321,10 @@ class Dataset(BaseDataset):
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
         return CLDFSpec(
-                dir=self.cldf_dir, module='Generic',
-                metadata_fname='cldf-metadata.json'
-                )
+            dir=self.cldf_dir, module='Generic',
+            metadata_fname='cldf-metadata.json'
+        )
 
-        
     def cmd_download(self, args):
         """
         Download files to the raw/ directory. You can use helpers methods of `self.raw_dir`, e.g.
@@ -343,12 +333,11 @@ class Dataset(BaseDataset):
         """
         pass
 
-        
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
         """
-        
+
         # language table (Old Chinese)
         args.writer.cldf.add_component('LanguageTable')
         # entries, links to examples
@@ -363,8 +352,8 @@ class Dataset(BaseDataset):
             {"name": "Old_Chinese_Readings", "datatype": "string", "separator": " / "},
             {"name": "Glosses", "datatype": "string", "separator": " / "},
             {"name": "Example_IDS", "datatype": "string", "separator": " "},
-            )
-        
+        )
+
         # examples (glossed text)
         args.writer.cldf.add_component(
             'ExampleTable',
@@ -376,55 +365,55 @@ class Dataset(BaseDataset):
             {"name": "Middle_Chinese_Reading", "datatype": "string", "separator": " "},
             {"name": "Old_Chinese_Reading", "datatype": "string", "separator": " "},
             "Cognacy"
-
         )
-
 
         args.writer.cldf.add_table('texts.csv', 'ID', 'Title')
 
         args.writer.cldf.add_foreign_key(
-                'ExampleTable', 'Text_ID', 'texts.csv', 'ID'
-                )
+            'ExampleTable', 'Text_ID', 'texts.csv', 'ID'
+        )
         args.writer.cldf.add_foreign_key(
-                "EntryTable", "Example_IDS", "examples.csv", "ID")
-        
+            "EntryTable", "Example_IDS", "examples.csv", "ID")
+
         # fill language table
         args.writer.objects['LanguageTable'].append(
-                {
-                    'ID': 'OldChinese', 
-                    'Name': 'Old Chinese', 
-                    'Glottocode': ''}
-                )
-        
+            {
+                'ID': 'OldChinese', 
+                'Name': 'Old Chinese', 
+                'Glottocode': ''
+            }
+        )
+
         data = self.raw_dir.read_csv("ad.tsv", delimiter="\t", dicts=True)
         entries, examples = parse_data(data, "ad")
         chars = set(
-                [" I ", " II ", " III ", " IV ", " V ", " VI ", " VII ", 
-                 " VIII ", " IX ", " X "]
-                )
+            [" I ", " II ", " III ", " IV ", " V ", " VI ", " VII ", 
+            " VIII ", " IX ", " X "]
+        )
         for entry in entries.values():
             args.writer.objects["EntryTable"].append(entry)
             chars.add(entry["Character"])
         for example in examples.values():
             args.writer.objects["ExampleTable"].append(example)
-        
+
         with open(self.raw_dir / "ad-text.md") as f:
             full_text = parse_text(f, chars, args)
 
-        
         example_test = {}
         for example in examples.values():
             example_test[example["Number"]] = example
 
         errors = "# Text - Table - Mismatches\n\n"
         for key, example in full_text.items():
-            if 40 < key < 60:
+            if 200 < key < 399:
+                print("Processing key:", key)  # Print the key being processed
                 errors += "## Unit {0}, phrase {1} in Text\n\n".format(
-                        example["Unit"], key)
+                    example["Unit"], key)
                 header_len = max(
-                        [
-                            len(example["Text"]), 
-                            len(example_test[example["Number"]]["Analyzed_Word"])])
+                    [
+                        len(example["Text"]),
+                        len(example_test[example["Number"]]["Analyzed_Word"])
+                    ])
                 header = header_len * ["C"]
                 errors += " | ".join(header) + "\n"
                 errors += " | ".join([h.replace("C", "---") for h in header]) + "\n"
@@ -434,5 +423,13 @@ class Dataset(BaseDataset):
                 errors += " | ".join(ex2[:header_len]) + "\n"
                 errors += "\n"
 
+        # Check file writing
+        print("Before file writing")
+        # ... (remaining code)
+        # ... (previous code)
+
         with open("errors.md", "w") as f:
             f.write(errors)
+        print("After file writing")
+
+

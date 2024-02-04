@@ -274,7 +274,7 @@ ID	Slip_ID	Phrase_ID	Raw_Word	Word	Gloss	MC	OC	Phrase Marker	Comments	Underlying
 273	8	58	⿱宀𱟜	寢	sleep	tshimX	*[tsʰ]imʔ	，		C I M	X . K ƏK // Ə
 274	8	59	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	L R O T
 275	8	59	酓 	飲	drink wine	imX	*q(r)[u]mʔ			K U M	X . M A N
-276	8	59		酒	wine	tsjuwX	*tsuʔ	合文，	合文	C U K // U	K O J K
+276	8	59	酒	酒	wine	tsjuwX	*tsuʔ	合文，	合文	C U K // U	K O J K
 277	8	60	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	Kw Ə J K
 278	8	60	聖	聽	listen	theng	*l̥ˤeŋ			L E N	S R E N
 279	8	60	樂	樂	music	ngaewk	*[ŋ]ˤrawk	，		N R A WK	M R O R
@@ -426,7 +426,7 @@ ID	Slip_ID	Phrase_ID	Raw_Word	Word	Gloss	MC	OC	Phrase Marker	Comments	Underlying
 425	12	92	⿰谷象⿱土	舍	barracks	syaeH // syaeX	! *[l̥]Ak-s // *l̥Aʔ	。		L A K // L A K	
 426	12	93	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
 427	12	93	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
-428	12	48	於	於	preposition	u	*[ʔ]ˤa			K A	
+428	12	93	於	於	preposition	u	*[ʔ]ˤa			K A	
 429	12	93	⿰谷象⿱土	舍	barracks	syaeH // syaeX	! *[l̥]Ak-s // *l̥Aʔ	，		L A K // L A K	
 430	12	94	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
 431	12	94	可以	可以	can	khaX yiX	*[k]ʰˤa[j]ʔ // *ləʔ			K A J K // L ƏK // Ə	
@@ -533,1178 +533,1178 @@ ID	Slip_ID	Phrase_ID	Raw_Word	Word	Gloss	MC	OC	Phrase Marker	Comments	Underlying
 532	15	121	大	大	big	dajH	*lˤa[t]-s			L A T	
 533	15	121	出	出	exit	tsyhwijH	*t-kʰut-s			K U T	
 534	15	122	君	君	the noble man	kjun tsiX	*C.qur // ! *[ts]əʔ // *tsəʔ			X . K U R // C ƏK // Ə // C ƏK // Ə	
-correggi!!!!!!!!!!535	15	122	自	自	self	dzijH	*s.[b]i[t]-s 			S . P I T	
-535	15	122	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s	，		R U T // R U T // R U T // R U T	
-536	15	123	必	必	must	pjit	*pi[t]			P I T	
-537	15	123	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-538	15	123	二	二	two	nyijH	*ni[j]-s			N I J	
-539	15	123	𨟻 軍	將軍	general	tsjang kjun	*[ts]aŋ // *[k]ʷər	;		C A N // K w Ə R	
-540	15	124	毋	無	not have	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
-541	15	124	𨟻 軍	將軍	general	tsjang kjun	*[ts]aŋ // *[k]ʷər	，		C A N // K w Ə R	
-542	15	125	必	必	must	pjit	*pi[t]			P I T	
-543	15	125	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-544	15	125	𬣏	數	number	sraewk	*s-rok			R O K	
-545	15	125	⿺辶卑	嬖	favourite	pejH	*pˤek-s			P E K	
-546	15	125	大夫	大夫	grandees	dajH bju // bju // pju	*lˤa[t]-s // ! *ba // *[b]a // *p(r)a	；	- punctuation	L A T // P A // P A // P A	
-547	15	126	毋	無	not have	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
-548	15	126	⿺辶卑	嬖	favourite	pejH	*pˤek-s			P E K	
-549	15	126	大夫	大夫	grandees	dajH bju // bju // pju	*lˤa[t]-s // ! *ba // *[b]a // *p(r)a	，	- punctuation	L A T // P A // P A // P A	
-550	15	127	必	必	must	pjit	*pi[t]			P I T	
-551	15	127	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-552	15	127	𬣏	數	number	sraewk	*s-rok			R O K	
-553	15	127	大	大	great	dajH	*lˤa[t]-s			L A T	
-554	15	127	官	官	official	kwan	*kʷˤa[n]			Kw A N	
-555	15	127	之	之	conjunction	tsyi	*tə			T Ə	
-556	15	127	帀	師	multitude?	srij	*srij	，		S R I J	
-557	15	127	公孫	公孫	nephew of a duke	kuwng swon	*C.qˤoŋ // *[s]ˤu[n]	，		X . K O N // S U N	
-558	15	127	公子	公子	son of a duke	kuwng tsiX	*C.qˤoŋ // ! *[ts]əʔ // *tsəʔ	。		X . K O N // C ƏK // Ə // C ƏK // Ə	
-559	15	128	凡	凡	all	bjuwng	*bəŋ			P Ə N	
-560	15	128	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-561	15	128	司	司	administer	si	*s-lə			L Ə	
-562	15	128	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s			R U T // R U T // R U T // R U T	
-563	15	128	倀	長	conduct	drjang	*Cə-[N]-traŋ			«N» T R A N	
-564	15	128	民	民	people	mjin	*mi[ŋ]			M I N	
-565	15	128	者	者	nominalization marker	tsyaeX	*tAʔ	，		T A K	
-566	16	129	毋	無	negative adverb	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
-567	16	129	角	祿	emolument	luwk	*[r]ˤok			R O K	
-568	16	129	⿱竹隹	爵	honour	tsjak	*[ts]ewk	,		C E WK	
-569	16	130	毋	無	negative adverb	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
-570	16	130	从	從	follow	dzjowng // dzjowngH // tsjowng (tshjowng)	*tsoŋ // *[dz]oŋ-s // *[dz]oŋ			C O N // C O N // C O N	
-571	16	130	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
-572	16	130	而	而	conjunction	nyi	*nə			N Ə	
-573	16	130	辟	避	avoid	bjieH	*[b]ek-s			P E K	
-574	16	130	辠	罪	crime	dzwojX	*[dz]ˤujʔ	，		C U J K	
-575	16	131	同	同	unite	duwng	*lˤoŋ			L O N	
-576	16	132	都	都	assembly	tu	*tˤa		?	T A	
-577	16	132	而	而	conjunction	nyi	*nə			N Ə	
-578	16	132	⿱爻言	教	teaching	kaewH	*s.kˤraw-s			S . K R A W	
-579	16	132	於	於	preposition	u	*[ʔ]ˤa			K A	
-580	16	132	邦	邦	state	paewng	*pˤroŋ			P R O N	
-581	16	133	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-582	16	133	亓	其	modal particle	gi	*gə			K Ə	
-583	16	133	𣌭	合	unite	hop	*m-kˤop			K O P	
-584	16	133	之	之	anaphoric substitute of the object	tsyi	*tə			T Ə	
-585	16	133	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-586	16	133	難	難	difficult	nan	*nˤar	，		N A R	
-587	16	134	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-588	16	134	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-589	16	134	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-590	16	134	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
-591	16	134	於	於	preposition	u	*[ʔ]ˤa			K A	
-592	16	134	⿰谷象⿱土	舍	barracks	syaeH // syaeX	! *[l̥]Ak-s // *l̥Aʔ	。		L A K // L A K	
-593	16	135	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-594	16	135	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-595	16	135	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
-596	16	136	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-597	16	136	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
-598	16	136	於	於	preposition	u	*[ʔ]ˤa			K A	
-599	16	136	⿰申戈	陳	battle array	drin	*lri[n]			L R I N	
-600	16	136	女之可	如之何	how	nyo tsyi ha	*na // *tə // *[g]ˤaj	？		N A // T Ə // K A J	
-601	16	137	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-602	16	137	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-603	16	138	車	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
-604	17	138	⿵門⿰夕刀	間	between 	hean // kean // kean	! *N-kˤre[n] // *kˤre[n] // *kˤre[n]			K R E N // K R E N // K R E N	
-605	17	138	容	容	contain	yowng	*[ɢ](r)oŋ			K O N	
-606	17	138	伍	伍	group of five	nguX	*C.ŋˤaʔ	，	chongwen	X . N A K // A	
-607	17	139	伍	伍	group of five	nguX	*C.ŋˤaʔ			X . N A K // A	
-608	17	139	⿵門⿰夕刀	間	between 	hean // kean // kean	! *N-kˤre[n] // *kˤre[n] // *kˤre[n]			K R E N // K R E N // K R E N	
-609	17	139	容	容	contain	yowng	*[ɢ](r)oŋ			K O N	
-610	17	139	兵	兵	weapon	pjaeng	*praŋ	，		P R A N	
-611	17	140	貴	貴	noble	kjw+jH	*kuj-s			K U J	
-612	17	140	位	位	place	hwijH	*[ɢ]ʷrəp-s			K w R Ə P	
-613	17	140	砫	重	give weight to	drjowng	*[m]-troŋ			M T R O N	
-614	17	140	飤	食	eat	zyik	*mə-lək	，		L Ə K	
-615	17	141	思	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-616	17	141	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-617	17	141	歬	前	front	dzen	*[dz]ˤen			C E N	
-618	17	141	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。		K A N // X Ə . K R A N // K R A N	
-619	17	142	厽	三	three 	sam	*s.rum			S . R U M	
-620	17	142	行	行	line	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s			K A N // X Ə . K R A N // K R A N	
-621	17	142	之	之	conjunction	tsyi	*tə			T Ə	
-622	17	142	𨒥	後	after	huwX	*[ɢ]ˤ(r)oʔ	，		K O K // O	
-623	17	144	句	茍	must	kik	*[k]ˤ(r)oʔ // **[k]ˤ(r)ək			K O K // O // K Ə K	
-624	17	144	見	見	see	henH // kenH // henH	! *N-[k]ˤen-s // *[k]ˤen-s // *m-[k]ˤen-s			K E N // K E N // K E N	
-625	17	144	耑	短	short	twanX	*tˤorʔ			T O R	
-626	17	144	兵	兵	weapon	pjaeng	*praŋ	，		P R A N	
-627	17	145	⿰十攴	十	ten	dzyip	*t.[g]əp			T . K Ə P	
-628	17	145	五	五	five	nguX	*C.ŋˤaʔ			X . N A K // A	
-629	17	145	之 ⿵門⿰夕刀	之間	between 	tsyi hean // kean // kean	*tə // ! *N-kˤre[n] // *kˤre[n] // *kˤre[n]	，		T Ə // K R E N // K R E N // K R E N	
-630	17	146	必	必	must	pjit	*pi[t]			P I T	
-631	17	146	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-632	17	146	公孫	公孫	nephew of a duke	kuwng swon	*C.qˤoŋ // *[s]ˤu[n]			X . K O N // S U N	
-633	17	146	公子	公子	son of a duke	kuwng tsiX	*C.qˤoŋ // ! *[ts]əʔ // *tsəʔ	，		X . K O N // C ƏK // Ə // C ƏK // Ə	
-634	17	147	是	是	this	dzyeX	*[d]eʔ			T E K // E	
-635	17	147	胃	謂	call	hjw+jH	*[ɢ]ʷə[t]-s			K w Ə T	
-636	17	147	軍	軍	military	kjun	*[k]ʷər			K w Ə R	
-637	17	147	紀	紀	discipline	kiX	*k(r)əʔ	。		K ƏK // Ə	
-638	17	148	五	五	five	nguX	*C.ŋˤaʔ			X . N A K // A	
-639	17	148	人	人	person	nyin	*ni[ŋ]			N I N	
-640	17	148	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-641	17	148	⿰五攴	伍	make a group of five	nguX	*C.ŋˤaʔ	，	!!!!!!!	X . N A K // A	
-642	18	149	一	一	one	jit	*ʔi[t]		hewen	K I T	
-643	18	149	人	人	person	nyin	*ni[ŋ]			N I N	
-644	18	149	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-645	18	149	多	多	merit	ta	*[t.l]ˤaj	，		T . L A J	
-646	18	150	四	四	four	sijH	*s.li[j]-s			S . L I J	
-647	18	150	人	人	person	nyin	*ni[ŋ]			N I N	
-648	18	150	皆	皆	all	keaj	*kˤrij			K R I J	
-649	18	150	賞	賞	admire	syangX	*s-taŋʔ	，		T A N K	
-650	18	151	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-651	18	151	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-652	18	151	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-653	18	151	⿰叀刀	敦	encourage	twoj // twon // twon (twonH)	*tˤur	。		T U R	
-654	18	152	毋	毋	negative adverb	mju	*mo			M O	
-655	18	152	𬅸	尚	admire	dzyangH (dzyang)	*[d]aŋ-s			T A N	
-656	18	152	⿰丹隻	獲	gain	hweak	*m-qʷˤrak			Kw R A K	
-657	18	152	而	而	conjunction	nyi	*nə			N Ə	
-658	18	152	𬅸	尚	admire	dzyangH (dzyang)	*[d]aŋ-s			T A N	
-659	18	152	䎽	聞	hear	mjun	*mu[n]			M U N	
-660	18	152	命	命	order	mjaengH	*m-riŋ-s	，		R I N	
-661	18	153	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-662	18	153	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-663	18	153	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-664	18	153	毋	毋	not have	mju	*mo			M O	
-665	18	153	退	退	retire	thwojH	*n̥ˤ[u]p-s			N U P	
-666	18	154	⿺辶⿷匚羊	將	conduct	tsjang	*[ts]aŋ			C A N	
-667	18	154	車	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
-668	18	154	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-669	18	154	車	車	chariot	tsyhae	*[t.qʰ](r)A	，		T . K A	
-670	18	155	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s			R U T // R U T // R U T // R U T	
-671	18	155	徒	徒	infantry	du	*[d]ˤa			T A	
-672	18	155	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-673	18	155	徒	徒	infantry	du	*[d]ˤa	，		T A	
-674	18	156	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-675	18	156	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-676	18	156	同	同	together	duwng	*lˤoŋ			L O N	
-677	18	156	死	死	die	sijX	*sijʔ			S I J K	
-678	18	156	於	於	preposition	u	*[ʔ]ˤa			K A	
-679	18	156	民	民	people	mjin	*mi[ŋ]	。		M I N	
-680	18	157	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-681	18	157	曰	曰	say	hjwot	*[ɢ]ʷat	:		K w A T	
-682	18	158	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-683	18	158	三	三	three 	sam	*s.rum			S . R U M	
-684	18	158	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-685	18	158	足以	足以	sufficient	tsjuH yiX	*[ts]ok-s // *ləʔ			C O K  // L ƏK // Ə	
-686	19	158	𡃣	戰	war	tsyenH	*tar-s			T A R	
-687	19	158	𰲛	乎	modal particle	hu // hu	*ɢˤa	？		K A	
-688	19	159	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-689	19	159	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-690	19	160	戒	戒	warn	keajH	*kˤrək-s			K R Ə K	
-691	19	160	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ			L Ə N	
-692	19	160	⿺怠⿹𠃌一	怠	laziness	dojX	*lˤəʔ	，		L ƏK // Ə	
-693	19	161	果	果	solve	kwaX	*[k]ˤo[r]ʔ			K O R	
-694	19	161	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ			L Ə N	
-695	19	161	⿱矣心	疑	doubt	ngi	*[ŋ](r)ə	，		N Ə	
-696	19	162	⿰見辛	親	personally	tshin	*[tsʰ]i[n]			C I N	
-697	19	162	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s			R U T // R U T // R U T // R U T	
-698	19	162	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ			L Ə N	
-699	19	162	⿳⺊日又	使	envoy	sriH // sriX nyin	! *s-rəʔ-s // *s-rəʔ *ni[ŋ]			R ƏK // Ə // R ƏK // Ə N I N	
-700	19	163	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-701	19	163	⿰見辛	親	personally	tshin	*[tsʰ]i[n]			C I N	
-702	19	163	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-703	19	163	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-704	19	163	⿰叀刀	敦	encourage	twoj // twon // twon (twonH)	*tˤur			T U R	
-705	19	163	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	，		L A J K	
-706	19	164	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-707	19	164	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
-708	19	164	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-709	19	164	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-710	19	164	咠	輯	concord	dzip	*[dz][u]p	，		C U P	
-711	19	165	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-712	19	165	義	義	righteous	ngjeH	*ŋ(r)aj-s			N A J	
-713	19	165	則	則	negative adverb	tsok	*[ts]ˤək			C Ə K	
-714	19	165	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-715	19	165	備	服	obey	bjuwk	*[b]ək	。	manca un tratto	P Ə K	
-716	19	166	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-717	19	166	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-718	19	166	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
-719	19	167	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-720	19	168	⿱木辛⿰斤⿱心	親	parent	tshin	*[tsʰ]i[n]			C I N	
-721	19	167	女可	如何	how	nyo ha	*na // *[g]ˤaj		女[可	N A // K A J	
-722	19	168	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-723	19	168	曰	曰	say	hjwot	*[ɢ]ʷat	：	]	K w A T	
-724	20	169	君	君	her majesty	kjun	*C.qur			X . K U R	
-725	20	169	毋	毋	negative adverb	mju	*mo			M O	
-726	20	169	嘼	憚	fear	danH	*dˤar-s 			T A R	
-727	20	169	自	自	reflexive pronoun	dzijH	*s.[b]i[t]-s			S . P I T	
-728	20	169	𬡤	勞	work	law	*[r]ˤaw	，		R A W	
-729	20	170	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
-730	20	170	⿳亼吅隹⿰見⿰阝	觀	see	kwan	*C.qʷˤar			X . Kw A R	
-731	20	170	𬅸	上	superior	dzyangH	*daŋʔ-s			T A N K	
-732	20	170	下	下	inferior	haeH	*m-gˤraʔ-s			K R A K // A	
-733	20	170	之	之	conjunction	tsyi	*tə			T Ə	
-734	20	170	情	情	emotion	dzjeng	*[dz]eŋ			C E N	
-735	20	170	為	偽	false 	ngjweH // ngjweH	! *N-ɢʷ(r)aj-s // *m-ɢʷ(r)aj-s	；		Kw A J // Kw A J	
-736	20	171	佖夫	匹夫	common man	phjit bju // bju // pju	*pʰi[t] // ! *ba // *[b]a // *p(r)a			P I T // P A // P A // P A	
-737	20	171	寡婦	寡婦	widow	kwaeX bjuwX	*[C.k]ʷˤraʔ // *mə.bəʔ			X . K w R A K // A // M Ə . P ƏK // Ə	
-738	20	171	之	之	conjunction	tsyi	*tə			T Ə	
-739	20	171	獄訟	獄訟	process	ngjowk zjowngH	*[ŋ]rok // *s.[ɢ]oŋ-s			N R O K // S . K O N	
-740	20	171	君	君	her majesty	kjun	*C.qur			X . K U R	
-741	20	171	必	必	must	pjit	*pi[t]			P I T	
-742	20	171	身	身	personally	syin	*n̥i[ŋ]			N I N	
-743	20	171	聖	聽	listen	theng	*l̥ˤeŋ			L E N	
-744	20	171	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
-745	20	172	又	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-746	20	172	智	知	know	trje	*tre			T R E	
-747	20	172	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-748	20	172	足	足	sufficient	tsjuH	*[ts]ok-s	，		C O K 	
-749	20	173	亡	無	not have	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
-750	20	173	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-751	20	173	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-752	20	173	中	中	moderation	trjuwng	*truŋ	，		T R U N	
-753	20	174	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-754	20	174	民	民	people	mjin	*mi[ŋ]			M I N	
-755	20	174	⿱木辛⿰斤⿱心	親	parent	tshin	*[tsʰ]i[n]			C I N	
-756	20	174	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
-757	20	175	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-758	20	175	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-759	21	175	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
-760	21	176	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s	[		Kw A J // Kw A J	
-761	21	176	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
-762	21	176	女可	如何	how	nyo ha	*na // *[g]ˤaj	？		N A // K A J	
-763	21	177	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-764	21	177	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-765	21	178	毋	毋	negative adverb	mju	*mo	]		M O	
-766	21	178	辟	嬖	favour	pejH	*pˤek-s			P E K	
-767	21	178	於	於	preposition	u	*[ʔ]ˤa			K A	
-768	21	178	⿺辶𰆴	便	relatives	bjien	*[b]e[n]			P E N	
-769	21	178	⿺辶卑	嬖	favourite	pejH	*pˤek-s	，	MIND THE GRAPHS	P E K	
-770	21	179	毋	毋	negative adverb	mju	*mo			M O	
-771	21	179	倘	長	conduct	drjang	*Cə-[N]-traŋ		！！！	«N» T R A N	
-772	21	179	於	於	preposition	u	*[ʔ]ˤa			K A	
-773	21	179	⿰兄㞷	兄	elder brother	xjwaeng	*m̥raŋ	，		M R A N	
-774	21	180	賞	賞	admire	syangX	*s-taŋʔ			T A N K	
-775	21	180	⿱昀土	均	even	kjwin	*C.qʷi[n]			X . Kw I N	
-776	21	180	聖	聽	listen	theng	*l̥ˤeŋ			L E N	
-777	21	180	中	中	moderation	trjuwng	*truŋ	，		T R U N	
-778	21	181	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-779	21	181	民	民	people	mjin	*mi[ŋ]			M I N	
-780	21	181	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
-781	21	181	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
-782	21	182	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-783	21	182	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
-784	21	183	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-785	21	183	義	義	righteous	ngjeH	*ŋ(r)aj-s			N A J	
-786	21	183	女之可	如之何	how	nyo tsyi ha	*na // *tə // *[g]ˤaj	？		N A // T Ə // K A J	
-787	21	184	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-788	21	184	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-789	21	185	⿰糹⿱屮畕	陳	explain	drin	*lri[n]			L R I N	
-790	21	185	⿰示工	功	merit	kuwng	*kˤoŋ			K O N	
-791	21	185	上	尚	admire	dzyangH (dzyang)	*[d]aŋ-s			T A N	
-792	21	185	⿰臣⿱口又	賢	sage	hen	*[g]ˤi[n]	。		K I N	
-793	21	186	能	能	can	noj	*nˤə			N Ə	
-794	21	186	⿲糸台⿹𠃌一	治	govern	dri	*C.lrə			X . L R Ə	
-795	22	186	百	百	thousand	paek	*pˤrak			P R A K	
-796	22	186	人	人	person	nyin	*ni[ŋ]	，		N I N	
-797	22	187	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-798	22	187	倀	長	conduct	drjang	*Cə-[N]-traŋ			«N» T R A N	
-799	22	187	百	百	thousand	paek	*pˤrak			P R A K	
-800	22	187	人	人	person	nyin	*ni[ŋ]	；		N I N	
-801	22	188	能	能	can	noj	*nˤə			N Ə	
-802	22	188	⿲糸台⿹𠃌一	治	govern	dri	*C.lrə			X . L R Ə	
-803	22	188	三	三	three 	sam	*s.rum			S . R U M	
-804	22	188	軍	軍	army	kjun	*[k]ʷər	，		K w Ə R	
-805	22	189	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-806	22	189	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s	。		R U T // R U T // R U T // R U T	
-807	22	190	受	授	teach	dzyuwH	*[d]uʔ-s			T U K // U	
-808	22	191	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-809	22	191	智	智	knowledge	trjeH	*tre-s	，		T R E	
-810	22	192	𱒱	予	grant to	yo	*laʔ			L A K // A	
-811	22	192	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-812	22	192	能	能	ability	noj	*nˤə	，		N Ə	
-813	22	193	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-814	22	193	民	民	people	mjin	*mi[ŋ]			M I N	
-815	22	193	宜	義	righteous	ngjeH	*ŋ(r)aj-s			N A J	
-816	22	193	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
-817	22	194	⿰虘又	且	conjunction	tsjo	*tsa			C A	
-818	22	105	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
-819	22	194	䎽	聞	hear	mjun	*mu[n]			M U N	
-820	22	194	之	之	cataphoric substitute of the object	tsyi	*tə	：		T Ə	
-821	22	195	⿰力𰠄	卒	servant	tswit // tswot (tshwot)	*[ts]ˤut // *[ts]ut			C U T // C U T	
-822	22	195	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-823	22	195	倀	長	superior	drjang	*Cə-[N]-traŋ	，		«N» T R A N	
-824	22	196	三	三	three 	sam	*s.rum			S . R U M	
-825	22	196	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
-826	22	196	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-827	22	196	𰳭	帥	leader	srwijH (srwit)	*s-rut-s	，		R U T	
-828	22	197	邦	邦	state	paewng	*pˤroŋ			P R O N	
-829	22	197	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-830	22	197	君	君	sovereign	kjun	*C.qur	，		X . K U R	
-831	22	198	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-832	22	198	三	三	three 	sam	*s.rum			S . R U M	
-833	22	198	者	者	nominalization marker	tsyaeX	*tAʔ	，		T A K	
-834	22	198	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-835	22	198	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-836	23	198	𡃣	戰	war	tsyenH	*tar-s			T A R	
-837	23	198	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。		L A J K	
-838	23	199	是古	是故	conjunction	dzyeX kuH	*[d]eʔ // ! *kˤa(ʔ)-s // *kˤaʔ-s			T E K // E // K A K // A // K A K // A	
-839	23	199	長	長	superior	drjang	*Cə-[N]-traŋ			«N» T R A N	
-840	23	199	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-841	23	199	可	可	can	khaX	*[k]ʰˤa[j]ʔ			K A J K	
-842	23	199	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-843	23	199	⿱十言⿰斤	慎	be careful	dzyinH	*[d]i[n]-s			T I N	
-844	23	199	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。		L A J K	
-845	23	200	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-846	23	200	⿰力𰠄	卒	end	tswit // tswot (tshwot)	*[ts]ˤut // *[ts]ut			C U T // C U T	
-847	23	200	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-848	23	200	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-849	23	200	⿺辶𠄨	恆	eternal	hong	*[g]ˤəŋ	，		K Ə N	
-850	23	201	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-851	23	201	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
-852	23	201	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-853	23	201	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-854	23	201	咠	輯	concord	dzip	*[dz][u]p	，		C U P	
-855	23	202	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-856	23	202	兼	嚴	imposing	ngjaem	*ŋ(r)am			N A M	
-857	23	202	畏	威	authoritative	jw+j	*ʔuj		lectio mea	K U J	
-858	23	202	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-859	23	202	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-860	23	202	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ	。		L Ə N	
-861	23	203	𰠄	卒	soldier	tswit // tswot (tshwot)	*[ts]ˤut // *[ts]ut			C U T // C U T	
-862	23	203	欲	欲	desire	yowk	*ɢ(r)ok			K O K	
-863	23	203	少	少	few	syewX	*[s.t]ewʔ			S . T E W K	
-864	23	203	以	氣	energy	khj+jH	*C.qʰəp-s			X . K Ə P	
-865	23	203	多	多	a lot	ta	*[t.l]ˤaj	。		T . L A J	
-866	23	204	少	少	few	syewX	*[s.t]ewʔ			S . T E W K	
-867	23	204	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-868	23	204	惕	易	easy	yek // yeH	! *lek // *lek-s			L E K // L E K	
-869	23	204	⿰言⿱山乂	察	control	tsrheat	*[tsʰ]ˤret	，		C R E T	
-870	23	205	𡉛	氣	energy	khj+jH	*C.qʰəp-s			X . K Ə P	
-871	23	205	成	盛	abundant	dzyengH 	*[d]eŋ-s			T E N	
-872	23	205	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-873	23	205	惕	易	easy	yek // yeH	! *lek // *lek-s			L E K // L E K	
-874	23	205	𣌭	合	unite	hop	*m-kˤop	。		K O P	
-875	24	206	是古	是故	conjunction	dzyeX kuH	*[d]eʔ // ! *kˤa(ʔ)-s // *kˤaʔ-s			T E K // E // K A K // A // K A K // A	
-876	24	206	𰳭	帥	leader	srwijH (srwit)	*s-rut-s			R U T	
-877	24	206	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-878	24	206	可	可	can	khaX	*[k]ʰˤa[j]ʔ			K A J K	
-879	24	206	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-880	24	206	牪	倦	tired	gjwenH	*gron-s	，		K R O N	
-881	24	207	牪	倦	tired	gjwenH	*gron-s			K R O N	
-882	24	207	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-883	24	207	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-884	24	207	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。		K A N // X Ə . K R A N // K R A N	
-885	24	208	𡃣	戰	war	tsyenH	*tar-s			T A R	
-886	24	208	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-887	24	208	㬎	顯	apparent	xenX	*qʰˤenʔ			K E N	
-888	24	208	道	道	way	dawX	*[kə.l]ˤuʔ	，		K Ə . L U K // U	
-889	24	209	勿	勿	negative adverb	mjut	*mut			M U T	
-890	24	209	兵	兵	weapon	pjaeng	*praŋ			P R A N	
-891	24	209	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-892	24	209	克	克	conquest	khok	*kʰˤək	。		K Ə K	
-893	24	210	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-894	24	210	曰	曰	say	hjwot mjut	*[ɢ]ʷat	：		K w A T	
-895	24	211	勿	勿	negative adverb	mjut	*mut			M U T	
-896	24	211	兵	兵	weapon	pjaeng	*praŋ			P R A N	
-897	24	211	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-898	24	211	克	克	conquest	khok	*kʰˤək			K Ə K	
-899	24	211	⿳爫人系 女	奚如	how	hej nyo	*[g]ˤe *na	？		K E N A	
-900	24	211	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-901	24	212	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-902	24	213	人	人	other	nyin	*ni[ŋ]			N I N	
-903	24	213	之	之	conjunction	tsyi	*tə			T Ə	
-904	24	213	兵	兵	weapon	pjaeng	*praŋ			P R A N	
-905	24	213	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-906	24	213	砥萬	砥礪	whetstone	tsyijX (tsyeX) ljejH	*tijʔ // *[r]at-s	,		T I J K // R A T	
-907	24	214	我	我	I	ngaX	*ŋˤajʔ			N A J K	
-908	24	214	兵	兵	weapon	pjaeng	*praŋ			P R A N	
-909	24	214	必	必	must	pjit	*pi[t]			P I T	
-910	25	214	砥萬	砥礪	whetstone	tsyijX (tsyeX) ljejH	*tijʔ // *[r]at-s	。		T I J K // R A T	
-911	25	215	人	人	other	nyin	*ni[ŋ]			N I N	
-912	25	215	之	之	conjunction	tsyi	*tə			T Ə	
-913	25	215	⿸虍羍	甲	weapon	kaep	*[k]ˤr[a]p			K R A P	
-914	25	215	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-915	25	215	⿰臣⿱口又	堅	hard	ken	*kˤi[ŋ]	，		K I N	
-916	25	216	我	我	I	ngaX	*ŋˤajʔ			N A J K	
-917	25	216	⿸虍羍	甲	weapon	kaep	*[k]ˤr[a]p			K R A P	
-918	25	216	必	必	must	pjit	*pi[t]			P I T	
-919	25	216	⿰臣⿱口又	堅	hard	ken	*kˤi[ŋ]	。		K I N	
-920	25	217	人	人	other	nyin	*ni[ŋ]			N I N	
-921	25	217	𠧫	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-922	25	217	士	士	dignitary	dzriX	*[m-s-]rəʔ	，		R ƏK // Ə	
-923	25	218	我	我	I	ngaX	*ŋˤajʔ			N A J K	
-924	25	218	事	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-925	25	218	大夫	大夫	grandee	dajH bju // bju // pju	*lˤa[t]-s // ! *ba // *[b]a // *p(r)a	。		L A T // P A // P A // P A	
-926	25	219	人	人	other	nyin	*ni[ŋ]			N I N	
-927	25	219	事	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-928	25	219	大夫	大夫	grandee	dajH bju // bju // pju	*lˤa[t]-s // ! *ba // *[b]a // *p(r)a	，		L A T // P A // P A // P A	
-929	25	220	我	我	I	ngaX	*ŋˤajʔ			N A J K	
-930	25	220	事	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-931	25	220	𨟻 軍	將軍	general	tsjang kjun	*[ts]aŋ // *[k]ʷər	。		C A N // K w Ə R	
-932	25	221	人	人	other	nyin	*ni[ŋ]			N I N	
-933	25	221	事	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-934	25	221	𨟻 軍	將軍	general	tsjang kjun	*[ts]aŋ // *[k]ʷər	，		C A N // K w Ə R	
-935	25	222	我	我	I	ngaX	*ŋˤajʔ			N A J K	
-936	25	222	君	君	sovereign	kjun	*C.qur			X . K U R	
-937	25	222	身	身	personally	syin	*n̥i[ŋ]			N I N	
-938	25	222	進	進	advance	tsinH	*[ts][i][n]-s	。		C I N	
-939	25	223	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-940	25	223	𡃣	戰	war	tsyenH	*tar-s			T A R	
-941	25	223	之	之	conjunction	tsyi	*tə			T Ə	
-942	25	223	㬎	顯	apparent	xenX	*qʰˤenʔ			K E N	
-943	25	223	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
-944	25	223	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。		L A J K	
-945	25	224	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-946	25	224	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-947	25	225	既	既	already	kj+jH	*[k]ə[t]-s			K Ə T	
-948	26	225	成	成	complete	dzyeng	*m-[d]eŋ			T E N	
-949	26	225	⿱爻言	教	teaching	kaewH	*s.kˤraw-s			S . K R A W	
-950	26	225	矣	矣	modal particle	hiX	*qəʔ	，		K ƏK // Ə	
-951	26	226	出	出	exit	tsyhwijH	*t-kʰut-s			K U T	
-952	26	226	帀	師	troop	srij	*srij			S R I J	
-953	26	226	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-954	26	226	幾	機	crucial moment	kj+j	*kəj			K Ə J	
-955	26	226	𰲛	乎	modal particle	hu // hu	*ɢˤa	?		K A	
-956	26	227	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-957	26	227	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-958	26	228	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
-959	26	229	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
-960	26	229	䎽	聞	hear	mjun	*mu[n]			M U N	
-961	26	229	之	之	cataphoric substitute of the object	tsyi	*tə	：		T Ə	
-962	26	230	三	三	three	sam	*s.rum			S . R U M	
-963	26	230	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
-964	26	230	出	出	exit	tsyhwijH	*t-kʰut-s	，		K U T	
-965	26	231	亓	其	possessive pronoun	gi	*gə			K Ə	
-966	26	231	⿺辶⿷匚羊	將	conduct	tsjang	*[ts]aŋ			C A N	
-967	26	231	⿺辶卑	卑	low rang	pjie	*pe	，		P E	
-968	26	232	父	父	father	pjuX	*p(r)aʔ			P A K // A	
-969	26	232	⿰兄㞷	兄	elder brother	xjwaeng	*m̥raŋ			M R A N	
-970	26	232	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-971	26	232	廌	存	be present	dzwon	*[dz]ˤə[n]	，		C Ə N	
-972	26	233	䌛	由	preposition	yuw	*l[u]			L U	
-973	26	233	邦	邦	state	paewng	*pˤroŋ			P R O N	
-974	26	233	⿺馭午	御	conduct	ngjoX	*m-qʰ(r)aʔ			K A K // A	
-975	26	233	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
-976	26	234	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-977	26	234	出	出	exit	tsyhwijH	*t-kʰut-s			K U T	
-978	26	234	帀	師	troop	srij	*srij			S R I J	
-979	26	235	之	之	conjunction	tsyi	*tə			T Ə	
-980	26	234	幾	機	crucial moment	kj+j	*kəj			K Ə J	
-981	26	234	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。		L A J K	
-982	26	235	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-983	26	235	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-984	26	235	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-985	26	236	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-986	26	236	三	三	three	sam	*s.rum			S . R U M	
-987	26	236	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
-988	27	236	漸	潛	secretely	dzjem	*[dz][a]m 			C A M	
-989	27	236	果	裹	encircle	kwaX	*s.[k]ˤo[r]ʔ			S . K O R	
-990	27	236	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-991	27	236	幾	機	crucial moment	kj+j	*kəj			K Ə J	
-992	27	236	𰲛	乎	modal particle	hu // hu	*ɢˤa	？		K A	
-993	27	237	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-994	27	237	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-995	27	238	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
-996	27	239	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
-997	27	239	䎽	聞	hear	mjun	*mu[n]			M U N	
-998	27	239	之	之	cataphoric substitute of the object	tsyi	*tə	：		T Ə	
-999	27	240	三	三	three	sam	*s.rum			S . R U M	
-1000	27	240	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
-1001	27	240	未	未	negative adverb	mj+jH	*m[ə]t-s			M Ə T	
-1002	27	240	成	成	complete	dzyeng	*m-[d]eŋ			T E N	
-1003	27	240	⿰申戈	陳	battle array	drin	*lri[n]	，		L R I N	
-1004	27	241	未	未	negative adverb	mj+jH	*m[ə]t-s			M Ə T	
-1005	27	241	可以	可以	can	khaX yiX	*[k]ʰˤa[j]ʔ // *ləʔ			K A J K // L ƏK // Ə	
-1006	27	241	出	出	exit	tsyhwijH 	*t-kʰut-s ! 	，		K U T	
-1007	27	241	⿰谷象⿱土	舍	barracks	syaeH // syaeX	*[l̥]Ak-s // *l̥Aʔ			L A K // L A K	
-1008	27	242	行	行	go up	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s			K A N // X Ə . K R A N // K R A N	
-1009	27	242	⿱反土	阪	slope	pjonX (baenX)	*pa[n]ʔ			P A N	
-1010	27	242	淒	濟	cross	tsejH	*[ts]ˤ[e]j(ʔ)-s	，		C E J K	
-1011	27	242	⿰章欠⿱土	障	obstacle	tsyang / tsyangH	*taŋ(-s)			T A N	
-1012	27	243	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-1013	27	243	漸	潛	secretely	dzjem	*[dz][a]m 			C A M	
-1014	27	243	果	裹	encircle	kwaX	*s.[k]ˤo[r]ʔ			S . K O R	
-1015	27	243	之	之	conjunction	tsyi	*tə			T Ə	
-1016	27	243	幾	機	crucial moment	kj+j	*kəj			K Ə J	
-1017	27	243	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。	aggiunta dopo, rilettura del ms	L A J K	
-1018	27	244	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang	*[ts]raŋ			C R A N	
-1019	27	244	或	又	conjunction	kuwng hjuwH	*C.qˤoŋ // *[ɢ]ʷəʔ-s			X . K O N // K w ƏK // Ə	
-1020	27	244	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
-1021	27	244	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
-1022	27	245	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1023	27	245	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1024	27	245	幾	機	crucial moment	kj+j	*kəj	?		K Ə J	
-1025	27	245	𰲛	乎	modal particle	hu // hu	*ɢˤa			K A	
-1026	27	246	𣌭	答	reply	top	*[t]ˤ[u]p	：		T U P	
-1027	27	246	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
-1028	28	247	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
-1029	28	248	亓	其	nominalization marker	gi	*gə			K Ə	
-1030	28	248	迲	去	depart	khjoH	*[k]ʰ(r)ap-s			K A P	
-1031	28	248	之	之	anaphoric subtitute of the object	tsyi	*tə			T Ə	
-1032	28	218	不	不	negative adverb	pjuw (bijX)	*pə	，		P Ə	
-1033	28	248	⿺辶⿰朱朱	速	speed	suwk	*[s]ˤok			S O K	
-1034	28	249	亓	其	nominalization marker	gi	*gə			K Ə	
-1035	28	249	⿺辶⿱亯京	就	go	dzjuwH	*[dz]u[k]-s			C U K	
-1036	28	249	之	之	anaphoric subtitute of the object	tsyi	*tə			T Ə	
-1037	28	249	不	不	negative adverb	pjuw (bijX)	*pə	，		P Ə	
-1038	28	249	尃	迫	urge	paek	*Cə.pˤrak			X Ə . P R A K	
-1039	28	250	亓	其	nominalization marker	gi	*gə			K Ə	
-1040	28	250	啟節	啟節	get started 	khejX tset	*kʰˤeʔ / *kʰˤijʔ // *tsˤik			K E K // E / K I J K // C I K	
-1041	28	250	不	不	negative adverb	pjuw (bijX)	*pə	，		P Ə	
-1042	28	250	疾	疾	urgent	dzit	*[dz]i[t]			C I T	
-1043	28	251	此	此	tihis	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-1044	28	251	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1045	28	251	之	之	conjunction	tsyi	*tə			T Ə	
-1046	28	251	幾	機	crucial moment	kj+j	*kəj	。		K Ə J	
-1047	28	252	是古	是故	conjunction	dzyeX kuH	*[d]eʔ // ! *kˤa(ʔ)-s // *kˤaʔ-s			T E K // E // K A K // A // K A K // A	
-1048	28	253	⿱矣心	疑	doubt	ngi	*[ŋ](r)ə			N Ə	
-1049	28	253	⿰申戈	陳	battle array	drin	*lri[n]	，		L R I N	
-1050	28	253	⿱目貝⿰攴	敗	defeat	baejH	*N-pˤra[t]-s			P R A T	
-1051	28	253	⿱矣又	疑	doubt	ngi	*[ŋ](r)ə			N Ə	
-1052	28	253	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1053	28	253	死	死	die	sijX	*sijʔ	。		S I J K	
-1054	28	254	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-1055	28	254	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-1056	28	254	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-1057	28	254	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1058	28	255	既	既	finish	kj+jH	*[k]ə[t]-s			K Ə T	
-1059	28	255	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1060	28	255	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1061	28	255	幾	機	crucial moment	kj+j	*kəj	?		K Ə J	
-1062	28	255	𰲛	乎	modal particle	hu // hu	*ɢˤa			K A	
-1063	29	256	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-1064	29	256	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1065	29	257	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
-1066	29	258	亓	其	nominalization marker	gi	*gə			K Ə	
-1067	29	258	賞	賞	admire	syangX	*s-taŋʔ			T A N K	
-1068	29	258	誙	輕	light	khjieng	*[kʰ]eŋ			K E N	
-1069	29	258	⿰虘又	且	conjunction	tsjo	*tsa			C A	
-1070	29	258	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-1071	29	258	信	信	trust	sinH	*s-ni[ŋ]-s	，		N I N	
-1072	29	259	亓	其	nominalization marker	gi	*gə			K Ə	
-1073	29	259	⿰貝豆	誅	condemn	trju	*tro			T R O	
-1074	29	259	䝬	重	heavy	drjowng	*[m]-troŋ			M T R O N	
-1075	29	259	⿰虘又	且	conjunction	tsjo	*tsa			C A	
-1076	29	259	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-1077	29	259	中	中	moderation	trjuwng	*truŋ	。		T R U N	
-1078	29	260	死	死	die	sijX	*sijʔ			S I J K	
-1079	29	260	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1080	29	260	弗	弗	negative adverb	pjut	! *put // *p[u]t // *put			P U T // P U T // P U T	
-1081	29	260	丩	收	receive	syuw	*s-kiw	，		K I W	
-1082	29	261	㦹	傷	injure	syang	*l̥aŋ			L A N	
-1083	29	261	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1084	29	261	弗	弗	negative adverb	pjut	! *put // *p[u]t // *put			P U T // P U T // P U T	
-1085	29	261	䎽	問	ask	mjunH	*C.mu[n]-s	，		X . M U N	
-1086	29	262	既	既	finish	kj+jH	*[k]ə[t]-s			K Ə T	
-1087	29	262	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1088	29	262	而	而	conjunction	nyi	*nə			N Ə	
-1089	29	262	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1090	29	262	⿺怠⿹𠃌一	怠	laziness	dojX	*lˤəʔ		合文	L ƏK // Ə	
-1091	29	262	心	心	heart	sim	*səm	，		S Ə M	
-1092	29	263	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-1093	29	263	既	既	finish	kj+jH	*[k]ə[t]-s			K Ə T	
-1094	29	263	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1095	29	263	之	之	conjunction	tsyi	*tə			T Ə	
-1096	29	263	幾	機	crucial moment	kj+j	*kəj	。		K Ə J	
-1097	29	264	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-1098	29	264	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-1099	29	264	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-1100	29	264	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1101	29	265	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
-1102	30	265	⿱目貝⿰攴	敗	defeat	baejH	*N-pˤra[t]-s			P R A T	
-1103	30	265	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1104	30	265	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1105	30	265	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
-1106	30	265	𰲛	乎	modal particle	hu // hu	*ɢˤa	?		K A	
-1107	30	266	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-1108	30	266	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1109	30	267	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
-1110	30	268	三	三	three	sam	*s.rum			S . R U M	
-1111	30	268	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
-1112	30	268	大	大	great	dajH	*lˤa[t]-s	，		L A T	
-1113	30	268	⿱目貝⿰攴	敗	defeat	baejH	*N-pˤra[t]-s			P R A T	
-1114	30	269	毋	毋	negative adverb	mju	*mo			M O	
-1115	30	269	⿰貝豆	誅	condemn	trju	*tro			T R O	
-1116	30	269	而	而	conjunction	nyi	*nə			N Ə	
-1117	30	269	賞	賞	admire	syangX	*s-taŋʔ	，		T A N K	
-1118	30	270	毋	毋	negative adverb	mju	*mo			M O	
-1119	30	270	辠	罪	crime	dzwojX	*[dz]ˤujʔ			C U J K	
-1120	30	270	百眚	百姓	people	paek sjengH	*pˤrak // *seŋ-s			P R A K // S E N	
-1121	30	270	而	而	conjunction	nyi	*nə			N Ə	
-1122	30	270	改	改	change	kojX	*C.qˤəʔ			X . K ƏK // Ə	
-1123	30	270	亓	其	possessive pronoun	gi	*gə			K Ə	
-1124	30	270	⿺辶⿷匚羊	將	general	tsjang	*[ts]aŋ	。		C A N	
-1125	30	271	君	君	sovereign	kjun	*C.qur			X . K U R	
-1126	30	271	女	如	if	nyo	*na			N A	
-1127	30	271	⿰見辛	親	personally	tshin	*[tsʰ]i[n]			C I N	
-1128	30	271	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s	，		R U T // R U T // R U T // R U T	
-1129	30	272	乃	乃	conjunction	nojX	! *nˤə(ŋ)ʔ // *nˤəʔ			N Ə N K // N ƏK // Ə	
-1130	30	272	自	自	reflexive pronoun	dzijH	*s.[b]i[t]-s			S . P I T	
-1131	30	272	𱞃	過	blame	kwaH	*kʷˤaj-s			Kw A J	
-1132	30	272	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
-1133	30	272	敚	悅	acquiesce	ywet	*lrot			L R O T	
-1134	30	272	於	於	preposition	u	*[ʔ]ˤa			K A	
-1135	30	272	萬	萬	ten thousand	mjonH	*C.ma[n]-s			X . M A N	
-1136	30	272	民	民	people	mjin	*mi[ŋ]	，		M I N	
-1137	30	273	弗	弗	negative adverb	pjut	! *put // *p[u]t // *put			P U T // P U T // P U T	
-1138	30	273	⿳衣土	杜	deny	duX	dˤaʔ		lectio mea	T A K // A	
-1139	30	273	⿱危土	跪	bow	gjweX (khjweX)	*[g](r)ojʔ			K O J K	
-1140	30	273	⿱陀土	地	land	dijH	*[l]ˤej-s	，		L E J	
-1141	31	274	毋	毋	negative adverb	mju	*mo			M O	
-1142	31	274	火	火	fire	xwaX	*[qʷʰ]ˤəjʔ			Kw Ə J K	
-1143	31	274	飤	食	eat	zyik	*mə-lək	。		L Ə K	
-1144	31	275	死	死	die	sijX	*sijʔ			S I J K	
-1145	31	275	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1146	31	275	收	收	receive	syuw	*s-kiw			K I W	
-1147	31	275	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
-1148	31	276	㦹	傷	injure	syang	*l̥aŋ			L A N	
-1149	31	276	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1150	31	276	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-1151	31	276	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
-1152	31	277	善	善	good	dzyenX	*[d]a[n]ʔ			T A N	
-1153	31	277	於	於	preposition	u	*[ʔ]ˤa			K A	
-1154	31	277	死	死	die	sijX	*sijʔ			S I J K	
-1155	31	277	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1156	31	277	為	為	be 	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-1157	31	277	生	生	live	sraeng	*sreŋ			S R E N	
-1158	31	277	者	者	nominalization marker	tsyaeX	*tAʔ	。		T A K	
-1159	31	278	君	君	sovereign	kjun	*C.qur			X . K U R	
-1160	31	278	必	必	must	pjit	*pi[t]			P I T	
-1161	31	278	聚	聚	gather	dzjuH	*m-tsʰoʔ-s			C O K // O	
-1162	31	278	群	群	all	gjun	*[g]ur			K U R	
-1163	31	278	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1164	31	278	司	司	administer	si	*s-lə			L Ə	
-1165	31	278	而	而	conjunction	nyi	*nə			N Ə	
-1166	31	278	見	見	see	henH // kenH // henH	! *N-[k]ˤen-s // *[k]ˤen-s // *m-[k]ˤen-s			K E N // K E N // K E N	
-1167	31	278	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
-1168	31	279	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1169	31	280	二	二	two	nyijH	*ni[j]-s			N I J	
-1170	31	280	厽	三	three	sam	*s.rum			S . R U M	
-1171	31	280	子	子	you	tsiX	! *[ts]əʔ // *tsəʔ			C ƏK // Ə // C ƏK // Ə	
-1172	31	280	⿱亓子	勉	force	mjenX	*mr[o][r]ʔ			M R O R	
-1173	31	280	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
-1174	31	281	𥛔	過	fault	kwaH	*kʷˤaj-s			Kw A J	
-1175	31	281	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-1176	31	281	才	在	be present	dzojX (tsojH)	*[dz]ˤəʔ			C ƏK // Ə	
-1177	31	281	子	子	you	tsiX	! *[ts]əʔ // *tsəʔ			C ƏK // Ə // C ƏK // Ə	
-1178	31	281	才	在	be present	dzojX (tsojH)	*[dz]ˤəʔ			C ƏK // Ə	
-1179	31	281	寡人	寡人	I miserable	kwaeX nyin	*[C.k]ʷˤraʔ // *ni[ŋ]	，		X . K w R A K // A // N I N	
-1180	31	282	𫊟	吾	I	ngu	*ŋˤa			N A	
-1181	31	282	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1182	32	282	啻	敵	enemy	dek	*[d]ˤek			T E K	
-1183	32	282	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-1184	32	282	訓	順	obey	zywinH	*Cə.lu[n]-s			X Ə . L U N	
-1185	32	282	於	於	preposition	u	*[ʔ]ˤa			K A	
-1186	32	282	天	天	heaven	then	*l̥ˤi[n]			L I N	
-1187	32	282	命	命	mandate	mjaengH	*m-riŋ-s	。		R I N	
-1188	32	283	反	返	return	pjonX	*Cə.panʔ			X Ə . P A N	
-1189	32	283	帀	師	troop	srij	*srij	，		S R I J	
-1190	32	284	𨟻	將	aspectual marker	tsjang	*[ts]aŋ			C A N	
-1191	32	284	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
-1192	32	284	𡃣	戰	war	tsyenH	*tar-s	，		T A R	
-1193	32	285	必	必	must	pjit	*pi[t]			P I T	
-1194	32	285	訋	詔	summon ? exhort ?	tsyewX	*[d]ewʔ			T E W K	
-1195	32	285	邦	邦	state	paewng	*pˤroŋ			P R O N	
-1196	32	285	之	之	conjunction	tsyi	*tə			T Ə	
-1197	32	285	貴人	貴人	noble	kjw+jH nyin	*kuj-s // *ni[ŋ]			K U J // N I N	
-1198	32	285	及	及	conjunction	gip	*[m-k-]rəp			R Ə P	
-1199	32	285	邦	邦	state	paewng	*pˤroŋ			P R O N	
-1200	32	285	之	之	conjunction	tsyi	*tə			T Ə	
-1201	32	285	可士	奇士	extraordinary man	kje dzriX	*[k](r)aj *[m-s-]rəʔ			K A J M «-» R ƏK // Ə	
-1202	32	286	从	從	follow	dzjowng // dzjowngH // tsjowng (tshjowng)	*tsoŋ // *[dz]oŋ-s // *[dz]oŋ			C O N // C O N // C O N	
-1203	32	286	⿰力𰠄	卒	soldier	tswit // tswot (tshwot)	*[ts]ˤut // *[ts]ut		按	C U T // C U T	
-1204	32	286	⿱肰目	撚 	examine	nenX	*nˤənʔ			N Ə N	
-1205	32	286	兵	兵	weapon	pjaeng	*praŋ	，		P R A N	
-1206	32	287	毋	毋	negative adverb	mju	*mo			M O	
-1207	32	287	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
-1208	32	287	先	先	previous	sen	*sˤər			S Ə R	
-1209	32	287	常	常	norm	dzyang	*[d]aŋ		error?	T A N	
-1210	32	287	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
-1211	32	288	凡	凡	all	bjuwng	*bəŋ			P Ə N	
-1212	32	288	貴人	貴人	noble	kjw+jH nyin	*kuj-s // *ni[ŋ]			K U J // N I N	
-1213	32	288	囟	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ	[		R ƏK // Ə // R ƏK // Ə	
-1214	32	288	凥	處	stay	tsyhoX	*t.qʰaʔ			T . K A K // A	
-1215	32	288	歬	前	front	dzen	*[dz]ˤen			C E N	
-1216	32	288	立	位	position	hwijH	*[ɢ]ʷrəp-s			K w R Ə P	
-1217	32	288	一	一	one	jit	*ʔi[t]			K I T	
-1218	32	288	行	行	line	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。]		K A N // X Ə . K R A N // K R A N	
-1219	33	289	退	退	retire	thwojH	*n̥ˤ[u]p-s			N U P	
-1220	33	289	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-1221	33	289	見	見	see	henH // kenH // henH	! *N-[k]ˤen-s // *[k]ˤen-s // *m-[k]ˤen-s			K E N // K E N // K E N	
-1222	33	289	亡	亡	death	mjang	*maŋ	，		M A N	
-1223	33	290	進	進	advance	tsinH	*[ts][i][n]-s			C I N	
-1224	33	290	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
-1225	33	290	⿱夕录	祿	emolument	luwk	*[r]ˤok			R O K	
-1226	33	290	⿱竹隹	爵	honour	tsjak	*[ts]ewk			C E WK	
-1227	33	291	又	有	have	hjuwX	*[ɢ]ʷəʔ		lectio mea	K w ƏK // Ə	
-1228	33	291	常	賞	norm	syangX	*s-taŋʔ	，		T A N K	
-1229	33	292	幾	機	crucial moment	kj+j	*kəj			K Ə J	
-1230	33	292	莫	莫	none	mak	*mˤak			M A K	
-1231	33	292	之	之	anaphoric subtitute of the object	tsyi	*tə		rhymed passage?	T Ə	
-1232	33	292	⿱尚立	當	appropriate	tangH	*tˤaŋ-s	。		T A N	
-1233	33	293	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-1234	33	293	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-1235	33	293	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-1236	33	293	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1237	33	294	𰻇	復	return	bjuwH	*[N]-pruk-s		lectio mea	P R U K	
-1238	33	294	⿰䏌又⿱皿	班	rang	paen	*pˤan			P A N	
-1239	33	294	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1240	33	294	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1241	33	294	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
-1242	33	294	𰲛	乎	modal particle	hu // hu	*ɢˤa	？[		K A	
-1243	33	295	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-1244	33	295	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1245	33	296	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
-1246	33	297	既	既	already	kj+jH	*[k]ə[t]-s			K Ə T	
-1247	33	297	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1248	33	297	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
-1249	33	297	⿰谷象	舍	camp	syaeH // syaeX	! *[l̥]Ak-s // *l̥Aʔ	，		L A K // L A K	
-1250	33	298	虎	號	issue	hawH	*Cə.[g]ˤaw-s			X Ə . K A W	
-1251	33	298	命	令	order 	leng // ljeng // ljengH (ljen)	*riŋ // *riŋ-s // *[r]ˤiŋ			R I N // R I N // R I N	
-1252	33	298	於	於	preposition	u	*[ʔ]ˤa	]		K A	
-1253	33	298	軍	軍	troop	kjun	*[k]ʷər			K w Ə R	
-1254	34	298	中	中	middle	trjuwng	*truŋ	，		T R U N	
-1255	34	299	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1256	34	300	纏	繕	repair	dzyenH	*[d]a[n]ʔ-s			T A N	
-1257	34	300	⿸虍羍	甲	armour	kaep	*[k]ˤr[a]p			K R A P	
-1258	34	300	利	利	benefit	lijH	*C.ri[t]-s			X . R I T	
-1259	34	300	兵	兵	weapon	pjaeng	*praŋ	，		P R A N	
-1260	34	301	⿱明示 日	明日	tomorrow	mjaeng nyit	*mraŋ // *C.nik			M R A N // X . N I K	
-1261	34	301	𨟻	將	aspectual marker	tsjang	*[ts]aŋ			C A N	
-1262	34	301	𡃣	戰	war	tsyenH	*tar-s	。		T A R	
-1263	34	302	測	測	measure	tsrhik	*[tsʰ]rək		lectio mea	C R Ə K	
-1264	34	302	⿱臼亓⿰戈	毀	destruction	xjweX	*[m̥](r)ajʔ			M A J K	
-1265	34	302	厇	度	estimate	dak	*[d]ˤak		剔 scribal error?	T A K	
-1266	34	302	則	傷	injury	syang	*l̥aŋ	，		L A N	
-1267	34	303	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
-1268	34	303	⿰䏌又⿱皿	班	rang	paen	*pˤan		lectio mea	P A N	
-1269	34	303	⿺辶⿱亯京	就	go	dzjuwH	*[dz]u[k]-s			C U K	
-1270	34	303	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	，		K A N // X Ə . K R A N // K R A N	
-1271	34	304	凡	凡	all	bjuwng	*bəŋ		⿺辶⿱止羍	P Ə N	
-1272	34	304	𲅭	失	loose	syit	*l̥i[t]			L I T	
-1273	34	304	車	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
-1274	34	304	⿸虍羍	甲	armour	kaep	*[k]ˤr[a]p	，		K R A P	
-1275	34	305	命	命	order 	mjaengH	*m-riŋ-s			R I N	
-1276	34	305	之	之	anaphoric subtitute of the object	tsyi	*tə		lectio mea	T Ə	
-1277	34	305	毋	無	negative adverb	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
-1278	34	305	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。	∟ punctuation	K A N // X Ə . K R A N // K R A N	
-1279	34	306	盟日	明日	tomorrow	mjaeng nyit	*mraŋ // *C.nik			M R A N // X . N I K	
-1280	34	306	𨟻	將	aspectual marker	tsjang	*[ts]aŋ 			C A N	
-1281	34	306	𡃣	戰	war	tsyenH	*tar-s	，		T A R	
-1282	34	307	囟	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-1283	34	307	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-1284	34	307	歬	前	front	dzen	*[dz]ˤen			C E N	
-1285	34	307	行	行	line	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。		K A N // X Ə . K R A N // K R A N	
-1286	34	308	𫌣	諜	spy	dep	*lˤep			L E P	
-1287	34	308	人	人	person	nyin	*ni[ŋ]			N I N	
-1288	34	308	𰙬	來	come	loj	*mə.rˤək			M Ə . R Ə K	
-1289	34	308	告	告	tell	kowk	*kˤuk			K U K	
-1290	34	309	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1291	34	310	亓	其	possessive pronoun	gi	*gə			K Ə	
-1292	35	310	⿺辶⿷匚羊	將	conduct	tsjang	*[ts]aŋ			C A N	
-1293	35	310	𰳭	帥	lead	srwijH (srwit)	*s-rut-s			R U T	
-1294	35	310	既	既	already	kj+jH	*[k]ə[t]-s			K Ə T	
-1295	35	310	飤	食	eat	zyik	*mə-lək	，		L Ə K	
-1296	35	311	軙	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
-1297	35	311	連	輦	vehicule	ljenX	*[r][a][n]ʔ	to check		R A N	
-1298	35	311	皆	皆	all	keaj	*kˤrij			K R I J	
-1299	35	311	載	災	damage	tsoj	*[ts]ˤə	，		C Ə	
-1300	35	312	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1301	35	312	𨟻	將	aspectual marker	tsjang	*[ts]aŋ			C A N	
-1302	35	312	𱢦	早	early	tsawX	*Nə.tsˤuʔ			«N» Ə . C U K // U	
-1303	35	312	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。		K A N // X Ə . K R A N // K R A N	
-1304	35	313	乃	乃	conjunction	nojX	! *nˤə(ŋ)ʔ // *nˤəʔ			N Ə N K // N ƏK // Ə	
-1305	35	313	命	命	order	mjaengH	*m-riŋ-s			R I N	
-1306	35	313	白徒	白徒	complementary conscripts	baek du	*bˤrak // *[d]ˤa			P R A K // T A	
-1307	35	313	𱢦	早	early	tsawX	*Nə.tsˤuʔ			«N» Ə . C U K // U	
-1308	35	313	飤	食	eat	zyik	*mə-lək	，		L Ə K	
-1309	35	313	𪭍	供	provide	kjowng	*koŋ			K O N	
-1310	35	313	兵	兵	weapon	pjaeng	*praŋ			P R A N	
-1311	35	314	各	各	each	kak	*kˤak			K A K	
-1312	35	314	載	載	carry	tsojH	! *[ts]ˤə[ʔ]-s // *[ts]ˤəʔ-s			C ƏK // Ə // C ƏK // Ə	
-1313	35	314	尔	爾	your	nyeX	*n[ə][r]ʔ		lectio mea	N Ə R	
-1314	35	314	贓	贓	spoils	tsang	*[ts]ˤaŋ	。		C A N	
-1315	35	315	既	既	already	kj+jH	*[k]ə[t]-s			K Ə T	
-1316	35	315	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1317	35	315	𨟻	將	aspectual marker	tsjang	*[ts]aŋ		lectio mea	C A N	
-1318	35	315	㙛	敷	distribute	phju	*pʰ(r)a	，		P A	
-1319	35	316	為	為	do	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
-1320	35	316	之	之	anaphoric subtitute of the object	tsyi	*tə			T Ə	
-1321	35	316	毋	毋	negative adverb	mju	*mo			M O	
-1322	35	316	⿺怠⿹𠃌一	怠	laziness	dojX	*lˤəʔ	，		L ƏK // Ə	
-1323	35	317	毋	毋	negative adverb	mju	*mo			M O	
-1324	35	317	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-1325	35	317	民	民	people	mjin	*mi[ŋ]			M I N	
-1326	35	317	⿱矣心	疑	doubt	ngi	*[ŋ](r)ə	。		N Ə	
-1327	35	317	及	及	conjunction	gip	*[m-k-]rəp			R Ə P	
-1328	36	318	尔	爾	your	nyeX	*n[ə][r]ʔ			N Ə R	
-1329	36	318	龜	龜	turtle	kwij	*[k]ʷrə			K w R Ə	
-1330	36	318	噬	筮	achillea stalks	dzyejH	*[d][e][t]-s	，		T E T	
-1331	36	318	皆	皆	all	keaj	*kˤrij			K R I J	
-1332	36	318	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ			L Ə N	
-1333	36	318	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
-1334	36	319	改	改	change	kojX	*C.qˤəʔ		lectio mea	X . K ƏK // Ə	
-1335	36	319	𩕯	調	tone 	dew (trjuw)	*[d]ˤiw			T I W	
-1336	36	319	尔	爾	your	nyeX	*n[ə][r]ʔ			N Ə R	
-1337	36	319	鼔	鼓	drum	kuX	*[k]ˤaʔ	，		K A K // A	
-1338	36	320	乃	乃	conjunction	nojX	! *nˤə(ŋ)ʔ // *nˤəʔ			N Ə N K // N ƏK // Ə	
-1339	36	320	⿺辶⿸㫃并	屏	get rid 	yit	*lrit 		check this graph	L R I T	
-1340	36	320	亓	其	possessive pronoun	gi	*gə		lectio mea 	K Ə	
-1341	36	320	⿰力膚	虜	captive	luX	*C.rˤaʔ	。		X . R A K // A	
-1342	36	321	盟日	明日	tomorrow	mjaeng nyit	*mraŋ // *C.nik			M R A N // X . N I K	
-1343	36	321	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
-1344	36	321	⿰申戈	陳	battle array	drin	*lri[n]	，		L R I N	
-1345	36	321	必	必	must	pjit	*pi[t]			P I T	
-1346	36	321	𱞃	過	pass	kwaH	*kʷˤaj-s			Kw A J	
-1347	36	321	亓	其	possessive pronoun	gi	*gə			K Ə	
-1348	36	321	所	所	place	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ	。		K A K // A // K A K // A	
-1349	36	322	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-1350	36	322	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
-1351	36	322	⿰䏌又⿱皿	班	rang	paen	*pˤan			P A N	
-1352	36	322	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1353	36	322	之	之	conjunction	tsyi	*tə			T Ə	
-1354	36	322	道	道	way	dawX	*[kə.l]ˤuʔ	。	.  punctuation	K Ə . L U K // U	
-1355	36	323	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-1356	36	323	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-1357	36	323	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-1358	36	323	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1359	36	324	𰻇	復	return	bjuwH	*[N]-pruk-s		lectio mea	P R U K	
-1360	36	324	甘	甘	easy	kam	*[k]ˤ[a]m			K A M	
-1361	37	324	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1362	37	324	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1363	37	324	道	道	way	dawX	*[kə.l]ˤuʔ	？		K Ə . L U K // U	
-1364	37	324	𰲛	乎	modal particle	hu // hu	*ɢˤa			K A	
-1365	37	325	𣌭	答	reply	top	*[t]ˤ[u]p	：		T U P	
-1366	37	325	曰	曰	say	hjwot	*[ɢ]ʷat	。		K w A T	
-1367	37	326	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1368	37	327	必	必	must	pjit	*pi[t]			P I T	
-1369	37	327	𰕡	慎	be careful	dzyinH	*[d]i[n]-s			T I N	
-1370	37	327	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-1371	37	327	戒	戒	warn	keajH	*kˤrək-s	，	!!!! come 或 王若曰	K R Ə K	
-1372	37	328	若	若	modal particle	nyak // nyak	*nak			N A K	
-1373	37	328	𨟻	將	aspectual marker	tsjang	*[ts]aŋ			C A N	
-1374	37	328	弗	弗	negative adverb	pjut	! *put // *p[u]t // *put			P U T // P U T // P U T	
-1375	37	328	克	克	conquest	khok	*kʰˤək	。		K Ə K	
-1376	37	329	毋	毋	negative adverb	mju	*mo			M O	
-1377	37	329	目	冒	reckless	mawH (mok)	*mˤuk-s			M U K	
-1378	37	329	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
-1379	37	329	⿺辶售	進	advance	tsinH	*[ts][i][n]-s	，		C I N	
-1380	37	330	必	必	must	pjit	*pi[t]			P I T	
-1381	37	330	𱞃	過	pass	kwaH	*kʷˤaj-s			Kw A J	
-1382	37	330	歬	前	front	dzen	*[dz]ˤen			C E N	
-1383	37	330	⿰示工	功	merit	kuwng	*kˤoŋ	。		K O N	
-1384	37	331	賞	賞	admire	syangX	*s-taŋʔ			T A N K	
-1385	37	331	⿰丹隻	獲	gain	hweak	*m-qʷˤrak			Kw R A K	
-1386	37	331	詣	指	point 	tsyijX	*mə.kijʔ			M Ə . K I J K	
-1387	37	331	⿰土𪪋	葸	fear	siX	*səʔ	，		S ƏK // Ə	
-1388	37	332	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
-1389	37	332	⿳亼吅隹⿰見⿱心	勸	exhort	khjwonH	*C.qʷʰar-s			X . Kw A R	
-1390	37	332	亓	其	possessive pronoun	gi	*gə			K Ə	
-1391	37	332	志	志	intention	tsyiH	*tək-s	。		T Ə K	
-1392	37	333	㦷	甬	courageous	yowngX	*loŋʔ			L O N K	
-1393	37	333	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1394	37	333	憙	喜	joy	xiX (xiH)	*qʰ(r)əʔ			K ƏK // Ə	
-1395	37	333	之	之	anaphoric subtitute of the object	tsyi	*tə	，	lectio mea	T Ə	
-1396	38	334	巟	慌	anxious	xwangX	*m̥ˤaŋʔ			M A N K	
-1397	38	334	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1398	38	334	⿱毋心	悔	blame	xwojX	*m̥ˤəʔ			M ƏK // Ə	
-1399	38	334	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
-1400	38	335	萬	萬	ten thousand	mjonH	*C.ma[n]-s			X . M A N	
-1401	38	335	民	民	people	mjin	*mi[ŋ]			M I N	
-1402	38	335	⿰章欠⿱色	黔	black	gjem	*[g](r)[o]m		da controllare	K O M	
-1403	38	335	首	首	head	syuwH	*l̥uʔ-s			L U K // U	
-1404	38	335	皆	皆	all	keaj	*kˤrij			K R I J	
-1405	38	335	⿱八呂⿰欠	欲	want	yowk	*ɢ(r)ok			K O K	
-1406	38	335	或	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1407	38	335	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
-1408	38	336	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-1409	38	336	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
-1410	38	336	甘	甘	fierce	kam	*[k]ˤ[a]m			K A M	
-1411	38	336	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1412	38	336	之	之	conjunction	tsyi	*tə			T Ə	
-1413	38	336	道	道	way	dawX	*[kə.l]ˤuʔ	。		K Ə . L U K // U	
-1414	38	337	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-1415	38	337	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-1416	38	337	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-1417	38	337	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1418	38	338	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
-1419	38	338	⿰古欠	苦	hard	khuX (khuH)	*kʰˤaʔ			K A K // A	
-1420	38	338	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1421	38	338	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1422	38	338	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
-1423	38	338	𰲛	乎	modal particle	hu // hu	*ɢˤa	？		K A	
-1424	38	339	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-1425	38	339	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1426	38	340	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
-1427	38	341	收	收	receive	syuw	*s-kiw			K I W	
-1428	38	341	而	而	conjunction	nyi	*nə			N Ə	
-1429	38	341	聚	聚	gather	dzjuH	*m-tsʰoʔ-s			C O K // O	
-1430	38	341	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
-1431	39	341	⿱罒𣗥	束	tie	syowk	*s-tʰok	[		T O K	
-1432	39	341	而	而	conjunction	nyi	*nə			N Ə	
-1433	39	341	厚	厚	thick	huwX	*Cə.[g]ˤ(r)oʔ			X Ə . K O K // O	
-1434	39	341	之	之	anaphoric subtitute of the object	tsyi	*tə	。】		T Ə	
-1435	39	342	砫	重	heavy	drjowng	*[m]-troŋ			M T R O N	
-1436	39	342	賞	賞	admire	syangX	*s-taŋʔ			T A N K	
-1437	39	342	泊	薄	thin	bak	*[b]ˤak			P A K	
-1438	39	342	型	刑	punish	heng	*[ɢ]ˤeŋ	，		K E N	
-1439	39	343	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-1440	39	343	忘	忘	forget	mjang	*maŋ			M A N	
-1441	39	343	亓	其	possessive pronoun	gi	*gə			K Ə	
-1442	39	343	死	死	death	sijX	*sijʔ			S I J K	
-1443	39	343	而	而	conjunction	nyi	*nə			N Ə	
-1444	39	343	見	見	see	henH // kenH // henH	! *N-[k]ˤen-s // *[k]ˤen-s // *m-[k]ˤen-s			K E N // K E N // K E N	
-1445	39	343	亓	其	conjunction	gi	*gə			K Ə	
-1446	39	343	生	生	life	sraeng	*sreŋ	，		S R E N	
-1447	39	344	思	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-1448	39	344	良	良	good	ljang	*[r]aŋ			R A N	
-1449	39	344	車	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
-1450	39	344	良	良	good	ljang	*[r]aŋ			R A N	
-1451	39	344	士	士	dignitary	dzriX	*[m-s-]rəʔ			R ƏK // Ə	
-1452	39	344	⿺辶㞷	往	go	hjwangX	*ɢʷaŋʔ			Kw A N K	
-1453	39	344	取	取	take	tshuwX	*tsʰˤoʔ			C O K // O	
-1454	39	344	亓	其	possessive pronoun	gi	*gə		lectio mea， come inSB	K Ə	
-1455	39	344	餌	耳	ear	nyiX	! *C.nəʔ // *nəʔ	，		X . N ƏK // Ə // N ƏK // Ə	
-1456	39	345	思	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-1457	39	345	亓	其	possessive pronoun	gi	*gə			K Ə	
-1458	39	345	志	志	intention	tsyiH	*tək-s			T Ə K	
-1459	39	345	⿺辶己	起	raise	khiX	*C.qʰ(r)əʔ	。		X . K ƏK // Ə	
-1460	39	346	㦷	勇	courageous	yowngX	*loŋʔ			L O N K	
-1461	39	346	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1462	39	346	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-1463	39	346	憙	喜	joy	xiX (xiH)	*qʰ(r)əʔ	，		K ƏK // Ə	
-1464	39	347	⿰土𪪋	葸	fear	siX	*səʔ			S ƏK // Ə	
-1465	39	347	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1466	39	347	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
-1467	39	347	⿱毋心	悔	blame	xwojX	*m̥ˤəʔ	，		M ƏK // Ə	
-1468	40	348	肰句	然後	conjunction	nyen huwX	*[n]a[n] // *[ɢ]ˤ(r)oʔ			N A N // K O K // O	
-1469	40	348	改	改	change	kojX	*C.qˤəʔ			X . K ƏK // Ə	
-1470	40	348	⿺怠⿹𠃌一	怠	laziness	dojX	*lˤəʔ	。		L ƏK // Ə	
-1471	40	349	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-1472	40	349	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
-1473	40	349	⿰古欠	苦	hard	khuX (khuH)	*kʰˤaʔ			K A K // A	
-1474	40	349	𡃣	戰	war	tsyenH	*tar-s			T A R	
-1475	40	349	之	之	conjunction	tsyi	*tə			T Ə	
-1476	40	349	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
-1477	40	350	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-1478	40	350	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-1479	40	350	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-1480	40	350	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1481	40	351	攻	攻	assault	kuwng	*kˤoŋ			K O N	
-1482	40	351	⿳爫人系	奚	how	hej	*[g]ˤe			K E	
-1483	40	351	女	如	how	nyo	*na	？		N A	
-1484	40	352	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-1485	40	352	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1486	40	353	民	民	people	mjin	*mi[ŋ]			M I N	
-1487	40	353	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1488	40	353	⿱宀貨	寶	good	xwaH	*pˤuʔ	：		P U K // U	
-1489	40	354	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
-1490	40	354	城	城	wall	dzyeng	*[d]eŋ	，		T E N	
-1491	40	355	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
-1492	40	355	⿷匸古	固	fortress	kuH	*[k]ˤa-s	，		K A	
-1493	40	356	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
-1494	40	356	⿱艸𠭯	阻	strategic pass	tsrjoX (tsrjoH)	*[ts]raʔ	。		C R A K // A	
-1495	40	357	三	三	three	sam	*s.rum			S . R U M	
-1496	40	357	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1497	40	357	𦘔	盡	all	tsinX	*tsi[n]ʔ			C I N	
-1498	40	357	甬	用	use	yowngH	*loŋ-s	,		L O N	
-1499	40	358	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-1500	40	358	皆	諧	harmonize	keaj	*kˤrij	，		K R I J	
-1501	40	359	邦	邦	state	paewng	*pˤroŋ			P R O N	
-1502	41	359	𪺏	家	home	kae	*kˤra			K R A	
-1503	41	359	以	以	use	yiX	*ləʔ			L ƏK // Ə	
-1504	41	359	忧	忧	grief	juw	*ʔ(r)u	。		K U	
-1505	41	360	善	善	good	dzyenX	*[g]e[n]ʔ			K E N	
-1506	41	360	攻	攻	assault	kuwng	*kˤoŋ			K O N	
-1507	41	360	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1508	41	360	以	以	use	yiX	*ləʔ			L ƏK // Ə	
-1509	41	360	亓	其	nominalization marker	gi	*gə			K Ə	
-1510	41	360	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-1511	41	360	又	有	have	hjuwX	*[ɢ]ʷəʔ	，		K w ƏK // Ə	
-1512	41	361	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
-1513	41	361	攻	攻	assault	kuwng	*kˤoŋ			K O N	
-1514	41	361	人	人	person	nyin	*ni[ŋ]			N I N	
-1515	41	361	之	之	nominalization marker	tsyi	*tə		hewen	T Ə	
-1516	41	361	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-1517	41	361	亡	無	negative adverb	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
-1518	41	361	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
-1519	41	362	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-1520	41	362	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-1521	41	362	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-1522	41	362	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1523	41	363	善	善	good	dzyenX	*[d]a[n]ʔ			T A N	
-1524	41	363	獸	守	keep	syuwH	*s.tuʔ-s			S . T U K // U	
-1525	41	363	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1526	41	363	⿳爫人系	奚	how	hej	*[g]ˤe			K E	
-1527	41	363	女	如	how	nyo	*na	？		N A	
-1528	41	364	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-1529	41	364	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1530	41	365	亓	其	possessive pronoun	gi	*gə			K Ə	
-1531	41	365	飤	食	eat	zyik	*mə-lək			L Ə K	
-1532	41	365	必	必	must	pjit	*pi[t]			P I T	
-1533	41	365	足以	足以	be sufficient	tsjuH yiX	*[ts]ok-s // *ləʔ			C O K  // L ƏK // Ə	
-1534	41	365	食	食	eat	zyik	*mə-lək			L Ə K	
-1535	41	365	之	之	anaphoric subtitute of the object	tsyi	*tə	,		T Ə	
-1536	41	366	其	其	possessive pronoun	gi	*gə			K Ə	
-1537	41	366	兵	兵	weapon	pjaeng	*praŋ			P R A N	
-1538	41	366	足以	足以	be sufficient	tsjuH yiX	*[ts]ok-s // *ləʔ			C O K  // L ƏK // Ə	
-1539	41	366	利	利	benefit	lijH	*C.ri[t]-s			X . R I T	
-1540	41	366	之	之	anaphoric subtitute of the object	tsyi	*tə	】		T Ə	
-1541	42	367	亓	其	possessive pronoun	gi	*gə	,		K Ə	
-1542	42	367	城	城	wall	dzyeng	*[d]eŋ		distinzione grafica 固 sostantivo e aggettivo	T E N	
-1543	42	367	⿷匸古	固	fortress	kuH	*[k]ˤa-s			K A	
-1544	42	367	足以	足以	be sufficient	tsjuH yiX	*[ts]ok-s // *ləʔ			C O K  // L ƏK // Ə	
-1545	42	367	⿰干戈	捍	shield	hanH	*m-kˤa[r]-s			K A R	
-1546	42	367	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
-1547	42	368	上	上	superior	dzyangH	*daŋʔ-s		hewen	T A N K	
-1548	42	368	下	下	inferior	haeH	*m-gˤraʔ-s			K R A K // A	
-1549	42	368	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
-1550	42	368	𠭯	且	conjunction	tsjo	*tsa			C A	
-1551	42	368	咠	輯	concord	dzip	*[dz][u]p	，		C U P	
-1552	42	369	解	絓	entangle	kweaH	*[k]ʷˤre-s		lectio mea	K w R E	
-1553	42	369	紀	紀	thread	kiX	*k(r)əʔ			K ƏK // Ə	
-1554	42	369	於	於	preposition	u	*[ʔ]ˤa			K A	
-1555	42	369	大	大	big 	dajH	*lˤa[t]-s		chongwen	L A T	
-1556	42	369	⿷匸或⿰阝	國	state	kwok	*[C.q]ʷˤək		chongwen	X . K w Ə K	
-1557	42	370	大	大	big 	dajH	*lˤa[t]-s			L A T	
-1558	42	370	⿷匸或⿰阝	國	state	kwok	*[C.q]ʷˤək			X . K w Ə K	
-1559	42	370	⿱木辛⿰斤⿱心	親	parent	tshin	*[tsʰ]i[n]			C I N	
-1560	42	370	之	之	anaphoric substitute of the object	tsyi	*tə	，		T Ə	
-1561	42	371	天下	天下	world	then haeH	*l̥ˤi[n] // *m-gˤraʔ-s			L I N // K R A K // A	
-1562	42	371	⿺辶己	起	raise	khiX	*C.qʰ(r)əʔ		lectio mea	X . K ƏK // Ə	
-1563	42	371	之心	志	intention	tsyiH	*tək-s		lectio mea	T Ə K	
-1564	42	371	者侯	諸侯	noble	tsyo (tsyae) huw	*ta // *[g]ˤ(r)o			T A // K O	
-1565	42	371	寡	寡	few	kwaeX	*[C.k]ʷˤraʔ			X . K w R A K // A	
-1566	42	371	⿱矣心	疑	doubt	ngi	*[ŋ](r)ə	。		N Ə	
-1567	42	372	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-1568	42	372	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
-1569	42	372	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
-1570	42	372	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1571	42	373	𫊟	吾	I	ngu	*ŋˤa			N A	
-1572	42	373	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1573	42	373	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-1574	42	373	䎽	聞	hear	mjun	*mu[n]			M U N	
-1575	42	373	之	之	cataphoric substitute of the object	tsyi	*tə	：		T Ə	
-1576	42	374	一	一	one 	jit	*ʔi[t]			K I T	
-1577	42	374	出	出	exit	tsyhwijH	*t-kʰut-s			K U T	
-1578	42	374	言	言	word	ngjon	! *ŋa[n] // *ŋa[n] // *ŋa[n] // *ŋa[r]			N A N // N A N // N A N // N A R	
-1579	43	375	三	三	three	sam	*s.rum			S . R U M	
-1580	43	375	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
-1581	43	375	皆	皆	all	keaj	*kˤrij			K R I J	
-1582	43	375	⿳亼吅隹⿱心	歡	delight	xwan	*qʷʰˤar	,		Kw A R	
-1583	43	376	一	一	one 	jit	*ʔi[t]			K I T	
-1584	43	376	出	出	exit	tsyhwijH	*t-kʰut-s			K U T	
-1585	43	376	言	言	word	ngjon	! *ŋa[n] // *ŋa[n] // *ŋa[n] // *ŋa[r]			N A N // N A N // N A N // N A R	
-1586	43	377	三	三	three	sam	*s.rum			S . R U M	
-1587	43	377	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
-1588	43	377	皆	皆	all	keaj	*kˤrij			K R I J	
-1589	43	377	⿺辶寺	往	go	hjwangX	*ɢʷaŋʔ	，		Kw A N K	
-1590	43	378	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1591	43	378	之	之	anaphoric substitute of the object	tsyi	*tə			T Ə	
-1592	43	378	𰲛	乎	modal particle	hu // hu	*ɢˤa	？		K A	
-1593	43	379	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-1594	43	379	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1595	43	380	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
-1596	43	380	明	明	bright	mjaeng	*mraŋ			M R A N	
-1597	43	380	詑	詑	mislead	da	*l̥ˤaj			L A J	
-1598	43	380	於	於	preposition	u	*[ʔ]ˤa			K A	
-1599	43	380	𲌧	鬼	ghost	kjw+jX	*k-ʔujʔ			K U J K	
-1600	43	380	神	神	god	zyin	*Cə.li[n]	,【		X Ə . L I N	
-1601	43	381	神	神	god	zyin	*Cə.li[n]	】		X Ə . L I N	
-1602	43	381	或	或	modal particle	hwok	*[ɢ]ʷˤək	，		K w Ə K	
-1603	43	382	非	非	be not	pj+j	*pəj			P Ə J	
-1604	43	382	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
-1605	43	382	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-1606	43	382	教	教	teach	kaewH	*s.kˤraw-s			S . K R A W	
-1607	43	382	民	民	people	mjin	*mi[ŋ]	，		M I N	
-1608	43	383	唯	唯	modal particle	ywij (ywijX)	*ɢʷij			Kw I J	
-1609	43	383	君	君	her majesty	kjun	*C.qur			X . K U R	
-1610	43	383	智	知	know	trje	*tre			T R E	
-1611	43	383	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
-1612	43	384	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
-1613	43	384	先	先	previous	sen	*sˤər			S Ə R	
-1614	43	384	王	王	king	hjwangH	*ɢʷaŋ-s			Kw A N	
-1615	43	384	至	至	excellent	tsyijH	*ti[t]-s			T I T	
-1616	43	384	道	道	way	dawX	*[kə.l]ˤuʔ	。	43 / 44 	K Ə . L U K // U	
-1617	43	385	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
-1618	44	385	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
-1619	44	386	⿳艸罒勿⿰攴	沫	Mo (personal Name)	mat	*mˤat	，		M A T	
-1620	44	386	𫊟	吾	I	ngu	*ŋˤa			N A	
-1621	44	386	言	言	word	ngjon	! *ŋa[n] // *ŋa[n] // *ŋa[n] // *ŋa[r]			N A N // N A N // N A N // N A R	
-1622	44	386	氏	是	really	dzyeX	*[d]eʔ		lectio mea	T E K // E	
-1623	44	386	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-1624	44	386	女	如	compare	nyo	*na	，		N A	
-1625	44	387	或者	或者	maybe	hwok tsyaeX	*[ɢ]ʷˤək // *tAʔ			K w Ə K // T A K	
-1626	44	387	少	小	little	sjewX	*[s]ewʔ			S E W K	
-1627	44	387	道	道	way	dawX	*[kə.l]ˤuʔ	！		K Ə . L U K // U	
-1628	44	388	𫊟	吾	I	ngu	*ŋˤa			N A	
-1629	44	388	一	一	one 	jit	*ʔi[t]			K I T	
-1630	44	388	欲	欲	desire	yowk	*ɢ(r)ok			K O K	
-1631	44	388	䎽	聞	hear	mjun	*mu[n]			M U N	
-1632	44	388	厽	三	three 	sam	*s.rum			S . R U M	
-1633	44	388	弋	代	dynasty	dojH	*lˤək-s			L Ə K	
-1634	44	388	之	之	conjunction	tsyi	*tə			T Ə	
-1635	44	388	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ	。		K A K // A // K A K // A	
-1636	44	389	⿱艸⿰告攴 ⿳艸罒勿⿰攴	曹沫	Cao Mo (personal name)	dzaw mat	*N-tsˤu // *mˤat			C U // M A T	
-1637	44	389	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
-1638	44	389	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
-1639	44	390	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
-1640	44	390	䎽	聞	hear	mjun	*mu[n]			M U N	
-1641	44	390	之	之	anaphoric substitute of the object	tsyi	*tə	：		T Ə	
-1642	44	391	昔	昔	past	sjek	*[s]Ak		lacuna di tre caratteri	S A K	
-1643	44	391	之	之	nominalization marker	tsyi	*tə			T Ə	
-1644	44	391	⿺辶己	起	raise	khiX	*C.qʰ(r)əʔ			X . K ƏK // Ə	
-1645	44	391	於	於	preposition	u	*[ʔ]ˤa			K A	
-1646	44	391	天下	天下	world	then haeH	*l̥ˤi[n] // *m-gˤraʔ-s			L I N // K R A K // A	
-1647	44	391	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
-1648	44	392	各	各	each	kak	*kˤak			K A K	
-1649	44	392	以	以	use	yiX	*ləʔ			L ƏK // Ə	
-1650	44	392	亓	其	possessive pronoun	gi	*gə			K Ə	
-1651	44	392	殜	世	era	syejH	*l̥ap-s	，		L A P	
-1652	44	393	以	以	conjunction	yiX	*ləʔ		scribal error	L ƏK // Ə	
-1653	44	393	⿱回又	沒	die	gip	*[m-k-]rəp			R Ə P	
-1654	44	393	亓	其	possessive pronoun	gi	*gə			K Ə	
-1655	44	393	身	身	body	syin	*n̥i[ŋ]	。		N I N	
-1656	45	394	含	今	today	kim	*[k]r[ə]m			K R Ə M	
-1657	45	394	與	與	conjunction	yoX	*m-q(r)aʔ			K A K // A	
-1658	45	394	古	古	ancient	kuX	*kˤaʔ			K A K // A	
-1659	45	394	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
-1660	45	394	多	多	much	ta	*[t.l]ˤaj			T . L A J	
-1661	45	394	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-1662	45	394	同	同	same	duwng	*lˤoŋ			L O N	
-1663	45	394	矣	矣	modal particle	hiX	*qəʔ	。		K ƏK // Ə	
-1664	45	395	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
-1665	45	395	是古	是故	conjunction	dzyeX kuH	*[d]eʔ // ! *kˤa(ʔ)-s // *kˤaʔ-s			T E K // E // K A K // A // K A K // A	
-1666	45	395	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
-1667	45	395	敢	敢	dare	kamX	*[k]ˤamʔ			K A M	
-1668	45	395	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
-1669	45	395	古	古	ancient	kuX	*kˤaʔ			K A K // A	
-1670	45	395	𣌭	答	reply	top	*[t]ˤ[u]p	。		T U P	
-1671	45	396	肰	然	like this	nyen	*[n]a[n]			N A N	
-1672	45	396	而	而	conjunction	nyi	*nə			N Ə	
-1673	45	396	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
-1674	45	396	古	古	ancient	kuX	*kˤaʔ			K A K // A	
-1675	45	396	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
-1676	45	396	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
-1677	45	396	大	大	big	dajH	*lˤa[t]-s			L A T	
-1678	45	396	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
-1679	45	396	𱙁	焉	in it	jen // hjen ('jon)	*[ʔ]a[n] // *ʔa[n]	，		K A N // K A N	
-1680	45	397	必	必	must	pjit	*pi[t]			P I T	
-1681	45	397	龏	恭	cherish	kjowng	*koŋ			K O N	
-1682	45	397	⿱僉曰	儉	frugality	gjemX	*[g]r[a]mʔ			K R A M	
-1683	45	397	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
-1684	45	397	𠭁	得	obtain	tok	*tˤək			T Ə K	
-1685	45	397	之	之	anaphoric substitute of the object	tsyi	*tə	，		T Ə	
-1686	45	398	而	而	conjunction	nyi	*nə			N Ə	
-1687	45	398	⿱九高	驕	take pride	kjew	*kraw			K R A W	
-1688	45	398	大	泰	pomp	thajH	*l̥ˤa[t]-s			L A T	
-1689	45	398	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
-1690	45	398	⿺辶⿱止羍	失	loose	syit	*l̥i[t]			L I T	
-1691	45	398	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
-1692	45	399	君	君	her majesty	kjun	*C.qur			X . K U R	
-1693	45	399	亓	其	modal particle	gi	*gə			K Ə	
-1694	46	399	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
-1695	46	399	唯	唯	modal particle	ywij (ywijX)	*ɢʷij			Kw I J	
-1696	46	399	䎽	聞	hear	mjun	*mu[n]			M U N	
-1697	46	399	夫	夫	modal particle	bju // bju // pju	! *ba // *[b]a // *p(r)a			P A // P A // P A	
-1698	46	399	㙑	禹	Yu (person name)	hjuX	*[ɢ]ʷ(r)aʔ	、		K w A K // A	
-1699	46	399	湯	湯	Tang (person name)	thang	! *l̥ˤaŋ // *r̥ˤaŋ	、	This suggests a later datation of AD with respect to SB? Later spelling of the shang king	L A N // R A N	
-1700	46	399	⿰力桀	桀	Jie (person name)	gjet	! *m-[k]at // *N-[k]at	、		K A T // K A T	
-1701	46	399	受	紂	Zhou (person name)	drjuwX	*[d]ruʔ			T R U K // U	
-1702	46	399	矣	矣	modal particle	hiX	*qəʔ	。	∟punctuation 	K ƏK // Ə	
-1703	46	400	敢	敢	dare	kamX	*[k]ˤamʔ		∟punctuation 	K A M	
-1704	46	400	𣌭	答	reply	top	*[t]ˤ[u]p	。		T U P	
-1705	46	401	肰	然	like this	nyen	*[n]a[n]			N A N	
-1706	46	401	而	而	conjunction	nyi	*nə			N Ə	
-1707	46	401	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
-1708	46	401	古	古	ancient	kuX	*kˤaʔ	。			
+535	15	122	自	自	self	dzijH	*s.[b]i[t]-s 			S . P I T	
+536	15	122	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s	，		R U T // R U T // R U T // R U T	
+537	15	123	必	必	must	pjit	*pi[t]			P I T	
+538	15	123	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+539	15	123	二	二	two	nyijH	*ni[j]-s			N I J	
+540	15	123	𨟻 軍	將軍	general	tsjang kjun	*[ts]aŋ // *[k]ʷər	;		C A N // K w Ə R	
+541	15	124	毋	無	not have	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
+542	15	124	𨟻 軍	將軍	general	tsjang kjun	*[ts]aŋ // *[k]ʷər	，		C A N // K w Ə R	
+543	15	125	必	必	must	pjit	*pi[t]			P I T	
+544	15	125	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+545	15	125	𬣏	數	number	sraewk	*s-rok			R O K	
+546	15	125	⿺辶卑	嬖	favourite	pejH	*pˤek-s			P E K	
+547	15	125	大夫	大夫	grandees	dajH bju // bju // pju	*lˤa[t]-s // ! *ba // *[b]a // *p(r)a	；	- punctuation	L A T // P A // P A // P A	
+548	15	126	毋	無	not have	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
+549	15	126	⿺辶卑	嬖	favourite	pejH	*pˤek-s			P E K	
+550	15	126	大夫	大夫	grandees	dajH bju // bju // pju	*lˤa[t]-s // ! *ba // *[b]a // *p(r)a	，	- punctuation	L A T // P A // P A // P A	
+551	15	127	必	必	must	pjit	*pi[t]			P I T	
+552	15	127	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+553	15	127	𬣏	數	number	sraewk	*s-rok			R O K	
+554	15	127	大	大	great	dajH	*lˤa[t]-s			L A T	
+555	15	127	官	官	official	kwan	*kʷˤa[n]			Kw A N	
+556	15	127	之	之	conjunction	tsyi	*tə			T Ə	
+557	15	127	帀	師	multitude?	srij	*srij	，		S R I J	
+558	15	127	公孫	公孫	nephew of a duke	kuwng swon	*C.qˤoŋ // *[s]ˤu[n]	，		X . K O N // S U N	
+559	15	127	公子	公子	son of a duke	kuwng tsiX	*C.qˤoŋ // ! *[ts]əʔ // *tsəʔ	。		X . K O N // C ƏK // Ə // C ƏK // Ə	
+560	15	128	凡	凡	all	bjuwng	*bəŋ			P Ə N	
+561	15	128	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+562	15	128	司	司	administer	si	*s-lə			L Ə	
+563	15	128	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s			R U T // R U T // R U T // R U T	
+564	15	128	倀	長	conduct	drjang	*Cə-[N]-traŋ			«N» T R A N	
+565	15	128	民	民	people	mjin	*mi[ŋ]			M I N	
+566	15	128	者	者	nominalization marker	tsyaeX	*tAʔ	，		T A K	
+567	16	129	毋	無	negative adverb	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
+568	16	129	角	祿	emolument	luwk	*[r]ˤok			R O K	
+569	16	129	⿱竹隹	爵	honour	tsjak	*[ts]ewk	,		C E WK	
+570	16	130	毋	無	negative adverb	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
+571	16	130	从	從	follow	dzjowng // dzjowngH // tsjowng (tshjowng)	*tsoŋ // *[dz]oŋ-s // *[dz]oŋ			C O N // C O N // C O N	
+572	16	130	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
+573	16	130	而	而	conjunction	nyi	*nə			N Ə	
+574	16	130	辟	避	avoid	bjieH	*[b]ek-s			P E K	
+575	16	130	辠	罪	crime	dzwojX	*[dz]ˤujʔ	，		C U J K	
+576	16	131	同	同	unite	duwng	*lˤoŋ			L O N	
+577	16	131	都	都	assembly	tu	*tˤa		?	T A	
+578	16	131	而	而	conjunction	nyi	*nə			N Ə	
+579	16	131	⿱爻言	教	teaching	kaewH	*s.kˤraw-s			S . K R A W	
+580	16	131	於	於	preposition	u	*[ʔ]ˤa			K A	
+581	16	131	邦	邦	state	paewng	*pˤroŋ			P R O N	
+582	16	132	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+583	16	132	亓	其	modal particle	gi	*gə			K Ə	
+584	16	132	𣌭	合	unite	hop	*m-kˤop			K O P	
+585	16	132	之	之	anaphoric substitute of the object	tsyi	*tə			T Ə	
+586	16	132	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+587	16	132	難	難	difficult	nan	*nˤar	，		N A R	
+588	16	133	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+589	16	133	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+590	16	133	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+591	16	133	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
+592	16	133	於	於	preposition	u	*[ʔ]ˤa			K A	
+593	16	133	⿰谷象⿱土	舍	barracks	syaeH // syaeX	! *[l̥]Ak-s // *l̥Aʔ	。		L A K // L A K	
+594	16	134	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+595	16	134	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+596	16	134	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
+597	16	135	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+598	16	135	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
+599	16	135	於	於	preposition	u	*[ʔ]ˤa			K A	
+600	16	135	⿰申戈	陳	battle array	drin	*lri[n]			L R I N	
+601	16	135	女之可	如之何	how	nyo tsyi ha	*na // *tə // *[g]ˤaj	？		N A // T Ə // K A J	
+602	16	136	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+603	16	136	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+604	16	137	車	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
+605	17	137	⿵門⿰夕刀	間	between 	hean // kean // kean	! *N-kˤre[n] // *kˤre[n] // *kˤre[n]			K R E N // K R E N // K R E N	
+606	17	137	容	容	contain	yowng	*[ɢ](r)oŋ			K O N	
+607	17	137	伍	伍	group of five	nguX	*C.ŋˤaʔ	，	chongwen	X . N A K // A	
+608	17	138	伍	伍	group of five	nguX	*C.ŋˤaʔ			X . N A K // A	
+609	17	138	⿵門⿰夕刀	間	between 	hean // kean // kean	! *N-kˤre[n] // *kˤre[n] // *kˤre[n]			K R E N // K R E N // K R E N	
+610	17	138	容	容	contain	yowng	*[ɢ](r)oŋ			K O N	
+611	17	138	兵	兵	weapon	pjaeng	*praŋ	，		P R A N	
+612	17	139	貴	貴	noble	kjw+jH	*kuj-s			K U J	
+613	17	139	位	位	place	hwijH	*[ɢ]ʷrəp-s			K w R Ə P	
+614	17	139	砫	重	give weight to	drjowng	*[m]-troŋ			M T R O N	
+615	17	139	飤	食	eat	zyik	*mə-lək	，		L Ə K	
+616	17	140	思	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+617	17	140	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+618	17	140	歬	前	front	dzen	*[dz]ˤen			C E N	
+619	17	140	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。		K A N // X Ə . K R A N // K R A N	
+620	17	141	厽	三	three 	sam	*s.rum			S . R U M	
+621	17	141	行	行	line	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s			K A N // X Ə . K R A N // K R A N	
+622	17	141	之	之	conjunction	tsyi	*tə			T Ə	
+623	17	141	𨒥	後	after	huwX	*[ɢ]ˤ(r)oʔ	，		K O K // O	
+624	17	142	句	茍	must	kik	*[k]ˤ(r)oʔ // **[k]ˤ(r)ək			K O K // O // K Ə K	
+625	17	142	見	見	see	henH // kenH // henH	! *N-[k]ˤen-s // *[k]ˤen-s // *m-[k]ˤen-s			K E N // K E N // K E N	
+626	17	142	耑	短	short	twanX	*tˤorʔ			T O R	
+627	17	142	兵	兵	weapon	pjaeng	*praŋ	，		P R A N	
+628	17	143	⿰十攴	十	ten	dzyip	*t.[g]əp			T . K Ə P	
+629	17	143	五	五	five	nguX	*C.ŋˤaʔ			X . N A K // A	
+630	17	143	之 ⿵門⿰夕刀	之間	between 	tsyi hean // kean // kean	*tə // ! *N-kˤre[n] // *kˤre[n] // *kˤre[n]	，		T Ə // K R E N // K R E N // K R E N	
+631	17	144	必	必	must	pjit	*pi[t]			P I T	
+632	17	144	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+633	17	144	公孫	公孫	nephew of a duke	kuwng swon	*C.qˤoŋ // *[s]ˤu[n]			X . K O N // S U N	
+634	17	144	公子	公子	son of a duke	kuwng tsiX	*C.qˤoŋ // ! *[ts]əʔ // *tsəʔ	，		X . K O N // C ƏK // Ə // C ƏK // Ə	
+635	17	145	是	是	this	dzyeX	*[d]eʔ			T E K // E	
+636	17	145	胃	謂	call	hjw+jH	*[ɢ]ʷə[t]-s			K w Ə T	
+637	17	145	軍	軍	military	kjun	*[k]ʷər			K w Ə R	
+638	17	145	紀	紀	discipline	kiX	*k(r)əʔ	。		K ƏK // Ə	
+639	17	146	五	五	five	nguX	*C.ŋˤaʔ			X . N A K // A	
+640	17	146	人	人	person	nyin	*ni[ŋ]			N I N	
+641	17	146	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+642	17	146	⿰五攴	伍	make a group of five	nguX	*C.ŋˤaʔ	，	!!!!!!!	X . N A K // A	
+643	18	147	一	一	one	jit	*ʔi[t]		hewen	K I T	
+644	18	147	人	人	person	nyin	*ni[ŋ]			N I N	
+645	18	147	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+646	18	147	多	多	merit	ta	*[t.l]ˤaj	，		T . L A J	
+647	18	148	四	四	four	sijH	*s.li[j]-s			S . L I J	
+648	18	148	人	人	person	nyin	*ni[ŋ]			N I N	
+649	18	148	皆	皆	all	keaj	*kˤrij			K R I J	
+650	18	148	賞	賞	admire	syangX	*s-taŋʔ	，		T A N K	
+651	18	149	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+652	18	149	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+653	18	149	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+654	18	149	⿰叀刀	敦	encourage	twoj // twon // twon (twonH)	*tˤur	。		T U R	
+655	18	150	毋	毋	negative adverb	mju	*mo			M O	
+656	18	150	𬅸	尚	admire	dzyangH (dzyang)	*[d]aŋ-s			T A N	
+657	18	150	⿰丹隻	獲	gain	hweak	*m-qʷˤrak			Kw R A K	
+658	18	150	而	而	conjunction	nyi	*nə			N Ə	
+659	18	150	𬅸	尚	admire	dzyangH (dzyang)	*[d]aŋ-s			T A N	
+660	18	150	䎽	聞	hear	mjun	*mu[n]			M U N	
+661	18	150	命	命	order	mjaengH	*m-riŋ-s	，		R I N	
+662	18	151	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+663	18	151	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+664	18	151	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+665	18	151	毋	毋	not have	mju	*mo			M O	
+666	18	151	退	退	retire	thwojH	*n̥ˤ[u]p-s			N U P	
+667	18	152	⿺辶⿷匚羊	將	conduct	tsjang	*[ts]aŋ			C A N	
+668	18	152	車	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
+669	18	152	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+670	18	152	車	車	chariot	tsyhae	*[t.qʰ](r)A	，		T . K A	
+671	18	153	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s			R U T // R U T // R U T // R U T	
+672	18	153	徒	徒	infantry	du	*[d]ˤa			T A	
+673	18	153	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+674	18	153	徒	徒	infantry	du	*[d]ˤa	，		T A	
+675	18	154	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+676	18	154	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+677	18	154	同	同	together	duwng	*lˤoŋ			L O N	
+678	18	154	死	死	die	sijX	*sijʔ			S I J K	
+679	18	154	於	於	preposition	u	*[ʔ]ˤa			K A	
+680	18	154	民	民	people	mjin	*mi[ŋ]	。		M I N	
+681	18	155	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+682	18	155	曰	曰	say	hjwot	*[ɢ]ʷat	:		K w A T	
+683	18	156	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+684	18	156	三	三	three 	sam	*s.rum			S . R U M	
+685	18	156	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+686	18	156	足以	足以	sufficient	tsjuH yiX	*[ts]ok-s // *ləʔ			C O K  // L ƏK // Ə	
+687	19	156	𡃣	戰	war	tsyenH	*tar-s			T A R	
+688	19	156	𰲛	乎	modal particle	hu // hu	*ɢˤa	？		K A	
+689	19	157	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+690	19	157	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+691	19	158	戒	戒	warn	keajH	*kˤrək-s			K R Ə K	
+692	19	158	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ			L Ə N	
+693	19	158	⿺怠⿹𠃌一	怠	laziness	dojX	*lˤəʔ	，		L ƏK // Ə	
+694	19	159	果	果	solve	kwaX	*[k]ˤo[r]ʔ			K O R	
+695	19	159	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ			L Ə N	
+696	19	159	⿱矣心	疑	doubt	ngi	*[ŋ](r)ə	，		N Ə	
+697	19	160	⿰見辛	親	personally	tshin	*[tsʰ]i[n]			C I N	
+698	19	160	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s			R U T // R U T // R U T // R U T	
+699	19	160	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ			L Ə N	
+700	19	160	⿳⺊日又	使	envoy	sriH // sriX nyin	! *s-rəʔ-s // *s-rəʔ *ni[ŋ]			R ƏK // Ə // R ƏK // Ə N I N	
+701	19	161	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+702	19	161	⿰見辛	親	personally	tshin	*[tsʰ]i[n]			C I N	
+703	19	161	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+704	19	161	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+705	19	161	⿰叀刀	敦	encourage	twoj // twon // twon (twonH)	*tˤur			T U R	
+706	19	161	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	，		L A J K	
+707	19	162	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+708	19	162	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
+709	19	162	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+710	19	162	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+711	19	162	咠	輯	concord	dzip	*[dz][u]p	，		C U P	
+712	19	163	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+713	19	163	義	義	righteous	ngjeH	*ŋ(r)aj-s			N A J	
+714	19	163	則	則	negative adverb	tsok	*[ts]ˤək			C Ə K	
+715	19	163	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+716	19	163	備	服	obey	bjuwk	*[b]ək	。	manca un tratto	P Ə K	
+717	19	164	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+718	19	164	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+719	19	164	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
+720	19	165	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+721	19	165	⿱木辛⿰斤⿱心	親	parent	tshin	*[tsʰ]i[n]			C I N	
+722	19	165	女可	如何	how	nyo ha	*na // *[g]ˤaj		女[可	N A // K A J	
+723	19	166	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+724	19	166	曰	曰	say	hjwot	*[ɢ]ʷat	：	]	K w A T	
+725	20	167	君	君	her majesty	kjun	*C.qur			X . K U R	
+726	20	167	毋	毋	negative adverb	mju	*mo			M O	
+727	20	167	嘼	憚	fear	danH	*dˤar-s 			T A R	
+728	20	167	自	自	reflexive pronoun	dzijH	*s.[b]i[t]-s			S . P I T	
+729	20	167	𬡤	勞	work	law	*[r]ˤaw	，		R A W	
+730	20	168	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
+731	20	168	⿳亼吅隹⿰見⿰阝	觀	see	kwan	*C.qʷˤar			X . Kw A R	
+732	20	168	𬅸	上	superior	dzyangH	*daŋʔ-s			T A N K	
+733	20	168	下	下	inferior	haeH	*m-gˤraʔ-s			K R A K // A	
+734	20	168	之	之	conjunction	tsyi	*tə			T Ə	
+735	20	168	情	情	emotion	dzjeng	*[dz]eŋ			C E N	
+736	20	168	為	偽	false 	ngjweH // ngjweH	! *N-ɢʷ(r)aj-s // *m-ɢʷ(r)aj-s	；		Kw A J // Kw A J	
+737	20	169	佖夫	匹夫	common man	phjit bju // bju // pju	*pʰi[t] // ! *ba // *[b]a // *p(r)a			P I T // P A // P A // P A	
+738	20	169	寡婦	寡婦	widow	kwaeX bjuwX	*[C.k]ʷˤraʔ // *mə.bəʔ			X . K w R A K // A // M Ə . P ƏK // Ə	
+739	20	169	之	之	conjunction	tsyi	*tə			T Ə	
+740	20	169	獄訟	獄訟	process	ngjowk zjowngH	*[ŋ]rok // *s.[ɢ]oŋ-s			N R O K // S . K O N	
+741	20	169	君	君	her majesty	kjun	*C.qur			X . K U R	
+742	20	169	必	必	must	pjit	*pi[t]			P I T	
+743	20	169	身	身	personally	syin	*n̥i[ŋ]			N I N	
+744	20	169	聖	聽	listen	theng	*l̥ˤeŋ			L E N	
+745	20	169	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
+746	20	170	又	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+747	20	170	智	知	know	trje	*tre			T R E	
+748	20	170	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+749	20	170	足	足	sufficient	tsjuH	*[ts]ok-s	，		C O K 	
+750	20	171	亡	無	not have	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
+751	20	171	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+752	20	171	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+753	20	171	中	中	moderation	trjuwng	*truŋ	，		T R U N	
+754	20	172	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+755	20	172	民	民	people	mjin	*mi[ŋ]			M I N	
+756	20	172	⿱木辛⿰斤⿱心	親	parent	tshin	*[tsʰ]i[n]			C I N	
+757	20	172	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
+758	20	173	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+759	20	173	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+760	21	173	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
+761	21	174	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s	[		Kw A J // Kw A J	
+762	21	174	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
+763	21	174	女可	如何	how	nyo ha	*na // *[g]ˤaj	？		N A // K A J	
+764	21	175	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+765	21	175	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+766	21	176	毋	毋	negative adverb	mju	*mo	]		M O	
+767	21	176	辟	嬖	favour	pejH	*pˤek-s			P E K	
+768	21	176	於	於	preposition	u	*[ʔ]ˤa			K A	
+769	21	176	⿺辶𰆴	便	relatives	bjien	*[b]e[n]			P E N	
+770	21	176	⿺辶卑	嬖	favourite	pejH	*pˤek-s	，	MIND THE GRAPHS	P E K	
+771	21	177	毋	毋	negative adverb	mju	*mo			M O	
+772	21	177	倘	長	conduct	drjang	*Cə-[N]-traŋ		！！！	«N» T R A N	
+773	21	177	於	於	preposition	u	*[ʔ]ˤa			K A	
+774	21	177	⿰兄㞷	兄	elder brother	xjwaeng	*m̥raŋ	，		M R A N	
+775	21	178	賞	賞	admire	syangX	*s-taŋʔ			T A N K	
+776	21	178	⿱昀土	均	even	kjwin	*C.qʷi[n]			X . Kw I N	
+777	21	178	聖	聽	listen	theng	*l̥ˤeŋ			L E N	
+778	21	178	中	中	moderation	trjuwng	*truŋ	，		T R U N	
+779	21	179	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+780	21	179	民	民	people	mjin	*mi[ŋ]			M I N	
+781	21	179	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
+782	21	179	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
+783	21	180	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+784	21	180	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
+785	21	181	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+786	21	181	義	義	righteous	ngjeH	*ŋ(r)aj-s			N A J	
+787	21	181	女之可	如之何	how	nyo tsyi ha	*na // *tə // *[g]ˤaj	？		N A // T Ə // K A J	
+788	21	182	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+789	21	182	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+790	21	183	⿰糹⿱屮畕	陳	explain	drin	*lri[n]			L R I N	
+791	21	183	⿰示工	功	merit	kuwng	*kˤoŋ			K O N	
+792	21	183	上	尚	admire	dzyangH (dzyang)	*[d]aŋ-s			T A N	
+793	21	183	⿰臣⿱口又	賢	sage	hen	*[g]ˤi[n]	。		K I N	
+794	21	184	能	能	can	noj	*nˤə			N Ə	
+795	21	184	⿲糸台⿹𠃌一	治	govern	dri	*C.lrə			X . L R Ə	
+796	22	184	百	百	thousand	paek	*pˤrak			P R A K	
+797	22	184	人	人	person	nyin	*ni[ŋ]	，		N I N	
+798	22	185	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+799	22	185	倀	長	conduct	drjang	*Cə-[N]-traŋ			«N» T R A N	
+800	22	185	百	百	thousand	paek	*pˤrak			P R A K	
+801	22	185	人	人	person	nyin	*ni[ŋ]	；		N I N	
+802	22	186	能	能	can	noj	*nˤə			N Ə	
+803	22	186	⿲糸台⿹𠃌一	治	govern	dri	*C.lrə			X . L R Ə	
+804	22	186	三	三	three 	sam	*s.rum			S . R U M	
+805	22	186	軍	軍	army	kjun	*[k]ʷər	，		K w Ə R	
+806	22	187	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+807	22	187	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s	。		R U T // R U T // R U T // R U T	
+808	22	188	受	授	teach	dzyuwH	*[d]uʔ-s			T U K // U	
+809	22	189	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+810	22	189	智	智	knowledge	trjeH	*tre-s	，		T R E	
+811	22	190	𱒱	予	grant to	yo	*laʔ			L A K // A	
+812	22	190	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+813	22	190	能	能	ability	noj	*nˤə	，		N Ə	
+814	22	191	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+815	22	191	民	民	people	mjin	*mi[ŋ]			M I N	
+816	22	191	宜	義	righteous	ngjeH	*ŋ(r)aj-s			N A J	
+817	22	191	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
+818	22	192	⿰虘又	且	conjunction	tsjo	*tsa			C A	
+819	22	192	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
+820	22	192	䎽	聞	hear	mjun	*mu[n]			M U N	
+821	22	192	之	之	cataphoric substitute of the object	tsyi	*tə	：		T Ə	
+822	22	193	⿰力𰠄	卒	servant	tswit // tswot (tshwot)	*[ts]ˤut // *[ts]ut			C U T // C U T	
+823	22	193	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+824	22	193	倀	長	superior	drjang	*Cə-[N]-traŋ	，		«N» T R A N	
+825	22	194	三	三	three 	sam	*s.rum			S . R U M	
+826	22	194	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
+827	22	194	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+828	22	194	𰳭	帥	leader	srwijH (srwit)	*s-rut-s	，		R U T	
+829	22	195	邦	邦	state	paewng	*pˤroŋ			P R O N	
+830	22	195	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+831	22	195	君	君	sovereign	kjun	*C.qur	，		X . K U R	
+832	22	196	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+833	22	196	三	三	three 	sam	*s.rum			S . R U M	
+834	22	196	者	者	nominalization marker	tsyaeX	*tAʔ	，		T A K	
+835	22	196	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+836	22	196	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+837	23	196	𡃣	戰	war	tsyenH	*tar-s			T A R	
+838	23	196	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。		L A J K	
+839	23	197	是古	是故	conjunction	dzyeX kuH	*[d]eʔ // ! *kˤa(ʔ)-s // *kˤaʔ-s			T E K // E // K A K // A // K A K // A	
+840	23	197	長	長	superior	drjang	*Cə-[N]-traŋ			«N» T R A N	
+841	23	197	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+842	23	197	可	可	can	khaX	*[k]ʰˤa[j]ʔ			K A J K	
+843	23	197	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+844	23	197	⿱十言⿰斤	慎	be careful	dzyinH	*[d]i[n]-s			T I N	
+845	23	197	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。		L A J K	
+846	23	198	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+847	23	198	⿰力𰠄	卒	end	tswit // tswot (tshwot)	*[ts]ˤut // *[ts]ut			C U T // C U T	
+848	23	198	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+849	23	198	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+850	23	198	⿺辶𠄨	恆	eternal	hong	*[g]ˤəŋ	，		K Ə N	
+851	23	199	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+852	23	199	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
+853	23	199	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+854	23	199	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+855	23	199	咠	輯	concord	dzip	*[dz][u]p	，		C U P	
+856	23	200	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+857	23	200	兼	嚴	imposing	ngjaem	*ŋ(r)am			N A M	
+858	23	200	畏	威	authoritative	jw+j	*ʔuj		lectio mea	K U J	
+859	23	200	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+860	23	200	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+861	23	200	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ	。		L Ə N	
+862	23	201	𰠄	卒	soldier	tswit // tswot (tshwot)	*[ts]ˤut // *[ts]ut			C U T // C U T	
+863	23	201	欲	欲	desire	yowk	*ɢ(r)ok			K O K	
+864	23	201	少	少	few	syewX	*[s.t]ewʔ			S . T E W K	
+865	23	201	以	氣	energy	khj+jH	*C.qʰəp-s			X . K Ə P	
+866	23	201	多	多	a lot	ta	*[t.l]ˤaj	。		T . L A J	
+867	23	202	少	少	few	syewX	*[s.t]ewʔ			S . T E W K	
+868	23	202	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+869	23	202	惕	易	easy	yek // yeH	! *lek // *lek-s			L E K // L E K	
+870	23	202	⿰言⿱山乂	察	control	tsrheat	*[tsʰ]ˤret	，		C R E T	
+871	23	203	𡉛	氣	energy	khj+jH	*C.qʰəp-s			X . K Ə P	
+872	23	203	成	盛	abundant	dzyengH 	*[d]eŋ-s			T E N	
+873	23	203	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+874	23	203	惕	易	easy	yek // yeH	! *lek // *lek-s			L E K // L E K	
+875	23	203	𣌭	合	unite	hop	*m-kˤop	。		K O P	
+876	24	204	是古	是故	conjunction	dzyeX kuH	*[d]eʔ // ! *kˤa(ʔ)-s // *kˤaʔ-s			T E K // E // K A K // A // K A K // A	
+877	24	204	𰳭	帥	leader	srwijH (srwit)	*s-rut-s			R U T	
+878	24	204	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+879	24	204	可	可	can	khaX	*[k]ʰˤa[j]ʔ			K A J K	
+880	24	204	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+881	24	204	牪	倦	tired	gjwenH	*gron-s	，		K R O N	
+882	24	205	牪	倦	tired	gjwenH	*gron-s			K R O N	
+883	24	205	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+884	24	205	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+885	24	205	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。		K A N // X Ə . K R A N // K R A N	
+886	24	206	𡃣	戰	war	tsyenH	*tar-s			T A R	
+887	24	206	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+888	24	206	㬎	顯	apparent	xenX	*qʰˤenʔ			K E N	
+889	24	206	道	道	way	dawX	*[kə.l]ˤuʔ	，		K Ə . L U K // U	
+890	24	207	勿	勿	negative adverb	mjut	*mut			M U T	
+891	24	207	兵	兵	weapon	pjaeng	*praŋ			P R A N	
+892	24	207	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+893	24	207	克	克	conquest	khok	*kʰˤək	。		K Ə K	
+894	24	208	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+895	24	208	曰	曰	say	hjwot mjut	*[ɢ]ʷat	：		K w A T	
+896	24	209	勿	勿	negative adverb	mjut	*mut			M U T	
+897	24	209	兵	兵	weapon	pjaeng	*praŋ			P R A N	
+898	24	209	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+899	24	209	克	克	conquest	khok	*kʰˤək			K Ə K	
+900	24	209	⿳爫人系 女	奚如	how	hej nyo	*[g]ˤe *na	？		K E N A	
+901	24	209	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+902	24	210	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+903	24	211	人	人	other	nyin	*ni[ŋ]			N I N	
+904	24	211	之	之	conjunction	tsyi	*tə			T Ə	
+905	24	211	兵	兵	weapon	pjaeng	*praŋ			P R A N	
+906	24	211	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+907	24	211	砥萬	砥礪	whetstone	tsyijX (tsyeX) ljejH	*tijʔ // *[r]at-s	,		T I J K // R A T	
+908	24	212	我	我	I	ngaX	*ŋˤajʔ			N A J K	
+909	24	212	兵	兵	weapon	pjaeng	*praŋ			P R A N	
+910	24	212	必	必	must	pjit	*pi[t]			P I T	
+911	25	212	砥萬	砥礪	whetstone	tsyijX (tsyeX) ljejH	*tijʔ // *[r]at-s	。		T I J K // R A T	
+912	25	213	人	人	other	nyin	*ni[ŋ]			N I N	
+913	25	213	之	之	conjunction	tsyi	*tə			T Ə	
+914	25	213	⿸虍羍	甲	weapon	kaep	*[k]ˤr[a]p			K R A P	
+915	25	213	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+916	25	213	⿰臣⿱口又	堅	hard	ken	*kˤi[ŋ]	，		K I N	
+917	25	214	我	我	I	ngaX	*ŋˤajʔ			N A J K	
+918	25	214	⿸虍羍	甲	weapon	kaep	*[k]ˤr[a]p			K R A P	
+919	25	214	必	必	must	pjit	*pi[t]			P I T	
+920	25	214	⿰臣⿱口又	堅	hard	ken	*kˤi[ŋ]	。		K I N	
+921	25	215	人	人	other	nyin	*ni[ŋ]			N I N	
+922	25	215	𠧫	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+923	25	215	士	士	dignitary	dzriX	*[m-s-]rəʔ	，		R ƏK // Ə	
+924	25	216	我	我	I	ngaX	*ŋˤajʔ			N A J K	
+925	25	216	事	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+926	25	216	大夫	大夫	grandee	dajH bju // bju // pju	*lˤa[t]-s // ! *ba // *[b]a // *p(r)a	。		L A T // P A // P A // P A	
+927	25	217	人	人	other	nyin	*ni[ŋ]			N I N	
+928	25	217	事	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+929	25	217	大夫	大夫	grandee	dajH bju // bju // pju	*lˤa[t]-s // ! *ba // *[b]a // *p(r)a	，		L A T // P A // P A // P A	
+930	25	218	我	我	I	ngaX	*ŋˤajʔ			N A J K	
+931	25	218	事	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+932	25	218	𨟻 軍	將軍	general	tsjang kjun	*[ts]aŋ // *[k]ʷər	。		C A N // K w Ə R	
+933	25	219	人	人	other	nyin	*ni[ŋ]			N I N	
+934	25	219	事	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+935	25	219	𨟻 軍	將軍	general	tsjang kjun	*[ts]aŋ // *[k]ʷər	，		C A N // K w Ə R	
+936	25	220	我	我	I	ngaX	*ŋˤajʔ			N A J K	
+937	25	220	君	君	sovereign	kjun	*C.qur			X . K U R	
+938	25	220	身	身	personally	syin	*n̥i[ŋ]			N I N	
+939	25	220	進	進	advance	tsinH	*[ts][i][n]-s	。		C I N	
+940	25	221	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+941	25	221	𡃣	戰	war	tsyenH	*tar-s			T A R	
+942	25	221	之	之	conjunction	tsyi	*tə			T Ə	
+943	25	221	㬎	顯	apparent	xenX	*qʰˤenʔ			K E N	
+944	25	221	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
+945	25	221	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。		L A J K	
+946	25	222	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+947	25	222	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+948	25	223	既	既	already	kj+jH	*[k]ə[t]-s			K Ə T	
+949	26	223	成	成	complete	dzyeng	*m-[d]eŋ			T E N	
+950	26	223	⿱爻言	教	teaching	kaewH	*s.kˤraw-s			S . K R A W	
+951	26	223	矣	矣	modal particle	hiX	*qəʔ	，		K ƏK // Ə	
+952	26	224	出	出	exit	tsyhwijH	*t-kʰut-s			K U T	
+953	26	224	帀	師	troop	srij	*srij			S R I J	
+954	26	224	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+955	26	224	幾	機	crucial moment	kj+j	*kəj			K Ə J	
+956	26	224	𰲛	乎	modal particle	hu // hu	*ɢˤa	?		K A	
+957	26	225	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+958	26	225	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+959	26	226	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
+960	26	227	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
+961	26	227	䎽	聞	hear	mjun	*mu[n]			M U N	
+962	26	227	之	之	cataphoric substitute of the object	tsyi	*tə	：		T Ə	
+963	26	228	三	三	three	sam	*s.rum			S . R U M	
+964	26	228	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
+965	26	228	出	出	exit	tsyhwijH	*t-kʰut-s	，		K U T	
+966	26	229	亓	其	possessive pronoun	gi	*gə			K Ə	
+967	26	229	⿺辶⿷匚羊	將	conduct	tsjang	*[ts]aŋ			C A N	
+968	26	229	⿺辶卑	卑	low rang	pjie	*pe	，		P E	
+969	26	230	父	父	father	pjuX	*p(r)aʔ			P A K // A	
+970	26	230	⿰兄㞷	兄	elder brother	xjwaeng	*m̥raŋ			M R A N	
+971	26	230	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+972	26	230	廌	存	be present	dzwon	*[dz]ˤə[n]	，		C Ə N	
+973	26	231	䌛	由	preposition	yuw	*l[u]			L U	
+974	26	231	邦	邦	state	paewng	*pˤroŋ			P R O N	
+975	26	231	⿺馭午	御	conduct	ngjoX	*m-qʰ(r)aʔ			K A K // A	
+976	26	231	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
+977	26	232	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+978	26	232	出	出	exit	tsyhwijH	*t-kʰut-s			K U T	
+979	26	232	帀	師	troop	srij	*srij			S R I J	
+980	26	232	之	之	conjunction	tsyi	*tə			T Ə	
+981	26	232	幾	機	crucial moment	kj+j	*kəj			K Ə J	
+982	26	232	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。		L A J K	
+983	26	233	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+984	26	233	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+985	26	233	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+986	26	234	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+987	26	234	三	三	three	sam	*s.rum			S . R U M	
+988	26	234	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
+989	27	234	漸	潛	secretely	dzjem	*[dz][a]m 			C A M	
+990	27	234	果	裹	encircle	kwaX	*s.[k]ˤo[r]ʔ			S . K O R	
+991	27	234	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+992	27	234	幾	機	crucial moment	kj+j	*kəj			K Ə J	
+993	27	234	𰲛	乎	modal particle	hu // hu	*ɢˤa	？		K A	
+994	27	235	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+995	27	235	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+996	27	236	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
+997	27	237	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
+998	27	237	䎽	聞	hear	mjun	*mu[n]			M U N	
+999	27	237	之	之	cataphoric substitute of the object	tsyi	*tə	：		T Ə	
+1000	27	238	三	三	three	sam	*s.rum			S . R U M	
+1001	27	238	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
+1002	27	238	未	未	negative adverb	mj+jH	*m[ə]t-s			M Ə T	
+1003	27	238	成	成	complete	dzyeng	*m-[d]eŋ			T E N	
+1004	27	238	⿰申戈	陳	battle array	drin	*lri[n]	，		L R I N	
+1005	27	239	未	未	negative adverb	mj+jH	*m[ə]t-s			M Ə T	
+1006	27	239	可以	可以	can	khaX yiX	*[k]ʰˤa[j]ʔ // *ləʔ			K A J K // L ƏK // Ə	
+1007	27	239	出	出	exit	tsyhwijH 	*t-kʰut-s ! 	，		K U T	
+1008	27	239	⿰谷象⿱土	舍	barracks	syaeH // syaeX	*[l̥]Ak-s // *l̥Aʔ			L A K // L A K	
+1009	27	240	行	行	go up	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s			K A N // X Ə . K R A N // K R A N	
+1010	27	240	⿱反土	阪	slope	pjonX (baenX)	*pa[n]ʔ			P A N	
+1011	27	240	淒	濟	cross	tsejH	*[ts]ˤ[e]j(ʔ)-s	，		C E J K	
+1012	27	240	⿰章欠⿱土	障	obstacle	tsyang / tsyangH	*taŋ(-s)			T A N	
+1013	27	241	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+1014	27	241	漸	潛	secretely	dzjem	*[dz][a]m 			C A M	
+1015	27	241	果	裹	encircle	kwaX	*s.[k]ˤo[r]ʔ			S . K O R	
+1016	27	241	之	之	conjunction	tsyi	*tə			T Ə	
+1017	27	241	幾	機	crucial moment	kj+j	*kəj			K Ə J	
+1018	27	241	也	也	modal particle	yaeX (dzyoX)	*lAjʔ	。	aggiunta dopo, rilettura del ms	L A J K	
+1019	27	242	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang	*[ts]raŋ			C R A N	
+1020	27	242	或	又	conjunction	kuwng hjuwH	*C.qˤoŋ // *[ɢ]ʷəʔ-s			X . K O N // K w ƏK // Ə	
+1021	27	242	䎽	問	ask	mjunH	*C.mu[n]-s	：		X . M U N	
+1022	27	242	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
+1023	27	243	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1024	27	243	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1025	27	243	幾	機	crucial moment	kj+j	*kəj	?		K Ə J	
+1026	27	243	𰲛	乎	modal particle	hu // hu	*ɢˤa			K A	
+1027	27	244	𣌭	答	reply	top	*[t]ˤ[u]p	：		T U P	
+1028	27	244	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
+1029	28	245	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
+1030	28	246	亓	其	nominalization marker	gi	*gə			K Ə	
+1031	28	246	迲	去	depart	khjoH	*[k]ʰ(r)ap-s			K A P	
+1032	28	246	之	之	anaphoric subtitute of the object	tsyi	*tə			T Ə	
+1033	28	246	不	不	negative adverb	pjuw (bijX)	*pə	，		P Ə	
+1034	28	246	⿺辶⿰朱朱	速	speed	suwk	*[s]ˤok			S O K	
+1035	28	247	亓	其	nominalization marker	gi	*gə			K Ə	
+1036	28	247	⿺辶⿱亯京	就	go	dzjuwH	*[dz]u[k]-s			C U K	
+1037	28	247	之	之	anaphoric subtitute of the object	tsyi	*tə			T Ə	
+1038	28	247	不	不	negative adverb	pjuw (bijX)	*pə	，		P Ə	
+1039	28	247	尃	迫	urge	paek	*Cə.pˤrak			X Ə . P R A K	
+1040	28	248	亓	其	nominalization marker	gi	*gə			K Ə	
+1041	28	248	啟節	啟節	get started 	khejX tset	*kʰˤeʔ / *kʰˤijʔ // *tsˤik			K E K // E / K I J K // C I K	
+1042	28	248	不	不	negative adverb	pjuw (bijX)	*pə	，		P Ə	
+1043	28	248	疾	疾	urgent	dzit	*[dz]i[t]			C I T	
+1044	28	249	此	此	tihis	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+1045	28	249	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1046	28	249	之	之	conjunction	tsyi	*tə			T Ə	
+1047	28	249	幾	機	crucial moment	kj+j	*kəj	。		K Ə J	
+1048	28	250	是古	是故	conjunction	dzyeX kuH	*[d]eʔ // ! *kˤa(ʔ)-s // *kˤaʔ-s			T E K // E // K A K // A // K A K // A	
+1049	28	250	⿱矣心	疑	doubt	ngi	*[ŋ](r)ə			N Ə	
+1050	28	250	⿰申戈	陳	battle array	drin	*lri[n]	，		L R I N	
+1051	28	250	⿱目貝⿰攴	敗	defeat	baejH	*N-pˤra[t]-s			P R A T	
+1052	28	251	⿱矣又	疑	doubt	ngi	*[ŋ](r)ə			N Ə	
+1053	28	251	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1054	28	251	死	死	die	sijX	*sijʔ	。		S I J K	
+1055	28	252	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+1056	28	252	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+1057	28	252	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+1058	28	252	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1059	28	253	既	既	finish	kj+jH	*[k]ə[t]-s			K Ə T	
+1060	28	253	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1061	28	253	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1062	28	253	幾	機	crucial moment	kj+j	*kəj	?		K Ə J	
+1063	28	253	𰲛	乎	modal particle	hu // hu	*ɢˤa			K A	
+1064	29	254	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+1065	29	254	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1066	29	255	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
+1067	29	256	亓	其	nominalization marker	gi	*gə			K Ə	
+1068	29	256	賞	賞	admire	syangX	*s-taŋʔ			T A N K	
+1069	29	256	誙	輕	light	khjieng	*[kʰ]eŋ			K E N	
+1070	29	256	⿰虘又	且	conjunction	tsjo	*tsa			C A	
+1071	29	256	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+1072	29	256	信	信	trust	sinH	*s-ni[ŋ]-s	，		N I N	
+1073	29	257	亓	其	nominalization marker	gi	*gə			K Ə	
+1074	29	257	⿰貝豆	誅	condemn	trju	*tro			T R O	
+1075	29	257	䝬	重	heavy	drjowng	*[m]-troŋ			M T R O N	
+1076	29	257	⿰虘又	且	conjunction	tsjo	*tsa			C A	
+1077	29	257	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+1078	29	257	中	中	moderation	trjuwng	*truŋ	。		T R U N	
+1079	29	258	死	死	die	sijX	*sijʔ			S I J K	
+1080	29	258	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1081	29	258	弗	弗	negative adverb	pjut	! *put // *p[u]t // *put			P U T // P U T // P U T	
+1082	29	258	丩	收	receive	syuw	*s-kiw	，		K I W	
+1083	29	259	㦹	傷	injure	syang	*l̥aŋ			L A N	
+1084	29	259	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1085	29	259	弗	弗	negative adverb	pjut	! *put // *p[u]t // *put			P U T // P U T // P U T	
+1086	29	259	䎽	問	ask	mjunH	*C.mu[n]-s	，		X . M U N	
+1087	29	260	既	既	finish	kj+jH	*[k]ə[t]-s			K Ə T	
+1088	29	260	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1089	29	260	而	而	conjunction	nyi	*nə			N Ə	
+1090	29	260	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1091	29	260	⿺怠⿹𠃌一	怠	laziness	dojX	*lˤəʔ		合文	L ƏK // Ə	
+1092	29	260	心	心	heart	sim	*səm	，		S Ə M	
+1093	29	261	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+1094	29	261	既	既	finish	kj+jH	*[k]ə[t]-s			K Ə T	
+1095	29	261	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1096	29	261	之	之	conjunction	tsyi	*tə			T Ə	
+1097	29	261	幾	機	crucial moment	kj+j	*kəj	。		K Ə J	
+1098	29	262	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+1099	29	262	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+1100	29	262	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+1101	29	262	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1102	29	263	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
+1103	30	263	⿱目貝⿰攴	敗	defeat	baejH	*N-pˤra[t]-s			P R A T	
+1104	30	263	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1105	30	263	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1106	30	263	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
+1107	30	263	𰲛	乎	modal particle	hu // hu	*ɢˤa	?		K A	
+1108	30	264	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+1109	30	264	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1110	30	265	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
+1111	30	266	三	三	three	sam	*s.rum			S . R U M	
+1112	30	266	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
+1113	30	266	大	大	great	dajH	*lˤa[t]-s	，		L A T	
+1114	30	266	⿱目貝⿰攴	敗	defeat	baejH	*N-pˤra[t]-s			P R A T	
+1115	30	267	毋	毋	negative adverb	mju	*mo			M O	
+1116	30	267	⿰貝豆	誅	condemn	trju	*tro			T R O	
+1117	30	267	而	而	conjunction	nyi	*nə			N Ə	
+1118	30	267	賞	賞	admire	syangX	*s-taŋʔ	，		T A N K	
+1119	30	268	毋	毋	negative adverb	mju	*mo			M O	
+1120	30	268	辠	罪	crime	dzwojX	*[dz]ˤujʔ			C U J K	
+1121	30	268	百眚	百姓	people	paek sjengH	*pˤrak // *seŋ-s			P R A K // S E N	
+1122	30	268	而	而	conjunction	nyi	*nə			N Ə	
+1123	30	268	改	改	change	kojX	*C.qˤəʔ			X . K ƏK // Ə	
+1124	30	268	亓	其	possessive pronoun	gi	*gə			K Ə	
+1125	30	268	⿺辶⿷匚羊	將	general	tsjang	*[ts]aŋ	。		C A N	
+1126	30	269	君	君	sovereign	kjun	*C.qur			X . K U R	
+1127	30	269	女	如	if	nyo	*na			N A	
+1128	30	269	⿰見辛	親	personally	tshin	*[tsʰ]i[n]			C I N	
+1129	30	269	𰳭	率	lead	lwit // srwit // srwijH // lwijH	! *[r]ut // *s-rut // *s-rut-s // *[r]ut-s	，		R U T // R U T // R U T // R U T	
+1130	30	270	乃	乃	conjunction	nojX	! *nˤə(ŋ)ʔ // *nˤəʔ			N Ə N K // N ƏK // Ə	
+1131	30	270	自	自	reflexive pronoun	dzijH	*s.[b]i[t]-s			S . P I T	
+1132	30	270	𱞃	過	blame	kwaH	*kʷˤaj-s			Kw A J	
+1133	30	270	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
+1134	30	270	敚	悅	acquiesce	ywet	*lrot			L R O T	
+1135	30	270	於	於	preposition	u	*[ʔ]ˤa			K A	
+1136	30	270	萬	萬	ten thousand	mjonH	*C.ma[n]-s			X . M A N	
+1137	30	270	民	民	people	mjin	*mi[ŋ]	，		M I N	
+1138	30	271	弗	弗	negative adverb	pjut	! *put // *p[u]t // *put			P U T // P U T // P U T	
+1139	30	271	⿳衣土	杜	deny	duX	dˤaʔ		lectio mea	T A K // A	
+1140	30	271	⿱危土	跪	bow	gjweX (khjweX)	*[g](r)ojʔ			K O J K	
+1141	30	271	⿱陀土	地	land	dijH	*[l]ˤej-s	，		L E J	
+1142	31	272	毋	毋	negative adverb	mju	*mo			M O	
+1143	31	272	火	火	fire	xwaX	*[qʷʰ]ˤəjʔ			Kw Ə J K	
+1144	31	272	飤	食	eat	zyik	*mə-lək	。		L Ə K	
+1145	31	273	死	死	die	sijX	*sijʔ			S I J K	
+1146	31	273	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1147	31	273	收	收	receive	syuw	*s-kiw			K I W	
+1148	31	273	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
+1149	31	274	㦹	傷	injure	syang	*l̥aŋ			L A N	
+1150	31	274	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1151	31	274	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+1152	31	274	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
+1153	31	275	善	善	good	dzyenX	*[d]a[n]ʔ			T A N	
+1154	31	275	於	於	preposition	u	*[ʔ]ˤa			K A	
+1155	31	275	死	死	die	sijX	*sijʔ			S I J K	
+1156	31	275	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1157	31	275	為	為	be 	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+1158	31	275	生	生	live	sraeng	*sreŋ			S R E N	
+1159	31	275	者	者	nominalization marker	tsyaeX	*tAʔ	。		T A K	
+1160	31	276	君	君	sovereign	kjun	*C.qur			X . K U R	
+1161	31	276	必	必	must	pjit	*pi[t]			P I T	
+1162	31	276	聚	聚	gather	dzjuH	*m-tsʰoʔ-s			C O K // O	
+1163	31	276	群	群	all	gjun	*[g]ur			K U R	
+1164	31	276	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1165	31	276	司	司	administer	si	*s-lə			L Ə	
+1166	31	276	而	而	conjunction	nyi	*nə			N Ə	
+1167	31	276	見	見	see	henH // kenH // henH	! *N-[k]ˤen-s // *[k]ˤen-s // *m-[k]ˤen-s			K E N // K E N // K E N	
+1168	31	276	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
+1169	31	277	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1170	31	278	二	二	two	nyijH	*ni[j]-s			N I J	
+1171	31	278	厽	三	three	sam	*s.rum			S . R U M	
+1172	31	278	子	子	you	tsiX	! *[ts]əʔ // *tsəʔ			C ƏK // Ə // C ƏK // Ə	
+1173	31	278	⿱亓子	勉	force	mjenX	*mr[o][r]ʔ			M R O R	
+1174	31	278	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
+1175	31	279	𥛔	過	fault	kwaH	*kʷˤaj-s			Kw A J	
+1176	31	279	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+1177	31	279	才	在	be present	dzojX (tsojH)	*[dz]ˤəʔ			C ƏK // Ə	
+1178	31	279	子	子	you	tsiX	! *[ts]əʔ // *tsəʔ			C ƏK // Ə // C ƏK // Ə	
+1179	31	279	才	在	be present	dzojX (tsojH)	*[dz]ˤəʔ			C ƏK // Ə	
+1180	31	279	寡人	寡人	I miserable	kwaeX nyin	*[C.k]ʷˤraʔ // *ni[ŋ]	，		X . K w R A K // A // N I N	
+1181	31	280	𫊟	吾	I	ngu	*ŋˤa			N A	
+1182	31	280	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1183	32	280	啻	敵	enemy	dek	*[d]ˤek			T E K	
+1184	32	280	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+1185	32	280	訓	順	obey	zywinH	*Cə.lu[n]-s			X Ə . L U N	
+1186	32	280	於	於	preposition	u	*[ʔ]ˤa			K A	
+1187	32	280	天	天	heaven	then	*l̥ˤi[n]			L I N	
+1188	32	280	命	命	mandate	mjaengH	*m-riŋ-s	。		R I N	
+1189	32	281	反	返	return	pjonX	*Cə.panʔ			X Ə . P A N	
+1190	32	281	帀	師	troop	srij	*srij	，		S R I J	
+1191	32	282	𨟻	將	aspectual marker	tsjang	*[ts]aŋ			C A N	
+1192	32	282	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
+1193	32	282	𡃣	戰	war	tsyenH	*tar-s	，		T A R	
+1194	32	283	必	必	must	pjit	*pi[t]			P I T	
+1195	32	283	訋	詔	summon ? exhort ?	tsyewX	*[d]ewʔ			T E W K	
+1196	32	283	邦	邦	state	paewng	*pˤroŋ			P R O N	
+1197	32	283	之	之	conjunction	tsyi	*tə			T Ə	
+1198	32	283	貴人	貴人	noble	kjw+jH nyin	*kuj-s // *ni[ŋ]			K U J // N I N	
+1199	32	283	及	及	conjunction	gip	*[m-k-]rəp			R Ə P	
+1200	32	283	邦	邦	state	paewng	*pˤroŋ			P R O N	
+1201	32	283	之	之	conjunction	tsyi	*tə			T Ə	
+1202	32	283	可士	奇士	extraordinary man	kje dzriX	*[k](r)aj *[m-s-]rəʔ			K A J M «-» R ƏK // Ə	
+1203	32	284	从	從	follow	dzjowng // dzjowngH // tsjowng (tshjowng)	*tsoŋ // *[dz]oŋ-s // *[dz]oŋ			C O N // C O N // C O N	
+1204	32	284	⿰力𰠄	卒	soldier	tswit // tswot (tshwot)	*[ts]ˤut // *[ts]ut		按	C U T // C U T	
+1205	32	284	⿱肰目	撚 	examine	nenX	*nˤənʔ			N Ə N	
+1206	32	284	兵	兵	weapon	pjaeng	*praŋ	，		P R A N	
+1207	32	285	毋	毋	negative adverb	mju	*mo			M O	
+1208	32	285	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
+1209	32	285	先	先	previous	sen	*sˤər			S Ə R	
+1210	32	285	常	常	norm	dzyang	*[d]aŋ		error?	T A N	
+1211	32	285	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
+1212	32	286	凡	凡	all	bjuwng	*bəŋ			P Ə N	
+1213	32	286	貴人	貴人	noble	kjw+jH nyin	*kuj-s // *ni[ŋ]			K U J // N I N	
+1214	32	286	囟	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ	[		R ƏK // Ə // R ƏK // Ə	
+1215	32	286	凥	處	stay	tsyhoX	*t.qʰaʔ			T . K A K // A	
+1216	32	286	歬	前	front	dzen	*[dz]ˤen			C E N	
+1217	32	286	立	位	position	hwijH	*[ɢ]ʷrəp-s			K w R Ə P	
+1218	32	286	一	一	one	jit	*ʔi[t]			K I T	
+1219	32	286	行	行	line	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。]		K A N // X Ə . K R A N // K R A N	
+1220	33	287	退	退	retire	thwojH	*n̥ˤ[u]p-s			N U P	
+1221	33	287	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+1222	33	287	見	見	see	henH // kenH // henH	! *N-[k]ˤen-s // *[k]ˤen-s // *m-[k]ˤen-s			K E N // K E N // K E N	
+1223	33	287	亡	亡	death	mjang	*maŋ	，		M A N	
+1224	33	288	進	進	advance	tsinH	*[ts][i][n]-s			C I N	
+1225	33	288	則	則	conjunction	tsok	*[ts]ˤək			C Ə K	
+1226	33	288	⿱夕录	祿	emolument	luwk	*[r]ˤok			R O K	
+1227	33	288	⿱竹隹	爵	honour	tsjak	*[ts]ewk			C E WK	
+1228	33	289	又	有	have	hjuwX	*[ɢ]ʷəʔ		lectio mea	K w ƏK // Ə	
+1229	33	289	常	賞	norm	syangX	*s-taŋʔ	，		T A N K	
+1230	33	290	幾	機	crucial moment	kj+j	*kəj			K Ə J	
+1231	33	290	莫	莫	none	mak	*mˤak			M A K	
+1232	33	290	之	之	anaphoric subtitute of the object	tsyi	*tə		rhymed passage?	T Ə	
+1233	33	290	⿱尚立	當	appropriate	tangH	*tˤaŋ-s	。		T A N	
+1234	33	291	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+1235	33	291	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+1236	33	291	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+1237	33	291	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1238	33	292	𰻇	復	return	bjuwH	*[N]-pruk-s		lectio mea	P R U K	
+1239	33	292	⿰䏌又⿱皿	班	rang	paen	*pˤan			P A N	
+1240	33	292	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1241	33	292	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1242	33	292	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
+1243	33	292	𰲛	乎	modal particle	hu // hu	*ɢˤa	？[		K A	
+1244	33	293	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+1245	33	293	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1246	33	294	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
+1247	33	295	既	既	already	kj+jH	*[k]ə[t]-s			K Ə T	
+1248	33	295	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1249	33	295	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
+1250	33	295	⿰谷象	舍	camp	syaeH // syaeX	! *[l̥]Ak-s // *l̥Aʔ	，		L A K // L A K	
+1251	33	296	虎	號	issue	hawH	*Cə.[g]ˤaw-s			X Ə . K A W	
+1252	33	296	命	令	order 	leng // ljeng // ljengH (ljen)	*riŋ // *riŋ-s // *[r]ˤiŋ			R I N // R I N // R I N	
+1253	33	296	於	於	preposition	u	*[ʔ]ˤa	]		K A	
+1254	33	296	軍	軍	troop	kjun	*[k]ʷər			K w Ə R	
+1255	34	296	中	中	middle	trjuwng	*truŋ	，		T R U N	
+1256	34	297	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1257	34	298	纏	繕	repair	dzyenH	*[d]a[n]ʔ-s			T A N	
+1258	34	298	⿸虍羍	甲	armour	kaep	*[k]ˤr[a]p			K R A P	
+1259	34	298	利	利	benefit	lijH	*C.ri[t]-s			X . R I T	
+1260	34	298	兵	兵	weapon	pjaeng	*praŋ	，		P R A N	
+1261	34	299	⿱明示 日	明日	tomorrow	mjaeng nyit	*mraŋ // *C.nik			M R A N // X . N I K	
+1262	34	299	𨟻	將	aspectual marker	tsjang	*[ts]aŋ			C A N	
+1263	34	299	𡃣	戰	war	tsyenH	*tar-s	。		T A R	
+1264	34	300	測	測	measure	tsrhik	*[tsʰ]rək		lectio mea	C R Ə K	
+1265	34	300	⿱臼亓⿰戈	毀	destruction	xjweX	*[m̥](r)ajʔ			M A J K	
+1266	34	300	厇	度	estimate	dak	*[d]ˤak		剔 scribal error?	T A K	
+1267	34	300	則	傷	injury	syang	*l̥aŋ	，		L A N	
+1268	34	301	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
+1269	34	301	⿰䏌又⿱皿	班	rang	paen	*pˤan		lectio mea	P A N	
+1270	34	301	⿺辶⿱亯京	就	go	dzjuwH	*[dz]u[k]-s			C U K	
+1271	34	301	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	，		K A N // X Ə . K R A N // K R A N	
+1272	34	302	凡	凡	all	bjuwng	*bəŋ		⿺辶⿱止羍	P Ə N	
+1273	34	302	𲅭	失	loose	syit	*l̥i[t]			L I T	
+1274	34	302	車	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
+1275	34	302	⿸虍羍	甲	armour	kaep	*[k]ˤr[a]p	，		K R A P	
+1276	34	303	命	命	order 	mjaengH	*m-riŋ-s			R I N	
+1277	34	303	之	之	anaphoric subtitute of the object	tsyi	*tə		lectio mea	T Ə	
+1278	34	303	毋	無	negative adverb	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
+1279	34	303	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。	∟ punctuation	K A N // X Ə . K R A N // K R A N	
+1280	34	304	盟日	明日	tomorrow	mjaeng nyit	*mraŋ // *C.nik			M R A N // X . N I K	
+1281	34	304	𨟻	將	aspectual marker	tsjang	*[ts]aŋ 			C A N	
+1282	34	304	𡃣	戰	war	tsyenH	*tar-s	，		T A R	
+1283	34	305	囟	使	send	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+1284	34	305	為	為	be	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+1285	34	305	歬	前	front	dzen	*[dz]ˤen			C E N	
+1286	34	305	行	行	line	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。		K A N // X Ə . K R A N // K R A N	
+1287	34	306	𫌣	諜	spy	dep	*lˤep			L E P	
+1288	34	306	人	人	person	nyin	*ni[ŋ]			N I N	
+1289	34	306	𰙬	來	come	loj	*mə.rˤək			M Ə . R Ə K	
+1290	34	306	告	告	tell	kowk	*kˤuk			K U K	
+1291	34	307	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1292	34	308	亓	其	possessive pronoun	gi	*gə			K Ə	
+1293	35	308	⿺辶⿷匚羊	將	conduct	tsjang	*[ts]aŋ			C A N	
+1294	35	308	𰳭	帥	lead	srwijH (srwit)	*s-rut-s			R U T	
+1295	35	308	既	既	already	kj+jH	*[k]ə[t]-s			K Ə T	
+1296	35	308	飤	食	eat	zyik	*mə-lək	，		L Ə K	
+1297	35	309	軙	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
+1298	35	309	連	輦	vehicule	ljenX	*[r][a][n]ʔ	to check		R A N	
+1299	35	309	皆	皆	all	keaj	*kˤrij			K R I J	
+1300	35	309	載	災	damage	tsoj	*[ts]ˤə	，		C Ə	
+1301	35	310	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1302	35	310	𨟻	將	aspectual marker	tsjang	*[ts]aŋ			C A N	
+1303	35	310	𱢦	早	early	tsawX	*Nə.tsˤuʔ			«N» Ə . C U K // U	
+1304	35	310	行	行	march	haeng // haengH // hang (hangH)	*[g]ˤaŋ // *Cə.[g]ˤraŋ // *[g]ˤraŋ-s	。		K A N // X Ə . K R A N // K R A N	
+1305	35	311	乃	乃	conjunction	nojX	! *nˤə(ŋ)ʔ // *nˤəʔ			N Ə N K // N ƏK // Ə	
+1306	35	311	命	命	order	mjaengH	*m-riŋ-s			R I N	
+1307	35	311	白徒	白徒	complementary conscripts	baek du	*bˤrak // *[d]ˤa			P R A K // T A	
+1308	35	311	𱢦	早	early	tsawX	*Nə.tsˤuʔ			«N» Ə . C U K // U	
+1309	35	311	飤	食	eat	zyik	*mə-lək	，		L Ə K	
+1310	35	311	𪭍	供	provide	kjowng	*koŋ			K O N	
+1311	35	311	兵	兵	weapon	pjaeng	*praŋ			P R A N	
+1312	35	312	各	各	each	kak	*kˤak			K A K	
+1313	35	312	載	載	carry	tsojH	! *[ts]ˤə[ʔ]-s // *[ts]ˤəʔ-s			C ƏK // Ə // C ƏK // Ə	
+1314	35	312	尔	爾	your	nyeX	*n[ə][r]ʔ		lectio mea	N Ə R	
+1315	35	312	贓	贓	spoils	tsang	*[ts]ˤaŋ	。		C A N	
+1316	35	313	既	既	already	kj+jH	*[k]ə[t]-s			K Ə T	
+1317	35	313	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1318	35	313	𨟻	將	aspectual marker	tsjang	*[ts]aŋ		lectio mea	C A N	
+1319	35	313	㙛	敷	distribute	phju	*pʰ(r)a	，		P A	
+1320	35	314	為	為	do	hjwe // hjweH	! *ɢʷ(r)aj // *ɢʷ(r)aj-s			Kw A J // Kw A J	
+1321	35	314	之	之	anaphoric subtitute of the object	tsyi	*tə			T Ə	
+1322	35	314	毋	毋	negative adverb	mju	*mo			M O	
+1323	35	314	⿺怠⿹𠃌一	怠	laziness	dojX	*lˤəʔ	，		L ƏK // Ə	
+1324	35	315	毋	毋	negative adverb	mju	*mo			M O	
+1325	35	315	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+1326	35	315	民	民	people	mjin	*mi[ŋ]			M I N	
+1327	35	315	⿱矣心	疑	doubt	ngi	*[ŋ](r)ə	。		N Ə	
+1328	35	316	及	及	conjunction	gip	*[m-k-]rəp			R Ə P	
+1329	36	316	尔	爾	your	nyeX	*n[ə][r]ʔ			N Ə R	
+1330	36	316	龜	龜	turtle	kwij	*[k]ʷrə			K w R Ə	
+1331	36	316	噬	筮	achillea stalks	dzyejH	*[d][e][t]-s	，		T E T	
+1332	36	316	皆	皆	all	keaj	*kˤrij			K R I J	
+1333	36	316	⿱亠舛⿳几力	勝	win 	sying	*l̥əŋ			L Ə N	
+1334	36	316	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
+1335	36	317	改	改	change	kojX	*C.qˤəʔ		lectio mea	X . K ƏK // Ə	
+1336	36	317	𩕯	調	tone 	dew (trjuw)	*[d]ˤiw			T I W	
+1337	36	317	尔	爾	your	nyeX	*n[ə][r]ʔ			N Ə R	
+1338	36	317	鼔	鼓	drum	kuX	*[k]ˤaʔ	，		K A K // A	
+1339	36	318	乃	乃	conjunction	nojX	! *nˤə(ŋ)ʔ // *nˤəʔ			N Ə N K // N ƏK // Ə	
+1340	36	318	⿺辶⿸㫃并	屏	get rid 	yit	*lrit 		check this graph	L R I T	
+1341	36	318	亓	其	possessive pronoun	gi	*gə		lectio mea 	K Ə	
+1342	36	318	⿰力膚	虜	captive	luX	*C.rˤaʔ	。		X . R A K // A	
+1343	36	319	盟日	明日	tomorrow	mjaeng nyit	*mraŋ // *C.nik			M R A N // X . N I K	
+1344	36	319	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
+1345	36	319	⿰申戈	陳	battle array	drin	*lri[n]	，		L R I N	
+1346	36	319	必	必	must	pjit	*pi[t]			P I T	
+1347	36	319	𱞃	過	pass	kwaH	*kʷˤaj-s			Kw A J	
+1348	36	319	亓	其	possessive pronoun	gi	*gə			K Ə	
+1349	36	319	所	所	place	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ	。		K A K // A // K A K // A	
+1350	36	320	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+1351	36	320	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
+1352	36	320	⿰䏌又⿱皿	班	rang	paen	*pˤan			P A N	
+1353	36	320	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1354	36	320	之	之	conjunction	tsyi	*tə			T Ə	
+1355	36	320	道	道	way	dawX	*[kə.l]ˤuʔ	。	.  punctuation	K Ə . L U K // U	
+1356	36	321	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+1357	36	321	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+1358	36	321	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+1359	36	321	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1360	36	322	𰻇	復	return	bjuwH	*[N]-pruk-s		lectio mea	P R U K	
+1361	36	322	甘	甘	easy	kam	*[k]ˤ[a]m			K A M	
+1362	37	322	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1363	37	322	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1364	37	322	道	道	way	dawX	*[kə.l]ˤuʔ	？		K Ə . L U K // U	
+1365	37	322	𰲛	乎	modal particle	hu // hu	*ɢˤa			K A	
+1366	37	323	𣌭	答	reply	top	*[t]ˤ[u]p	：		T U P	
+1367	37	323	曰	曰	say	hjwot	*[ɢ]ʷat	。		K w A T	
+1368	37	324	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1369	37	325	必	必	must	pjit	*pi[t]			P I T	
+1370	37	325	𰕡	慎	be careful	dzyinH	*[d]i[n]-s			T I N	
+1371	37	325	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+1372	37	325	戒	戒	warn	keajH	*kˤrək-s	，	!!!! come 或 王若曰	K R Ə K	
+1373	37	326	若	若	modal particle	nyak // nyak	*nak			N A K	
+1374	37	326	𨟻	將	aspectual marker	tsjang	*[ts]aŋ			C A N	
+1375	37	326	弗	弗	negative adverb	pjut	! *put // *p[u]t // *put			P U T // P U T // P U T	
+1376	37	326	克	克	conquest	khok	*kʰˤək	。		K Ə K	
+1377	37	327	毋	毋	negative adverb	mju	*mo			M O	
+1378	37	327	目	冒	reckless	mawH (mok)	*mˤuk-s			M U K	
+1379	37	327	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
+1380	37	327	⿺辶售	進	advance	tsinH	*[ts][i][n]-s	，		C I N	
+1381	37	328	必	必	must	pjit	*pi[t]			P I T	
+1382	37	328	𱞃	過	pass	kwaH	*kʷˤaj-s			Kw A J	
+1383	37	328	歬	前	front	dzen	*[dz]ˤen			C E N	
+1384	37	328	⿰示工	功	merit	kuwng	*kˤoŋ	。		K O N	
+1385	37	329	賞	賞	admire	syangX	*s-taŋʔ			T A N K	
+1386	37	329	⿰丹隻	獲	gain	hweak	*m-qʷˤrak			Kw R A K	
+1387	37	329	詣	指	point 	tsyijX	*mə.kijʔ			M Ə . K I J K	
+1388	37	329	⿰土𪪋	葸	fear	siX	*səʔ	，		S ƏK // Ə	
+1389	37	330	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
+1390	37	330	⿳亼吅隹⿰見⿱心	勸	exhort	khjwonH	*C.qʷʰar-s			X . Kw A R	
+1391	37	330	亓	其	possessive pronoun	gi	*gə			K Ə	
+1392	37	330	志	志	intention	tsyiH	*tək-s	。		T Ə K	
+1393	37	331	㦷	甬	courageous	yowngX	*loŋʔ			L O N K	
+1394	37	331	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1395	37	331	憙	喜	joy	xiX (xiH)	*qʰ(r)əʔ			K ƏK // Ə	
+1396	37	331	之	之	anaphoric subtitute of the object	tsyi	*tə	，	lectio mea	T Ə	
+1397	38	332	巟	慌	anxious	xwangX	*m̥ˤaŋʔ			M A N K	
+1398	38	332	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1399	38	332	⿱毋心	悔	blame	xwojX	*m̥ˤəʔ			M ƏK // Ə	
+1400	38	332	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
+1401	38	333	萬	萬	ten thousand	mjonH	*C.ma[n]-s			X . M A N	
+1402	38	333	民	民	people	mjin	*mi[ŋ]			M I N	
+1403	38	333	⿰章欠⿱色	黔	black	gjem	*[g](r)[o]m		da controllare	K O M	
+1404	38	333	首	首	head	syuwH	*l̥uʔ-s			L U K // U	
+1405	38	333	皆	皆	all	keaj	*kˤrij			K R I J	
+1406	38	333	⿱八呂⿰欠	欲	want	yowk	*ɢ(r)ok			K O K	
+1407	38	333	或	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1408	38	333	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
+1409	38	334	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+1410	38	334	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
+1411	38	334	甘	甘	fierce	kam	*[k]ˤ[a]m			K A M	
+1412	38	334	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1413	38	334	之	之	conjunction	tsyi	*tə			T Ə	
+1414	38	334	道	道	way	dawX	*[kə.l]ˤuʔ	。		K Ə . L U K // U	
+1415	38	335	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+1416	38	335	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+1417	38	335	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+1418	38	335	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1419	38	336	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
+1420	38	336	⿰古欠	苦	hard	khuX (khuH)	*kʰˤaʔ			K A K // A	
+1421	38	336	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1422	38	336	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1423	38	336	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
+1424	38	336	𰲛	乎	modal particle	hu // hu	*ɢˤa	？		K A	
+1425	38	337	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+1426	38	337	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1427	38	338	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
+1428	38	339	收	收	receive	syuw	*s-kiw			K I W	
+1429	38	339	而	而	conjunction	nyi	*nə			N Ə	
+1430	38	339	聚	聚	gather	dzjuH	*m-tsʰoʔ-s			C O K // O	
+1431	38	339	之	之	anaphoric subtitute of the object	tsyi	*tə	，		T Ə	
+1432	39	339	⿱罒𣗥	束	tie	syowk	*s-tʰok	[		T O K	
+1433	39	339	而	而	conjunction	nyi	*nə			N Ə	
+1434	39	339	厚	厚	thick	huwX	*Cə.[g]ˤ(r)oʔ			X Ə . K O K // O	
+1435	39	339	之	之	anaphoric subtitute of the object	tsyi	*tə	。】		T Ə	
+1436	39	340	砫	重	heavy	drjowng	*[m]-troŋ			M T R O N	
+1437	39	340	賞	賞	admire	syangX	*s-taŋʔ			T A N K	
+1438	39	340	泊	薄	thin	bak	*[b]ˤak			P A K	
+1439	39	340	型	刑	punish	heng	*[ɢ]ˤeŋ	，		K E N	
+1440	39	341	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+1441	39	341	忘	忘	forget	mjang	*maŋ			M A N	
+1442	39	341	亓	其	possessive pronoun	gi	*gə			K Ə	
+1443	39	341	死	死	death	sijX	*sijʔ			S I J K	
+1444	39	341	而	而	conjunction	nyi	*nə			N Ə	
+1445	39	341	見	見	see	henH // kenH // henH	! *N-[k]ˤen-s // *[k]ˤen-s // *m-[k]ˤen-s			K E N // K E N // K E N	
+1446	39	341	亓	其	conjunction	gi	*gə			K Ə	
+1447	39	341	生	生	life	sraeng	*sreŋ	，		S R E N	
+1448	39	342	思	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+1449	39	342	良	良	good	ljang	*[r]aŋ			R A N	
+1450	39	342	車	車	chariot	tsyhae	*[t.qʰ](r)A			T . K A	
+1451	39	342	良	良	good	ljang	*[r]aŋ			R A N	
+1452	39	342	士	士	dignitary	dzriX	*[m-s-]rəʔ			R ƏK // Ə	
+1453	39	342	⿺辶㞷	往	go	hjwangX	*ɢʷaŋʔ			Kw A N K	
+1454	39	342	取	取	take	tshuwX	*tsʰˤoʔ			C O K // O	
+1455	39	342	亓	其	possessive pronoun	gi	*gə		lectio mea， come inSB	K Ə	
+1456	39	342	餌	耳	ear	nyiX	! *C.nəʔ // *nəʔ	，		X . N ƏK // Ə // N ƏK // Ə	
+1457	39	343	思	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+1458	39	343	亓	其	possessive pronoun	gi	*gə			K Ə	
+1459	39	343	志	志	intention	tsyiH	*tək-s			T Ə K	
+1460	39	343	⿺辶己	起	raise	khiX	*C.qʰ(r)əʔ	。		X . K ƏK // Ə	
+1461	39	344	㦷	勇	courageous	yowngX	*loŋʔ			L O N K	
+1462	39	344	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1463	39	344	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+1464	39	344	憙	喜	joy	xiX (xiH)	*qʰ(r)əʔ	，		K ƏK // Ə	
+1465	39	345	⿰土𪪋	葸	fear	siX	*səʔ			S ƏK // Ə	
+1466	39	345	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1467	39	345	囟	使	let	sriH // sriX	! *s-rəʔ-s // *s-rəʔ			R ƏK // Ə // R ƏK // Ə	
+1468	39	345	⿱毋心	悔	blame	xwojX	*m̥ˤəʔ	，		M ƏK // Ə	
+1469	40	346	肰句	然後	conjunction	nyen huwX	*[n]a[n] // *[ɢ]ˤ(r)oʔ			N A N // K O K // O	
+1470	40	346	改	改	change	kojX	*C.qˤəʔ			X . K ƏK // Ə	
+1471	40	346	⿺怠⿹𠃌一	怠	laziness	dojX	*lˤəʔ	。		L ƏK // Ə	
+1472	40	347	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+1473	40	347	𰻇	復	return	bjuwH	*[N]-pruk-s			P R U K	
+1474	40	347	⿰古欠	苦	hard	khuX (khuH)	*kʰˤaʔ			K A K // A	
+1475	40	347	𡃣	戰	war	tsyenH	*tar-s			T A R	
+1476	40	347	之	之	conjunction	tsyi	*tə			T Ə	
+1477	40	347	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
+1478	40	348	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+1479	40	348	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+1480	40	348	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+1481	40	348	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1482	40	349	攻	攻	assault	kuwng	*kˤoŋ			K O N	
+1483	40	349	⿳爫人系	奚	how	hej	*[g]ˤe			K E	
+1484	40	349	女	如	how	nyo	*na	？		N A	
+1485	40	350	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+1486	40	350	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1487	40	351	民	民	people	mjin	*mi[ŋ]			M I N	
+1488	40	351	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1489	40	351	⿱宀貨	寶	good	xwaH	*pˤuʔ	：		P U K // U	
+1490	40	352	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
+1491	40	352	城	城	wall	dzyeng	*[d]eŋ	，		T E N	
+1492	40	353	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
+1493	40	353	⿷匸古	固	fortress	kuH	*[k]ˤa-s	，		K A	
+1494	40	354	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
+1495	40	354	⿱艸𠭯	阻	strategic pass	tsrjoX (tsrjoH)	*[ts]raʔ	。		C R A K // A	
+1496	40	355	三	三	three	sam	*s.rum			S . R U M	
+1497	40	355	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1498	40	355	𦘔	盡	all	tsinX	*tsi[n]ʔ			C I N	
+1499	40	355	甬	用	use	yowngH	*loŋ-s	,		L O N	
+1500	40	356	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+1501	40	356	皆	諧	harmonize	keaj	*kˤrij	，		K R I J	
+1502	40	357	邦	邦	state	paewng	*pˤroŋ			P R O N	
+1503	41	357	𪺏	家	home	kae	*kˤra			K R A	
+1504	41	357	以	以	use	yiX	*ləʔ			L ƏK // Ə	
+1505	41	357	忧	忧	grief	juw	*ʔ(r)u	。		K U	
+1506	41	358	善	善	good	dzyenX	*[g]e[n]ʔ			K E N	
+1507	41	358	攻	攻	assault	kuwng	*kˤoŋ			K O N	
+1508	41	358	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1509	41	358	以	以	use	yiX	*ləʔ			L ƏK // Ə	
+1510	41	358	亓	其	nominalization marker	gi	*gə			K Ə	
+1511	41	358	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+1512	41	358	又	有	have	hjuwX	*[ɢ]ʷəʔ	，		K w ƏK // Ə	
+1513	41	359	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
+1514	41	359	攻	攻	assault	kuwng	*kˤoŋ			K O N	
+1515	41	359	人	人	person	nyin	*ni[ŋ]			N I N	
+1516	41	359	之	之	nominalization marker	tsyi	*tə		hewen	T Ə	
+1517	41	359	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+1518	41	359	亡	無	negative adverb	mju (mu)	*ma // *mo // *ma			M A // M O // M A	
+1519	41	359	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
+1520	41	360	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+1521	41	360	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+1522	41	360	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+1523	41	360	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1524	41	361	善	善	good	dzyenX	*[d]a[n]ʔ			T A N	
+1525	41	361	獸	守	keep	syuwH	*s.tuʔ-s			S . T U K // U	
+1526	41	361	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1527	41	361	⿳爫人系	奚	how	hej	*[g]ˤe			K E	
+1528	41	361	女	如	how	nyo	*na	？		N A	
+1529	41	362	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+1530	41	362	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1531	41	363	亓	其	possessive pronoun	gi	*gə			K Ə	
+1532	41	363	飤	食	eat	zyik	*mə-lək			L Ə K	
+1533	41	363	必	必	must	pjit	*pi[t]			P I T	
+1534	41	363	足以	足以	be sufficient	tsjuH yiX	*[ts]ok-s // *ləʔ			C O K  // L ƏK // Ə	
+1535	41	363	食	食	eat	zyik	*mə-lək			L Ə K	
+1536	41	363	之	之	anaphoric subtitute of the object	tsyi	*tə	,		T Ə	
+1537	41	364	其	其	possessive pronoun	gi	*gə			K Ə	
+1538	41	364	兵	兵	weapon	pjaeng	*praŋ			P R A N	
+1539	41	364	足以	足以	be sufficient	tsjuH yiX	*[ts]ok-s // *ləʔ			C O K  // L ƏK // Ə	
+1540	41	364	利	利	benefit	lijH	*C.ri[t]-s			X . R I T	
+1541	41	364	之	之	anaphoric subtitute of the object	tsyi	*tə	】		T Ə	
+1542	42	365	亓	其	possessive pronoun	gi	*gə	,		K Ə	
+1543	42	365	城	城	wall	dzyeng	*[d]eŋ		distinzione grafica 固 sostantivo e aggettivo	T E N	
+1544	42	365	⿷匸古	固	fortress	kuH	*[k]ˤa-s			K A	
+1545	42	365	足以	足以	be sufficient	tsjuH yiX	*[ts]ok-s // *ləʔ			C O K  // L ƏK // Ə	
+1546	42	365	⿰干戈	捍	shield	hanH	*m-kˤa[r]-s			K A R	
+1547	42	365	之	之	anaphoric subtitute of the object	tsyi	*tə	。		T Ə	
+1548	42	366	上	上	superior	dzyangH	*daŋʔ-s		hewen	T A N K	
+1549	42	366	下	下	inferior	haeH	*m-gˤraʔ-s			K R A K // A	
+1550	42	366	和	和	harmony	hwa	*[ɢ]ˤoj			K O J	
+1551	42	366	𠭯	且	conjunction	tsjo	*tsa			C A	
+1552	42	366	咠	輯	concord	dzip	*[dz][u]p	，		C U P	
+1553	42	367	解	絓	entangle	kweaH	*[k]ʷˤre-s		lectio mea	K w R E	
+1554	42	367	紀	紀	thread	kiX	*k(r)əʔ			K ƏK // Ə	
+1555	42	367	於	於	preposition	u	*[ʔ]ˤa			K A	
+1556	42	367	大	大	big 	dajH	*lˤa[t]-s		chongwen	L A T	
+1557	42	367	⿷匸或⿰阝	國	state	kwok	*[C.q]ʷˤək		chongwen	X . K w Ə K	
+1558	42	368	大	大	big 	dajH	*lˤa[t]-s			L A T	
+1559	42	368	⿷匸或⿰阝	國	state	kwok	*[C.q]ʷˤək			X . K w Ə K	
+1560	42	368	⿱木辛⿰斤⿱心	親	parent	tshin	*[tsʰ]i[n]			C I N	
+1561	42	368	之	之	anaphoric substitute of the object	tsyi	*tə	，		T Ə	
+1562	42	369	天下	天下	world	then haeH	*l̥ˤi[n] // *m-gˤraʔ-s			L I N // K R A K // A	
+1563	42	369	⿺辶己	起	raise	khiX	*C.qʰ(r)əʔ		lectio mea	X . K ƏK // Ə	
+1564	42	369	之心	志	intention	tsyiH	*tək-s		lectio mea	T Ə K	
+1565	42	369	者侯	諸侯	noble	tsyo (tsyae) huw	*ta // *[g]ˤ(r)o			T A // K O	
+1566	42	369	寡	寡	few	kwaeX	*[C.k]ʷˤraʔ			X . K w R A K // A	
+1567	42	369	⿱矣心	疑	doubt	ngi	*[ŋ](r)ə	。		N Ə	
+1568	42	370	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+1569	42	370	或	又	conjunction	hjuwH	*[ɢ]ʷəʔ-s			K w ƏK // Ə	
+1570	42	370	䎽	問	ask	mjunH	*C.mu[n]-s			X . M U N	
+1571	42	370	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1572	42	371	𫊟	吾	I	ngu	*ŋˤa			N A	
+1573	42	371	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1574	42	371	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+1575	42	371	䎽	聞	hear	mjun	*mu[n]			M U N	
+1576	42	371	之	之	cataphoric substitute of the object	tsyi	*tə	：		T Ə	
+1577	42	372	一	一	one 	jit	*ʔi[t]			K I T	
+1578	42	372	出	出	exit	tsyhwijH	*t-kʰut-s			K U T	
+1579	42	372	言	言	word	ngjon	! *ŋa[n] // *ŋa[n] // *ŋa[n] // *ŋa[r]			N A N // N A N // N A N // N A R	
+1580	43	373	三	三	three	sam	*s.rum			S . R U M	
+1581	43	373	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
+1582	43	373	皆	皆	all	keaj	*kˤrij			K R I J	
+1583	43	373	⿳亼吅隹⿱心	歡	delight	xwan	*qʷʰˤar	,		Kw A R	
+1584	43	374	一	一	one 	jit	*ʔi[t]			K I T	
+1585	43	374	出	出	exit	tsyhwijH	*t-kʰut-s			K U T	
+1586	43	374	言	言	word	ngjon	! *ŋa[n] // *ŋa[n] // *ŋa[n] // *ŋa[r]			N A N // N A N // N A N // N A R	
+1587	43	375	三	三	three	sam	*s.rum			S . R U M	
+1588	43	375	軍	軍	army	kjun	*[k]ʷər			K w Ə R	
+1589	43	375	皆	皆	all	keaj	*kˤrij			K R I J	
+1590	43	375	⿺辶寺	往	go	hjwangX	*ɢʷaŋʔ	，		Kw A N K	
+1591	43	376	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1592	43	376	之	之	anaphoric substitute of the object	tsyi	*tə			T Ə	
+1593	43	376	𰲛	乎	modal particle	hu // hu	*ɢˤa	？		K A	
+1594	43	377	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+1595	43	377	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1596	43	378	又	有	have	hjuwX	*[ɢ]ʷəʔ	。		K w ƏK // Ə	
+1597	43	378	明	明	bright	mjaeng	*mraŋ			M R A N	
+1598	43	378	詑	詑	mislead	da	*l̥ˤaj			L A J	
+1599	43	378	於	於	preposition	u	*[ʔ]ˤa			K A	
+1600	43	378	𲌧	鬼	ghost	kjw+jX	*k-ʔujʔ			K U J K	
+1601	43	378	神	神	god	zyin	*Cə.li[n]	,【		X Ə . L I N	
+1602	43	379	神	神	god	zyin	*Cə.li[n]	】		X Ə . L I N	
+1603	43	379	或	或	modal particle	hwok	*[ɢ]ʷˤək	，		K w Ə K	
+1604	43	379	非	非	be not	pj+j	*pəj			P Ə J	
+1605	43	379	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ			K A K // A // K A K // A	
+1606	43	379	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+1607	43	379	教	教	teach	kaewH	*s.kˤraw-s			S . K R A W	
+1608	43	379	民	民	people	mjin	*mi[ŋ]	，		M I N	
+1609	43	380	唯	唯	modal particle	ywij (ywijX)	*ɢʷij			Kw I J	
+1610	43	380	君	君	her majesty	kjun	*C.qur			X . K U R	
+1611	43	380	智	知	know	trje	*tre			T R E	
+1612	43	380	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
+1613	43	381	此	此	this	tshjeX	*[tsʰ]e(j)ʔ			C E J K	
+1614	43	381	先	先	previous	sen	*sˤər			S Ə R	
+1615	43	381	王	王	king	hjwangH	*ɢʷaŋ-s			Kw A N	
+1616	43	381	至	至	excellent	tsyijH	*ti[t]-s			T I T	
+1617	43	381	道	道	way	dawX	*[kə.l]ˤuʔ	。	43 / 44 	K Ə . L U K // U	
+1618	43	382	⿵戕口 公	莊公	duke Zhuang (personal name)	tsrjang kuwng	*[ts]raŋ // *C.qˤoŋ			C R A N // X . K O N	
+1619	44	382	曰	曰	say	hjwot	*[ɢ]ʷat			K w A T	
+1620	44	383	⿳艸罒勿⿰攴	沫	Mo (personal Name)	mat	*mˤat	，		M A T	
+1621	44	383	𫊟	吾	I	ngu	*ŋˤa			N A	
+1622	44	383	言	言	word	ngjon	! *ŋa[n] // *ŋa[n] // *ŋa[n] // *ŋa[r]			N A N // N A N // N A N // N A R	
+1623	44	383	氏	是	really	dzyeX	*[d]eʔ		lectio mea	T E K // E	
+1624	44	383	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+1625	44	383	女	如	compare	nyo	*na	，		N A	
+1626	44	384	或者	或者	maybe	hwok tsyaeX	*[ɢ]ʷˤək // *tAʔ			K w Ə K // T A K	
+1627	44	384	少	小	little	sjewX	*[s]ewʔ			S E W K	
+1628	44	384	道	道	way	dawX	*[kə.l]ˤuʔ	！		K Ə . L U K // U	
+1629	44	385	𫊟	吾	I	ngu	*ŋˤa			N A	
+1630	44	385	一	一	one 	jit	*ʔi[t]			K I T	
+1631	44	385	欲	欲	desire	yowk	*ɢ(r)ok			K O K	
+1632	44	385	䎽	聞	hear	mjun	*mu[n]			M U N	
+1633	44	385	厽	三	three 	sam	*s.rum			S . R U M	
+1634	44	385	弋	代	dynasty	dojH	*lˤək-s			L Ə K	
+1635	44	385	之	之	conjunction	tsyi	*tə			T Ə	
+1636	44	385	所	所	nominalization marker	srjoX // xuX	! *s-qʰaʔ // *qʰaʔ	。		K A K // A // K A K // A	
+1637	44	386	⿱艸⿰告攴 ⿳艸罒勿⿰攴	曹沫	Cao Mo (personal name)	dzaw mat	*N-tsˤu // *mˤat			C U // M A T	
+1638	44	386	𣌭	答	reply	top	*[t]ˤ[u]p			T U P	
+1639	44	386	曰	曰	say	hjwot	*[ɢ]ʷat	：		K w A T	
+1640	44	387	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
+1641	44	387	䎽	聞	hear	mjun	*mu[n]			M U N	
+1642	44	387	之	之	anaphoric substitute of the object	tsyi	*tə	：		T Ə	
+1643	44	388	昔	昔	past	sjek	*[s]Ak		lacuna di tre caratteri	S A K	
+1644	44	388	之	之	nominalization marker	tsyi	*tə			T Ə	
+1645	44	388	⿺辶己	起	raise	khiX	*C.qʰ(r)əʔ			X . K ƏK // Ə	
+1646	44	388	於	於	preposition	u	*[ʔ]ˤa			K A	
+1647	44	388	天下	天下	world	then haeH	*l̥ˤi[n] // *m-gˤraʔ-s			L I N // K R A K // A	
+1648	44	388	者	者	nominalization marker	tsyaeX	*tAʔ			T A K	
+1649	44	389	各	各	each	kak	*kˤak			K A K	
+1650	44	389	以	以	use	yiX	*ləʔ			L ƏK // Ə	
+1651	44	389	亓	其	possessive pronoun	gi	*gə			K Ə	
+1652	44	389	殜	世	era	syejH	*l̥ap-s	，		L A P	
+1653	44	390	以	以	conjunction	yiX	*ləʔ		scribal error	L ƏK // Ə	
+1654	44	390	⿱回又	及	conjunction	gip	*[m-k-]rəp			R Ə P	
+1655	44	390	亓	其	possessive pronoun	gi	*gə			K Ə	
+1656	44	390	身	身	body	syin	*n̥i[ŋ]	。		N I N	
+1657	45	391	含	今	today	kim	*[k]r[ə]m			K R Ə M	
+1658	45	391	與	與	conjunction	yoX	*m-q(r)aʔ			K A K // A	
+1659	45	391	古	古	ancient	kuX	*kˤaʔ			K A K // A	
+1660	45	391	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
+1661	45	391	多	多	much	ta	*[t.l]ˤaj			T . L A J	
+1662	45	391	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+1663	45	391	同	同	same	duwng	*lˤoŋ			L O N	
+1664	45	391	矣	矣	modal particle	hiX	*qəʔ	。		K ƏK // Ə	
+1665	45	392	臣	臣	minister	dzyin	*[g]i[ŋ]			K I N	
+1666	45	392	是古	是故	conjunction	dzyeX kuH	*[d]eʔ // ! *kˤa(ʔ)-s // *kˤaʔ-s			T E K // E // K A K // A // K A K // A	
+1667	45	392	不	不	negative adverb	pjuw (bijX)	*pə			P Ə	
+1668	45	392	敢	敢	dare	kamX	*[k]ˤamʔ			K A M	
+1669	45	392	以	以	preposition	yiX	*ləʔ			L ƏK // Ə	
+1670	45	392	古	古	ancient	kuX	*kˤaʔ			K A K // A	
+1671	45	392	𣌭	答	reply	top	*[t]ˤ[u]p	。		T U P	
+1672	45	393	肰	然	like this	nyen	*[n]a[n]			N A N	
+1673	45	393	而	而	conjunction	nyi	*nə			N Ə	
+1674	45	393	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
+1675	45	393	古	古	ancient	kuX	*kˤaʔ			K A K // A	
+1676	45	393	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
+1677	45	393	又	有	have	hjuwX	*[ɢ]ʷəʔ			K w ƏK // Ə	
+1678	45	393	大	大	big	dajH	*lˤa[t]-s			L A T	
+1679	45	393	道	道	way	dawX	*[kə.l]ˤuʔ			K Ə . L U K // U	
+1680	45	393	𱙁	焉	in it	jen // hjen ('jon)	*[ʔ]a[n] // *ʔa[n]	，		K A N // K A N	
+1681	45	394	必	必	must	pjit	*pi[t]			P I T	
+1682	45	394	龏	恭	cherish	kjowng	*koŋ			K O N	
+1683	45	394	⿱僉曰	儉	frugality	gjemX	*[g]r[a]mʔ			K R A M	
+1684	45	394	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
+1685	45	394	𠭁	得	obtain	tok	*tˤək			T Ə K	
+1686	45	394	之	之	anaphoric substitute of the object	tsyi	*tə	，		T Ə	
+1687	45	395	而	而	conjunction	nyi	*nə			N Ə	
+1688	45	395	⿱九高	驕	take pride	kjew	*kraw			K R A W	
+1689	45	395	大	泰	pomp	thajH	*l̥ˤa[t]-s			L A T	
+1690	45	395	以	以	conjunction	yiX	*ləʔ			L ƏK // Ə	
+1691	45	395	⿺辶⿱止羍	失	loose	syit	*l̥i[t]			L I T	
+1692	45	395	之	之	anaphoric substitute of the object	tsyi	*tə	。		T Ə	
+1693	45	396	君	君	her majesty	kjun	*C.qur			X . K U R	
+1694	45	396	亓	其	modal particle	gi	*gə			K Ə	
+1695	46	396	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
+1696	46	396	唯	唯	modal particle	ywij (ywijX)	*ɢʷij			Kw I J	
+1697	46	396	䎽	聞	hear	mjun	*mu[n]			M U N	
+1698	46	396	夫	夫	modal particle	bju // bju // pju	! *ba // *[b]a // *p(r)a			P A // P A // P A	
+1699	46	396	㙑	禹	Yu (person name)	hjuX	*[ɢ]ʷ(r)aʔ	、		K w A K // A	
+1700	46	396	湯	湯	Tang (person name)	thang	! *l̥ˤaŋ // *r̥ˤaŋ	、	This suggests a later datation of AD with respect to SB? Later spelling of the shang king	L A N // R A N	
+1701	46	396	⿰力桀	桀	Jie (person name)	gjet	! *m-[k]at // *N-[k]at	、		K A T // K A T	
+1702	46	396	受	紂	Zhou (person name)	drjuwX	*[d]ruʔ			T R U K // U	
+1703	46	396	矣	矣	modal particle	hiX	*qəʔ	。	∟punctuation 	K ƏK // Ə	
+1704	46	397	敢	敢	dare	kamX	*[k]ˤamʔ		∟punctuation 	K A M	
+1705	46	397	𣌭	答	reply	top	*[t]ˤ[u]p	。		T U P	
+1706	46	398	肰	然	like this	nyen	*[n]a[n]			N A N	
+1707	46	398	而	而	conjunction	nyi	*nə			N Ə	
+1708	46	398	亦	亦	conjunction	yek // yek	! *ɢ(r)Ak // *[ɢ](r)Ak			K A K // K A K	
+1709	46	398	古	古	ancient	kuX	*kˤaʔ	。			

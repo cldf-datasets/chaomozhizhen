@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/chaomozhizhen",
             "rdf:type": "prov:Entity",
-            "dc:created": "c5518f4",
+            "dc:created": "d3464cb",
             "dc:title": "Repository"
         },
         {
@@ -111,7 +111,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 687,
+            "dc:extent": 686,
             "tableSchema": {
                 "columns": [
                     {
@@ -218,7 +218,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 403,
+            "dc:extent": 398,
             "tableSchema": {
                 "columns": [
                     {

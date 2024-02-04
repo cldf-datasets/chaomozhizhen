@@ -7,7 +7,6 @@ bs4==0.0.1
 certifi==2023.11.17
 cffi==1.16.0
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/chaomozhizhen.git@c5518f497f7ea41905fa74601184e5c231187bb4#egg=cldfbench_chaomozhizhen
 cldfcatalog==1.5.1
 cldfzenodo==2.1.0
 clldutils==3.22.0
