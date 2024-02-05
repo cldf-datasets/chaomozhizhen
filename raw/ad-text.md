@@ -1241,7 +1241,7 @@ Text:
 
 Gloss: 
   *s.rum *[k]ʷər *lˤa[t]-s *N-pˤra[t]-s，
-   *mo *tro *nə *s-taŋʔ ，
+  *mo *tro *nə *s-taŋʔ，
   *mo *[dz]ˤujʔ *pˤrak *seŋ-s *nə *C.qˤəʔ *gə *[ts]aŋ。
 
 Translation: If the Three Armies were to suffer a heavy defeat, do not mete out punishments, but rather offer praise. Do not blame the people; simply replace the generals.
@@ -1273,7 +1273,7 @@ Text:
 
 Gloss: 
   *sijʔ *tAʔ *s-kiw *tə，
-   *l̥aŋ *tAʔ *C.mu[n]-s *tə ，
+  *l̥aŋ *tAʔ *C.mu[n]-s *tə ，
   *[g]e[n]ʔ *[ʔ]ˤa *sijʔ *tAʔ *ɢʷ(r)aj *sreŋ *tAʔ。」
 
 Translation: Recover [the bodies of] the fallen and inquire about the wounded. It is the living who should show goodness to the deceased. 
@@ -1317,10 +1317,10 @@ Text:
 
 Gloss: 
   *Cə.panʔ *srij，
-   *[ts]aŋ *[N]-pruk-s *tar-s，
-   *pi[t] *[d]raw-s *pˤroŋ *tə *kuj-s *ni[ŋ] *[m-k-]rəp *pˤroŋ *tə *[k](r)aj *[m-s-]rəʔ, 
-   *[dz]oŋ *[ts]ˤut *nˤənʔ *praŋ，
-   *mo *[N]-pruk-s *sˤər *[d]aŋ *tə。
+  *[ts]aŋ *[N]-pruk-s *tar-s，
+  *pi[t] *[d]raw-s *pˤroŋ *tə *kuj-s *ni[ŋ] *[m-k-]rəp *pˤroŋ *tə *[k](r)aj *[m-s-]rəʔ, 
+  *[dz]oŋ *[ts]ˤut *nˤənʔ *praŋ，
+  *mo *[N]-pruk-s *sˤər *[d]aŋ *tə。
 
 Translation: When you will call the troops to assemble again and return to war, you must summon all the nobles and dignitaries of the state to ensure they follow the soldiers and wield weapons,  and you shall not repeat the old customs. 
 
@@ -1331,7 +1331,7 @@ Text:
   凡貴人使【處前位一行。】
 
 Gloss: 
-  *bəŋ *kuj-s *ni[ŋ] *s-rəʔ [*t.qʰaʔ *[dz]ˤen *[ɢ]ʷrəp-s *ʔi[t] *[g]ˤaŋ。]
+  *bəŋ *kuj-s *ni[ŋ] *s-rəʔ [ *t.qʰaʔ *[dz]ˤen *[ɢ]ʷrəp-s *ʔi[t] *[g]ˤaŋ。]
 
 Translation: All the nobles will be sent to occupy the front rows.
 
@@ -1347,7 +1347,7 @@ Gloss:
   *n̥ˤ[u]p-s *[ts]ˤək *[k]ˤen-s *maŋ，
   *[ts][i][n]-s *[ts]ˤək *[r]ˤok *[ts]ewk 
   *[ɢ]ʷəʔ *s-taŋʔ，
-  *kəj *mˤak *tə *tˤaŋ-s 。
+  *kəj *mˤak *tə *tˤaŋ-s。
 
 Translation: The retreat will be followed by slaughter, and the advance will be followed by rewards, honors, and admiration.  No moment will be more crucial than this.”
 
@@ -1355,7 +1355,7 @@ Translation: The retreat will be followed by slaughter, and the advance will be 
 
 Text: 
   莊公又問曰：
-「復班戰有道乎？」
+  「復班戰有道乎？」
 
 Gloss: 
   *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat：
@@ -1372,8 +1372,8 @@ Text:
   「有。
 
 Gloss: 
-  [*[t]ˤ[u]p *[ɢ]ʷat：
-  *[ɢ]ʷəʔ。
+  【*[t]ˤ[u]p *[ɢ]ʷat：
+   *[ɢ]ʷəʔ。
 
 Translation: [Cao Mo] replied: “There is. 
 
@@ -1389,7 +1389,7 @@ Text:
 
 Gloss: 
   *[k]ə[t]-s *tar-s *[N]-pruk-s *[l̥]Ak-s，
-  *Cə.[g]ˤaw-s *riŋ-s *[ʔ]ˤa] *[k]ʷər *truŋ, 
+  *Cə.[g]ˤaw-s *riŋ-s *[ʔ]ˤa *[k]ʷər】 *truŋ， 
   *[ɢ]ʷat：
   *[k.d][e][n]ʔ-s *[k]ˤr[a]p *C.ri[t]-s *praŋ，
   *mraŋ *C.nik *[ts]aŋ *tar-s。
@@ -1451,7 +1451,7 @@ Text:
 
 Gloss: 
   *nˤəʔ *m-riŋ-s *bˤrak *[d]ˤa *Nə.tsˤuʔ *mə-lək *koŋ *praŋ，
-   *kˤak *[m-ts]ˤəʔ-s *n[ə][r]ʔ *[ts]ˤaŋ。
+  *kˤak *[m-ts]ˤəʔ-s *n[ə][r]ʔ *[ts]ˤaŋ。
 
 Translation: At that point, order your recruits to have a meal early tomorrow morning, equip themselves with weapons, and then take charge of and transport your spoils. 
 
@@ -1463,7 +1463,7 @@ Text:
   毋使民疑。
 
 Gloss: 
-  *[k]ə[t]-s *tar-s *[ts]aŋ *pʰ(r)a，
+  *[k]ə[t]-s *tar-s *[ts]aŋ *pʰ()a，
   *ɢʷ(r)aj *tə *mo *lˤəʔ，
   *mo *s-rəʔ *mi[ŋ] *[ŋ](r)ə。
 
@@ -1476,7 +1476,7 @@ Text:
   及XXXV爾龜筮, 皆勝之。
 
 Gloss: 
-*[m-k-]rəp *n[ə][r]ʔ *[k]ʷrə *[d][e][t]-s，*kˤrij *l̥əŋ *tə。
+  *[m-k-]rəp *n[ə][r]ʔ *[k]ʷrə *[d][e][t]-s，*kˤrij *l̥əŋ *tə。
 
 Translation: If divinations using turtle shells and yarrow stalks were to predict Victory,
 
@@ -1517,7 +1517,7 @@ Translation: This is the appropriate way to return the troops after the combat.
 
 Text: 
   莊公又問曰：
-  復甘XXXVI戰有道乎？」
+  「復甘XXXVI戰有道乎？」
 
 Gloss: 
   *[ts]raŋ *C.qˤoŋ *[ɢ]ʷəʔ-s *C.mu[n]-s *[ɢ]ʷat：
@@ -1696,7 +1696,7 @@ Translation: Duke Zhuang, then, asked:  “How can an attack be launched? ”
 
 Text: 
   答曰：
- 「民有寶：
+  「民有寶：
   曰城，
   曰固，
   曰阻。
@@ -1738,7 +1738,7 @@ Translation: Duke Zhuang then asked again: “What is a good defense like? ”
 
 Text: 
   答曰：
- 「其食必足以食【之, 
+  「其食必足以食【之, 
   其兵足以利之，
   】XLI其城固足以捍之。
 
@@ -1757,15 +1757,13 @@ Text:
   上下和且輯，
   絓紀於大國, 
   大國親之, 
-  天下起志，
-  諸侯寡疑。」
+  天下起志，諸侯寡疑。」
 
 Gloss: 
   *daŋʔ-s *m-gˤraʔ-s *[ɢ]ˤoj *tsa *[dz][u]p, 
   *[k]ʷˤre-s *k(r)əʔ *[ʔ]ˤa *lˤa[t]-s *[C.q]ʷˤək，
   *lˤa[t]-s *[C.q]ʷˤək *[tsʰ]i[n] *tə, 
-  *l̥ˤi[n] *m-gˤraʔ-s *C.qʰ(r)əʔ *tək-s，
-  *ta *[g]ˤ(r)o *[C.k]ʷˤraʔ *[ŋ](r)ə。
+  *l̥ˤi[n] *m-gˤraʔ-s *C.qʰ(r)əʔ *tək-s，*ta *[g]ˤ(r)o *[C.k]ʷˤraʔ *[ŋ](r)ə。
 
 Translation: Let there be harmony and concord between the higher and lower ranks.  Interknot threads with the Great States and treat them with brotherhood.  Let the whole world elevate its aspirations,  and let the nobles cast away all doubts.
 
@@ -1773,7 +1771,7 @@ Translation: Let there be harmony and concord between the higher and lower ranks
 
 Text: 
   莊公又問曰：
- 「吾有所聞之：
+  「吾有所聞之：
   一出言XLII
   三軍皆歡,
   一出言
@@ -1831,7 +1829,7 @@ Translation: Duke Zhuang, therefore, exclaimed: “Mo, my words are by no means 
 
 Text: 
   曹沫答曰：
- 「臣聞之：
+  「臣聞之：
   昔之起於天下者，
   各以其世，
   以及其身。

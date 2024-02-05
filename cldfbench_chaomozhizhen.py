@@ -405,7 +405,7 @@ class Dataset(BaseDataset):
 
         errors = "# Text - Table - Mismatches\n\n"
         for key, example in full_text.items():
-            if 200 < key < 399:
+            if 350 < key < 499:
                 print("Processing key:", key)  # Print the key being processed
                 errors += "## Unit {0}, phrase {1} in Text\n\n".format(
                     example["Unit"], key)
