@@ -16,8 +16,7 @@ Gloss:
   *N-tsˤu *mˤat *n[u]p *[k]ˤen-s，
   *[ɢ]ʷat：
   *[s]Ak *tiw *s.ti[t] *tə *p(r)oŋ *r.ŋˤaʔ *lAjʔ，
-  *tˤoŋ *s-nˤər *[tsʰ]i[t] *pˤrak，
-  *nˤ[ə]m *pˤək *C.ŋˤaʔ *pˤrak，
+  *tˤoŋ *s-nˤər *[tsʰ]i[t] *pˤrak，*nˤ[ə]m *pˤək *C.ŋˤaʔ *pˤrak，
   *pəj *s-ŋrar *pəj  *lˤrak，
   *ma *[ɢ]ʷəʔ *pə *mi[ŋ]。
 
@@ -547,7 +546,7 @@ Text:
 
 
 Gloss: 
-  *N-tsˤu *mˤat *[ɢ]ʷat：
+  *N-tsˤu *mˤat *[ɢ]ʷat： 
   *s.rum *[k]ʷər *lˤa[t]-s *t-kʰut-s，
   *C.qur *[ts]əʔ *s-rut-s，
   *pi[t]*[ɢ]ʷəʔ *ni[j]-s *[ts]aŋ *[k]ʷər; 
@@ -626,8 +625,7 @@ Gloss:
   *s.rum *[g]ˤaŋ *tə *[ɢ]ˤ(r)oʔ，
   *[k]ˤ(r)oʔ  *N-[k]ˤen-s *tˤorʔ *praŋ，
   *t.[g]əp *C.ŋˤaʔ *tə *kˤre[n]，
-  *pi[t] *[ɢ]ʷəʔ *C.qˤoŋ *[s]ˤu[n]，
-  *C.qˤoŋ *[ts]əʔ，
+  *pi[t] *[ɢ]ʷəʔ *C.qˤoŋ *[s]ˤu[n]，*C.qˤoŋ *[ts]əʔ，
   *[d]eʔ *[ɢ]ʷə[t]-s *[k]ʷər *k(r)əʔ。
 
 Translation: After the first three rows, only soldiers armed for close combat should appear. Among the first fifteen rows, the duke’s nephews and sons should be present. This is what is known as military discipline.
@@ -732,9 +730,9 @@ Text:
 Gloss: 
   *[t]ˤ[u]p *[ɢ]ʷat：
   *C.qur *mo *dˤar-s *s.[b]i[t]-s *[r]ˤaw，
-  *ləʔ *C.qʷˤar *daŋʔ-s *m-gˤraʔ-s *tə *[dz]eŋ *N-ɢʷ(r)aj-s；*pʰi[t] *p(r)a *[C.k]ʷˤraʔ *mə.bəʔ *tə *[ŋ]rok *s.[ɢ]oŋ-s，
-   *C.qur *pi[t] *n̥i[ŋ] *l̥ˤeŋ *tə。
-   *[ɢ]ʷəʔ-s *tre *pə *[ts]ok-s，
+  *ləʔ *C.qʷˤar *daŋʔ-s *m-gˤraʔ-s *tə *[dz]eŋ *N-ɢʷ(r)aj-s；
+  *pʰi[t] *p(r)a *[C.k]ʷˤraʔ *mə.bəʔ *tə *[ŋ]rok *s.[ɢ]oŋ-s，*C.qur *pi[t] *n̥i[ŋ] *l̥ˤeŋ *tə。
+  *[ɢ]ʷəʔ-s *tre *pə *[ts]ok-s，
   *ma *s-qʰaʔ *pə *truŋ，
   *[ts]ˤək *mi[ŋ] *[tsʰ]i[n] *tə。
 

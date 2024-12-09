@@ -70,7 +70,7 @@ def old_chinese(form):
 
 
 def parse_chinese_text(text):
-    stop_symbols = "？，。："
+    stop_symbols = "；？，。："
     post_stop = "」】"
     pre_stop = "【「"
     out = []
@@ -93,7 +93,7 @@ def parse_chinese_text(text):
 
 def split_chinese_text(text):
     out = [""]
-    stop_symbols = "？，。："
+    stop_symbols = "；？，。："
     non_stop_symbols = "【「」】"
     stop = False
     for char in text:
@@ -114,7 +114,7 @@ def split_chinese_text(text):
 
 
 def parse_text(text, chars, args):
-    stop_symbols = "？【」，。：】「"
+    stop_symbols = "；？【」，。：】「"
 
     lines = defaultdict(
         lambda: {
@@ -162,6 +162,10 @@ def parse_text(text, chars, args):
         })
         
     full_count = 1
+    lookup = {
+            "XXXVII【慌者】悔之，": "XXXVII【慌 者】 悔 之，".split(),
+            "「XX【為和如何？」": "「XX【為 和 如 何？」".split()
+            }
     for key, line in sorted(lines.items(), key=lambda x: int(x[0])):
         if not len(lines["Text"]) == len(lines["Gloss"]):
             print(len(lines["Text"]), lines["Text_Lines"], )
@@ -169,33 +173,52 @@ def parse_text(text, chars, args):
             input()
         elif len(lines["Text"]) == len(lines["Gloss"]):
             for i, (new_text, new_gloss) in enumerate(
-                    zip(line["Text"], line["Gloss"])):             
-                segmented = segment(new_text, chars)
-                new_segmented = []
-                merge = False
-                for char in segmented:
-                    if char in stop_symbols or not is_chinese(char):
-                        if char in "【「":
-                            new_segmented += [char]
-                            merge = True
-                        else:
-                            try:
-                                new_segmented[-1] += char
-                            except IndexError:
+                    zip(line["Text"], line["Gloss"])):  
+                if new_text in lookup:
+                    new_segmented = lookup[new_text]
+                else:
+                    segmented = segment(new_text, chars)
+                    new_segmented = []
+                    merge = False
+                    for char in segmented:
+                        if char in stop_symbols or not is_chinese(char):
+                            if char in "【「":
                                 new_segmented += [char]
                                 merge = True
-                    else:
-                        if merge:
-                            merge = False
-                            new_segmented[-1] += char
+                            else:
+                                try:
+                                    new_segmented[-1] += char
+                                except IndexError:
+                                    new_segmented += [char]
+                                    merge = True
                         else:
-                            new_segmented += [char]
+                            if merge:
+                                merge = False
+                                new_segmented[-1] += char
+                            else:
+                                new_segmented += [char]
+                new_gloss = new_gloss.replace(" ?", "?")
+                new_gloss = new_gloss.replace(" ：", ":")
+                new_gloss = new_gloss.replace(" ？", "?")
+                new_gloss = new_gloss.replace(" 。", ".")
+                new_gloss = new_gloss.replace("。", ".")
+                new_gloss = new_gloss.replace(" ，", ",")
+                new_gloss = new_gloss.replace(" ；", ";")
+                new_gloss = new_gloss.replace("[*", "*[")
+                new_gloss = new_gloss.replace("† ", "")
+                new_gloss = new_gloss.replace("[ *", "*[")
+                new_gloss = new_gloss.replace("【 *", "*[")
+                new_gloss = new_gloss.replace("*kʰˤeʔ / *kʰˤijʔ", "*kʰˤeʔ/kʰˤijʔ")
+                new_gloss = re.sub(r"([^\s【])\*", r"\1 *", new_gloss) 
+                new_gloss = re.sub(r"([^\s])【", r"\1 【", new_gloss) 
                 if len(new_segmented) != len(new_gloss.split()):
                     args.log.info("Problem in {0} / {1}".format(
                         line["Unit"],
                         i+1))
                     print(new_segmented)
                     print(new_gloss)
+                # split new_gloss by asterisk (!)
+
                 full_text[full_count]["Translation"] = line["Translation"]
                 full_text[full_count]["Phrase"] = i + 1
                 full_text[full_count]["Phrase_Number"] = i + 1
@@ -207,6 +230,45 @@ def parse_text(text, chars, args):
                 full_text[full_count]["Number"] = full_count
                 full_count += 1
     return full_text
+
+
+def parse_oc(info, text, chars):
+    lookup = {
+            "*C.qur ! // *[ts]əʔ // *tsəʔ": "*C.qur // *tsəʔ",
+            "! *[ts]əʔ // *tsəʔ": "*tsəʔ",
+            "*[d]eʔ // ! *kˤa(ʔ)-s // *kˤaʔ-s": "*[d]eʔ // *kˤa(ʔ)-s",
+            "dajH bju // bju // pju": "dajH bju",
+            "*lˤa[t]-s // ! *ba // *[b]a // *p(r)a": "*lˤa[t]-s // *ba",
+            "*lˤa[t]-s // ! *ba // *[b]a // *p(r)a": "*lˤa[t]-s // *ba",
+            "*C.qur // ! *[ts]əʔ // *tsəʔ": "*C.qur // *tsəʔ",
+            "*tə // ! *N-kˤre[n] // *kˤre[n] // *kˤre[n]": "*tə // N-ˤre[n]",
+            "*pʰi[t] // ! *ba // *[b]a // *p(r)a": "*pʰi[t] // *ba",
+            "*C.qˤoŋ // ! *[ts]əʔ // *tsəʔ": "*C.qˤoŋ // *tsəʔ",
+            }
+    if text in lookup:
+        text = lookup[text]
+    if len(chars) > 1:
+        if text.startswith("!"):
+            text = [text.split(" // ")[0][2:]]
+        elif " // " in text:
+            text = text.split(" // ")
+        elif " / " in text:
+            text = text.split(" / ")
+        elif " " in text:
+            text = text.split(" ")
+        else:
+            text = [text]
+        text = [old_chinese(t) for t in text]
+    else:
+        if " // " in text:
+            text = text.split(" // ")[0]
+        elif " / " in text:
+            text = text.split(" / ")[0]
+        elif " " in text:
+            text = text.replace("!", "").strip().split(" ")[0]
+        text = [old_chinese(text)]
+        
+    return "_".join(text)
 
 
 def parse_data(data, text):
@@ -264,7 +326,7 @@ def parse_data(data, text):
             examples[phrase_idx]["Slip_Number"] = slip_number
 
         # get the word_idx
-        new_word_idx = row["Word"] + "-" + old_chinese(row["OC"])
+        new_word_idx = row["Word"] + "-" + parse_oc(row["ID"], row["OC"], row["Word"])
         if new_word_idx not in word2id:
             word2id[new_word_idx] = "word-{0}".format(word_count)
             word_count += 1
@@ -272,24 +334,32 @@ def parse_data(data, text):
 
             # fill in basic entries
             entries[word_idx]["ID"] = word_idx
-            entries[word_idx]["Headword"] = row["Word"] + " " + old_chinese(row["OC"])
+            entries[word_idx]["Headword"] = row["Word"] + " " + parse_oc(
+                    row["ID"], row["OC"], row["Word"])
             entries[word_idx]["Gloss"] = row["Gloss"]
-            entries[word_idx]["Middle_Chinese"] = row["MC"]
-            entries[word_idx]["Old_Chinese"] = row["OC"]
+            entries[word_idx]["Middle_Chinese"] = parse_oc(
+                    row["ID"], row["MC"], row["Word"])
+            entries[word_idx]["Old_Chinese"] = parse_oc(
+                    row["ID"], row["OC"], row["Word"])
             entries[word_idx]["Character"] = row["Word"]
         else:
-            word_idx = new_word_idx
+            word_idx = word2id[new_word_idx]
 
         # fill word dictionary
         entries[word_idx]["Character_Variants"] += [row["Raw_Word"]]
-        entries[word_idx]["Middle_Chinese_Readings"] += row["MC"].split(" // ")
-        entries[word_idx]["Old_Chinese_Readings"] += row["OC"].split(" ")
+        entries[word_idx]["Middle_Chinese_Readings"] += [
+                parse_oc(row["ID"], row["MC"], row["Word"])]
+        entries[word_idx]["Old_Chinese_Readings"] += [
+                parse_oc(row["ID"], row["MC"], row["Word"])]
         entries[word_idx]["Glosses"] += [row["Gloss"]]
         entries[word_idx]["Example_IDS"] += [phrase_idx]
 
         # fill text examples
-        examples[phrase_idx]["Old_Chinese_Reading"] += [row["OC"].split(" // ")[0]]
-        examples[phrase_idx]["Middle_Chinese_Reading"] += [row["MC"].split(" ")[0]]
+        # check for double readings
+        examples[phrase_idx]["Old_Chinese_Reading"] += [parse_oc(
+            row["ID"], row["OC"], row["Word"])]
+        examples[phrase_idx]["Middle_Chinese_Reading"] += [parse_oc(
+            row["ID"], row["MC"], row["Word"])]
         examples[phrase_idx]["Primary_Text"] += [row["Raw_Word"]]
         examples[phrase_idx]["Analyzed_Word"] += [row["Word"]]
         examples[phrase_idx]["Gloss"] += [row["Gloss"].strip().replace(" ", ".")]
@@ -298,7 +368,10 @@ def parse_data(data, text):
     # refine data
     for example in examples.values():
         example["Primary_Text"] = " ".join(example["Primary_Text"])
-    for entry in entries.values():
+    for idx, entry in entries.items():
+        if not entry["ID"]:
+            print("!", idx, entry)
+            input()
         entry["Middle_Chinese_Readings"] = sorted(
             set(entry["Middle_Chinese_Readings"]),
             key=lambda x: entry["Middle_Chinese_Readings"].count(x),
@@ -313,6 +386,21 @@ def parse_data(data, text):
             reverse=True)
 
     return entries, examples
+
+
+def join_parts(texta, textb):
+    i, j = 0, 0
+    out = []
+    while i < len(texta):
+        char = texta[i]
+        new_out = []
+        for k, part in enumerate(char.split("_")):
+            new_out += [textb[j + k]]
+        out += [new_out]
+        j += k
+        j += 1
+        i += 1
+    return ["_".join(p) for p in out]
 
 
 class Dataset(BaseDataset):
@@ -346,7 +434,7 @@ class Dataset(BaseDataset):
             {"name": "Segments", "datatype": "string", "separator": " "},
             {"name": "Sound_Classes", "datatype": "string", "separator": " "},
             "Character",
-            "Middle Chinese",
+            "Middle_Chinese",
             "Old_Chinese",
             {"name": "Middle_Chinese_Readings", "datatype": "string", "separator": " / "},
             {"name": "Old_Chinese_Readings", "datatype": "string", "separator": " / "},
@@ -364,6 +452,10 @@ class Dataset(BaseDataset):
             {"name": "Word_IDS", "datatype": "string", "separator": " "},
             {"name": "Middle_Chinese_Reading", "datatype": "string", "separator": " "},
             {"name": "Old_Chinese_Reading", "datatype": "string", "separator": " "},
+            {"name": "Old_Chinese_Reading_2", "datatype": "string", "separator": " "},
+
+            {"name": "Analyzed_Word_2", "datatype": "string", "separator": " "},
+
             "Cognacy"
         )
 
@@ -388,13 +480,9 @@ class Dataset(BaseDataset):
         entries, examples = parse_data(data, "ad")
         chars = set(
             [" I ", " II ", " III ", " IV ", " V ", " VI ", " VII ", 
-            " VIII ", " IX ", " X "]
+            " VIII ", " IX ", " X ", " XX ", " XXXVII【 "]
         )
-        for entry in entries.values():
-            args.writer.objects["EntryTable"].append(entry)
-            chars.add(entry["Character"])
-        for example in examples.values():
-            args.writer.objects["ExampleTable"].append(example)
+
 
         with open(self.raw_dir / "ad-text.md") as f:
             full_text = parse_text(f, chars, args)
@@ -403,25 +491,48 @@ class Dataset(BaseDataset):
         for example in examples.values():
             example_test[example["Number"]] = example
 
+
+        for entry in entries.values():
+            args.writer.objects["EntryTable"].append(entry)
+            chars.add(entry["Character"])
+        ecount = 0
+        for example in examples.values():
+            num = example["Number"]
+            ocr = full_text[num]["Gloss"].split(" ")
+            aw = full_text[num]["Text"]
+            try:
+                ocr = join_parts(example["Old_Chinese_Reading"], ocr)
+            except IndexError:
+                ecount += 1
+                print(ecount)
+                print(example["ID"])
+                print(num)
+                print(ocr)
+                print(example["Old_Chinese_Reading"])
+                print("---")
+            example["Old_Chinese_Reading_2"] = ocr
+            example["Analyzed_Word_2"] = aw
+            args.writer.objects["ExampleTable"].append(example)
+
         errors = "# Text - Table - Mismatches\n\n"
-        for key, example in full_text.items():
-            if 350 < key < 499:
-                print("Processing key:", key)  # Print the key being processed
-                errors += "## Unit {0}, phrase {1} in Text\n\n".format(
-                    example["Unit"], key)
-                header_len = max(
-                    [
-                        len(example["Text"]),
-                        len(example_test[example["Number"]]["Analyzed_Word"])
-                    ])
-                header = header_len * ["C"]
-                errors += " | ".join(header) + "\n"
-                errors += " | ".join([h.replace("C", "---") for h in header]) + "\n"
-                ex1 = example["Text"] + header_len * [""]
-                ex2 = example_test[example["Number"]]["Analyzed_Word"] + header_len * [""]
-                errors += " | ".join(ex1[:header_len]) + "\n"
-                errors += " | ".join(ex2[:header_len]) + "\n"
-                errors += "\n"
+        #for key, example in full_text.items():
+        #    if 350 < key < 499:
+        #        print("Processing key:", key)  # Print the key being processed
+        #        errors += "## Unit {0}, phrase {1} in Text\n\n".format(
+        #            example["Unit"], key)
+        #        header_len = max(
+        #            [
+        #                len(example["Text"]),
+        #                len(example_test[example["Number"]]["Analyzed_Word"])
+        #            ])
+        #        header = header_len * ["C"]
+        #        errors += " | ".join(header) + "\n"
+        #        errors += " | ".join([h.replace("C", "---") for h in header]) + "\n"
+        #        ex1 = example["Text"] + header_len * [""]
+        #        ex2 = example_test[example["Number"]]["Analyzed_Word"] + header_len * [""]
+        #        errors += " | ".join(ex1[:header_len]) + "\n"
+        #        errors += " | ".join(ex2[:header_len]) + "\n"
+        #        errors += "\n"
 
         # Check file writing
         print("Before file writing")
