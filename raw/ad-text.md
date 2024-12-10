@@ -1556,7 +1556,7 @@ Text:
 
 Gloss: 
   *mo *mˤuk-s *ləʔ *[ts][i][n]-s，
-   *pi[t] *kʷˤaj-s *[dz]ˤen *kˤoŋ。
+  *pi[t] *kʷˤaj-s *[dz]ˤen *kˤoŋ。
 
 Translation: Do not advance recklessly;  rather, focus on surpassing previous merits.
 
@@ -1701,7 +1701,7 @@ Text:
   三者盡用, 
   不偕，
   邦XL家以忧。
-  善攻者以其所有，
+  善攻者必以其所有，
   以攻人之所無有。」
 
 Gloss: 
@@ -1713,7 +1713,7 @@ Gloss:
    *s.rum *tAʔ *tsi[n]ʔ *loŋ-s, 
    *pə *kˤrij，
    *pˤroŋ *kˤra *ləʔ *ʔ(r)u, 
-   *[g]e[n]ʔ *kˤoŋ *tAʔ *ləʔ *gə *s-qʰaʔ *[ɢ]ʷəʔ, 
+   *[g]e[n]ʔ *kˤoŋ *tAʔ *pit *ləʔ *gə *s-qʰaʔ *[ɢ]ʷəʔ, 
    *ləʔ *kˤoŋ *ni[ŋ] *tə *s-qʰaʔ *ma *[ɢ]ʷəʔ。
 
 Translation: [Cao Mo] replied: “The people have some treasures:  these are the city walls, fortresses, and strategic passes. These three treasures should all be utilized. If they are not harmonized, they bring pain to one’s home and state.  Excelling in an attack means exploiting what you have to strike at what the enemy lacks. ”
