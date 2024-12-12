@@ -58,7 +58,7 @@ for row in ds.tablegroup.tabledict["characters.csv"].iterdicts():
     characters[row["ID"]] = " ".join(viewbox)
 
 slip = ""
-for phrase in phrases[:25]:
+for phrase in phrases[:45]:
     slip_ = phrase.data["Text_Unit"]
     ptext = ""
     if slip != slip_:
@@ -80,7 +80,7 @@ for phrase in phrases[:25]:
     #if phrase.data["Slip_Number"] in [1, 2]:
     ptext += "<tr><th>Characters</th>"
     chars = phrase.data["Character_IDS"]
-    if phrase.data["Text_Unit"] in ["1", "2", "3", "4", "5", "6", "7"]:
+    if int(phrase.data["Text_Unit"]) < 14:
         for i, word in enumerate(phrase.cldf.analyzedWord):
             print(i, word, chars)
             ptext += "<td>"
