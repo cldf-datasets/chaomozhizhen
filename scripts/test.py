@@ -36,15 +36,30 @@ table.entry.td {
 }
 """
 
+
+svg_snippet = """
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="{0}">
+  <image x="0" y="0" width="2181" height="3075" href="{1}" />
+</svg>
+"""
+
 text += "</style><body>"
 
 WORDS = {}
 for word in words:
     WORDS[word.cldf.id] = word.data
 
+characters = {}
+for row in ds.tablegroup.tabledict["characters.csv"].iterdicts():
+    rect = row["Rectangle"]
+    viewbox = []
+    for itm in rect[5:].split(','):
+        viewbox += [itm.split("=")[1]]
+    characters[row["ID"]] = " ".join(viewbox)
+
 slip = ""
-for phrase in phrases:
-    slip_ = phrase.data["Slip_ID"].replace("ad", "slip")
+for phrase in phrases[:25]:
+    slip_ = phrase.data["Text_Unit"]
     ptext = ""
     if slip != slip_:
         if slip:
@@ -62,6 +77,25 @@ for phrase in phrases:
                 + slip_ + \
                 '">' + word + "</span></td>"
     ptext += "</tr>\n"
+    #if phrase.data["Slip_Number"] in [1, 2]:
+    ptext += "<tr><th>Characters</th>"
+    chars = phrase.data["Character_IDS"]
+    if phrase.data["Text_Unit"] in ["1", "2", "3", "4", "5", "6", "7"]:
+        for i, word in enumerate(phrase.cldf.analyzedWord):
+            print(i, word, chars)
+            ptext += "<td>"
+            for w in word:
+                if chars:
+                    next_char_id = chars.pop(0)
+                    if next_char_id:
+                        image = next_char_id.split("/")[0] + ".jpg"
+                        if next_char_id in characters:
+                            snippet = svg_snippet.format(characters[next_char_id],
+                                                 image
+                                                       )
+                            ptext += snippet
+            ptext += "</td>"
+        ptext += "</tr>\n"
     ptext += "<tr><th>Gloss</th>"
     for i, word in enumerate(phrase.cldf.gloss):
         ptext += "<td><i>" + word + "</i></td>"

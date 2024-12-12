@@ -286,7 +286,9 @@ def parse_data(data, text):
             "Middle_Chinese_Reading": [],
             "Gloss": [],
             "Word_IDS": [],
-            "Cognacy": ""
+            "Cognacy": "",
+            "Character_IDS": [],
+            "Text_Unit": [],
         })
     entries = defaultdict(
         lambda: {
@@ -309,21 +311,21 @@ def parse_data(data, text):
     previous_slip, previous_phrase = "", ""
     word2id, word_count = {}, 1
     for row in data:
-        if previous_slip != row["Slip_ID"]:
-            word_number += 1
-            slip_number += 1
-            slip_idx = text + "-" + row["Slip_ID"]
-            previous_slip = row["Slip_ID"]
+        #if previous_slip != row["Slip_ID"]:
+        #    word_number = 1
+        #    #slip_number += 1
+        #    slip_idx = text + "-" + row["Slip_ID"]
+        #    previous_slip = row["Slip_ID"]
         if previous_phrase != row["Phrase_ID"]:
             phrase_number += 1
-            phrase_idx = text + "-" + row["Slip_ID"] + "-" + row["Phrase_ID"]
+            phrase_idx = row["Phrase_ID"]
             previous_phrase = row["Phrase_ID"]
 
             # fill in entries
             examples[phrase_idx]["ID"] = phrase_idx
-            examples[phrase_idx]["Slip_ID"] = slip_idx
+            #examples[phrase_idx]["Slip_ID"] = slip_idx
             examples[phrase_idx]["Number"] = phrase_number
-            examples[phrase_idx]["Slip_Number"] = slip_number
+            #examples[phrase_idx]["Slip_Number"] = slip_number
 
         # get the word_idx
         new_word_idx = row["Word"] + "-" + parse_oc(row["ID"], row["OC"], row["Word"])
@@ -364,6 +366,33 @@ def parse_data(data, text):
         examples[phrase_idx]["Analyzed_Word"] += [row["Word"]]
         examples[phrase_idx]["Gloss"] += [row["Gloss"].strip().replace(" ", ".")]
         examples[phrase_idx]["Word_IDS"] += [word_idx]
+        examples[phrase_idx]["Text_Unit"] = row["Text_Unit"]
+        
+        if int(row["Slip_ID"].split(" ")[0]) < 7:
+            sids = row["Slip_ID"].split()
+            adids = row["AD_IDS"].split()
+            adims = row["AD_Images"].split()
+            sbids = row["SB_IDS"].split()
+            sbims = row["SB_Images"].split()
+            charids = []
+            if adids:
+                for sid, adid, adim in zip(sids, adids, adims):
+                    charid = "{0}/{1}/{2}".format(
+                            adim, sid, adid)
+                    charids += [charid]
+            elif sbids:
+                for sid, sbid, sbim in zip(sids, sbids, sbims):
+                    charid = "{0}/{1}/{2}".format(
+                            sbim, sid, sbid)
+                    charids += [charid]
+            else:
+                charids += ["0"]
+            examples[phrase_idx]["Character_IDS"] += [" ".join(charids)]
+
+
+
+
+
 
     # refine data
     for example in examples.values():
@@ -446,18 +475,26 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component(
             'ExampleTable',
             {"name": 'Number', "datatype": "integer"},
-            'Slip_ID',
-            {'name': 'Slip_Number', 'datatype': 'integer'},
+            {"name": 'Text_Unit', "datatype": "string"},
             'Text_ID',
             {"name": "Word_IDS", "datatype": "string", "separator": " "},
             {"name": "Middle_Chinese_Reading", "datatype": "string", "separator": " "},
             {"name": "Old_Chinese_Reading", "datatype": "string", "separator": " "},
             {"name": "Old_Chinese_Reading_2", "datatype": "string", "separator": " "},
-
             {"name": "Analyzed_Word_2", "datatype": "string", "separator": " "},
-
+            {"name": "Character_IDS", "datatype": "string", "separator": " "},
             "Cognacy"
         )
+
+        args.writer.cldf.add_table(
+            "characters.csv", 
+            "ID", 
+            "Name",
+            "Rectangle",
+            "Image"
+            )
+        #args.writer.cldf.add_foreign_key("ExampleTable", "Character_IDS",
+        #                                 "characters.csv", "ID")
 
         args.writer.cldf.add_table('texts.csv', 'ID', 'Title')
 
@@ -475,9 +512,23 @@ class Dataset(BaseDataset):
                 'Glottocode': ''
             }
         )
+        
 
         data = self.raw_dir.read_csv("ad.tsv", delimiter="\t", dicts=True)
         entries, examples = parse_data(data, "ad")
+
+        for f in ["ad-1-2.csv", "ad-3-6.csv"]:
+            dt = self.raw_dir.read_csv(f, delimiter=",", dicts=True)
+            for row in dt:
+                if row["QUOTE_TRANSCRIPTION"] != "full":
+                    args.writer.objects["characters.csv"].append(
+                            {
+                                "ID": f.strip(".csv") + "/" + row["QUOTE_TRANSCRIPTION"].replace("r", "/"),
+                                "Name": "",
+                                "Rectangle": row["ANCHOR"],
+                                "Image": f.strip(".csv") + ".jpg"
+                                })
+
         chars = set(
             [" I ", " II ", " III ", " IV ", " V ", " VI ", " VII ", 
             " VIII ", " IX ", " X ", " XX ", " XXXVII【 "]
@@ -512,6 +563,7 @@ class Dataset(BaseDataset):
                 print("---")
             example["Old_Chinese_Reading_2"] = ocr
             example["Analyzed_Word_2"] = aw
+            print(example["Character_IDS"])
             args.writer.objects["ExampleTable"].append(example)
 
         errors = "# Text - Table - Mismatches\n\n"

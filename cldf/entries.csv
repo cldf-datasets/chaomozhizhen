@@ -1,441 +1,445 @@
 ID,Language_ID,Headword,Part_Of_Speech,Segments,Sound_Classes,Character,Middle_Chinese,Old_Chinese,Middle_Chinese_Readings,Old_Chinese_Readings,Glosses,Example_IDS
-word-1,OldChinese,魯 r.ŋˤaʔ,,,,魯,luX,r.ŋˤaʔ,luX,luX,Lu (place name),ad-1-1 ad-1-5
-word-2,OldChinese,莊公 tsraŋ_C.qˤoŋ,,,,莊公,tsrjang_kuwng,tsraŋ_C.qˤoŋ,tsrjang_kuwng,tsrjang_kuwng,duke Zhuang (personal name),ad-1-1 ad-4-22 ad-6-36 ad-7-54 ad-13-101 ad-14-118 ad-16-134 ad-18-155 ad-19-164 ad-20-173 ad-24-208 ad-25-222 ad-26-233 ad-28-252 ad-29-262 ad-33-291 ad-36-321 ad-38-335 ad-40-348 ad-41-360 ad-42-370 ad-43-382
-word-3,OldChinese,將 tsaŋ,,,,將,tsjang,tsaŋ,tsjang,tsjang,aspectual marker / conduct / aspect marker / general,ad-1-1 ad-18-152 ad-26-229 ad-30-268 ad-32-282 ad-34-299 ad-34-304 ad-34-308 ad-35-310 ad-35-313 ad-37-326
-word-4,OldChinese,為 ɢʷ(r)aj,,,,為,hjwe,ɢʷ(r)aj,hjwe,hjwe,be / do / be ,ad-1-1 ad-11-89 ad-13-102 ad-14-117 ad-14-119 ad-16-133 ad-16-135 ad-17-140 ad-18-149 ad-18-151 ad-19-165 ad-21-174 ad-21-181 ad-31-275 ad-34-305 ad-35-314
-word-5,OldChinese,大 lˤat-s,,,,大,dajH,lˤat-s,dajH,dajH,big / great / big ,ad-1-1 ad-2-9 ad-10-77 ad-15-121 ad-15-127 ad-30-266 ad-42-367 ad-42-368 ad-45-393
-word-6,OldChinese,鍾 toŋ,,,,鍾,tsyowng,toŋ,tsyowng,tsyowng,bell,ad-1-1 ad-2-9 ad-8-57
-word-7,OldChinese,型 gˤeŋ,,,,型,heng,gˤeŋ,heng,heng,shape,ad-1-2 ad-8-57
-word-8,OldChinese,既 kət-s,,,,既,kj+jH,kət-s,kj+jH,kj+jH,already / finish / aspect marker,ad-1-2 ad-4-23 ad-25-223 ad-28-253 ad-29-260 ad-29-261 ad-33-295 ad-34-308 ad-35-313
-word-9,OldChinese,成 deŋ,,,,成,dzyeng,deŋ,dzyeng,dzyeng,complete / finish,ad-1-2 ad-25-223 ad-27-238
-word-10,OldChinese,矣 qəʔ,,,,矣,hiX,qəʔ,hiX,hiX,modal particle,ad-1-2 ad-25-223 ad-45-391 ad-45-396
-word-11,OldChinese,曹沫 tsˤu_mˤat,,,,曹沫,dzaw_mat,tsˤu_mˤat,dzaw_mat,dzaw_mat,Cao Mo (personal name),ad-1-3 ad-4-25 ad-6-41 ad-8-65 ad-9-69 ad-13-103 ad-14-120 ad-44-386
-word-12,OldChinese,入 nup,,,,入,nyip,nup,nyip,nyip,enter,ad-1-3
-word-13,OldChinese,見 kˤen-s,,,,見,henH,kˤen-s,henH,henH,see,ad-1-3 ad-17-142 ad-31-276 ad-33-287 ad-39-341
-word-14,OldChinese,曰 ɢʷat,,,,曰,hjwot,ɢʷat,hjwot,hjwot,say,ad-1-4 ad-3-16 ad-4-22 ad-4-25 ad-4-27 ad-6-36 ad-6-37 ad-6-41 ad-6-44 ad-7-54 ad-8-65 ad-9-69 ad-13-101 ad-13-103 ad-14-113 ad-14-118 ad-14-120 ad-16-136 ad-18-155 ad-19-157 ad-19-166 ad-21-175 ad-21-182 ad-24-208 ad-24-210 ad-25-222 ad-26-225 ad-26-233 ad-27-235 ad-27-242 ad-27-244 ad-28-252 ad-29-254 ad-29-262 ad-30-264 ad-31-277 ad-33-291 ad-33-293 ad-34-297 ad-34-307 ad-35-310 ad-36-321 ad-37-323 ad-38-335 ad-38-337 ad-40-348 ad-40-350 ad-40-352 ad-40-353 ad-40-354 ad-41-360 ad-41-362 ad-42-370 ad-43-377 ad-43-382 ad-44-386
-word-15,OldChinese,昔 sAk,,,,昔,sjek,sAk,sjek,sjek,past,ad-1-5 ad-2-11 ad-3-16 ad-6-37 ad-44-388
-word-16,OldChinese,周 tiw,,,,周,tsyuw,tiw,tsyuw,tsyuw,Zhou (clan name),ad-1-5 ad-3-16
-word-17,OldChinese,室 s.tit,,,,室,syit,s.tit,syit,syit,house,ad-1-5 ad-3-16
-word-18,OldChinese,之 tə,,,,之,tsyi,tə,tsyi,tsyi,conjunction / anaphoric subtitute of the object / anaphoric substitute of the object / cataphoric substitute of the object / this / nominalization marker,ad-1-5 ad-2-10 ad-2-11 ad-4-23 ad-4-27 ad-4-28 ad-6-32 ad-6-35 ad-6-38 ad-6-38 ad-6-42 ad-6-44 ad-7-45 ad-9-70 ad-10-73 ad-10-76 ad-10-76 ad-11-90 ad-11-90 ad-12-98 ad-14-112 ad-14-115 ad-15-127 ad-16-132 ad-17-141 ad-20-168 ad-20-169 ad-20-169 ad-20-172 ad-21-179 ad-22-191 ad-22-192 ad-24-211 ad-25-213 ad-25-221 ad-26-227 ad-26-231 ad-26-232 ad-27-237 ad-27-241 ad-28-246 ad-28-247 ad-28-249 ad-29-261 ad-31-273 ad-31-274 ad-31-276 ad-31-278 ad-32-283 ad-32-283 ad-32-285 ad-33-290 ad-34-303 ad-35-314 ad-35-316 ad-36-320 ad-37-331 ad-38-332 ad-38-333 ad-38-334 ad-38-339 ad-38-339 ad-40-347 ad-41-359 ad-41-363 ad-41-364 ad-42-365 ad-42-368 ad-42-371 ad-43-376 ad-43-380 ad-44-385 ad-44-387 ad-44-388 ad-45-394 ad-45-395
-word-19,OldChinese,封 p(r)oŋ,,,,封,pjowng,p(r)oŋ,pjowng,pjowng,fief / enfeoff,ad-1-5 ad-2-9
-word-20,OldChinese,也 lAjʔ,,,,也,yaeX,lAjʔ,yaeX,yaeX,modal particle,ad-1-5 ad-2-10 ad-2-11 ad-6-42 ad-8-64 ad-11-89 ad-19-161 ad-22-196 ad-23-197 ad-25-221 ad-26-232 ad-27-241
-word-21,OldChinese,東 tˤoŋ,,,,東,tuwng,tˤoŋ,tuwng,tuwng,east,ad-1-6
-word-22,OldChinese,西 nˤər,,,,西,sej,nˤər,sej,sej,west,ad-1-6
-word-23,OldChinese,七 tsʰit,,,,七,tshit,tsʰit,tshit,tshit,seven,ad-1-6
-word-24,OldChinese,百 pˤrak,,,,百,paek,pˤrak,paek,paek,thousand / hundred,ad-1-6 ad-1-6 ad-21-184 ad-22-185
-word-25,OldChinese,南 nˤəm,,,,南,nom,nˤəm,nom,nom,south,ad-1-6
-word-26,OldChinese,北 pˤək,,,,北,pok,pˤək,pok,pok,north,ad-1-6
-word-27,OldChinese,五 C.ŋˤaʔ,,,,五,nguX,C.ŋˤaʔ,nguX,nguX,five,ad-1-6 ad-17-143 ad-17-146
-word-28,OldChinese,非 pajʔ,,,,非,pjeX,pajʔ,pjeX,pjeX,that,ad-1-7 ad-1-7
-word-29,OldChinese,山 ŋrar,,,,山,srean,ŋrar,srean,srean,mountain,ad-1-7
-word-30,OldChinese,澤 lˤrak,,,,澤,draek,lˤrak,draek,draek,marsh,ad-1-7
-word-31,OldChinese,無 ma,,,,無,mju,ma,mju,mju,not have / negative adverb,ad-1-8 ad-6-42 ad-7-47 ad-7-52 ad-15-124 ad-15-126 ad-16-129 ad-16-130 ad-20-171 ad-34-303 ad-41-359
-word-32,OldChinese,有 ɢʷəʔ,,,,有,hjuwX,ɢʷəʔ,hjuwX,hjuwX,have,ad-1-8 ad-2-14 ad-3-16 ad-3-20 ad-7-51 ad-7-53 ad-8-64 ad-9-71 ad-9-72 ad-11-88 ad-13-107 ad-13-108 ad-14-112 ad-15-123 ad-15-125 ad-15-127 ad-15-128 ad-17-144 ad-18-147 ad-22-189 ad-22-190 ad-22-193 ad-22-194 ad-22-195 ad-24-206 ad-26-224 ad-26-226 ad-26-234 ad-27-236 ad-27-243 ad-28-245 ad-28-253 ad-29-255 ad-29-260 ad-29-263 ad-30-265 ad-31-276 ad-33-289 ad-33-292 ad-33-294 ad-36-322 ad-37-324 ad-38-333 ad-38-336 ad-38-338 ad-40-351 ad-41-358 ad-41-359 ad-42-371 ad-43-376 ad-43-378 ad-45-393
-word-33,OldChinese,不 pə,,,,不,pjuw,pə,pjuw,pjuw,negative adverb / not ,ad-1-8 ad-2-15 ad-3-18 ad-4-29 ad-4-29 ad-6-30 ad-6-33 ad-6-33 ad-6-34 ad-7-49 ad-8-58 ad-8-59 ad-8-60 ad-8-61 ad-8-62 ad-10-79 ad-12-91 ad-12-92 ad-12-93 ad-12-94 ad-12-95 ad-12-96 ad-12-99 ad-16-132 ad-19-161 ad-19-161 ad-19-162 ad-19-162 ad-19-163 ad-19-163 ad-20-170 ad-20-171 ad-23-197 ad-23-197 ad-23-198 ad-23-198 ad-23-199 ad-23-199 ad-23-200 ad-23-200 ad-24-204 ad-24-205 ad-24-211 ad-25-213 ad-26-230 ad-28-246 ad-28-247 ad-28-248 ad-29-256 ad-29-257 ad-31-279 ad-31-280 ad-40-356 ad-44-383 ad-45-391 ad-45-392
-word-34,OldChinese,民 miŋ,,,,民,mjin,miŋ,mjin,mjin,people,ad-1-8 ad-4-29 ad-6-33 ad-13-104 ad-13-105 ad-14-115 ad-15-128 ad-18-154 ad-20-172 ad-21-179 ad-22-191 ad-30-270 ad-35-315 ad-38-333 ad-40-351 ad-43-379
-word-35,OldChinese,今 krəm,,,,今,kim,krəm,kim,kim,today,ad-2-9 ad-4-23 ad-6-40 ad-45-391
-word-36,OldChinese,彌 nər,,,,彌,mjie,nər,mjie,mjie,more,ad-2-9
-word-37,OldChinese,小 sewʔ,,,,小,sjewX,sewʔ,sjewX,sjewX,small / little,ad-2-9 ad-10-77 ad-44-384
-word-38,OldChinese,而 nə,,,,而,nyi,nə,nyi,nyi,conjunction,ad-2-9 ad-2-14 ad-2-15 ad-3-17 ad-3-18 ad-4-29 ad-6-33 ad-7-45 ad-7-47 ad-8-57 ad-8-64 ad-8-65 ad-9-71 ad-9-72 ad-10-81 ad-13-106 ad-13-108 ad-16-130 ad-16-131 ad-18-150 ad-29-260 ad-30-267 ad-30-268 ad-31-276 ad-38-339 ad-38-339 ad-39-341 ad-45-393 ad-45-395 ad-46-398
-word-39,OldChinese,愈 loʔ,,,,愈,yuX,loʔ,yuX,yuX,more,ad-2-9
-word-40,OldChinese,君 C.qur,,,,君,kjun,C.qur,kjun,kjun,her majesty / sovereign / the noble man,ad-2-10 ad-4-26 ad-4-28 ad-6-32 ad-6-43 ad-12-99 ad-15-122 ad-20-167 ad-20-169 ad-22-195 ad-25-220 ad-30-269 ad-31-276 ad-43-380 ad-45-396
-word-41,OldChinese,其 gə,,,,其,gi,gə,gi,gi,possessive pronoun / nominalization marker / modal particle / conjunction,ad-2-10 ad-4-26 ad-11-84 ad-12-100 ad-16-132 ad-26-229 ad-28-246 ad-28-247 ad-28-248 ad-29-256 ad-29-257 ad-30-268 ad-34-308 ad-36-318 ad-36-319 ad-37-330 ad-39-341 ad-39-341 ad-39-342 ad-39-343 ad-41-358 ad-41-363 ad-41-364 ad-42-365 ad-44-389 ad-44-390 ad-45-396
-word-42,OldChinese,圖 dˤa,,,,圖,du,dˤa,du,du,intend,ad-2-10
-word-43,OldChinese,堯 ŋˤew,,,,堯,ngew,ŋˤew,ngew,ngew,Yao (personal name),ad-2-11
-word-44,OldChinese,饗 qʰaŋʔ,,,,饗,xjangX,qʰaŋʔ,xjangX,xjangX,banquet,ad-2-11
-word-45,OldChinese,舜 s.tun-s,,,,舜,sywinH,s.tun-s,sywinH,sywinH,Shun (personal name),ad-2-11
-word-46,OldChinese,飯 bonʔ,,,,飯,bjonX,bonʔ,bjonX,bjonX,eat,ad-2-12
-word-47,OldChinese,於 ʔˤa,,,,於,u,ʔˤa,u,u,preposition,ad-2-12 ad-2-13 ad-2-15 ad-2-15 ad-4-29 ad-6-33 ad-6-40 ad-6-42 ad-8-65 ad-12-91 ad-12-93 ad-12-95 ad-13-102 ad-14-112 ad-14-117 ad-14-119 ad-16-131 ad-16-133 ad-16-135 ad-18-154 ad-21-176 ad-21-177 ad-30-270 ad-31-275 ad-31-280 ad-33-296 ad-42-367 ad-43-378 ad-44-388
-word-48,OldChinese,土 tʰˤaʔ,,,,土,thuX,tʰˤaʔ,thuX,thuX,terracotta,ad-2-12 ad-2-13
-word-49,OldChinese,塯 p(r)uʔ,,,,塯,pjuwX,p(r)uʔ,pjuwX,pjuwX,vessel,ad-2-12
-word-50,OldChinese,欼 s.tʰrə,,,,欼,tsrhiX,s.tʰrə,tsrhiX,tsrhiX,drink,ad-2-13
-word-51,OldChinese,鉶 gˤeŋ,,,,鉶,heng,gˤeŋ,heng,heng,cup,ad-2-13
-word-52,OldChinese,撫 pʰ(r)aʔ,,,,撫,phjuX,pʰ(r)aʔ,phjuX,phjuX,appease,ad-2-14
-word-53,OldChinese,天下 l̥ˤin_gˤraʔ-s,,,,天下,then_haeH,l̥ˤin_gˤraʔ-s,then_haeH,then_haeH,world,ad-2-14 ad-4-23 ad-42-369 ad-44-388
-word-54,OldChinese,此 tsʰe(j)ʔ,,,,此,tshjeX,tsʰe(j)ʔ,tshjeX,tshjeX,this / tihis,ad-2-15 ad-8-56 ad-14-116 ad-18-156 ad-22-196 ad-25-221 ad-26-232 ad-27-241 ad-28-249 ad-29-261 ad-36-320 ad-38-334 ad-40-347 ad-43-381
-word-55,OldChinese,貧 brən,,,,貧,bin,brən,bin,bin,poor,ad-2-15
-word-56,OldChinese,美 mrəjʔ,,,,美,mijX,mrəjʔ,mijX,mijX,beauty,ad-2-15
-word-57,OldChinese,富 pək-s,,,,富,pjuwH,pək-s,pjuwH,pjuwH,rich,ad-2-15
-word-58,OldChinese,德 tˤək,,,,德,tok,tˤək,tok,tok,virtue,ad-2-15 ad-13-108
-word-59,OldChinese,歟 ɢ(r)a(ʔ)(-s),,,,歟,yo,ɢ(r)a(ʔ)(-s),yo,yo,modal particle,ad-2-15
-word-60,OldChinese,戒 kˤrək-s,,,,戒,keajH,kˤrək-s,keajH,keajH,warn,ad-3-16 ad-19-158 ad-37-325
-word-61,OldChinese,言 ŋan,,,,言,ngjon,ŋan,ngjon,ngjon,word,ad-3-16 ad-6-40 ad-6-42 ad-8-56 ad-42-372 ad-43-374 ad-44-383
-word-62,OldChinese,願 ŋon-s,,,,願,ngjwonH,ŋon-s,ngjwonH,ngjwonH,desire,ad-3-17 ad-3-18
-word-63,OldChinese,正 teŋ-s,,,,正,tsyengH,teŋ-s,tsyengH,tsyengH,contend / government,ad-3-17 ad-9-72
-word-64,OldChinese,功 kˤoŋ,,,,功,kuwng,kˤoŋ,kuwng,kuwng,merit,ad-3-17 ad-13-106 ad-21-183 ad-37-328
-word-65,OldChinese,或 ɢʷˤək,,,,或,hwok,ɢʷˤək,hwok,hwok,some / modal particle,ad-3-18 ad-3-18 ad-10-74 ad-10-75 ad-43-379
-word-66,OldChinese,興 qʰ(r)əŋ,,,,興,xing,qʰ(r)əŋ,xing,xing,flourish,ad-3-18
-word-67,OldChinese,康 r̥ˤaŋ,,,,康,khang,r̥ˤaŋ,khang,khang,tranquil,ad-3-18
-word-68,OldChinese,以 ləʔ,,,,以,yiX,ləʔ,yiX,yiX,preposition / conjunction / use,ad-3-19 ad-6-35 ad-6-42 ad-7-45 ad-7-47 ad-7-50 ad-7-52 ad-10-74 ad-10-75 ad-11-82 ad-11-84 ad-11-85 ad-11-89 ad-11-89 ad-14-116 ad-16-133 ad-17-146 ad-18-149 ad-18-151 ad-18-152 ad-18-153 ad-18-154 ad-20-168 ad-22-196 ad-24-207 ad-24-209 ad-30-270 ad-34-301 ad-37-325 ad-37-327 ad-37-330 ad-40-357 ad-41-358 ad-41-359 ad-43-379 ad-44-389 ad-44-390 ad-45-392 ad-45-394 ad-45-395
-word-69,OldChinese,凶 qʰ(r)oŋ,,,,凶,xjowng,qʰ(r)oŋ,xjowng,xjowng,misfortune,ad-3-19
-word-70,OldChinese,保 pˤuʔ,,,,保,pawX,pˤuʔ,pawX,pawX,guard,ad-3-19
-word-71,OldChinese,疆 kaŋ,,,,疆,kjang,kaŋ,kjang,kjang,border / strong,ad-3-19 ad-10-80
-word-72,OldChinese,必 pit,,,,必,pjit,pit,pjit,pjit,must,ad-3-19 ad-10-81 ad-11-86 ad-11-88 ad-12-99 ad-15-123 ad-15-125 ad-15-127 ad-17-144 ad-20-169 ad-24-212 ad-25-214 ad-31-276 ad-32-283 ad-36-319 ad-37-325 ad-37-328 ad-41-363 ad-45-394
-word-73,OldChinese,勝 l̥əŋ,,,,勝,sying,l̥əŋ,sying,sying,win ,ad-3-19 ad-19-158 ad-19-159 ad-19-160 ad-23-200 ad-35-316
-word-74,OldChinese,可以 kʰˤajʔ_ləʔ,,,,可以,khaX_yiX,kʰˤajʔ_ləʔ,khaX_yiX,khaX_yiX,can,ad-3-20 ad-4-29 ad-6-33 ad-10-79 ad-12-92 ad-12-94 ad-12-96 ad-27-239
-word-75,OldChinese,治 C.lrə,,,,治,dri,C.lrə,dri,dri,govern,ad-3-20 ad-21-184 ad-22-186
-word-76,OldChinese,邦 pˤroŋ,,,,邦,paewng,pˤroŋ,paewng,paewng,state,ad-3-20 ad-4-28 ad-6-32 ad-8-57 ad-10-77 ad-10-77 ad-10-78 ad-12-91 ad-13-102 ad-14-117 ad-16-131 ad-22-195 ad-26-231 ad-32-283 ad-32-283 ad-40-357
-word-77,OldChinese,周志 tiw_tək-s,,,,周志,tsyuw_tsyiH,tiw_tək-s,tsyuw_tsyiH,tsyuw_tsyiH,Zhou zhi (Documents),ad-3-21
-word-78,OldChinese,是 deʔ,,,,是,dzyeX,deʔ,dzyeX,dzyeX,this / really,ad-3-21 ad-17-145 ad-44-383
-word-79,OldChinese,存 dzˤən,,,,存,dzwon,dzˤən,dzwon,dzwon,be present,ad-3-21 ad-10-73 ad-26-230
-word-80,OldChinese,君子 C.qur_tsəʔ,,,,君子,kjun_tsiX,C.qur_tsəʔ,kjun_tsiX / kjun,kjun_tsiX / kjun,the noble man,ad-4-23 ad-6-38 ad-7-45 ad-7-50 ad-14-114
-word-81,OldChinese,可 kʰˤajʔ,,,,可,khaX,kʰˤajʔ,khaX,khaX,can,ad-4-23 ad-23-197 ad-24-204
-word-82,OldChinese,知 tre,,,,知,trje,tre,trje,trje,know,ad-4-23 ad-20-170 ad-43-380
-word-83,OldChinese,已 ɢ(r)əʔ,,,,已,yiX,ɢ(r)əʔ,yiX,yiX,modal particle / give up,ad-4-23 ad-12-99
-word-84,OldChinese,孰 duk,,,,孰,dzyuwk,duk,dzyuwk,dzyuwk,who,ad-4-24
-word-85,OldChinese,能 nˤə,,,,能,noj,nˤə,noj,noj,can / ability,ad-4-24 ad-21-184 ad-22-186 ad-22-190
-word-86,OldChinese,併 bˤreŋʔ,,,,併,beangX,bˤreŋʔ,beangX,beangX,unite,ad-4-24
-word-87,OldChinese,兼 kˤem,,,,兼,kem,kˤem,kem,kem,together,ad-4-24
-word-88,OldChinese,人 niŋ,,,,人,nyin,niŋ,nyin,nyin,person / other,ad-4-24 ad-17-146 ad-18-147 ad-18-148 ad-21-184 ad-22-185 ad-24-211 ad-25-213 ad-25-215 ad-25-217 ad-25-219 ad-34-306 ad-41-359
-word-89,OldChinese,哉 tsˤə,,,,哉,tsoj,tsˤə,tsoj,tsoj,modal particle,ad-4-24 ad-7-55
-word-90,OldChinese,毋 mo,,,,毋,mju,mo,mju,mju,negative adverb / not have,ad-4-26 ad-10-80 ad-11-83 ad-13-104 ad-13-105 ad-14-111 ad-18-150 ad-18-151 ad-20-167 ad-21-176 ad-21-177 ad-30-267 ad-30-268 ad-31-272 ad-32-285 ad-35-314 ad-35-315 ad-37-327
-word-91,OldChinese,云 ɢʷən,,,,云,hjun,ɢʷən,hjun,hjun,say,ad-4-26
-word-92,OldChinese,臣 giŋ,,,,臣,dzyin,giŋ,dzyin,dzyin,minister,ad-4-27 ad-6-42 ad-6-44 ad-9-70 ad-10-76 ad-11-90 ad-13-109 ad-22-192 ad-26-227 ad-27-237 ad-44-387 ad-45-392
-word-93,OldChinese,聞 mun,,,,聞,mjun,mun,mjun,mjun,hear,ad-4-27 ad-6-44 ad-8-56 ad-9-70 ad-10-76 ad-11-90 ad-18-150 ad-22-192 ad-26-227 ad-27-237 ad-42-371 ad-44-385 ad-44-387 ad-45-396
-word-94,OldChinese,鄰 (mə.)rən,,,,鄰,lin,(mə.)rən,lin,lin,neighbor,ad-4-28 ad-6-32
-word-95,OldChinese,明 mraŋ,,,,明,mjaeng,mraŋ,mjaeng,mjaeng,enlighten / bright,ad-4-28 ad-43-378
-word-96,OldChinese,則 tsˤək,,,,則,tsok,tsˤək,tsok,tsok,conjunction / negative adverb,ad-4-29 ad-6-33 ad-12-100 ad-16-132 ad-19-161 ad-19-162 ad-19-163 ad-20-172 ad-21-179 ad-22-191 ad-23-198 ad-23-199 ad-23-200 ad-23-202 ad-23-203 ad-24-205 ad-33-287 ad-33-288
-word-97,OldChinese,修 liw,,,,修,sjuw,liw,sjuw,sjuw,improve,ad-4-29 ad-6-33 ad-11-86
-word-98,OldChinese,政 teŋ-s,,,,政,tsyengH,teŋ-s,tsyengH,tsyengH,government,ad-4-29 ad-6-33 ad-8-57
-word-99,OldChinese,善 danʔ,,,,善,dzyenX,danʔ,dzyenX,dzyenX,good,ad-4-29 ad-6-33 ad-31-275 ad-41-361
-word-100,OldChinese,然 nan,,,,然,nyen,nan,nyen,nyen,like that / like this,ad-6-30 ad-6-34 ad-7-49 ad-45-393 ad-46-398
-word-101,OldChinese,恐 kʰ(r)oŋʔ,,,,恐,khjowngX,kʰ(r)oŋʔ,khjowngX,khjowngX,fear,ad-6-31
-word-102,OldChinese,亡 maŋ,,,,亡,mjang,maŋ,mjang,mjang,not have / perish / death / negative adverb / flee,ad-6-31 ad-6-32 ad-6-35 ad-8-64 ad-9-71 ad-9-72 ad-10-75 ad-33-287
-word-103,OldChinese,焉 ʔan,,,,焉,jen,ʔan,jen,jen,in it,ad-6-31 ad-10-81 ad-45-393
-word-104,OldChinese,道 kə.lˤuʔ,,,,道,dawX,kə.lˤuʔ,dawX,dawX,way,ad-6-32 ad-7-47 ad-7-52 ad-24-206 ad-25-221 ad-29-263 ad-33-292 ad-36-320 ad-36-322 ad-38-334 ad-38-336 ad-40-347 ad-43-381 ad-44-384 ad-45-393
-word-105,OldChinese,亦 ɢ(r)Ak,,,,亦,yek,ɢ(r)Ak,yek,yek,conjunction / aso / also,ad-6-33 ad-7-48 ad-45-391 ad-45-393 ad-45-393 ad-45-396 ad-46-398
-word-106,OldChinese,取 tsʰˤoʔ,,,,取,tshuwX,tsʰˤoʔ,tshuwX,tshuwX,take,ad-6-35 ad-10-81 ad-39-342
-word-107,OldChinese,施伯 l̥aj_pʰˤak,,,,施伯,da_phak,l̥aj_pʰˤak,da_phak,da_phak,Shi Bo (personal name),ad-6-37
-word-108,OldChinese,語 ŋ(r)aʔ-s,,,,語,ngjoH,ŋ(r)aʔ-s,ngjoH,ngjoH,tell,ad-6-37
-word-109,OldChinese,寡人 C.kʷˤraʔ_niŋ,,,,寡人,kwaeX_nyin_,C.kʷˤraʔ_niŋ,kwaeX_nyin_ / kwaeX_nyin,kwaeX_nyin_ / kwaeX_nyin,I miserable,ad-6-37 ad-31-279
-word-110,OldChinese,得 tˤək,,,,得,tsiX,tˤək,tok / tsiX,tok / tsiX,obtain,ad-6-38 ad-7-51 ad-45-394
-word-111,OldChinese,失 l̥it,,,,失,syit,l̥it,syit,syit,loose,ad-6-38 ad-7-45 ad-7-53 ad-34-302 ad-45-395
-word-112,OldChinese,天 l̥ˤin,,,,天,then,l̥ˤin,then,then,heaven / heave,ad-6-39 ad-7-46 ad-7-48 ad-31-280
-word-113,OldChinese,命 riŋ-s,,,,命,mjaengH,riŋ-s,mjaengH,mjaengH,mandate / order / order ,ad-6-39 ad-7-46 ad-7-48 ad-8-57 ad-18-150 ad-31-280 ad-34-303 ad-35-311
-word-114,OldChinese,異 ɢ(r)ək-s,,,,異,yiH,ɢ(r)ək-s,yiH,yiH,different,ad-6-40 ad-6-42
-word-115,OldChinese,爾 nərʔ,,,,爾,nyeX,nərʔ,nyeX,nyeX,your / you,ad-6-40 ad-35-312 ad-35-316 ad-36-317
-word-116,OldChinese,弗 put,,,,弗,pjut,put,pjut,pjut,negative adverb,ad-6-43 ad-7-51 ad-7-53 ad-29-258 ad-29-259 ad-30-271 ad-37-326
-word-117,OldChinese,盡 tsinʔ,,,,盡,tsinX,tsinʔ,tsinX,tsinX,all / fully understand,ad-6-43 ad-10-73 ad-40-355
-word-118,OldChinese,賢 gˤin,,,,賢,hen,gˤin,hen,hen,sage,ad-7-45 ad-7-50 ad-21-183
-word-119,OldChinese,稱 tʰəŋ,,,,稱,tsyhing,tʰəŋ,tsyhing,tsyhing,denomination,ad-7-45 ad-7-47 ad-7-50 ad-7-52
-word-120,OldChinese,沒 mˤut,,,,沒,mwot,mˤut,mwot,mwot,extinguish,ad-7-47
-word-121,OldChinese,身 n̥iŋ,,,,身,syin,n̥iŋ,syin,syin,personally / body,ad-7-47 ad-20-169 ad-25-220 ad-44-390
-word-122,OldChinese,就 dzuk-s,,,,就,dzjuwH,dzuk-s,dzjuwH,dzjuwH,go,ad-7-47 ad-28-247 ad-34-301
-word-123,OldChinese,世 l̥ap-s,,,,世,syejH,l̥ap-s,syejH,syejH,era,ad-7-47 ad-44-389
-word-124,OldChinese,曷 gˤat,,,,曷,hat,gˤat,hat,hat,how,ad-7-51 ad-7-53
-word-125,OldChinese,顯 qʰˤenʔ,,,,顯,xenX,qʰˤenʔ,xenX,xenX,apparent,ad-7-55 ad-24-206 ad-25-221
-word-126,OldChinese,吾 ŋˤa,,,,吾,ngu,ŋˤa,ngu,ngu,I,ad-8-56 ad-9-66 ad-31-280 ad-42-371 ad-44-383 ad-44-385
-word-127,OldChinese,乃 nˤə(ŋ)ʔ,,,,乃,nojX,nˤə(ŋ)ʔ,nojX,nojX,conjunction,ad-8-57 ad-30-270 ad-35-311 ad-36-318
-word-128,OldChinese,毀 m̥(r)ajʔ,,,,毀,xjweX,m̥(r)ajʔ,xjweX,xjweX,destruction / destroy,ad-8-57 ad-34-300
-word-129,OldChinese,聽 l̥ˤeŋ,,,,聽,theng,l̥ˤeŋ,theng,theng,listen,ad-8-57 ad-8-60 ad-20-169 ad-21-178
-word-130,OldChinese,晝 truk-s,,,,晝,trjuwH,truk-s,trjuwH,trjuwH,day,ad-8-58
-word-131,OldChinese,寢 tsʰimʔ,,,,寢,tshimX,tsʰimʔ,tshimX,tshimX,sleep,ad-8-58
-word-132,OldChinese,飲 q(r)umʔ,,,,飲,imX,q(r)umʔ,imX,imX,drink wine,ad-8-59
-word-133,OldChinese,酒 tsuʔ,,,,酒,tsjuwX,tsuʔ,tsjuwX,tsjuwX,wine,ad-8-59
-word-134,OldChinese,樂 ŋˤrawk,,,,樂,ngaewk,ŋˤrawk,ngaewk,ngaewk,music,ad-8-60
-word-135,OldChinese,居 k(r)a,,,,居,kjo,k(r)a,kjo,kjo,stay,ad-8-61 ad-10-77
-word-136,OldChinese,褻 ŋet,,,,褻,sjet,ŋet,sjet,sjet,dress,ad-8-61
-word-137,OldChinese,文 mən,,,,文,mjun,mən,mjun,mjun,adorn,ad-8-61
-word-138,OldChinese,食 lək,,,,食,zyik,lək,zyik,zyik,eat / reward with food,ad-8-62 ad-13-106 ad-17-139 ad-31-272 ad-34-308 ad-35-311 ad-41-363 ad-41-363
-word-139,OldChinese,貳 nij-s,,,,貳,nyijH,nij-s,nyijH,nyijH,duplicate,ad-8-62
-word-140,OldChinese,羹 kˤraŋ,,,,羹,kaeng,kˤraŋ,kaeng,kaeng,soup,ad-8-62
-word-141,OldChinese,兼愛 kˤem_qˤəp-s,,,,兼愛,kem_ojH,kˤem_qˤəp-s,kem_ojH,kem_ojH,universal love,ad-8-63
-word-142,OldChinese,萬民 C.man-s_miŋ,,,,萬民,mjonH_mjin,C.man-s_miŋ,mjonH_mjin,mjonH_mjin,thousand people,ad-8-63
-word-143,OldChinese,私 səj,,,,私,sij,səj,sij,sij,private interest,ad-8-64
-word-144,OldChinese,還 ɢʷˤen,,,,還,hwaen,ɢʷˤen,hwaen,hwaen,following,ad-8-65
-word-145,OldChinese,年 C.nˤiŋ,,,,年,nen,C.nˤiŋ,nen,nen,year,ad-8-65
-word-146,OldChinese,問 C.mun-s,,,,問,mjunH,C.mun-s,mjunH,mjunH,ask,ad-8-65 ad-9-67 ad-16-134 ad-19-164 ad-20-173 ad-21-180 ad-26-233 ad-27-242 ad-28-252 ad-29-259 ad-29-262 ad-31-274 ad-33-291 ad-36-321 ad-38-335 ad-40-348 ad-41-360 ad-42-370
-word-147,OldChinese,欲 ɢ(r)ok,,,,欲,yowk,ɢ(r)ok,yowk,yowk,desire / want,ad-9-66 ad-23-201 ad-38-333 ad-44-385
-word-148,OldChinese,與 q(r)aʔ,,,,與,yoX,q(r)aʔ,yoX,yoX,conjunction / preposition,ad-9-66 ad-45-391
-word-149,OldChinese,齊 dzˤəj,,,,齊,dzej,dzˤəj,dzej,dzej,Qi (place name),ad-9-66
-word-150,OldChinese,戰 tar-s,,,,戰,tsyenH,tar-s,tsyenH,tsyenH,war,ad-9-66 ad-11-88 ad-11-89 ad-12-96 ad-18-156 ad-22-196 ad-24-206 ad-25-221 ad-27-243 ad-28-249 ad-28-251 ad-28-253 ad-29-260 ad-29-261 ad-29-263 ad-31-280 ad-32-282 ad-33-292 ad-33-295 ad-34-299 ad-34-304 ad-35-313 ad-36-320 ad-36-322 ad-38-334 ad-38-336 ad-40-347
-word-151,OldChinese,陳 lrin,,,,陳,drin,lrin,drin,drin,battle array / explain,ad-9-67 ad-9-72 ad-10-73 ad-12-94 ad-12-95 ad-12-97 ad-13-106 ad-16-135 ad-21-183 ad-27-238 ad-28-250 ad-36-319
-word-152,OldChinese,奚 gˤe,,,,奚,hej,gˤe,hej,hej,how,ad-9-67 ad-9-68 ad-40-349 ad-41-361
-word-153,OldChinese,如 na,,,,如,nyo,na,nyo,nyo,how / compare / if,ad-9-67 ad-9-68 ad-30-269 ad-40-349 ad-41-361 ad-44-383
-word-154,OldChinese,守 s.tuʔ-s,,,,守,syuwH,s.tuʔ-s,syuwH,syuwH,preserve / keep,ad-9-68 ad-41-361
-word-155,OldChinese,邊 pˤen,,,,邊,pen,pˤen,pen,pen,frontier ,ad-9-68 ad-11-82
-word-156,OldChinese,城 deŋ,,,,城,dzyeng,deŋ,dzyeng,dzyeng,town / wall,ad-9-68 ad-9-71 ad-11-86 ad-40-352 ad-42-365
-word-157,OldChinese,答 tˤup,,,,答,top,tˤup,top,top,reply,ad-9-69 ad-13-103 ad-16-136 ad-19-157 ad-19-166 ad-21-175 ad-21-182 ad-24-210 ad-26-225 ad-27-235 ad-27-244 ad-29-254 ad-30-264 ad-33-293 ad-37-323 ad-38-337 ad-40-350 ad-41-362 ad-43-377 ad-44-386 ad-45-392 ad-46-397
-word-158,OldChinese,固 kˤa-s,,,,固,kuH,kˤa-s,kuH,kuH,solid / fortress,ad-9-71 ad-9-71 ad-40-353 ad-42-365
-word-159,OldChinese,謀 mə,,,,謀,mjuw,mə,mjuw,mjuw,plan,ad-9-71
-word-160,OldChinese,克 kʰˤək,,,,克,khok,kʰˤək,khok,khok,conquest / capable / defeat ,ad-9-72 ad-9-72 ad-10-74 ad-24-207 ad-24-209 ad-37-326
-word-161,OldChinese,三 s.rum,,,,三,sam,s.rum,sam,sam,three  / three,ad-10-73 ad-12-98 ad-15-121 ad-17-141 ad-18-156 ad-22-186 ad-22-194 ad-22-196 ad-26-228 ad-26-234 ad-27-238 ad-30-266 ad-31-278 ad-40-355 ad-43-373 ad-43-375 ad-44-385
-word-162,OldChinese,代 lˤək-s,,,,代,dojH,lˤək-s,dojH,dojH,dynasty,ad-10-73 ad-44-385
-word-163,OldChinese,且 tsa,,,,且,tsjo,tsa,tsjo,tsjo,conjunction,ad-10-76 ad-11-90 ad-22-192 ad-29-256 ad-29-257 ad-42-366
-word-164,OldChinese,之間 tə_N-ˤren,,,,之間,tsyi hean_kean_kean,tə_N-ˤren,tsyi hean_kean_kean,tsyi hean_kean_kean,between / between ,ad-10-77 ad-17-143
-word-165,OldChinese,敵 dˤek,,,,敵,dek,dˤek,dek,dek,enemy,ad-10-78 ad-31-280
-word-166,OldChinese,交 kˤraw,,,,交,kaew,kˤraw,kaew,kaew,exchange,ad-10-78
-word-167,OldChinese,地 lˤej-s,,,,地,dijH,lˤej-s,dijH,dijH,land,ad-10-78 ad-10-80 ad-30-271
-word-168,OldChinese,先 sˤər,,,,先,sen,sˤər,sen,sen,previous / before,ad-10-79 ad-10-80 ad-32-285 ad-43-381
-word-169,OldChinese,作 tsˤak-s,,,,作,tsuH,tsˤak-s,tsuH,tsuH,do,ad-10-79
-word-170,OldChinese,怨 ʔor-s,,,,怨,jwonH,ʔor-s,jwonH,jwonH,complain,ad-10-79
-word-171,OldChinese,所 qʰaʔ,,,,所,srjoX,qʰaʔ,srjoX,srjoX,nominalization marker / place,ad-11-82 ad-11-85 ad-11-89 ad-14-116 ad-16-133 ad-18-149 ad-18-151 ad-18-154 ad-20-171 ad-22-196 ad-36-319 ad-41-358 ad-41-359 ad-42-371 ad-43-379 ad-44-385
-word-172,OldChinese,拒 g(r)aʔ,,,,拒,gjoX,g(r)aʔ,gjoX,gjoX,resist,ad-11-82 ad-11-85
-word-173,OldChinese,愛 qˤəp-s,,,,愛,ojH,qˤəp-s,ojH,ojH,love,ad-11-83
-word-174,OldChinese,貨 qʷʰˤaj-s,,,,貨,xwaH,qʷʰˤaj-s,xwaH,xwaH,commodities,ad-11-83
-word-175,OldChinese,資 tsij,,,,資,tsij,tsij,tsij,tsij,goods,ad-11-83
-word-176,OldChinese,子 tsəʔ,,,,子,tsiX,tsəʔ,tsiX,tsiX,you / son,ad-11-83 ad-31-278 ad-31-279
-word-177,OldChinese,女 nraʔ,,,,女,nrjoX,nraʔ,nrjoX,nrjoX,woman,ad-11-83
-word-178,OldChinese,事 s-rəʔ-s,,,,事,dzriH,s-rəʔ-s,dzriH,dzriH,serve,ad-11-84
-word-179,OldChinese,便嬖 ben_pˤek-s,,,,便嬖,bjien_pejH,ben_pˤek-s,bjien_pejH,bjien_pejH,advisors and favourites,ad-11-84
-word-180,OldChinese,內 nˤup,,,,內,nop,nˤup,nop,nop,inside,ad-11-85
-word-181,OldChinese,郭 kʷˤak,,,,郭,kwak,kʷˤak,kwak,kwak,outskirts,ad-11-86
-word-182,OldChinese,繕 danʔ-s,,,,繕,dzyenH,danʔ-s,dzyenH,dzyenH,fortify,ad-11-87
-word-183,OldChinese,甲 kˤrap,,,,甲,kaep,kˤrap,kaep,kaep,weapon / armour,ad-11-87 ad-25-213 ad-25-214 ad-34-298 ad-34-302
-word-184,OldChinese,利 C.rit-s,,,,利,lijH,C.rit-s,lijH,lijH,benefit,ad-11-87 ad-13-105 ad-34-298 ad-41-364
-word-185,OldChinese,兵 praŋ,,,,兵,pjaeng,praŋ,pjaeng,pjaeng,weapon / armour,ad-11-87 ad-17-138 ad-17-142 ad-24-207 ad-24-209 ad-24-211 ad-24-212 ad-32-284 ad-34-298 ad-35-311 ad-41-364
-word-186,OldChinese,心 səm,,,,心,sim,səm,sim,sim,heart,ad-11-88 ad-29-260
-word-187,OldChinese,長 Cə-N-traŋ,,,,長,drjang,Cə-N-traŋ,drjang,drjang,conduct / superior / head,ad-11-89 ad-15-128 ad-21-177 ad-22-185 ad-22-193 ad-23-197
-word-188,OldChinese,和 ɢˤoj,,,,和,hwa,ɢˤoj,hwa,hwa,harmony,ad-12-91 ad-12-93 ad-12-95 ad-13-102 ad-14-117 ad-14-119 ad-16-133 ad-16-135 ad-19-162 ad-21-174 ad-21-179 ad-23-199 ad-42-366
-word-189,OldChinese,出 kʰut-s,,,,出,tsyhwijH,kʰut-s,tsyhwijH,tsyhwijH,exit,ad-12-92 ad-12-94 ad-12-96 ad-15-121 ad-26-224 ad-26-228 ad-26-232 ad-27-239 ad-42-372 ad-43-374
-word-190,OldChinese,舍 l̥Ak-s,,,,舍,syaeH,l̥Ak-s,syaeH,syaeH,barracks / camp,ad-12-92 ad-12-93 ad-14-119 ad-16-133 ad-27-239 ad-33-295
-word-191,OldChinese,是故 deʔ_kˤa(ʔ)-s,,,,是故,dzyeX_kuH,deʔ_kˤa(ʔ)-s,dzyeX_kuH,dzyeX_kuH,conjunction,ad-12-97 ad-23-197 ad-24-204 ad-28-250 ad-45-392
-word-192,OldChinese,夫 ba,,,,夫,bju,ba,bju,bju,modal particle,ad-12-97 ad-45-396
-word-193,OldChinese,者 tAʔ,,,,者,tsyaeX,tAʔ,tsyaeX,tsyaeX,nominalization marker,ad-12-97 ad-15-128 ad-18-156 ad-22-196 ad-29-258 ad-29-259 ad-31-273 ad-31-274 ad-31-275 ad-31-275 ad-37-331 ad-38-332 ad-39-344 ad-39-345 ad-40-355 ad-41-358 ad-41-361 ad-44-388
-word-194,OldChinese,教 s.kˤraw-s,,,,教,kaewH,s.kˤraw-s,kaewH,kaewH,teaching / teach,ad-12-98 ad-16-131 ad-25-223 ad-43-379
-word-195,OldChinese,末 mˤat,,,,末,mat,mˤat,mat,mat,peak,ad-12-98
-word-196,OldChinese,由 lu,,,,由,yuw,lu,yuw,yuw,follow / preposition,ad-12-100 ad-26-231
-word-197,OldChinese,本 C.pˤənʔ,,,,本,pwonX,C.pˤənʔ,pwonX,pwonX,root,ad-12-100
-word-198,OldChinese,乎 ɢˤa,,,,乎,hu,ɢˤa,hu,hu,modal particle,ad-12-100 ad-18-156 ad-26-224 ad-26-234 ad-27-243 ad-28-253 ad-29-263 ad-33-292 ad-36-322 ad-38-336 ad-43-376
-word-199,OldChinese,如何 na_gˤaj,,,,如何,nyo_ha,na_gˤaj,nyo_ha,nyo_ha,how,ad-13-102 ad-19-165 ad-21-174
-word-200,OldChinese,穫 qʷˤak,,,,穫,hwak,qʷˤak,hwak,hwak,cut,ad-13-104
-word-201,OldChinese,時 də,,,,時,dzyi,də,dzyi,dzyi,time,ad-13-104
-word-202,OldChinese,奪 Cə.lˤot,,,,奪,dwat,Cə.lˤot,dwat,dwat,take by force,ad-13-105
-word-203,OldChinese,刑 ɢˤeŋ,,,,刑,heng,ɢˤeŋ,heng,heng,punish,ad-13-107 ad-39-340
-word-204,OldChinese,罰 bat,,,,罰,bjot,bat,bjot,bjot,execute,ad-13-107
-word-205,OldChinese,罪 dzˤujʔ,,,,罪,dzwojX,dzˤujʔ,dzwojX,dzwojX,crime,ad-13-107 ad-16-130 ad-30-268
-word-206,OldChinese,賞 taŋʔ,,,,賞,syangX,taŋʔ,syangX,syangX,admire / reward  / norm,ad-13-108 ad-18-148 ad-21-178 ad-29-256 ad-30-267 ad-33-289 ad-37-329 ad-39-340
-word-207,OldChinese,爵 tsewk,,,,爵,tsjak,tsewk,tsjak,tsjak,honour,ad-13-108 ad-16-129 ad-33-288
-word-208,OldChinese,凡 bəŋ,,,,凡,bjuwng,bəŋ,bjuwng,bjuwng,all,ad-13-109 ad-15-128 ad-32-286 ad-34-302
-word-209,OldChinese,畜 qʰuk-s,,,,畜,trhjuwH,qʰuk-s,trhjuwH,trhjuwH,cattle,ad-13-109
-word-210,OldChinese,群 gur,,,,群,gjun,gur,gjun,gjun,all / group,ad-13-109 ad-31-276
-word-211,OldChinese,貴 kuj-s,,,,貴,kjw+jH,kuj-s,kjw+jH,kjw+jH,noble,ad-14-110 ad-17-139
-word-212,OldChinese,賤 dzan-s,,,,賤,dzjenH,dzan-s,dzjenH,dzjenH,vulgar,ad-14-110
-word-213,OldChinese,同 lˤoŋ,,,,同,duwng,lˤoŋ,duwng,duwng,same / together / unite,ad-14-110 ad-16-131 ad-18-154 ad-45-391
-word-214,OldChinese,等 tˤəŋʔ,,,,等,tongX,tˤəŋʔ,tongX,tongX,rang,ad-14-110
-word-215,OldChinese,施 l̥aj,,,,施,sye,l̥aj,sye,sye,give,ad-14-111
-word-216,OldChinese,祿 rˤok,,,,祿,luwk,rˤok,luwk,luwk,emolument,ad-14-111 ad-16-129 ad-33-288
-word-217,OldChinese,倍 bˤəʔ,,,,倍,bwojX,bˤəʔ,bwojX,bwojX,double,ad-14-111
-word-218,OldChinese,詩 s.tə,,,,詩,syi,s.tə,syi,syi,Odes,ad-14-112
-word-219,OldChinese,愷 C.qʰˤəjʔ,,,,愷,khojX,C.qʰˤəjʔ,khojX,khojX,serene,ad-14-114
-word-220,OldChinese,悌 lˤəjʔ-s,,,,悌,dejH,lˤəjʔ-s,dejH,dejH,happy,ad-14-114
-word-221,OldChinese,父 p(r)aʔ,,,,父,pjuX,p(r)aʔ,pjuX,pjuX,father,ad-14-115 ad-26-230
-word-222,OldChinese,母 məʔ,,,,母,muwX,məʔ,muwX,muwX,mother,ad-14-115
-word-223,OldChinese,如之何 na_tə_gˤaj,,,,如之何,nyo_tsyi_ha,na_tə_gˤaj,nyo_tsyi_ha,nyo_tsyi_ha,how,ad-14-119 ad-16-135 ad-21-181
-word-224,OldChinese,軍 kʷər,,,,軍,kjun,kʷər,kjun,kjun,army / troop / military,ad-15-121 ad-16-130 ad-17-145 ad-22-186 ad-22-194 ad-26-228 ad-26-234 ad-27-238 ad-30-266 ad-33-296 ad-43-373 ad-43-375
-word-225,OldChinese,自 s.bit-s,,,,自,dzijH,s.bit-s,dzijH,dzijH,reflexive pronoun / self,ad-15-122 ad-20-167 ad-30-270
-word-226,OldChinese,率 rut,,,,率,lwit,rut,lwit,lwit,lead,ad-15-122 ad-15-128 ad-18-153 ad-19-160 ad-22-187 ad-30-269
-word-227,OldChinese,二 nij-s,,,,二,nyijH,nij-s,nyijH,nyijH,two,ad-15-123 ad-31-278
-word-228,OldChinese,將軍 tsaŋ_kʷər,,,,將軍,tsjang_kjun,tsaŋ_kʷər,tsjang_kjun,tsjang_kjun,general,ad-15-123 ad-15-124 ad-25-218 ad-25-219
-word-229,OldChinese,數 rok,,,,數,sraewk,rok,sraewk,sraewk,number,ad-15-125 ad-15-127
-word-230,OldChinese,嬖 pˤek-s,,,,嬖,pejH,pˤek-s,pejH,pejH,favourite / favour,ad-15-125 ad-15-126 ad-21-176 ad-21-176
-word-231,OldChinese,大夫 lˤat-s_ba,,,,大夫,dajH_bju,lˤat-s_ba,dajH_bju,dajH_bju,grandees / grandee,ad-15-125 ad-15-126 ad-25-216 ad-25-217
-word-232,OldChinese,官 kʷˤan,,,,官,kwan,kʷˤan,kwan,kwan,official,ad-15-127
-word-233,OldChinese,師 srij,,,,師,srij,srij,srij,srij,troop / multitude?,ad-15-127 ad-26-224 ad-26-232 ad-32-281
-word-234,OldChinese,公孫 C.qˤoŋ_sˤun,,,,公孫,kuwng_swon,C.qˤoŋ_sˤun,kuwng_swon,kuwng_swon,nephew of a duke,ad-15-127 ad-17-144
-word-235,OldChinese,公子 C.qˤoŋ_tsəʔ,,,,公子,kuwng_tsiX,C.qˤoŋ_tsəʔ,kuwng_tsiX,kuwng_tsiX,son of a duke,ad-15-127 ad-17-144
-word-236,OldChinese,司 lə,,,,司,si,lə,si,si,administer,ad-15-128 ad-31-276
-word-237,OldChinese,從 tsoŋ,,,,從,dzjowng,tsoŋ,dzjowng,dzjowng,follow,ad-16-130 ad-32-284
-word-238,OldChinese,避 bek-s,,,,避,bjieH,bek-s,bjieH,bjieH,avoid,ad-16-130
-word-239,OldChinese,都 tˤa,,,,都,tu,tˤa,tu,tu,assembly,ad-16-131
-word-240,OldChinese,合 kˤop,,,,合,hop,kˤop,hop,hop,unite,ad-16-132 ad-23-203
-word-241,OldChinese,難 nˤar,,,,難,nan,nˤar,nan,nan,difficult,ad-16-132
-word-242,OldChinese,又 ɢʷəʔ-s,,,,又,hjuwH,ɢʷəʔ-s,hjuwH,hjuwH,conjunction,ad-16-134 ad-19-164 ad-20-170 ad-20-173 ad-21-180 ad-26-233 ad-28-252 ad-29-262 ad-33-291 ad-36-321 ad-38-335 ad-40-348 ad-41-360 ad-42-370
-word-243,OldChinese,車 t.qʰ(r)A,,,,車,tsyhae,t.qʰ(r)A,tsyhae,tsyhae,chariot,ad-16-137 ad-18-152 ad-18-152 ad-34-302 ad-35-309 ad-39-342
-word-244,OldChinese,間 kˤren,,,,間,hean,kˤren,hean,hean,between ,ad-16-137 ad-17-138
-word-245,OldChinese,容 ɢ(r)oŋ,,,,容,yowng,ɢ(r)oŋ,yowng,yowng,contain,ad-16-137 ad-17-138
-word-246,OldChinese,伍 C.ŋˤaʔ,,,,伍,nguX,C.ŋˤaʔ,nguX,nguX,group of five / make a group of five,ad-16-137 ad-17-138 ad-17-146
-word-247,OldChinese,位 ɢʷrəp-s,,,,位,hwijH,ɢʷrəp-s,hwijH,hwijH,position / place,ad-17-139 ad-32-286
-word-248,OldChinese,重 troŋ,,,,重,drjowng,troŋ,drjowng,drjowng,heavy / give weight to,ad-17-139 ad-29-257 ad-39-340
-word-249,OldChinese,使 rəʔ-s,,,,使,sriH,rəʔ-s,sriH,sriH,let / send / envoy,ad-17-140 ad-19-160 ad-22-185 ad-22-187 ad-24-204 ad-25-215 ad-25-216 ad-25-217 ad-25-218 ad-25-219 ad-32-286 ad-34-305 ad-35-315 ad-39-341 ad-39-342 ad-39-343 ad-39-344 ad-39-345
-word-250,OldChinese,前 dzˤen,,,,前,dzen,dzˤen,dzen,dzen,front,ad-17-140 ad-32-286 ad-34-305 ad-37-328
-word-251,OldChinese,行 gˤaŋ,,,,行,haeng,gˤaŋ,haeng,haeng,march / line / go up,ad-17-140 ad-17-141 ad-24-205 ad-27-240 ad-32-286 ad-34-301 ad-34-303 ad-34-305 ad-35-310
-word-252,OldChinese,後 ɢˤ(r)oʔ,,,,後,huwX,ɢˤ(r)oʔ,huwX,huwX,after,ad-17-141
-word-253,OldChinese,茍 kˤ(r)oʔ,,,,茍,kik,kˤ(r)oʔ,kik,kik,must,ad-17-142
-word-254,OldChinese,短 tˤorʔ,,,,短,twanX,tˤorʔ,twanX,twanX,short,ad-17-142
-word-255,OldChinese,十 t.gəp,,,,十,dzyip,t.gəp,dzyip,dzyip,ten,ad-17-143
-word-256,OldChinese,謂 ɢʷət-s,,,,謂,hjw+jH,ɢʷət-s,hjw+jH,hjw+jH,call,ad-17-145
-word-257,OldChinese,紀 k(r)əʔ,,,,紀,kiX,k(r)əʔ,kiX,kiX,thread / discipline,ad-17-145 ad-42-367
-word-258,OldChinese,一 ʔit,,,,一,jit,ʔit,jit,jit,one  / one,ad-18-147 ad-32-286 ad-42-372 ad-43-374 ad-44-385
-word-259,OldChinese,多 t.lˤaj,,,,多,ta,t.lˤaj,ta,ta,much / merit / a lot,ad-18-147 ad-23-201 ad-45-391
-word-260,OldChinese,四 s.lij-s,,,,四,sijH,s.lij-s,sijH,sijH,four,ad-18-148
-word-261,OldChinese,皆 kˤrij,,,,皆,keaj,kˤrij,keaj,keaj,all,ad-18-148 ad-35-309 ad-35-316 ad-38-333 ad-43-373 ad-43-375
-word-262,OldChinese,敦 tˤur,,,,敦,twoj,tˤur,twoj,twoj,encourage,ad-18-149 ad-19-161
-word-263,OldChinese,尚 daŋ-s,,,,尚,dzyangH,daŋ-s,dzyangH,dzyangH,admire,ad-18-150 ad-18-150 ad-21-183
-word-264,OldChinese,獲 qʷˤrak,,,,獲,hweak,qʷˤrak,hweak,hweak,gain,ad-18-150 ad-37-329
-word-265,OldChinese,退 n̥ˤup-s,,,,退,thwojH,n̥ˤup-s,thwojH,thwojH,retire,ad-18-151 ad-33-287
-word-266,OldChinese,徒 dˤa,,,,徒,du,dˤa,du,du,infantry,ad-18-153 ad-18-153
-word-267,OldChinese,死 sijʔ,,,,死,sijX,sijʔ,sijX,sijX,die / death,ad-18-154 ad-28-251 ad-29-258 ad-31-273 ad-31-275 ad-39-341
-word-268,OldChinese,足以 tsok-s_ləʔ,,,,足以,tsjuH_yiX,tsok-s_ləʔ,tsjuH_yiX,tsjuH_yiX,be sufficient / sufficient,ad-18-156 ad-41-363 ad-41-364 ad-42-365
-word-269,OldChinese,怠 lˤəʔ,,,,怠,dojX,lˤəʔ,dojX,dojX,laziness,ad-19-158 ad-29-260 ad-35-314 ad-40-346
-word-270,OldChinese,果 kˤorʔ,,,,果,kwaX,kˤorʔ,kwaX,kwaX,solve,ad-19-159
-word-271,OldChinese,疑 ŋ(r)ə,,,,疑,ngi,ŋ(r)ə,ngi,ngi,doubt,ad-19-159 ad-28-250 ad-28-251 ad-35-315 ad-42-369
-word-272,OldChinese,親 tsʰin,,,,親,tshin,tsʰin,tshin,tshin,personally / parent,ad-19-160 ad-19-161 ad-19-165 ad-20-172 ad-30-269 ad-42-368
-word-273,OldChinese,輯 dzup,,,,輯,dzip,dzup,dzip,dzip,concord,ad-19-162 ad-23-199 ad-42-366
-word-274,OldChinese,義 ŋ(r)aj-s,,,,義,ngjeH,ŋ(r)aj-s,ngjeH,ngjeH,righteous,ad-19-163 ad-21-181 ad-22-191
-word-275,OldChinese,服 bək,,,,服,bjuwk,bək,bjuwk,bjuwk,obey,ad-19-163
-word-276,OldChinese,憚 dˤar-s,,,,憚,danH,dˤar-s,danH,danH,fear,ad-20-167
-word-277,OldChinese,勞 rˤaw,,,,勞,law,rˤaw,law,law,work,ad-20-167
-word-278,OldChinese,觀 C.qʷˤar,,,,觀,kwan,C.qʷˤar,kwan,kwan,see,ad-20-168
-word-279,OldChinese,上 daŋʔ-s,,,,上,dzyangH,daŋʔ-s,dzyangH,dzyangH,superior,ad-20-168 ad-42-366
-word-280,OldChinese,下 gˤraʔ-s,,,,下,haeH,gˤraʔ-s,haeH,haeH,inferior,ad-20-168 ad-42-366
-word-281,OldChinese,情 dzeŋ,,,,情,dzjeng,dzeŋ,dzjeng,dzjeng,emotion,ad-20-168
-word-282,OldChinese,偽 ɢʷ(r)aj-s,,,,偽,ngjweH,ɢʷ(r)aj-s,ngjweH,ngjweH,false ,ad-20-168
-word-283,OldChinese,匹夫 pʰit_ba,,,,匹夫,phjit bju_bju_pju,pʰit_ba,phjit bju_bju_pju,phjit bju_bju_pju,common man,ad-20-169
-word-284,OldChinese,寡婦 C.kʷˤraʔ_mə.bəʔ,,,,寡婦,kwaeX_bjuwX,C.kʷˤraʔ_mə.bəʔ,kwaeX_bjuwX,kwaeX_bjuwX,widow,ad-20-169
-word-285,OldChinese,獄訟 ŋrok_s.ɢoŋ-s,,,,獄訟,ngjowk_zjowngH,ŋrok_s.ɢoŋ-s,ngjowk_zjowngH,ngjowk_zjowngH,process,ad-20-169
-word-286,OldChinese,足 tsok-s,,,,足,tsjuH,tsok-s,tsjuH,tsjuH,sufficient,ad-20-170
-word-287,OldChinese,中 truŋ,,,,中,trjuwng,truŋ,trjuwng,trjuwng,moderation / middle,ad-20-171 ad-21-178 ad-29-257 ad-33-296
-word-288,OldChinese,便 ben,,,,便,bjien,ben,bjien,bjien,relatives,ad-21-176
-word-289,OldChinese,兄 m̥raŋ,,,,兄,xjwaeng,m̥raŋ,xjwaeng,xjwaeng,elder brother,ad-21-177 ad-26-230
-word-290,OldChinese,均 C.qʷin,,,,均,kjwin,C.qʷin,kjwin,kjwin,even,ad-21-178
-word-291,OldChinese,授 duʔ-s,,,,授,dzyuwH,duʔ-s,dzyuwH,dzyuwH,teach,ad-22-188
-word-292,OldChinese,智 tre-s,,,,智,trjeH,tre-s,trjeH,trjeH,knowledge,ad-22-189
-word-293,OldChinese,予 laʔ,,,,予,yo,laʔ,yo,yo,grant to,ad-22-190
-word-294,OldChinese,卒 tsˤut,,,,卒,tswit,tsˤut,tswit,tswit,soldier / servant / end,ad-22-193 ad-23-198 ad-23-201 ad-32-284
-word-295,OldChinese,帥 rut-s,,,,帥,srwijH,rut-s,srwijH,srwijH,leader / lead,ad-22-194 ad-24-204 ad-34-308
-word-296,OldChinese,慎 din-s,,,,慎,dzyinH,din-s,dzyinH,dzyinH,be careful,ad-23-197 ad-37-325
-word-297,OldChinese,恆 gˤəŋ,,,,恆,hong,gˤəŋ,hong,hong,eternal,ad-23-198
-word-298,OldChinese,嚴 ŋ(r)am,,,,嚴,ngjaem,ŋ(r)am,ngjaem,ngjaem,imposing,ad-23-200
-word-299,OldChinese,威 ʔuj,,,,威,jw+j,ʔuj,jw+j,jw+j,authoritative,ad-23-200
-word-300,OldChinese,少 s.tewʔ,,,,少,syewX,s.tewʔ,syewX,syewX,few,ad-23-201 ad-23-202
-word-301,OldChinese,氣 C.qʰəp-s,,,,氣,khj+jH,C.qʰəp-s,khj+jH,khj+jH,energy,ad-23-201 ad-23-203
-word-302,OldChinese,易 lek,,,,易,yek,lek,yek,yek,easy,ad-23-202 ad-23-203
-word-303,OldChinese,察 tsʰˤret,,,,察,tsrheat,tsʰˤret,tsrheat,tsrheat,control,ad-23-202
-word-304,OldChinese,盛 deŋ-s,,,,盛,dzyengH,deŋ-s,dzyengH,dzyengH,abundant,ad-23-203
-word-305,OldChinese,倦 gron-s,,,,倦,gjwenH,gron-s,gjwenH,gjwenH,tired,ad-24-204 ad-24-205
-word-306,OldChinese,勿 mut,,,,勿,mjut,mut,mjut,mjut,negative adverb,ad-24-207 ad-24-209
-word-307,OldChinese,奚如 gˤe_na,,,,奚如,hej_nyo,gˤe_na,hej_nyo,hej_nyo,how,ad-24-209
-word-308,OldChinese,砥礪 tijʔ_rat-s,,,,砥礪,tsyijX_(tsyeX)_ljejH,tijʔ_rat-s,tsyijX_(tsyeX)_ljejH,tsyijX_(tsyeX)_ljejH,whetstone,ad-24-211 ad-24-212
-word-309,OldChinese,我 ŋˤajʔ,,,,我,ngaX,ŋˤajʔ,ngaX,ngaX,I,ad-24-212 ad-25-214 ad-25-216 ad-25-218 ad-25-220
-word-310,OldChinese,堅 kˤiŋ,,,,堅,ken,kˤiŋ,ken,ken,hard,ad-25-213 ad-25-214
-word-311,OldChinese,士 s-rəʔ,,,,士,dzriX,s-rəʔ,dzriX,dzriX,dignitary,ad-25-215 ad-39-342
-word-312,OldChinese,進 tsin-s,,,,進,tsinH,tsin-s,tsinH,tsinH,advance,ad-25-220 ad-33-288 ad-37-327
-word-313,OldChinese,機 kəj,,,,機,kj+j,kəj,kj+j,kj+j,crucial moment,ad-26-224 ad-26-232 ad-26-234 ad-27-241 ad-27-243 ad-28-249 ad-28-253 ad-29-261 ad-33-290
-word-314,OldChinese,卑 pe,,,,卑,pjie,pe,pjie,pjie,low rang,ad-26-229
-word-315,OldChinese,御 qʰ(r)aʔ,,,,御,ngjoX,qʰ(r)aʔ,ngjoX,ngjoX,conduct,ad-26-231
-word-316,OldChinese,潛 dzam,,,,潛,dzjem,dzam,dzjem,dzjem,secretely,ad-26-234 ad-27-241
-word-317,OldChinese,裹 s.kˤorʔ,,,,裹,kwaX,s.kˤorʔ,kwaX,kwaX,encircle,ad-26-234 ad-27-241
-word-318,OldChinese,未 mət-s,,,,未,mj+jH,mət-s,mj+jH,mj+jH,negative adverb,ad-27-238 ad-27-239
-word-319,OldChinese,阪 panʔ,,,,阪,pjonX,panʔ,pjonX,pjonX,slope,ad-27-240
-word-320,OldChinese,濟 tsˤej(ʔ)-s,,,,濟,tsejH,tsˤej(ʔ)-s,tsejH,tsejH,cross,ad-27-240
-word-321,OldChinese,障 taŋ(-s),,,,障,tsyang,taŋ(-s),tsyang,tsyang,obstacle,ad-27-240
-word-322,OldChinese,莊公 tsraŋ,,,,莊公,tsrjang,tsraŋ,tsrjang,tsrjang,duke Zhuang (personal name),ad-27-242
-word-323,OldChinese,又 C.qˤoŋ,,,,又,kuwng,C.qˤoŋ,kuwng,kuwng,conjunction,ad-27-242
-word-324,OldChinese,去 kʰ(r)ap-s,,,,去,khjoH,kʰ(r)ap-s,khjoH,khjoH,depart,ad-28-246
-word-325,OldChinese,速 sˤok,,,,速,suwk,sˤok,suwk,suwk,speed,ad-28-246
-word-326,OldChinese,迫 Cə.pˤrak,,,,迫,paek,Cə.pˤrak,paek,paek,urge,ad-28-247
-word-327,OldChinese,啟節 kʰˤeʔ_tsˤik,,,,啟節,khejX_tset,kʰˤeʔ_tsˤik,khejX_tset,khejX_tset,get started ,ad-28-248
-word-328,OldChinese,疾 dzit,,,,疾,dzit,dzit,dzit,dzit,urgent,ad-28-248
-word-329,OldChinese,敗 pˤrat-s,,,,敗,baejH,pˤrat-s,baejH,baejH,defeat,ad-28-250 ad-29-263 ad-30-266
-word-330,OldChinese,輕 kʰeŋ,,,,輕,khjieng,kʰeŋ,khjieng,khjieng,light,ad-29-256
-word-331,OldChinese,信 niŋ-s,,,,信,sinH,niŋ-s,sinH,sinH,trust,ad-29-256
-word-332,OldChinese,誅 tro,,,,誅,trju,tro,trju,trju,condemn,ad-29-257 ad-30-267
-word-333,OldChinese,收 kiw,,,,收,syuw,kiw,syuw,syuw,receive,ad-29-258 ad-31-273 ad-38-339
-word-334,OldChinese,傷 l̥aŋ,,,,傷,syang,l̥aŋ,syang,syang,injure / injury,ad-29-259 ad-31-274 ad-34-300
-word-335,OldChinese,復 pruk-s,,,,復,bjuwH,pruk-s,bjuwH,bjuwH,return,ad-29-263 ad-32-282 ad-32-285 ad-33-292 ad-33-295 ad-36-319 ad-36-320 ad-36-322 ad-38-334 ad-38-336 ad-40-347
-word-336,OldChinese,百姓 pˤrak_seŋ-s,,,,百姓,paek_sjengH,pˤrak_seŋ-s,paek_sjengH,paek_sjengH,people,ad-30-268
-word-337,OldChinese,改 C.qˤəʔ,,,,改,kojX,C.qˤəʔ,kojX,kojX,change,ad-30-268 ad-36-317 ad-40-346
-word-338,OldChinese,過 kʷˤaj-s,,,,過,kwaH,kʷˤaj-s,kwaH,kwaH,pass / fault / blame,ad-30-270 ad-31-279 ad-36-319 ad-37-328
-word-339,OldChinese,悅 lrot,,,,悅,ywet,lrot,ywet,ywet,acquiesce,ad-30-270
-word-340,OldChinese,萬 C.man-s,,,,萬,mjonH,C.man-s,mjonH,mjonH,ten thousand,ad-30-270 ad-38-333
-word-341,OldChinese,杜 dˤaʔ,,,,杜,duX,dˤaʔ,duX,duX,deny,ad-30-271
-word-342,OldChinese,跪 g(r)ojʔ,,,,跪,gjweX,g(r)ojʔ,gjweX,gjweX,bow,ad-30-271
-word-343,OldChinese,火 qʷʰˤəjʔ,,,,火,xwaX,qʷʰˤəjʔ,xwaX,xwaX,fire,ad-31-272
-word-344,OldChinese,生 sreŋ,,,,生,sraeng,sreŋ,sraeng,sraeng,live / life,ad-31-275 ad-39-341
-word-345,OldChinese,聚 tsʰoʔ-s,,,,聚,dzjuH,tsʰoʔ-s,dzjuH,dzjuH,gather,ad-31-276 ad-38-339
-word-346,OldChinese,勉 mrorʔ,,,,勉,mjenX,mrorʔ,mjenX,mjenX,force,ad-31-278
-word-347,OldChinese,在 dzˤəʔ,,,,在,dzojX,dzˤəʔ,dzojX,dzojX,be present,ad-31-279 ad-31-279
-word-348,OldChinese,順 Cə.lun-s,,,,順,zywinH,Cə.lun-s,zywinH,zywinH,obey,ad-31-280
-word-349,OldChinese,返 Cə.panʔ,,,,返,pjonX,Cə.panʔ,pjonX,pjonX,return,ad-32-281
-word-350,OldChinese,詔 dewʔ,,,,詔,tsyewX,dewʔ,tsyewX,tsyewX,summon ? exhort ?,ad-32-283
-word-351,OldChinese,貴人 kuj-s_niŋ,,,,貴人,kjw+jH_nyin,kuj-s_niŋ,kjw+jH_nyin,kjw+jH_nyin,noble,ad-32-283 ad-32-286
-word-352,OldChinese,及 k-rəp,,,,及,gip,k-rəp,gip,gip,conjunction,ad-32-283 ad-35-316 ad-44-390
-word-353,OldChinese,奇士 k(r)aj_s-rəʔ,,,,奇士,kje_dzriX,k(r)aj_s-rəʔ,kje_dzriX,kje_dzriX,extraordinary man,ad-32-283
-word-354,OldChinese,撚  nˤənʔ,,,,撚 ,nenX,nˤənʔ,nenX,nenX,examine,ad-32-284
-word-355,OldChinese,常 daŋ,,,,常,dzyang,daŋ,dzyang,dzyang,norm,ad-32-285
-word-356,OldChinese,處 t.qʰaʔ,,,,處,tsyhoX,t.qʰaʔ,tsyhoX,tsyhoX,stay,ad-32-286
-word-357,OldChinese,莫 mˤak,,,,莫,mak,mˤak,mak,mak,none,ad-33-290
-word-358,OldChinese,當 tˤaŋ-s,,,,當,tangH,tˤaŋ-s,tangH,tangH,appropriate,ad-33-290
-word-359,OldChinese,班 pˤan,,,,班,paen,pˤan,paen,paen,rang,ad-33-292 ad-34-301 ad-36-320
-word-360,OldChinese,號 Cə.gˤaw-s,,,,號,hawH,Cə.gˤaw-s,hawH,hawH,issue,ad-33-296
-word-361,OldChinese,令 riŋ,,,,令,leng,riŋ,leng,leng,order ,ad-33-296
-word-362,OldChinese,繕 k.denʔ-s,,,,繕,dzyenH,k.denʔ-s,dzyenH,dzyenH,repair,ad-34-298
-word-363,OldChinese,明日 mraŋ_C.nik,,,,明日,mjaeng_nyit,mraŋ_C.nik,mjaeng_nyit,mjaeng_nyit,tomorrow,ad-34-299 ad-34-304 ad-36-319
-word-364,OldChinese,測 tsʰrək,,,,測,tsrhik,tsʰrək,tsrhik,tsrhik,measure,ad-34-300
-word-365,OldChinese,度 dˤak,,,,度,dak,dˤak,dak,dak,estimate,ad-34-300
-word-366,OldChinese,諜 lˤep,,,,諜,dep,lˤep,dep,dep,spy,ad-34-306
-word-367,OldChinese,來 mə.rˤək,,,,來,loj,mə.rˤək,loj,loj,come,ad-34-306
-word-368,OldChinese,告 kˤuk,,,,告,kowk,kˤuk,kowk,kowk,tell,ad-34-306
-word-369,OldChinese,輦 ranʔ,,,,輦,ljenX,ranʔ,ljenX,ljenX,vehicule,ad-35-309
-word-370,OldChinese,災 tsˤə,,,,災,tsoj,tsˤə,tsoj,tsoj,damage,ad-35-309
-word-371,OldChinese,早 Nə.tsˤuʔ,,,,早,tsawX,Nə.tsˤuʔ,tsawX,tsawX,early,ad-35-310 ad-35-311
-word-372,OldChinese,白徒 bˤrak_dˤa,,,,白徒,baek_du,bˤrak_dˤa,baek_du,baek_du,complementary conscripts,ad-35-311
-word-373,OldChinese,供 koŋ,,,,供,kjowng,koŋ,kjowng,kjowng,provide,ad-35-311
-word-374,OldChinese,各 kˤak,,,,各,kak,kˤak,kak,kak,each,ad-35-312 ad-44-389
-word-375,OldChinese,載 tsˤəʔ-s,,,,載,tsojH,tsˤəʔ-s,tsojH,tsojH,carry,ad-35-312
-word-376,OldChinese,贓 tsˤaŋ,,,,贓,tsang,tsˤaŋ,tsang,tsang,spoils,ad-35-312
-word-377,OldChinese,敷 pʰ(r)a,,,,敷,phju,pʰ(r)a,phju,phju,distribute,ad-35-313
-word-378,OldChinese,龜 kʷrə,,,,龜,kwij,kʷrə,kwij,kwij,turtle,ad-35-316
-word-379,OldChinese,筮 det-s,,,,筮,dzyejH,det-s,dzyejH,dzyejH,achillea stalks,ad-35-316
-word-380,OldChinese,調 dˤiw,,,,調,dew,dˤiw,dew,dew,tone ,ad-36-317
-word-381,OldChinese,鼓 kˤaʔ,,,,鼓,kuX,kˤaʔ,kuX,kuX,drum,ad-36-317
-word-382,OldChinese,屏 lrit,,,,屏,yit,lrit,yit,yit,get rid ,ad-36-318
-word-383,OldChinese,虜 C.rˤaʔ,,,,虜,luX,C.rˤaʔ,luX,luX,captive,ad-36-318
-word-384,OldChinese,甘 kˤam,,,,甘,kam,kˤam,kam,kam,fierce / easy,ad-36-322 ad-38-334
-word-385,OldChinese,若 nak,,,,若,nyak,nak,nyak,nyak,modal particle,ad-37-326
-word-386,OldChinese,冒 mˤuk-s,,,,冒,mawH,mˤuk-s,mawH,mawH,reckless,ad-37-327
-word-387,OldChinese,指 mə.kijʔ,,,,指,tsyijX,mə.kijʔ,tsyijX,tsyijX,point ,ad-37-329
-word-388,OldChinese,葸 səʔ,,,,葸,siX,səʔ,siX,siX,fear,ad-37-329 ad-39-345
-word-389,OldChinese,勸 C.qʷʰar-s,,,,勸,khjwonH,C.qʷʰar-s,khjwonH,khjwonH,exhort,ad-37-330
-word-390,OldChinese,志 tək-s,,,,志,tsyiH,tək-s,tsyiH,tsyiH,intention,ad-37-330 ad-39-343 ad-42-369
-word-391,OldChinese,甬 loŋʔ,,,,甬,yowngX,loŋʔ,yowngX,yowngX,courageous,ad-37-331
-word-392,OldChinese,喜 qʰ(r)əʔ,,,,喜,xiX,qʰ(r)əʔ,xiX,xiX,joy,ad-37-331 ad-39-344
-word-393,OldChinese,慌 m̥ˤaŋʔ,,,,慌,xwangX,m̥ˤaŋʔ,xwangX,xwangX,anxious,ad-38-332
-word-394,OldChinese,悔 m̥ˤəʔ,,,,悔,xwojX,m̥ˤəʔ,xwojX,xwojX,blame,ad-38-332 ad-39-345
-word-395,OldChinese,黔 g(r)om,,,,黔,gjem,g(r)om,gjem,gjem,black,ad-38-333
-word-396,OldChinese,首 l̥uʔ-s,,,,首,syuwH,l̥uʔ-s,syuwH,syuwH,head,ad-38-333
-word-397,OldChinese,苦 kʰˤaʔ,,,,苦,khuX,kʰˤaʔ,khuX,khuX,hard,ad-38-336 ad-40-347
-word-398,OldChinese,束 tʰok,,,,束,syowk,tʰok,syowk,syowk,tie,ad-38-339
-word-399,OldChinese,厚 Cə.gˤ(r)oʔ,,,,厚,huwX,Cə.gˤ(r)oʔ,huwX,huwX,thick,ad-38-339
-word-400,OldChinese,薄 bˤak,,,,薄,bak,bˤak,bak,bak,thin,ad-39-340
-word-401,OldChinese,忘 maŋ,,,,忘,mjang,maŋ,mjang,mjang,forget,ad-39-341
-word-402,OldChinese,良 raŋ,,,,良,ljang,raŋ,ljang,ljang,good,ad-39-342 ad-39-342
-word-403,OldChinese,往 ɢʷaŋʔ,,,,往,hjwangX,ɢʷaŋʔ,hjwangX,hjwangX,go,ad-39-342 ad-43-375
-word-404,OldChinese,耳 C.nəʔ,,,,耳,nyiX,C.nəʔ,nyiX,nyiX,ear,ad-39-342
-word-405,OldChinese,起 C.qʰ(r)əʔ,,,,起,khiX,C.qʰ(r)əʔ,khiX,khiX,raise,ad-39-343 ad-42-369 ad-44-388
-word-406,OldChinese,勇 loŋʔ,,,,勇,yowngX,loŋʔ,yowngX,yowngX,courageous,ad-39-344
-word-407,OldChinese,然後 nan_ɢˤ(r)oʔ,,,,然後,nyen_huwX,nan_ɢˤ(r)oʔ,nyen_huwX,nyen_huwX,conjunction,ad-40-346
-word-408,OldChinese,攻 kˤoŋ,,,,攻,kuwng,kˤoŋ,kuwng,kuwng,assault,ad-40-349 ad-41-358 ad-41-359
-word-409,OldChinese,寶 pˤuʔ,,,,寶,xwaH,pˤuʔ,xwaH,xwaH,good,ad-40-351
-word-410,OldChinese,阻 tsraʔ,,,,阻,tsrjoX,tsraʔ,tsrjoX,tsrjoX,strategic pass,ad-40-354
-word-411,OldChinese,用 loŋ-s,,,,用,yowngH,loŋ-s,yowngH,yowngH,use,ad-40-355
-word-412,OldChinese,諧 kˤrij,,,,諧,keaj,kˤrij,keaj,keaj,harmonize,ad-40-356
-word-413,OldChinese,家 kˤra,,,,家,kae,kˤra,kae,kae,home,ad-40-357
-word-414,OldChinese,忧 ʔ(r)u,,,,忧,juw,ʔ(r)u,juw,juw,grief,ad-40-357
-word-415,OldChinese,善 genʔ,,,,善,dzyenX,genʔ,dzyenX,dzyenX,good,ad-41-358
-word-416,OldChinese,捍 kˤar-s,,,,捍,hanH,kˤar-s,hanH,hanH,shield,ad-42-365
-word-417,OldChinese,絓 kʷˤre-s,,,,絓,kweaH,kʷˤre-s,kweaH,kweaH,entangle,ad-42-367
-word-418,OldChinese,國 C.qʷˤək,,,,國,kwok,C.qʷˤək,kwok,kwok,state,ad-42-367 ad-42-368
-word-419,OldChinese,諸侯 ta_gˤ(r)o,,,,諸侯,tsyo_(tsyae)_huw,ta_gˤ(r)o,tsyo_(tsyae)_huw,tsyo_(tsyae)_huw,noble,ad-42-369
-word-420,OldChinese,寡 C.kʷˤraʔ,,,,寡,kwaeX,C.kʷˤraʔ,kwaeX,kwaeX,few,ad-42-369
-word-421,OldChinese,歡 qʷʰˤar,,,,歡,xwan,qʷʰˤar,xwan,xwan,delight,ad-43-373
-word-422,OldChinese,詑 l̥ˤaj,,,,詑,da,l̥ˤaj,da,da,mislead,ad-43-378
-word-423,OldChinese,鬼 ʔujʔ,,,,鬼,kjw+jX,ʔujʔ,kjw+jX,kjw+jX,ghost,ad-43-378
-word-424,OldChinese,神 Cə.lin,,,,神,zyin,Cə.lin,zyin,zyin,god,ad-43-378 ad-43-379
-word-425,OldChinese,非 pəj,,,,非,pj+j,pəj,pj+j,pj+j,be not,ad-43-379
-word-426,OldChinese,唯 ɢʷij,,,,唯,ywij,ɢʷij,ywij,ywij,modal particle,ad-43-380 ad-45-396
-word-427,OldChinese,王 ɢʷaŋ-s,,,,王,hjwangH,ɢʷaŋ-s,hjwangH,hjwangH,king,ad-43-381
-word-428,OldChinese,至 tit-s,,,,至,tsyijH,tit-s,tsyijH,tsyijH,excellent,ad-43-381
-word-429,OldChinese,沫 mˤat,,,,沫,mat,mˤat,mat,mat,Mo (personal Name),ad-44-383
-word-430,OldChinese,或者 ɢʷˤək_tAʔ,,,,或者,hwok_tsyaeX,ɢʷˤək_tAʔ,hwok_tsyaeX,hwok_tsyaeX,maybe,ad-44-384
-word-431,OldChinese,古 kˤaʔ,,,,古,kuX,kˤaʔ,kuX,kuX,ancient,ad-45-391 ad-45-392 ad-45-393 ad-46-398
-word-432,OldChinese,敢 kˤamʔ,,,,敢,kamX,kˤamʔ,kamX,kamX,dare,ad-45-392 ad-46-397
-word-433,OldChinese,恭 koŋ,,,,恭,kjowng,koŋ,kjowng,kjowng,cherish,ad-45-394
-word-434,OldChinese,儉 gramʔ,,,,儉,gjemX,gramʔ,gjemX,gjemX,frugality,ad-45-394
-word-435,OldChinese,驕 kraw,,,,驕,kjew,kraw,kjew,kjew,take pride,ad-45-395
-word-436,OldChinese,泰 l̥ˤat-s,,,,泰,thajH,l̥ˤat-s,thajH,thajH,pomp,ad-45-395
-word-437,OldChinese,禹 ɢʷ(r)aʔ,,,,禹,hjuX,ɢʷ(r)aʔ,hjuX,hjuX,Yu (person name),ad-45-396
-word-438,OldChinese,湯 l̥ˤaŋ,,,,湯,thang,l̥ˤaŋ,thang,thang,Tang (person name),ad-45-396
-word-439,OldChinese,桀 kat,,,,桀,gjet,kat,gjet,gjet,Jie (person name),ad-45-396
-word-440,OldChinese,紂 druʔ,,,,紂,drjuwX,druʔ,drjuwX,drjuwX,Zhou (person name),ad-45-396
+word-1,OldChinese,魯 r.ŋˤaʔ,,,,魯,luX,r.ŋˤaʔ,luX,luX,Lu (place name),1 5
+word-2,OldChinese,莊公 tsraŋ_C.qˤoŋ,,,,莊公,tsrjang_kuwng,tsraŋ_C.qˤoŋ,tsrjang_kuwng,tsrjang_kuwng,duke Zhuang (personal name),1 22 36 54 101 118 134 155 164 173 208 222 233 252 262 291 321 335 348 360 370 382
+word-3,OldChinese,將 tsaŋ,,,,將,tsjang,tsaŋ,tsjang,tsjang,aspectual marker / conduct / aspect marker / general,1 152 229 268 282 299 304 308 310 313 326
+word-4,OldChinese,為 ɢʷ(r)aj,,,,為,hjwe,ɢʷ(r)aj,hjwe,hjwe,be / do / be ,1 89 102 117 119 133 135 140 149 151 165 174 181 275 305 314
+word-5,OldChinese,大 lˤat-s,,,,大,dajH,lˤat-s,dajH,dajH,big / great / big ,1 9 77 121 127 266 367 368 393
+word-6,OldChinese,鍾 toŋ,,,,鍾,tsyowng,toŋ,tsyowng,tsyowng,bell,1 9 57
+word-7,OldChinese,型 gˤeŋ,,,,型,heng,gˤeŋ,heng,heng,shape,2 57
+word-8,OldChinese,既 kət-s,,,,既,kj+jH,kət-s,kj+jH,kj+jH,already / finish / aspect marker,2 23 223 253 260 261 295 308 313
+word-9,OldChinese,成 deŋ,,,,成,dzyeng,deŋ,dzyeng,dzyeng,complete / finish,2 223 238
+word-10,OldChinese,矣 qəʔ,,,,矣,hiX,qəʔ,hiX,hiX,modal particle,2 223 391 396
+word-11,OldChinese,曹沫 tsˤu_mˤat,,,,曹沫,dzaw_mat,tsˤu_mˤat,dzaw_mat,dzaw_mat,Cao Mo (personal name),3 25 41 65 69 103 120 386
+word-12,OldChinese,入 nup,,,,入,nyip,nup,nyip,nyip,enter,3
+word-13,OldChinese,見 kˤen-s,,,,見,henH,kˤen-s,henH,henH,see,3 142 276 287 341
+word-14,OldChinese,曰 ɢʷat,,,,曰,hjwot,ɢʷat,hjwot,hjwot,say,4 16 22 25 27 36 37 41 44 54 65 69 101 103 113 118 120 136 155 157 166 175 182 208 210 222 225 233 235 242 244 252 254 262 264 277 291 293 297 307 310 321 323 335 337 348 350 352 353 354 360 362 370 377 382 386
+word-15,OldChinese,昔 sAk,,,,昔,sjek,sAk,sjek,sjek,past,5 11 16 37 388
+word-16,OldChinese,周 tiw,,,,周,tsyuw,tiw,tsyuw,tsyuw,Zhou (clan name),5 16
+word-17,OldChinese,室 s.tit,,,,室,syit,s.tit,syit,syit,house,5 16
+word-18,OldChinese,之 tə,,,,之,tsyi,tə,tsyi,tsyi,conjunction / anaphoric subtitute of the object / anaphoric substitute of the object / cataphoric substitute of the object / this / nominalization marker,5 10 11 23 27 28 32 35 38 38 42 44 45 70 73 76 76 90 90 98 112 115 127 132 141 168 169 169 172 179 191 192 211 213 221 227 231 232 237 241 246 247 249 261 273 274 276 278 283 283 285 290 303 314 316 320 331 332 333 334 339 339 347 359 363 364 365 368 371 376 380 385 387 388 394 395
+word-19,OldChinese,封 p(r)oŋ,,,,封,pjowng,p(r)oŋ,pjowng,pjowng,enfeoff / fief,5 9
+word-20,OldChinese,也 lAjʔ,,,,也,yaeX,lAjʔ,yaeX,yaeX,modal particle,5 10 11 42 64 89 161 196 197 221 232 241
+word-21,OldChinese,東 tˤoŋ,,,,東,tuwng,tˤoŋ,tuwng,tuwng,east,6
+word-22,OldChinese,西 nˤər,,,,西,sej,nˤər,sej,sej,west,6
+word-23,OldChinese,七 tsʰit,,,,七,tshit,tsʰit,tshit,tshit,seven,6
+word-24,OldChinese,百 pˤrak,,,,百,paek,pˤrak,paek,paek,hundred / thousand,6 6 184 185
+word-25,OldChinese,南 nˤəm,,,,南,nom,nˤəm,nom,nom,south,6
+word-26,OldChinese,北 pˤək,,,,北,pok,pˤək,pok,pok,north,6
+word-27,OldChinese,五 C.ŋˤaʔ,,,,五,nguX,C.ŋˤaʔ,nguX,nguX,five,6 143 146
+word-28,OldChinese,非 pajʔ,,,,非,pjeX,pajʔ,pjeX,pjeX,that,7 7
+word-29,OldChinese,山 ŋrar,,,,山,srean,ŋrar,srean,srean,mountain,7
+word-30,OldChinese,澤 lˤrak,,,,澤,draek,lˤrak,draek,draek,marsh,7
+word-31,OldChinese,無 ma,,,,無,mju,ma,mju,mju,not have / negative adverb,8 42 47 52 124 126 129 130 171 303 359
+word-32,OldChinese,有 ɢʷəʔ,,,,有,hjuwX,ɢʷəʔ,hjuwX,hjuwX,have,8 14 16 20 51 53 64 71 72 88 107 108 112 123 125 127 128 144 147 189 190 193 194 195 206 224 226 234 236 243 245 253 255 260 263 265 276 289 292 294 322 324 333 336 338 351 358 359 371 376 378 393
+word-33,OldChinese,不 pə,,,,不,pjuw,pə,pjuw,pjuw,negative adverb / not ,8 15 18 29 29 30 33 33 34 49 58 59 60 61 62 79 91 92 93 94 95 96 99 132 161 161 162 162 163 163 170 171 197 197 198 198 199 199 200 200 204 205 211 213 230 246 247 248 256 257 279 280 356 383 391 392
+word-34,OldChinese,民 miŋ,,,,民,mjin,miŋ,mjin,mjin,people,8 29 33 104 105 115 128 154 172 179 191 270 315 333 351 379
+word-35,OldChinese,今 krəm,,,,今,kim,krəm,kim,kim,today,9 23 40 391
+word-36,OldChinese,彌 nər,,,,彌,mjie,nər,mjie,mjie,more,9
+word-37,OldChinese,小 sewʔ,,,,小,sjewX,sewʔ,sjewX,sjewX,small / little,9 77 384
+word-38,OldChinese,而 nə,,,,而,nyi,nə,nyi,nyi,conjunction,9 14 15 17 18 29 33 45 47 57 64 65 71 72 81 106 108 130 131 150 260 267 268 276 339 339 341 393 395 398
+word-39,OldChinese,愈 loʔ,,,,愈,yuX,loʔ,yuX,yuX,more,9
+word-40,OldChinese,君 C.qur,,,,君,kjun,C.qur,kjun,kjun,her majesty / sovereign / the noble man,10 26 28 32 43 99 122 167 169 195 220 269 276 380 396
+word-41,OldChinese,其 gə,,,,其,gi,gə,gi,gi,possessive pronoun / nominalization marker / modal particle / conjunction,10 26 84 100 132 229 246 247 248 256 257 268 308 318 319 330 341 341 342 343 358 363 364 365 389 390 396
+word-42,OldChinese,圖 dˤa,,,,圖,du,dˤa,du,du,intend,10
+word-43,OldChinese,堯 ŋˤew,,,,堯,ngew,ŋˤew,ngew,ngew,Yao (personal name),11
+word-44,OldChinese,饗 qʰaŋʔ,,,,饗,xjangX,qʰaŋʔ,xjangX,xjangX,banquet,11
+word-45,OldChinese,舜 s.tun-s,,,,舜,sywinH,s.tun-s,sywinH,sywinH,Shun (personal name),11
+word-46,OldChinese,飯 bonʔ,,,,飯,bjonX,bonʔ,bjonX,bjonX,eat,12
+word-47,OldChinese,於 ʔˤa,,,,於,u,ʔˤa,u,u,preposition,12 13 15 15 29 33 40 42 65 91 93 95 102 112 117 119 131 133 135 154 176 177 270 275 280 296 367 378 388
+word-48,OldChinese,土 tʰˤaʔ,,,,土,thuX,tʰˤaʔ,thuX,thuX,terracotta,12 13
+word-49,OldChinese,簋 kʷruʔ,,,,簋,kwijX,kʷruʔ,kwijX,kwijX,jar,12
+word-50,OldChinese,欼 s.tʰrə,,,,欼,tsrhiX,s.tʰrə,tsrhiX,tsrhiX,drink,13
+word-51,OldChinese,鉶 gˤeŋ,,,,鉶,heng,gˤeŋ,heng,heng,cup,13
+word-52,OldChinese,撫 pʰ(r)aʔ,,,,撫,phjuX,pʰ(r)aʔ,phjuX,phjuX,appease,14
+word-53,OldChinese,天下 l̥ˤin_gˤraʔ-s,,,,天下,then_haeH,l̥ˤin_gˤraʔ-s,then_haeH,then_haeH,world,14 23 369 388
+word-54,OldChinese,此 tsʰe(j)ʔ,,,,此,tshjeX,tsʰe(j)ʔ,tshjeX,tshjeX,this / tihis,15 56 116 156 196 221 232 241 249 261 320 334 347 381
+word-55,OldChinese,貧 brən,,,,貧,bin,brən,bin,bin,poor,15
+word-56,OldChinese,美 mrəjʔ,,,,美,mijX,mrəjʔ,mijX,mijX,beauty,15
+word-57,OldChinese,富 pək-s,,,,富,pjuwH,pək-s,pjuwH,pjuwH,rich,15
+word-58,OldChinese,德 tˤək,,,,德,tok,tˤək,tok,tok,virtue,15 108
+word-59,OldChinese,歟 ɢ(r)a(ʔ)(-s),,,,歟,yo,ɢ(r)a(ʔ)(-s),yo,yo,modal particle,15
+word-60,OldChinese,戒 kˤrək-s,,,,戒,keajH,kˤrək-s,keajH,keajH,warn,16 158 325
+word-61,OldChinese,言 ŋan,,,,言,ngjon,ŋan,ngjon,ngjon,word,16 40 42 56 372 374 383
+word-62,OldChinese,願 ŋon-s,,,,願,ngjwonH,ŋon-s,ngjwonH,ngjwonH,desire,17 18
+word-63,OldChinese,正 teŋ-s,,,,正,tsyengH,teŋ-s,tsyengH,tsyengH,government / contend,17 72
+word-64,OldChinese,功 kˤoŋ,,,,功,kuwng,kˤoŋ,kuwng,kuwng,merit,17 106 183 328
+word-65,OldChinese,或 ɢʷˤək,,,,或,hwok,ɢʷˤək,hwok,hwok,some / modal particle,18 18 74 75 379
+word-66,OldChinese,興 qʰ(r)əŋ,,,,興,xing,qʰ(r)əŋ,xing,xing,flourish,18
+word-67,OldChinese,康 r̥ˤaŋ,,,,康,khang,r̥ˤaŋ,khang,khang,tranquil,18
+word-68,OldChinese,以 ləʔ,,,,以,yiX,ləʔ,yiX,yiX,preposition / conjunction / use,19 35 42 45 47 50 52 74 75 82 84 85 89 89 116 133 146 149 151 152 153 154 168 196 207 209 270 301 325 327 330 357 358 359 379 389 390 392 394 395
+word-69,OldChinese,凶 qʰ(r)oŋ,,,,凶,xjowng,qʰ(r)oŋ,xjowng,xjowng,misfortune,19
+word-70,OldChinese,保 pˤuʔ,,,,保,pawX,pˤuʔ,pawX,pawX,guard,19
+word-71,OldChinese,疆 kaŋ,,,,疆,kjang,kaŋ,kjang,kjang,strong / border,19 80
+word-72,OldChinese,必 pit,,,,必,pjit,pit,pjit,pjit,must,19 81 86 88 99 123 125 127 144 169 212 214 276 283 319 325 328 358 363 394
+word-73,OldChinese,勝 l̥əŋ,,,,勝,sying,l̥əŋ,sying,sying,win ,19 158 159 160 200 316
+word-74,OldChinese,可以 kʰˤajʔ_ləʔ,,,,可以,khaX_yiX,kʰˤajʔ_ləʔ,khaX_yiX,khaX_yiX,can,20 29 33 79 92 94 96 239
+word-75,OldChinese,治 C.lrə,,,,治,dri,C.lrə,dri,dri,govern,20 184 186
+word-76,OldChinese,邦 pˤroŋ,,,,邦,paewng,pˤroŋ,paewng,paewng,state,20 28 32 57 77 77 78 91 102 117 131 195 231 283 283 357
+word-77,OldChinese,周志 tiw_tək-s,,,,周志,tsyuw_tsyiH,tiw_tək-s,tsyuw_tsyiH,tsyuw_tsyiH,Zhou zhi (Documents),21
+word-78,OldChinese,是 deʔ,,,,是,dzyeX,deʔ,dzyeX,dzyeX,this,21 145
+word-79,OldChinese,存 dzˤən,,,,存,dzwon,dzˤən,dzwon,dzwon,be present,21 73 230
+word-80,OldChinese,君子 C.qur_tsəʔ,,,,君子,kjun_tsiX,C.qur_tsəʔ,kjun_tsiX / kjun,kjun_tsiX / kjun,the noble man,23 38 45 50 114
+word-81,OldChinese,可 kʰˤajʔ,,,,可,khaX,kʰˤajʔ,khaX,khaX,can,23 197 204
+word-82,OldChinese,知 tre,,,,知,trje,tre,trje,trje,know,23 170 380
+word-83,OldChinese,已 ɢ(r)əʔ,,,,已,yiX,ɢ(r)əʔ,yiX,yiX,give up / modal particle,23 99
+word-84,OldChinese,孰 duk,,,,孰,dzyuwk,duk,dzyuwk,dzyuwk,who,24
+word-85,OldChinese,能 nˤə,,,,能,noj,nˤə,noj,noj,can / ability,24 184 186 190
+word-86,OldChinese,併 bˤreŋʔ,,,,併,beangX,bˤreŋʔ,beangX,beangX,unite,24
+word-87,OldChinese,兼 kˤem,,,,兼,kem,kˤem,kem,kem,together,24
+word-88,OldChinese,人 niŋ,,,,人,nyin,niŋ,nyin,nyin,person / other,24 146 147 148 184 185 211 213 215 217 219 306 359
+word-89,OldChinese,哉 tsˤə,,,,哉,tsoj,tsˤə,tsoj,tsoj,modal particle,24 55
+word-90,OldChinese,毋 mo,,,,毋,mju,mo,mju,mju,negative adverb / not have,26 80 83 104 105 111 150 151 167 176 177 267 268 272 285 314 315 327
+word-91,OldChinese,云 ɢʷən,,,,云,hjun,ɢʷən,hjun,hjun,say,26
+word-92,OldChinese,臣 giŋ,,,,臣,dzyin,giŋ,dzyin,dzyin,minister,27 42 44 70 76 90 109 192 227 237 387 392
+word-93,OldChinese,聞 mun,,,,聞,mjun,mun,mjun,mjun,hear,27 44 56 70 76 90 150 192 227 237 371 385 387 396
+word-94,OldChinese,鄰 (mə.)rən,,,,鄰,lin,(mə.)rən,lin,lin,neighbor,28 32
+word-95,OldChinese,明 mraŋ,,,,明,mjaeng,mraŋ,mjaeng,mjaeng,enlighten / bright,28 378
+word-96,OldChinese,則 tsˤək,,,,則,tsok,tsˤək,tsok,tsok,conjunction / negative adverb,29 33 100 132 161 162 163 172 179 191 198 199 200 202 203 205 287 288
+word-97,OldChinese,修 liw,,,,修,sjuw,liw,sjuw,sjuw,improve,29 33 86
+word-98,OldChinese,政 teŋ-s,,,,政,tsyengH,teŋ-s,tsyengH,tsyengH,government,29 33 57
+word-99,OldChinese,善 danʔ,,,,善,dzyenX,danʔ,dzyenX,dzyenX,good,29 33 275 361
+word-100,OldChinese,然 nan,,,,然,nyen,nan,nyen,nyen,like that / like this,30 34 49 393 398
+word-101,OldChinese,恐 kʰ(r)oŋʔ,,,,恐,khjowngX,kʰ(r)oŋʔ,khjowngX,khjowngX,fear,31
+word-102,OldChinese,亡 maŋ,,,,亡,mjang,maŋ,mjang,mjang,not have / flee / death / perish / negative adverb,31 32 35 64 71 72 75 287
+word-103,OldChinese,焉 ʔan,,,,焉,jen,ʔan,jen,jen,in it,31 81 393
+word-104,OldChinese,道 kə.lˤuʔ,,,,道,dawX,kə.lˤuʔ,dawX,dawX,way,32 47 52 206 221 263 292 320 322 334 336 347 381 384 393
+word-105,OldChinese,亦 ɢ(r)Ak,,,,亦,yek,ɢ(r)Ak,yek,yek,conjunction / aso / also,33 48 391 393 393 396 398
+word-106,OldChinese,取 tsʰˤoʔ,,,,取,tshuwX,tsʰˤoʔ,tshuwX,tshuwX,take,35 81 342
+word-107,OldChinese,施伯 l̥aj_pʰˤak,,,,施伯,da_phak,l̥aj_pʰˤak,da_phak,da_phak,Shi Bo (personal name),37
+word-108,OldChinese,語 ŋ(r)aʔ-s,,,,語,ngjoH,ŋ(r)aʔ-s,ngjoH,ngjoH,tell,37
+word-109,OldChinese,寡人 C.kʷˤraʔ_niŋ,,,,寡人,kwaeX_nyin_,C.kʷˤraʔ_niŋ,kwaeX_nyin / kwaeX_nyin_,kwaeX_nyin / kwaeX_nyin_,I miserable,37 279
+word-110,OldChinese,得 tˤək,,,,得,tsiX,tˤək,tok / tsiX,tok / tsiX,obtain,38 51 394
+word-111,OldChinese,失 l̥it,,,,失,syit,l̥it,syit,syit,loose,38 45 53 302 395
+word-112,OldChinese,天 l̥ˤin,,,,天,then,l̥ˤin,then,then,heaven / heave,39 46 48 280
+word-113,OldChinese,命 riŋ-s,,,,命,mjaengH,riŋ-s,mjaengH,mjaengH,mandate / order / order ,39 46 48 57 150 280 303 311
+word-114,OldChinese,異 ɢ(r)ək-s,,,,異,yiH,ɢ(r)ək-s,yiH,yiH,different,40 42
+word-115,OldChinese,爾 nərʔ,,,,爾,nyeX,nərʔ,nyeX,nyeX,your / you,40 312 316 317
+word-116,OldChinese,弗 put,,,,弗,pjut,put,pjut,pjut,negative adverb,43 51 53 258 259 271 326
+word-117,OldChinese,盡 tsinʔ,,,,盡,tsinX,tsinʔ,tsinX,tsinX,all / fully understand,43 73 355
+word-118,OldChinese,賢 gˤin,,,,賢,hen,gˤin,hen,hen,sage,45 50 183
+word-119,OldChinese,稱 tʰəŋ,,,,稱,tsyhing,tʰəŋ,tsyhing,tsyhing,denomination,45 47 50 52
+word-120,OldChinese,沒 mˤut,,,,沒,mwot,mˤut,mwot,mwot,extinguish,47
+word-121,OldChinese,身 n̥iŋ,,,,身,syin,n̥iŋ,syin,syin,body / personally,47 169 220 390
+word-122,OldChinese,就 dzuk-s,,,,就,dzjuwH,dzuk-s,dzjuwH,dzjuwH,go,47 247 301
+word-123,OldChinese,世 l̥ap-s,,,,世,syejH,l̥ap-s,syejH,syejH,era,47 389
+word-124,OldChinese,曷 gˤat,,,,曷,hat,gˤat,hat,hat,how,51 53
+word-125,OldChinese,顯 qʰˤenʔ,,,,顯,xenX,qʰˤenʔ,xenX,xenX,apparent,55 206 221
+word-126,OldChinese,吾 ŋˤa,,,,吾,ngu,ŋˤa,ngu,ngu,I,56 66 280 371 383 385
+word-127,OldChinese,乃 nˤə(ŋ)ʔ,,,,乃,nojX,nˤə(ŋ)ʔ,nojX,nojX,conjunction,57 270 311 318
+word-128,OldChinese,毀 m̥(r)ajʔ,,,,毀,xjweX,m̥(r)ajʔ,xjweX,xjweX,destroy,57
+word-129,OldChinese,聽 l̥ˤeŋ,,,,聽,theng,l̥ˤeŋ,theng,theng,listen,57 60 169 178
+word-130,OldChinese,晝 truk-s,,,,晝,trjuwH,truk-s,trjuwH,trjuwH,day,58
+word-131,OldChinese,寢 tsʰimʔ,,,,寢,tshimX,tsʰimʔ,tshimX,tshimX,sleep,58
+word-132,OldChinese,飲 q(r)umʔ,,,,飲,imX,q(r)umʔ,imX,imX,drink wine,59
+word-133,OldChinese,酒 tsuʔ,,,,酒,tsjuwX,tsuʔ,tsjuwX,tsjuwX,wine,59
+word-134,OldChinese,樂 ŋˤrawk,,,,樂,ngaewk,ŋˤrawk,ngaewk,ngaewk,music,60
+word-135,OldChinese,居 k(r)a,,,,居,kjo,k(r)a,kjo,kjo,stay,61 77
+word-136,OldChinese,褻 ŋet,,,,褻,sjet,ŋet,sjet,sjet,dress,61
+word-137,OldChinese,文 mən,,,,文,mjun,mən,mjun,mjun,adorn,61
+word-138,OldChinese,食 lək,,,,食,zyik,lək,zyik,zyik,eat / reward with food,62 106 139 272 308 311 363 363
+word-139,OldChinese,貳 nij-s,,,,貳,nyijH,nij-s,nyijH,nyijH,duplicate,62
+word-140,OldChinese,胾 tsˤə,,,,胾,tsriH,tsˤə,tsriH,tsriH,soup,62
+word-141,OldChinese,兼愛 kˤem_qˤəp-s,,,,兼愛,kem_ojH,kˤem_qˤəp-s,kem_ojH,kem_ojH,universal love,63
+word-142,OldChinese,萬民 C.man-s_miŋ,,,,萬民,mjonH_mjin,C.man-s_miŋ,mjonH_mjin,mjonH_mjin,thousand people,63
+word-143,OldChinese,私 səj,,,,私,sij,səj,sij,sij,private interest,64
+word-144,OldChinese,還 ɢʷˤen,,,,還,hwaen,ɢʷˤen,hwaen,hwaen,following,65
+word-145,OldChinese,年 C.nˤiŋ,,,,年,nen,C.nˤiŋ,nen,nen,year,65
+word-146,OldChinese,問 C.mun-s,,,,問,mjunH,C.mun-s,mjunH,mjunH,ask,65 67 134 164 173 180 233 242 252 259 262 274 291 321 335 348 360 370
+word-147,OldChinese,欲 ɢ(r)ok,,,,欲,yowk,ɢ(r)ok,yowk,yowk,desire / want,66 201 333 385
+word-148,OldChinese,與 q(r)aʔ,,,,與,yoX,q(r)aʔ,yoX,yoX,conjunction / preposition,66 391
+word-149,OldChinese,齊 dzˤəj,,,,齊,dzej,dzˤəj,dzej,dzej,Qi (place name),66
+word-150,OldChinese,戰 tar-s,,,,戰,tsyenH,tar-s,tsyenH,tsyenH,war,66 88 89 96 156 196 206 221 243 249 251 253 260 261 263 280 282 292 295 299 304 313 320 322 334 336 347
+word-151,OldChinese,陳 lrin,,,,陳,drin,lrin,drin,drin,battle array / explain,67 72 73 94 95 97 106 135 183 238 250 319
+word-152,OldChinese,奚 gˤe,,,,奚,hej,gˤe,hej,hej,how,67 68 349 361
+word-153,OldChinese,如 na,,,,如,nyo,na,nyo,nyo,how / compare / if,67 68 269 349 361 383
+word-154,OldChinese,守 s.tuʔ-s,,,,守,syuwH,s.tuʔ-s,syuwH,syuwH,keep / preserve,68 361
+word-155,OldChinese,邊 pˤen,,,,邊,pen,pˤen,pen,pen,frontier ,68 82
+word-156,OldChinese,城 deŋ,,,,城,dzyeng,deŋ,dzyeng,dzyeng,town / wall,68 71 86 352 365
+word-157,OldChinese,答 tˤup,,,,答,top,tˤup,top,top,reply,69 103 136 157 166 175 182 210 225 235 244 254 264 293 323 337 350 362 377 386 392 397
+word-158,OldChinese,固 kˤa-s,,,,固,kuH,kˤa-s,kuH,kuH,fortress / solid,71 71 353 365
+word-159,OldChinese,謀 mə,,,,謀,mjuw,mə,mjuw,mjuw,plan,71
+word-160,OldChinese,克 kʰˤək,,,,克,khok,kʰˤək,khok,khok,conquest / capable / defeat ,72 72 74 207 209 326
+word-161,OldChinese,三 s.rum,,,,三,sam,s.rum,sam,sam,three  / three,73 98 121 141 156 186 194 196 228 234 238 266 278 355 373 375 385
+word-162,OldChinese,代 lˤək-s,,,,代,dojH,lˤək-s,dojH,dojH,dynasty,73 385
+word-163,OldChinese,且 tsa,,,,且,tsjo,tsa,tsjo,tsjo,conjunction,76 90 192 256 257 366
+word-164,OldChinese,之間 tə_N-ˤren,,,,之間,tsyi hean_kean_kean,tə_N-ˤren,tsyi hean_kean_kean,tsyi hean_kean_kean,between / between ,77 143
+word-165,OldChinese,敵 dˤek,,,,敵,dek,dˤek,dek,dek,enemy,78 280
+word-166,OldChinese,交 kˤraw,,,,交,kaew,kˤraw,kaew,kaew,exchange,78
+word-167,OldChinese,地 lˤej-s,,,,地,dijH,lˤej-s,dijH,dijH,land,78 80 271
+word-168,OldChinese,先 sˤər,,,,先,sen,sˤər,sen,sen,previous / before,79 80 285 381
+word-169,OldChinese,作 tsˤak-s,,,,作,tsuH,tsˤak-s,tsuH,tsuH,do,79
+word-170,OldChinese,怨 ʔor-s,,,,怨,jwonH,ʔor-s,jwonH,jwonH,complain,79
+word-171,OldChinese,所 qʰaʔ,,,,所,srjoX,qʰaʔ,srjoX,srjoX,nominalization marker / place,82 85 89 116 133 149 151 154 171 196 319 358 359 371 379 385
+word-172,OldChinese,拒 g(r)aʔ,,,,拒,gjoX,g(r)aʔ,gjoX,gjoX,resist,82 85
+word-173,OldChinese,愛 qˤəp-s,,,,愛,ojH,qˤəp-s,ojH,ojH,love,83
+word-174,OldChinese,貨 qʷʰˤaj-s,,,,貨,xwaH,qʷʰˤaj-s,xwaH,xwaH,commodities,83
+word-175,OldChinese,資 tsij,,,,資,tsij,tsij,tsij,tsij,goods,83
+word-176,OldChinese,子 tsəʔ,,,,子,tsiX,tsəʔ,tsiX,tsiX,you / son,83 278 279
+word-177,OldChinese,女 nraʔ,,,,女,nrjoX,nraʔ,nrjoX,nrjoX,woman,83
+word-178,OldChinese,事 s-rəʔ-s,,,,事,dzriH,s-rəʔ-s,dzriH,dzriH,serve,84
+word-179,OldChinese,便嬖 ben_pˤek-s,,,,便嬖,bjien_pejH,ben_pˤek-s,bjien_pejH,bjien_pejH,advisors and favourites,84
+word-180,OldChinese,內 nˤup,,,,內,nop,nˤup,nop,nop,inside,85
+word-181,OldChinese,郭 kʷˤak,,,,郭,kwak,kʷˤak,kwak,kwak,outskirts,86
+word-182,OldChinese,繕 danʔ-s,,,,繕,dzyenH,danʔ-s,dzyenH,dzyenH,repair / fortify,87 298
+word-183,OldChinese,甲 kˤrap,,,,甲,kaep,kˤrap,kaep,kaep,weapon / armour,87 213 214 298 302
+word-184,OldChinese,利 C.rit-s,,,,利,lijH,C.rit-s,lijH,lijH,benefit,87 105 298 364
+word-185,OldChinese,兵 praŋ,,,,兵,pjaeng,praŋ,pjaeng,pjaeng,weapon / armour,87 138 142 207 209 211 212 284 298 311 364
+word-186,OldChinese,心 səm,,,,心,sim,səm,sim,sim,heart,88 260
+word-187,OldChinese,長 Cə-N-traŋ,,,,長,drjang,Cə-N-traŋ,drjang,drjang,superior / conduct / head,89 128 185 193 197
+word-188,OldChinese,和 ɢˤoj,,,,和,hwa,ɢˤoj,hwa,hwa,harmony,91 93 95 102 117 119 133 135 162 174 179 199 366
+word-189,OldChinese,出 kʰut-s,,,,出,tsyhwijH,kʰut-s,tsyhwijH,tsyhwijH,exit,92 94 96 121 224 228 232 239 372 374
+word-190,OldChinese,舍 l̥Ak-s,,,,舍,syaeH,l̥Ak-s,syaeH,syaeH,barracks / camp,92 93 119 133 239 295
+word-191,OldChinese,是故 deʔ_kˤa(ʔ)-s,,,,是故,dzyeX_kuH,deʔ_kˤa(ʔ)-s,dzyeX_kuH,dzyeX_kuH,conjunction,97 197 204 250 392
+word-192,OldChinese,夫 ba,,,,夫,bju,ba,bju,bju,modal particle,97 396
+word-193,OldChinese,者 tAʔ,,,,者,tsyaeX,tAʔ,tsyaeX,tsyaeX,nominalization marker,97 128 156 196 258 259 273 274 275 275 331 332 344 345 355 358 361 388
+word-194,OldChinese,教 s.kˤraw-s,,,,教,kaewH,s.kˤraw-s,kaewH,kaewH,teaching / teach,98 131 223 379
+word-195,OldChinese,末 mˤat,,,,末,mat,mˤat,mat,mat,peak,98
+word-196,OldChinese,由 lu,,,,由,yuw,lu,yuw,yuw,follow / preposition,100 231
+word-197,OldChinese,本 C.pˤənʔ,,,,本,pwonX,C.pˤənʔ,pwonX,pwonX,root,100
+word-198,OldChinese,乎 ɢˤa,,,,乎,hu,ɢˤa,hu,hu,modal particle,100 156 224 234 243 253 263 292 322 336 376
+word-199,OldChinese,如何 na_gˤaj,,,,如何,nyo_ha,na_gˤaj,nyo_ha,nyo_ha,how,102 165 174
+word-200,OldChinese,穫 qʷˤak,,,,穫,hwak,qʷˤak,hwak,hwak,cut,104
+word-201,OldChinese,時 də,,,,時,dzyi,də,dzyi,dzyi,time,104
+word-202,OldChinese,奪 Cə.lˤot,,,,奪,dwat,Cə.lˤot,dwat,dwat,take by force,105
+word-203,OldChinese,刑 ɢˤeŋ,,,,刑,heng,ɢˤeŋ,heng,heng,punish,107 340
+word-204,OldChinese,罰 bat,,,,罰,bjot,bat,bjot,bjot,execute,107
+word-205,OldChinese,罪 dzˤujʔ,,,,罪,dzwojX,dzˤujʔ,dzwojX,dzwojX,crime,107 130 268
+word-206,OldChinese,賞 taŋʔ,,,,賞,syangX,taŋʔ,syangX,syangX,admire / norm / reward ,108 148 178 256 267 289 329 340
+word-207,OldChinese,爵 tsewk,,,,爵,tsjak,tsewk,tsjak,tsjak,honour,108 129 288
+word-208,OldChinese,凡 bəŋ,,,,凡,bjuwng,bəŋ,bjuwng,bjuwng,all,109 128 286 302
+word-209,OldChinese,畜 qʰuk-s,,,,畜,trhjuwH,qʰuk-s,trhjuwH,trhjuwH,cattle,109
+word-210,OldChinese,群 gur,,,,群,gjun,gur,gjun,gjun,group / all,109 276
+word-211,OldChinese,貴 kuj-s,,,,貴,kjw+jH,kuj-s,kjw+jH,kjw+jH,noble,110 139
+word-212,OldChinese,賤 dzan-s,,,,賤,dzjenH,dzan-s,dzjenH,dzjenH,vulgar,110
+word-213,OldChinese,同 lˤoŋ,,,,同,duwng,lˤoŋ,duwng,duwng,same / unite / together,110 154 327 391
+word-214,OldChinese,待 dˤəʔ,,,,待,dojX,dˤəʔ,dojX,dojX,treat,110
+word-215,OldChinese,施 l̥aj,,,,施,sye,l̥aj,sye,sye,give,111
+word-216,OldChinese,祿 rˤok,,,,祿,luwk,rˤok,luwk,luwk,emolument,111 129 288
+word-217,OldChinese,倍 bˤəʔ,,,,倍,bwojX,bˤəʔ,bwojX,bwojX,double,111
+word-218,OldChinese,詩 s.tə,,,,詩,syi,s.tə,syi,syi,Odes,112
+word-219,OldChinese,愷 C.qʰˤəjʔ,,,,愷,khojX,C.qʰˤəjʔ,khojX,khojX,serene,114
+word-220,OldChinese,悌 lˤəjʔ-s,,,,悌,dejH,lˤəjʔ-s,dejH,dejH,happy,114
+word-221,OldChinese,父 p(r)aʔ,,,,父,pjuX,p(r)aʔ,pjuX,pjuX,father,115 230
+word-222,OldChinese,母 məʔ,,,,母,muwX,məʔ,muwX,muwX,mother,115
+word-223,OldChinese,如之何 na_tə_gˤaj,,,,如之何,nyo_tsyi_ha,na_tə_gˤaj,nyo_tsyi_ha,nyo_tsyi_ha,how,119 135 181
+word-224,OldChinese,軍 kʷər,,,,軍,kjun,kʷər,kjun,kjun,army / military / troop,121 130 145 186 194 228 234 238 266 296 373 375
+word-225,OldChinese,自 s.bit-s,,,,自,dzijH,s.bit-s,dzijH,dzijH,reflexive pronoun / self,122 167 270
+word-226,OldChinese,率 rut,,,,率,lwit,rut,lwit,lwit,lead,122 128 153 160 187 269
+word-227,OldChinese,二 nij-s,,,,二,nyijH,nij-s,nyijH,nyijH,two,123 278
+word-228,OldChinese,將軍 tsaŋ_kʷər,,,,將軍,tsjang_kjun,tsaŋ_kʷər,tsjang_kjun,tsjang_kjun,general,123 124 218 219
+word-229,OldChinese,數 rok,,,,數,sraewk,rok,sraewk,sraewk,number,125 127
+word-230,OldChinese,嬖 pˤek-s,,,,嬖,pejH,pˤek-s,pejH,pejH,favourite / favour,125 126 176 176
+word-231,OldChinese,大夫 lˤat-s_ba,,,,大夫,dajH_bju,lˤat-s_ba,dajH_bju,dajH_bju,grandees / grandee,125 126 216 217
+word-232,OldChinese,官 kʷˤan,,,,官,kwan,kʷˤan,kwan,kwan,official,127
+word-233,OldChinese,師 srij,,,,師,srij,srij,srij,srij,troop / multitude?,127 224 232 281
+word-234,OldChinese,公孫 C.qˤoŋ_sˤun,,,,公孫,kuwng_swon,C.qˤoŋ_sˤun,kuwng_swon,kuwng_swon,nephew of a duke,127 144
+word-235,OldChinese,公子 C.qˤoŋ_tsəʔ,,,,公子,kuwng_tsiX,C.qˤoŋ_tsəʔ,kuwng_tsiX,kuwng_tsiX,son of a duke,127 144
+word-236,OldChinese,司 lə,,,,司,si,lə,si,si,administer,128 276
+word-237,OldChinese,從 tsoŋ,,,,從,dzjowng,tsoŋ,dzjowng,dzjowng,follow,130 284
+word-238,OldChinese,避 bek-s,,,,避,bjieH,bek-s,bjieH,bjieH,avoid,130
+word-239,OldChinese,用 lˤoŋ-s,,,,用,yowngH,lˤoŋ-s,yowngH,yowngH,unite,131
+word-240,OldChinese,諸 ta,,,,諸,tsyo,ta,tsyo,tsyo,this,131
+word-241,OldChinese,合 kˤop,,,,合,hop,kˤop,hop,hop,unite,132 203
+word-242,OldChinese,難 nˤar,,,,難,nan,nˤar,nan,nan,difficult,132
+word-243,OldChinese,又 ɢʷəʔ-s,,,,又,hjuwH,ɢʷəʔ-s,hjuwH,hjuwH,conjunction,134 164 170 173 180 233 252 262 291 321 335 348 360 370
+word-244,OldChinese,車 t.qʰ(r)A,,,,車,tsyhae,t.qʰ(r)A,tsyhae,tsyhae,chariot,137 152 152 302 309 342
+word-245,OldChinese,間 kˤren,,,,間,hean,kˤren,hean,hean,between ,137 138
+word-246,OldChinese,容 ɢ(r)oŋ,,,,容,yowng,ɢ(r)oŋ,yowng,yowng,contain,137 138
+word-247,OldChinese,伍 C.ŋˤaʔ,,,,伍,nguX,C.ŋˤaʔ,nguX,nguX,group of five / make a group of five,137 138 146
+word-248,OldChinese,位 ɢʷrəp-s,,,,位,hwijH,ɢʷrəp-s,hwijH,hwijH,place / position,139 286
+word-249,OldChinese,重 t<r>oŋʔ-s,,,,重,drjowngH,t<r>oŋʔ-s,drjowngH,drjowngH,heavy / give weight to,139 340
+word-250,OldChinese,使 rəʔ-s,,,,使,sriH,rəʔ-s,sriH,sriH,let / send / envoy,140 160 185 187 204 215 216 217 218 219 286 305 315 341 342 343 344 345
+word-251,OldChinese,前 dzˤen,,,,前,dzen,dzˤen,dzen,dzen,front,140 286 305 328
+word-252,OldChinese,行 gˤaŋ,,,,行,haeng,gˤaŋ,haeng,haeng,march / line / go up,140 141 205 240 286 301 303 305 310
+word-253,OldChinese,後 ɢˤ(r)oʔ,,,,後,huwX,ɢˤ(r)oʔ,huwX,huwX,after,141
+word-254,OldChinese,茍 kˤ(r)oʔ,,,,茍,kik,kˤ(r)oʔ,kik,kik,must,142
+word-255,OldChinese,短 tˤorʔ,,,,短,twanX,tˤorʔ,twanX,twanX,short,142
+word-256,OldChinese,十 t.gəp,,,,十,dzyip,t.gəp,dzyip,dzyip,ten,143
+word-257,OldChinese,謂 ɢʷət-s,,,,謂,hjw+jH,ɢʷət-s,hjw+jH,hjw+jH,call,145
+word-258,OldChinese,紀 k(r)əʔ,,,,紀,kiX,k(r)əʔ,kiX,kiX,discipline / thread,145 367
+word-259,OldChinese,一 ʔit,,,,一,jit,ʔit,jit,jit,one  / one,147 286 372 374 385
+word-260,OldChinese,多 t.lˤaj,,,,多,ta,t.lˤaj,ta,ta,a lot / much / merit,147 201 391
+word-261,OldChinese,四 s.lij-s,,,,四,sijH,s.lij-s,sijH,sijH,four,148
+word-262,OldChinese,皆 kˤrij,,,,皆,keaj,kˤrij,keaj,keaj,all,148 309 316 333 373 375
+word-263,OldChinese,團 C.dˤon,,,,團,dwan,C.dˤon,dwan,dwan,group,149 161
+word-264,OldChinese,尚 daŋ-s,,,,尚,dzyangH,daŋ-s,dzyangH,dzyangH,admire,150 150 183
+word-265,OldChinese,獲 qʷˤrak,,,,獲,hweak,qʷˤrak,hweak,hweak,gain,150 329
+word-266,OldChinese,退 n̥ˤup-s,,,,退,thwojH,n̥ˤup-s,thwojH,thwojH,retire,151 287
+word-267,OldChinese,徒 dˤa,,,,徒,du,dˤa,du,du,infantry,153 153
+word-268,OldChinese,死 sijʔ,,,,死,sijX,sijʔ,sijX,sijX,die / death,154 251 258 273 275 341
+word-269,OldChinese,足以 tsok-s_ləʔ,,,,足以,tsjuH_yiX,tsok-s_ləʔ,tsjuH_yiX,tsjuH_yiX,be sufficient / sufficient,156 363 364 365
+word-270,OldChinese,怠 lˤəʔ,,,,怠,dojX,lˤəʔ,dojX,dojX,laziness,158 260 314 346
+word-271,OldChinese,果 kˤorʔ,,,,果,kwaX,kˤorʔ,kwaX,kwaX,solve,159
+word-272,OldChinese,疑 ŋ(r)ə,,,,疑,ngi,ŋ(r)ə,ngi,ngi,doubt,159 250 251 315 369
+word-273,OldChinese,親 tsʰin,,,,親,tshin,tsʰin,tshin,tshin,parent / personally,160 161 165 172 269 368
+word-274,OldChinese,輯 dzup,,,,輯,dzip,dzup,dzip,dzip,concord,162 199 366
+word-275,OldChinese,義 ŋ(r)aj-s,,,,義,ngjeH,ŋ(r)aj-s,ngjeH,ngjeH,righteous,163 181 191
+word-276,OldChinese,服 bək,,,,服,bjuwk,bək,bjuwk,bjuwk,obey,163
+word-277,OldChinese,憚 dˤar-s,,,,憚,danH,dˤar-s,danH,danH,fear,167
+word-278,OldChinese,勞 rˤaw,,,,勞,law,rˤaw,law,law,work,167
+word-279,OldChinese,觀 C.qʷˤar,,,,觀,kwan,C.qʷˤar,kwan,kwan,see,168
+word-280,OldChinese,上 daŋʔ-s,,,,上,dzyangH,daŋʔ-s,dzyangH,dzyangH,superior,168 366
+word-281,OldChinese,下 gˤraʔ-s,,,,下,haeH,gˤraʔ-s,haeH,haeH,inferior,168 366
+word-282,OldChinese,情 dzeŋ,,,,情,dzjeng,dzeŋ,dzjeng,dzjeng,emotion,168
+word-283,OldChinese,偽 ɢʷ(r)aj-s,,,,偽,ngjweH,ɢʷ(r)aj-s,ngjweH,ngjweH,false ,168
+word-284,OldChinese,匹夫 pʰit_ba,,,,匹夫,phjit bju_bju_pju,pʰit_ba,phjit bju_bju_pju,phjit bju_bju_pju,common man,169
+word-285,OldChinese,寡婦 C.kʷˤraʔ_mə.bəʔ,,,,寡婦,kwaeX_bjuwX,C.kʷˤraʔ_mə.bəʔ,kwaeX_bjuwX,kwaeX_bjuwX,widow,169
+word-286,OldChinese,獄訟 ŋrok_s.ɢoŋ-s,,,,獄訟,ngjowk_zjowngH,ŋrok_s.ɢoŋ-s,ngjowk_zjowngH,ngjowk_zjowngH,process,169
+word-287,OldChinese,足 tsok-s,,,,足,tsjuH,tsok-s,tsjuH,tsjuH,sufficient,170
+word-288,OldChinese,中 truŋ,,,,中,trjuwng,truŋ,trjuwng,trjuwng,moderation / middle,171 178 257 296
+word-289,OldChinese,便 ben,,,,便,bjien,ben,bjien,bjien,relatives,176
+word-290,OldChinese,黨 tˤaŋʔ,,,,黨,tangX,tˤaŋʔ,tangX,tangX,be partial ,177
+word-291,OldChinese,兄 m̥raŋ,,,,兄,xjwaeng,m̥raŋ,xjwaeng,xjwaeng,elder brother,177 230
+word-292,OldChinese,均 C.qʷin,,,,均,kjwin,C.qʷin,kjwin,kjwin,even,178
+word-293,OldChinese,授 duʔ-s,,,,授,dzyuwH,duʔ-s,dzyuwH,dzyuwH,teach,188
+word-294,OldChinese,智 tre-s,,,,智,trjeH,tre-s,trjeH,trjeH,knowledge,189
+word-295,OldChinese,予 laʔ,,,,予,yo,laʔ,yo,yo,grant to,190
+word-296,OldChinese,卒 tsˤut,,,,卒,tswit,tsˤut,tswit,tswit,soldier / end / servant,193 198 201 284
+word-297,OldChinese,帥 rut-s,,,,帥,srwijH,rut-s,srwijH,srwijH,leader / lead,194 204 308
+word-298,OldChinese,慎 din-s,,,,慎,dzyinH,din-s,dzyinH,dzyinH,be careful,197 325
+word-299,OldChinese,恆 gˤəŋ,,,,恆,hong,gˤəŋ,hong,hong,eternal,198
+word-300,OldChinese,嚴 ŋ(r)am,,,,嚴,ngjaem,ŋ(r)am,ngjaem,ngjaem,imposing,200
+word-301,OldChinese,威 ʔuj,,,,威,jw+j,ʔuj,jw+j,jw+j,authoritative,200
+word-302,OldChinese,少 s.tewʔ,,,,少,syewX,s.tewʔ,syewX,syewX,few,201 202
+word-303,OldChinese,氣 C.qʰəp-s,,,,氣,khj+jH,C.qʰəp-s,khj+jH,khj+jH,energy,201 203
+word-304,OldChinese,易 lek,,,,易,yek,lek,yek,yek,easy,202 203
+word-305,OldChinese,察 tsʰˤret,,,,察,tsrheat,tsʰˤret,tsrheat,tsrheat,control,202
+word-306,OldChinese,盛 deŋ-s,,,,盛,dzyengH,deŋ-s,dzyengH,dzyengH,abundant,203
+word-307,OldChinese,倦 gron-s,,,,倦,gjwenH,gron-s,gjwenH,gjwenH,tired,204 205
+word-308,OldChinese,勿 mut,,,,勿,mjut,mut,mjut,mjut,negative adverb,207 209
+word-309,OldChinese,奚如 gˤe_na,,,,奚如,hej_nyo,gˤe_na,hej_nyo,hej_nyo,how,209
+word-310,OldChinese,砥礪 tijʔ_rat-s,,,,砥礪,tsyijX_(tsyeX)_ljejH,tijʔ_rat-s,tsyijX_(tsyeX)_ljejH,tsyijX_(tsyeX)_ljejH,whetstone,211 212
+word-311,OldChinese,我 ŋˤajʔ,,,,我,ngaX,ŋˤajʔ,ngaX,ngaX,I,212 214 216 218 220
+word-312,OldChinese,堅 kˤiŋ,,,,堅,ken,kˤiŋ,ken,ken,hard,213 214
+word-313,OldChinese,士 s-rəʔ,,,,士,dzriX,s-rəʔ,dzriX,dzriX,dignitary,215 342
+word-314,OldChinese,進 tsin-s,,,,進,tsinH,tsin-s,tsinH,tsinH,advance,220 288
+word-315,OldChinese,機 kəj,,,,機,kj+j,kəj,kj+j,kj+j,crucial moment,224 232 234 241 243 249 253 261 290
+word-316,OldChinese,卑 pe,,,,卑,pjie,pe,pjie,pjie,low rang,229
+word-317,OldChinese,御 qʰ(r)aʔ,,,,御,ngjoX,qʰ(r)aʔ,ngjoX,ngjoX,conduct,231
+word-318,OldChinese,漸 dzamʔ,,,,漸,dzjemX,dzamʔ,dzjemX,dzjemX,water away,234 241
+word-319,OldChinese,裹 s.kˤorʔ,,,,裹,kwaX,s.kˤorʔ,kwaX,kwaX,encircle,234 241
+word-320,OldChinese,未 mət-s,,,,未,mj+jH,mət-s,mj+jH,mj+jH,negative adverb,238 239
+word-321,OldChinese,阪 panʔ,,,,阪,pjonX,panʔ,pjonX,pjonX,slope,240
+word-322,OldChinese,濟 tsˤej(ʔ)-s,,,,濟,tsejH,tsˤej(ʔ)-s,tsejH,tsejH,cross,240
+word-323,OldChinese,塹 s.qʰam-s,,,,塹,tshjemH,s.qʰam-s,tshjemH,tshjemH,ditch,240
+word-324,OldChinese,莊公 tsraŋ,,,,莊公,tsrjang,tsraŋ,tsrjang,tsrjang,duke Zhuang (personal name),242
+word-325,OldChinese,又 C.qˤoŋ,,,,又,kuwng,C.qˤoŋ,kuwng,kuwng,conjunction,242
+word-326,OldChinese,去 kʰ(r)ap-s,,,,去,khjoH,kʰ(r)ap-s,khjoH,khjoH,depart,246
+word-327,OldChinese,速 sˤok,,,,速,suwk,sˤok,suwk,suwk,speed,246
+word-328,OldChinese,迫 Cə.pˤrak,,,,迫,paek,Cə.pˤrak,paek,paek,urge,247
+word-329,OldChinese,啟節 kʰˤeʔ_tsˤik,,,,啟節,khejX_tset,kʰˤeʔ_tsˤik,khejX_tset,khejX_tset,get started ,248
+word-330,OldChinese,疾 dzit,,,,疾,dzit,dzit,dzit,dzit,urgent,248
+word-331,OldChinese,敗 pˤrat-s,,,,敗,baejH,pˤrat-s,baejH,baejH,defeat,250 263 266
+word-332,OldChinese,輕 kʰeŋ,,,,輕,khjieng,kʰeŋ,khjieng,khjieng,light,256
+word-333,OldChinese,信 niŋ-s,,,,信,sinH,niŋ-s,sinH,sinH,trust,256
+word-334,OldChinese,誅 tro,,,,誅,trju,tro,trju,trju,condemn,257 267
+word-335,OldChinese,重 t<r>oŋʔ,,,,重,drjowngX,t<r>oŋʔ,drjowngX,drjowngX,heavy,257
+word-336,OldChinese,收 kiw,,,,收,syuw,kiw,syuw,syuw,receive,258 273 339
+word-337,OldChinese,傷 l̥aŋ,,,,傷,syang,l̥aŋ,syang,syang,injure / injury,259 274 300
+word-338,OldChinese,復 pruk-s,,,,復,bjuwH,pruk-s,bjuwH,bjuwH,return,263 282 285 292 295 319 320 322 334 336 347
+word-339,OldChinese,百姓 pˤrak_seŋ-s,,,,百姓,paek_sjengH,pˤrak_seŋ-s,paek_sjengH,paek_sjengH,people,268
+word-340,OldChinese,改 C.qˤəʔ,,,,改,kojX,C.qˤəʔ,kojX,kojX,change,268 317 346
+word-341,OldChinese,過 kʷˤaj-s,,,,過,kwaH,kʷˤaj-s,kwaH,kwaH,pass / fault / blame,270 279 319 328
+word-342,OldChinese,悅 lrot,,,,悅,ywet,lrot,ywet,ywet,acquiesce,270
+word-343,OldChinese,萬 C.man-s,,,,萬,mjonH,C.man-s,mjonH,mjonH,ten thousand,270 333
+word-344,OldChinese,杜 dˤaʔ,,,,杜,duX,dˤaʔ,duX,duX,deny,271
+word-345,OldChinese,跪 g(r)ojʔ,,,,跪,gjweX,g(r)ojʔ,gjweX,gjweX,bow,271
+word-346,OldChinese,火 qʷʰˤəjʔ,,,,火,xwaX,qʷʰˤəjʔ,xwaX,xwaX,fire,272
+word-347,OldChinese,生 sreŋ,,,,生,sraeng,sreŋ,sraeng,sraeng,life / live,275 341
+word-348,OldChinese,聚 tsʰoʔ-s,,,,聚,dzjuH,tsʰoʔ-s,dzjuH,dzjuH,gather,276 339
+word-349,OldChinese,勉 mrorʔ,,,,勉,mjenX,mrorʔ,mjenX,mjenX,force,278
+word-350,OldChinese,在 dzˤəʔ,,,,在,dzojX,dzˤəʔ,dzojX,dzojX,be present,279 279
+word-351,OldChinese,順 Cə.lun-s,,,,順,zywinH,Cə.lun-s,zywinH,zywinH,obey,280
+word-352,OldChinese,返 Cə.panʔ,,,,返,pjonX,Cə.panʔ,pjonX,pjonX,return,281
+word-353,OldChinese,詔 dewʔ,,,,詔,tsyewX,dewʔ,tsyewX,tsyewX,summon ? exhort ?,283
+word-354,OldChinese,貴人 kuj-s_niŋ,,,,貴人,kjw+jH_nyin,kuj-s_niŋ,kjw+jH_nyin,kjw+jH_nyin,noble,283 286
+word-355,OldChinese,及 k-rəp,,,,及,gip,k-rəp,gip,gip,conjunction,283 316 390
+word-356,OldChinese,奇士 k(r)aj_s-rəʔ,,,,奇士,kje_dzriX,k(r)aj_s-rəʔ,kje_dzriX,kje_dzriX,extraordinary man,283
+word-357,OldChinese,撚  nˤənʔ,,,,撚 ,nenX,nˤənʔ,nenX,nenX,examine,284
+word-358,OldChinese,常 daŋ,,,,常,dzyang,daŋ,dzyang,dzyang,norm,285
+word-359,OldChinese,處 t.qʰaʔ,,,,處,tsyhoX,t.qʰaʔ,tsyhoX,tsyhoX,stay,286
+word-360,OldChinese,莫 mˤak,,,,莫,mak,mˤak,mak,mak,none,290
+word-361,OldChinese,當 tˤaŋ-s,,,,當,tangH,tˤaŋ-s,tangH,tangH,appropriate,290
+word-362,OldChinese,班 pˤan,,,,班,paen,pˤan,paen,paen,rang,292 301 320
+word-363,OldChinese,呼 qʰˤa,,,,呼,xu,qʰˤa,xu,xu,shout,296
+word-364,OldChinese,令 riŋ,,,,令,leng,riŋ,leng,leng,order ,296
+word-365,OldChinese,明日 mraŋ_C.nik,,,,明日,mjaeng_nyit,mraŋ_C.nik,mjaeng_nyit,mjaeng_nyit,tomorrow,299 304 319
+word-366,OldChinese,測 tsʰrək,,,,測,tsrhik,tsʰrək,tsrhik,tsrhik,measure,300
+word-367,OldChinese,澌 se-s,,,,澌,sjeH,se-s,sjeH,sjeH,corpse,300
+word-368,OldChinese,度 dˤak,,,,度,dak,dˤak,dak,dak,estimate,300
+word-369,OldChinese,諜 lˤep,,,,諜,dep,lˤep,dep,dep,spy,306
+word-370,OldChinese,來 mə.rˤək,,,,來,loj,mə.rˤək,loj,loj,come,306
+word-371,OldChinese,告 kˤuk,,,,告,kowk,kˤuk,kowk,kowk,tell,306
+word-372,OldChinese,輦 ranʔ,,,,輦,ljenX,ranʔ,ljenX,ljenX,vehicule,309
+word-373,OldChinese,災 tsˤə,,,,災,tsoj,tsˤə,tsoj,tsoj,damage,309
+word-374,OldChinese,早 Nə.tsˤuʔ,,,,早,tsawX,Nə.tsˤuʔ,tsawX,tsawX,early,310 311
+word-375,OldChinese,白徒 bˤrak_dˤa,,,,白徒,baek_du,bˤrak_dˤa,baek_du,baek_du,complementary conscripts,311
+word-376,OldChinese,供 koŋ,,,,供,kjowng,koŋ,kjowng,kjowng,provide,311
+word-377,OldChinese,各 kˤak,,,,各,kak,kˤak,kak,kak,each,312 389
+word-378,OldChinese,載 tsˤəʔ-s,,,,載,tsojH,tsˤəʔ-s,tsojH,tsojH,carry,312
+word-379,OldChinese,贓 tsˤaŋ,,,,贓,tsang,tsˤaŋ,tsang,tsang,spoils,312
+word-380,OldChinese,敷 pʰ(r)a,,,,敷,phju,pʰ(r)a,phju,phju,distribute,313
+word-381,OldChinese,龜 kʷrə,,,,龜,kwij,kʷrə,kwij,kwij,turtle,316
+word-382,OldChinese,筮 det-s,,,,筮,dzyejH,det-s,dzyejH,dzyejH,achillea stalks,316
+word-383,OldChinese,調 dˤiw,,,,調,dew,dˤiw,dew,dew,tone ,317
+word-384,OldChinese,鼓 kˤaʔ,,,,鼓,kuX,kˤaʔ,kuX,kuX,drum,317
+word-385,OldChinese,屏 lrit,,,,屏,yit,lrit,yit,yit,get rid ,318
+word-386,OldChinese,虜 C.rˤaʔ,,,,虜,luX,C.rˤaʔ,luX,luX,captive,318
+word-387,OldChinese,甘 kˤam,,,,甘,kam,kˤam,kam,kam,easy / fierce,322 334
+word-388,OldChinese,若 nak,,,,若,nyak,nak,nyak,nyak,modal particle,326
+word-389,OldChinese,冒 mˤuk-s,,,,冒,mawH,mˤuk-s,mawH,mawH,reckless,327
+word-390,OldChinese,指 mə.kijʔ,,,,指,tsyijX,mə.kijʔ,tsyijX,tsyijX,point ,329
+word-391,OldChinese,葸 səʔ,,,,葸,siX,səʔ,siX,siX,fear,329 345
+word-392,OldChinese,勸 C.qʷʰar-s,,,,勸,khjwonH,C.qʷʰar-s,khjwonH,khjwonH,exhort,330
+word-393,OldChinese,志 tək-s,,,,志,tsyiH,tək-s,tsyiH,tsyiH,intention,330 343 369
+word-394,OldChinese,甬 loŋʔ,,,,甬,yowngX,loŋʔ,yowngX,yowngX,courageous,331
+word-395,OldChinese,喜 qʰ(r)əʔ,,,,喜,xiX,qʰ(r)əʔ,xiX,xiX,joy,331 344
+word-396,OldChinese,慌 m̥ˤaŋʔ,,,,慌,xwangX,m̥ˤaŋʔ,xwangX,xwangX,anxious,332
+word-397,OldChinese,悔 m̥ˤəʔ,,,,悔,xwojX,m̥ˤəʔ,xwojX,xwojX,blame,332 345
+word-398,OldChinese,黔 g(r)om,,,,黔,gjem,g(r)om,gjem,gjem,black,333
+word-399,OldChinese,首 l̥uʔ-s,,,,首,syuwH,l̥uʔ-s,syuwH,syuwH,head,333
+word-400,OldChinese,苦 kʰˤaʔ,,,,苦,khuX,kʰˤaʔ,khuX,khuX,hard,336 347
+word-401,OldChinese,束 tʰok,,,,束,syowk,tʰok,syowk,syowk,tie,339
+word-402,OldChinese,厚 Cə.gˤ(r)oʔ,,,,厚,huwX,Cə.gˤ(r)oʔ,huwX,huwX,thick,339
+word-403,OldChinese,薄 bˤak,,,,薄,bak,bˤak,bak,bak,thin,340
+word-404,OldChinese,忘 maŋ,,,,忘,mjang,maŋ,mjang,mjang,forget,341
+word-405,OldChinese,良 raŋ,,,,良,ljang,raŋ,ljang,ljang,good,342 342
+word-406,OldChinese,往 ɢʷaŋʔ,,,,往,hjwangX,ɢʷaŋʔ,hjwangX,hjwangX,go,342 375
+word-407,OldChinese,耳 C.nəʔ,,,,耳,nyiX,C.nəʔ,nyiX,nyiX,ear,342
+word-408,OldChinese,起 C.qʰ(r)əʔ,,,,起,khiX,C.qʰ(r)əʔ,khiX,khiX,raise,343 369 388
+word-409,OldChinese,勇 loŋʔ,,,,勇,yowngX,loŋʔ,yowngX,yowngX,courageous,344
+word-410,OldChinese,然後 nan_ɢˤ(r)oʔ,,,,然後,nyen_huwX,nan_ɢˤ(r)oʔ,nyen_huwX,nyen_huwX,conjunction,346
+word-411,OldChinese,攻 kˤoŋ,,,,攻,kuwng,kˤoŋ,kuwng,kuwng,assault,349 358 359
+word-412,OldChinese,寶 pˤuʔ,,,,寶,xwaH,pˤuʔ,xwaH,xwaH,good,351
+word-413,OldChinese,阻 tsraʔ,,,,阻,tsrjoX,tsraʔ,tsrjoX,tsrjoX,strategic pass,354
+word-414,OldChinese,用 loŋ-s,,,,用,yowngH,loŋ-s,yowngH,yowngH,use,355
+word-415,OldChinese,諧 kˤrij,,,,諧,keaj,kˤrij,keaj,keaj,harmonize,356
+word-416,OldChinese,家 kˤra,,,,家,kae,kˤra,kae,kae,home,357
+word-417,OldChinese,忧 ʔ(r)u,,,,忧,juw,ʔ(r)u,juw,juw,grief,357
+word-418,OldChinese,善 genʔ,,,,善,dzyenX,genʔ,dzyenX,dzyenX,good,358
+word-419,OldChinese,捍 kˤar-s,,,,捍,hanH,kˤar-s,hanH,hanH,shield,365
+word-420,OldChinese,絓 kʷˤre-s,,,,絓,kweaH,kʷˤre-s,kweaH,kweaH,entangle,367
+word-421,OldChinese,國 C.qʷˤək,,,,國,kwok,C.qʷˤək,kwok,kwok,state,367 368
+word-422,OldChinese,諸侯 ta_gˤ(r)o,,,,諸侯,tsyo_(tsyae)_huw,ta_gˤ(r)o,tsyo_(tsyae)_huw,tsyo_(tsyae)_huw,noble,369
+word-423,OldChinese,寡 C.kʷˤraʔ,,,,寡,kwaeX,C.kʷˤraʔ,kwaeX,kwaeX,few,369
+word-424,OldChinese,歡 qʷʰˤar,,,,歡,xwan,qʷʰˤar,xwan,xwan,delight,373
+word-425,OldChinese,詑 l̥ˤaj,,,,詑,da,l̥ˤaj,da,da,mislead,378
+word-426,OldChinese,鬼 ʔujʔ,,,,鬼,kjw+jX,ʔujʔ,kjw+jX,kjw+jX,ghost,378
+word-427,OldChinese,神 Cə.lin,,,,神,zyin,Cə.lin,zyin,zyin,god,378 379
+word-428,OldChinese,非 pəj,,,,非,pj+j,pəj,pj+j,pj+j,be not,379
+word-429,OldChinese,唯 ɢʷij,,,,唯,ywij,ɢʷij,ywij,ywij,modal particle,380 396
+word-430,OldChinese,王 ɢʷaŋ-s,,,,王,hjwangH,ɢʷaŋ-s,hjwangH,hjwangH,king,381
+word-431,OldChinese,至 tit-s,,,,至,tsyijH,tit-s,tsyijH,tsyijH,excellent,381
+word-432,OldChinese,沫 mˤat,,,,沫,mat,mˤat,mat,mat,Mo (personal Name),383
+word-433,OldChinese,寔 deʔ,,,,寔,dzyeX,deʔ,dzyeX,dzyeX,really,383
+word-434,OldChinese,或者 ɢʷˤək_tAʔ,,,,或者,hwok_tsyaeX,ɢʷˤək_tAʔ,hwok_tsyaeX,hwok_tsyaeX,maybe,384
+word-435,OldChinese,古 kˤaʔ,,,,古,kuX,kˤaʔ,kuX,kuX,ancient,391 392 393 398
+word-436,OldChinese,敢 kˤamʔ,,,,敢,kamX,kˤamʔ,kamX,kamX,dare,392 397
+word-437,OldChinese,恭 koŋ,,,,恭,kjowng,koŋ,kjowng,kjowng,cherish,394
+word-438,OldChinese,儉 gramʔ,,,,儉,gjemX,gramʔ,gjemX,gjemX,frugality,394
+word-439,OldChinese,驕 kraw,,,,驕,kjew,kraw,kjew,kjew,take pride,395
+word-440,OldChinese,泰 l̥ˤat-s,,,,泰,thajH,l̥ˤat-s,thajH,thajH,pomp,395
+word-441,OldChinese,禹 ɢʷ(r)aʔ,,,,禹,hjuX,ɢʷ(r)aʔ,hjuX,hjuX,Yu (person name),396
+word-442,OldChinese,湯 l̥ˤaŋ,,,,湯,thang,l̥ˤaŋ,thang,thang,Tang (person name),396
+word-443,OldChinese,桀 kat,,,,桀,gjet,kat,gjet,gjet,Jie (person name),396
+word-444,OldChinese,紂 druʔ,,,,紂,drjuwX,druʔ,drjuwX,drjuwX,Zhou (person name),396
