@@ -37,11 +37,18 @@ table.entry.td {
 """
 
 
-svg_snippet = """
+svg_snippet_a = """
 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="{0}">
   <image x="0" y="0" width="2181" height="3075" href="{1}" />
 </svg>
 """
+
+svg_snippet_b = """
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="{0}">
+  <image x="0" y="0" width="2200" height="3100" href="{1}" />
+</svg>
+"""
+
 
 text += "</style><body>"
 
@@ -90,9 +97,13 @@ for phrase in phrases[:45]:
                     if next_char_id:
                         image = next_char_id.split("/")[0] + ".jpg"
                         if next_char_id in characters:
-                            snippet = svg_snippet.format(characters[next_char_id],
-                                                 image
-                                                       )
+                            if next_char_id[0] == "a":
+                                snippet = svg_snippet_a.format(characters[next_char_id],
+                                                 image)
+                            elif next_char_id[0] == "s":
+                                snippet = svg_snippet_b.format(characters[next_char_id],
+                                                 image)
+
                             ptext += snippet
             ptext += "</td>"
         ptext += "</tr>\n"

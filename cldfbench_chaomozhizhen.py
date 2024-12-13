@@ -310,6 +310,7 @@ def parse_data(data, text):
     slip_idx, phrase_idx, word_idx = "", "", ""
     previous_slip, previous_phrase = "", ""
     word2id, word_count = {}, 1
+    characters = {}
     for row in data:
         #if previous_slip != row["Slip_ID"]:
         #    word_number = 1
@@ -368,7 +369,7 @@ def parse_data(data, text):
         examples[phrase_idx]["Word_IDS"] += [word_idx]
         examples[phrase_idx]["Text_Unit"] = row["Text_Unit"]
         
-        if int(row["Slip_ID"].split(" ")[0]) < 7:
+        if int(row["Slip_ID"].split(" ")[0]) < 7: # TODO
             sids = row["Slip_ID"].split()
             adids = row["AD_IDS"].split()
             adims = row["AD_Images"].split()
@@ -376,18 +377,21 @@ def parse_data(data, text):
             sbims = row["SB_Images"].split()
             charids = []
             if adids:
-                for sid, adid, adim in zip(sids, adids, adims):
+                for sid, adid, adim, w in zip(sids, adids, adims, row["Word"]):
                     charid = "{0}/{1}/{2}".format(
                             adim, sid, adid)
                     charids += [charid]
+                    characters[charid] = w
             elif sbids:
-                for sid, sbid, sbim in zip(sids, sbids, sbims):
+                for sid, sbid, sbim, w in zip(sids, sbids, sbims, row["Word"]):
                     charid = "{0}/{1}/{2}".format(
                             sbim, sid, sbid)
                     charids += [charid]
+                    characters[charid] = w
             else:
                 charids += ["0"]
             examples[phrase_idx]["Character_IDS"] += [" ".join(charids)]
+
 
 
 
@@ -414,7 +418,7 @@ def parse_data(data, text):
             key=lambda x: entry["Glosses"].count(x),
             reverse=True)
 
-    return entries, examples
+    return entries, examples, characters
 
 
 def join_parts(texta, textb):
@@ -515,19 +519,23 @@ class Dataset(BaseDataset):
         
 
         data = self.raw_dir.read_csv("ad.tsv", delimiter="\t", dicts=True)
-        entries, examples = parse_data(data, "ad")
+        entries, examples, characters = parse_data(data, "ad")
 
-        for f in ["ad-1-2.csv", "ad-3-6.csv"]:
-            dt = self.raw_dir.read_csv(f, delimiter=",", dicts=True)
+        for f in ["ad-1-2", "ad-3-6", "sb-6-7a-8b-9", "sb-37b-41-4-5"]:
+            dt = self.raw_dir.read_csv(f + ".csv", delimiter=",", dicts=True)
             for row in dt:
-                if row["QUOTE_TRANSCRIPTION"] != "full":
-                    args.writer.objects["characters.csv"].append(
-                            {
-                                "ID": f.strip(".csv") + "/" + row["QUOTE_TRANSCRIPTION"].replace("r", "/"),
-                                "Name": "",
-                                "Rectangle": row["ANCHOR"],
-                                "Image": f.strip(".csv") + ".jpg"
-                                })
+                if row["QUOTE_TRANSCRIPTION"].strip() != "full":
+                    idx = f + "/" + row["QUOTE_TRANSCRIPTION"].replace("r", "/")
+                    if idx not in characters:
+                        args.log.info("missing idx '" + idx + "'")
+                    else:
+                        args.writer.objects["characters.csv"].append(
+                                {
+                                    "ID": idx,
+                                    "Name": characters[idx],
+                                    "Rectangle": row["ANCHOR"],
+                                    "Image": f.strip(".csv") + ".jpg"
+                                    })
 
         chars = set(
             [" I ", " II ", " III ", " IV ", " V ", " VI ", " VII ", 
@@ -563,7 +571,6 @@ class Dataset(BaseDataset):
                 print("---")
             example["Old_Chinese_Reading_2"] = ocr
             example["Analyzed_Word_2"] = aw
-            print(example["Character_IDS"])
             args.writer.objects["ExampleTable"].append(example)
 
         errors = "# Text - Table - Mismatches\n\n"
