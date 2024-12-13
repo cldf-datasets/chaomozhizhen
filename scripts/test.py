@@ -85,6 +85,12 @@ for phrase in phrases[:45]:
                 '">' + word + "</span></td>"
     ptext += "</tr>\n"
     #if phrase.data["Slip_Number"] in [1, 2]:
+    ptext += "<tr><th>IDS in Source</th>"
+    ids = phrase.data["IDS_in_Source"]
+    for i, word in enumerate(phrase.cldf.analyzedWord):
+        idx = ids.pop(0)
+        ptext += "<td>" + str(idx) + "</td>"
+    ptext += "</tr>"
     ptext += "<tr><th>Characters</th>"
     chars = phrase.data["Character_IDS"]
     if int(phrase.data["Text_Unit"]) < 14:
@@ -106,6 +112,7 @@ for phrase in phrases[:45]:
 
                             ptext += snippet
             ptext += "</td>"
+
         ptext += "</tr>\n"
     ptext += "<tr><th>Gloss</th>"
     for i, word in enumerate(phrase.cldf.gloss):

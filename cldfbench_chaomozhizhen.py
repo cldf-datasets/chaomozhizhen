@@ -289,6 +289,7 @@ def parse_data(data, text):
             "Cognacy": "",
             "Character_IDS": [],
             "Text_Unit": [],
+            "IDS_in_Source": [],
         })
     entries = defaultdict(
         lambda: {
@@ -312,11 +313,6 @@ def parse_data(data, text):
     word2id, word_count = {}, 1
     characters = {}
     for row in data:
-        #if previous_slip != row["Slip_ID"]:
-        #    word_number = 1
-        #    #slip_number += 1
-        #    slip_idx = text + "-" + row["Slip_ID"]
-        #    previous_slip = row["Slip_ID"]
         if previous_phrase != row["Phrase_ID"]:
             phrase_number += 1
             phrase_idx = row["Phrase_ID"]
@@ -324,9 +320,7 @@ def parse_data(data, text):
 
             # fill in entries
             examples[phrase_idx]["ID"] = phrase_idx
-            #examples[phrase_idx]["Slip_ID"] = slip_idx
             examples[phrase_idx]["Number"] = phrase_number
-            #examples[phrase_idx]["Slip_Number"] = slip_number
 
         # get the word_idx
         new_word_idx = row["Word"] + "-" + parse_oc(row["ID"], row["OC"], row["Word"])
@@ -368,29 +362,28 @@ def parse_data(data, text):
         examples[phrase_idx]["Gloss"] += [row["Gloss"].strip().replace(" ", ".")]
         examples[phrase_idx]["Word_IDS"] += [word_idx]
         examples[phrase_idx]["Text_Unit"] = row["Text_Unit"]
+        examples[phrase_idx]["IDS_in_Source"] += [row["ID"]]
         
-        if int(row["Slip_ID"].split(" ")[0]) < 7: # TODO
-            sids = row["Slip_ID"].split()
-            adids = row["AD_IDS"].split()
-            adims = row["AD_Images"].split()
-            sbids = row["SB_IDS"].split()
-            sbims = row["SB_Images"].split()
-            charids = []
-            if adids:
-                for sid, adid, adim, w in zip(sids, adids, adims, row["Word"]):
-                    charid = "{0}/{1}/{2}".format(
-                            adim, sid, adid)
-                    charids += [charid]
-                    characters[charid] = w
-            elif sbids:
-                for sid, sbid, sbim, w in zip(sids, sbids, sbims, row["Word"]):
-                    charid = "{0}/{1}/{2}".format(
-                            sbim, sid, sbid)
-                    charids += [charid]
-                    characters[charid] = w
-            else:
-                charids += ["0"]
-            examples[phrase_idx]["Character_IDS"] += [" ".join(charids)]
+        adids = row["AD_IDS"].split()
+        adims = row["AD_Images"].split()
+        sbids = row["SB_IDS"].split()
+        sbims = row["SB_Images"].split()
+        charids = []
+        if adids:
+            for adid, adim, w in zip(adids, adims, row["Word"]):
+                charid = "{0}/{1}".format(
+                        adim, adid.replace("r", "/"))
+                charids += [charid]
+                characters[charid] = w
+        elif sbids:
+            for sbid, sbim, w in zip(sbids, sbims, row["Word"]):
+                charid = "{0}/{1}".format(
+                        sbim, sbid.replace("r", "/"))
+                charids += [charid]
+                characters[charid] = w
+        else:
+            charids += ["0"]
+        examples[phrase_idx]["Character_IDS"] += [" ".join(charids)]
 
 
 
@@ -482,6 +475,7 @@ class Dataset(BaseDataset):
             {"name": 'Text_Unit', "datatype": "string"},
             'Text_ID',
             {"name": "Word_IDS", "datatype": "string", "separator": " "},
+            {"name": "IDS_in_Source", "datatype": "integer", "separator": " "},
             {"name": "Middle_Chinese_Reading", "datatype": "string", "separator": " "},
             {"name": "Old_Chinese_Reading", "datatype": "string", "separator": " "},
             {"name": "Old_Chinese_Reading_2", "datatype": "string", "separator": " "},
@@ -525,7 +519,8 @@ class Dataset(BaseDataset):
             dt = self.raw_dir.read_csv(f + ".csv", delimiter=",", dicts=True)
             for row in dt:
                 if row["QUOTE_TRANSCRIPTION"].strip() != "full":
-                    idx = f + "/" + row["QUOTE_TRANSCRIPTION"].replace("r", "/")
+                    idx = f + "/" + row["QUOTE_TRANSCRIPTION"].replace(
+                            "r", "/")
                     if idx not in characters:
                         args.log.info("missing idx '" + idx + "'")
                     else:
