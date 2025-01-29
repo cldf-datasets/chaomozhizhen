@@ -14,20 +14,20 @@
         {
             "rdf:about": "git@github.com:cldf-datasets/chaomozhizhen",
             "rdf:type": "prov:Entity",
-            "dc:created": "f486c04",
+            "dc:created": "801eb82",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/glottolog/glottolog",
+            "rdf:about": "git@github.com:glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.1",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.12.7"
+            "dc:description": "3.13.1"
         },
         {
             "dc:title": "python-packages",
@@ -111,7 +111,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
-            "dc:extent": 440,
+            "dc:extent": 445,
             "tableSchema": {
                 "columns": [
                     {
@@ -302,11 +302,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Slip_ID"
-                    },
-                    {
-                        "datatype": "integer",
-                        "name": "Slip_Number"
+                        "name": "Text_Unit"
                     },
                     {
                         "datatype": "string",
@@ -316,6 +312,11 @@
                         "datatype": "string",
                         "separator": " ",
                         "name": "Word_IDS"
+                    },
+                    {
+                        "datatype": "integer",
+                        "separator": " ",
+                        "name": "IDS_in_Source"
                     },
                     {
                         "datatype": "string",
@@ -336,6 +337,11 @@
                         "datatype": "string",
                         "separator": " ",
                         "name": "Analyzed_Word_2"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": " ",
+                        "name": "Character_IDS"
                     },
                     {
                         "datatype": "string",
@@ -382,6 +388,54 @@
                 ]
             },
             "url": "examples.csv"
+        },
+        {
+            "dc:extent": 29,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Path"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Height"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Width"
+                    }
+                ]
+            },
+            "url": "images.csv"
+        },
+        {
+            "dc:extent": 1669,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Rectangle"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Image"
+                    }
+                ]
+            },
+            "url": "characters.csv"
         },
         {
             "tableSchema": {

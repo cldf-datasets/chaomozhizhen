@@ -14,6 +14,7 @@ setup(
     install_requires=[
         'cldfbench',
         'pylexibank',
+        'pillow',
     ],
     extras_require={
         'test': [

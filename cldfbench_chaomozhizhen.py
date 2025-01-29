@@ -8,6 +8,9 @@ from collections import defaultdict
 
 from cldfbench import CLDFSpec, Dataset as BaseDataset
 
+import PIL
+
+
 # Linse segment function
 def segment(word, segments):
     """
@@ -385,12 +388,6 @@ def parse_data(data, text):
             charids += ["0"]
         examples[phrase_idx]["Character_IDS"] += [" ".join(charids)]
 
-
-
-
-
-
-
     # refine data
     for example in examples.values():
         example["Primary_Text"] = " ".join(example["Primary_Text"])
@@ -485,6 +482,14 @@ class Dataset(BaseDataset):
         )
 
         args.writer.cldf.add_table(
+                "images.csv",
+                "ID",
+                "Path",
+                {"name": "Height", "datatype": "integer"},
+                {"name": "Width", "datatype": "integer"}
+                )
+
+        args.writer.cldf.add_table(
             "characters.csv", 
             "ID", 
             "Name",
@@ -515,7 +520,20 @@ class Dataset(BaseDataset):
         data = self.raw_dir.read_csv("ad.tsv", delimiter="\t", dicts=True)
         entries, examples, characters = parse_data(data, "ad")
 
-        for f in ["ad-1-2", "ad-3-6", "sb-6-7a-8b-9", "sb-37b-41-4-5"]:
+        files = [row[0] for row in self.raw_dir.read_csv("files.csv")]
+
+        for f in files:
+            args.log.info("Analyzing Image File {0}.jpg".format(f))
+            with PIL.Image.open(self.raw_dir / "media" / "{0}.jpg".format(f)) as img:
+                width, height = img.size
+                args.writer.objects["images.csv"].append(
+                        {
+                            "ID": f,
+                            "Path": f + ".jpg",
+                            "Width": width,
+                            "Height": height}
+                        )
+
             dt = self.raw_dir.read_csv(f + ".csv", delimiter=",", dicts=True)
             for row in dt:
                 if row["QUOTE_TRANSCRIPTION"].strip() != "full":
@@ -529,7 +547,7 @@ class Dataset(BaseDataset):
                                     "ID": idx,
                                     "Name": characters[idx],
                                     "Rectangle": row["ANCHOR"],
-                                    "Image": f.strip(".csv") + ".jpg"
+                                    "Image": f
                                     })
 
         chars = set(
